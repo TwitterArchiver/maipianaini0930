@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2033143494244708656",
+    "created_at": "2026-03-15T11:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033143494244708656"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cine_vichaar/s…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/cine_vichaar/status/2032873516203377031",
+          "start": 11,
+          "url": "https://t.co/la5hGExuys"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033143494244708656",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032873516203377031",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ridiculous https://t.co/la5hGExuys"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1308,
+        "media_key": "3_2032873513481285632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDY3sJxaMAAaFVb.jpg",
+        "width": 1263
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2033143494244708656",
+        "created_at": "2026-03-15T11:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033143494244708656"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cine_vichaar/s…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/cine_vichaar/status/2032873516203377031",
+              "start": 11,
+              "url": "https://t.co/la5hGExuys"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033143494244708656",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032873516203377031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ridiculous https://t.co/la5hGExuys"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032873513481285632"
+          ]
+        },
+        "author_id": "1446935759726907394",
+        "conversation_id": "2032873516203377031",
+        "created_at": "2026-03-14T17:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032873516203377031"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "Interstellar",
+              "probability": 0.9628,
+              "start": 59,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/irXrNIpLnX",
+              "end": 95,
+              "expanded_url": "https://x.com/Cine_vichaar/status/2032873516203377031/photo/1",
+              "media_key": "3_2032873513481285632",
+              "start": 72,
+              "url": "https://t.co/irXrNIpLnX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032873516203377031",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1466,
+          "impression_count": 740133,
+          "like_count": 31150,
+          "quote_count": 126,
+          "reply_count": 108,
+          "retweet_count": 4279
+        },
+        "reply_settings": "everyone",
+        "text": "When you break into a house to rob it and they’re watching Interstellar https://t.co/irXrNIpLnX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 234,
+          "like_count": 5822,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 1989
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-09T20:29:14.000Z",
+        "description": "Reviews || Recommendations || @Music_Vichaar || \n✉️ CineVichaar23@gmail.com ||\n\nYouTube : https://t.co/jfASMZWQTB",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 30,
+                "username": "Music_Vichaar"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtu.be/8FKqMVHwwSI?si…",
+                "end": 113,
+                "expanded_url": "https://youtu.be/8FKqMVHwwSI?si=xDPHMKQHcLi5a2pc",
+                "start": 90,
+                "url": "https://t.co/jfASMZWQTB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/cine_vichaar?i…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/cine_vichaar?igsh=OHV1czd6bXF6MzEw",
+                "start": 0,
+                "url": "https://t.co/8EKl9wg1Xw"
+              }
+            ]
+          }
+        },
+        "id": "1446935759726907394",
+        "location": "Cinema hall",
+        "name": "Cine Vichaar",
+        "pinned_tweet_id": "1995868224303587393",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874669885344899073/M6MT4Baz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 67591,
+          "following_count": 1,
+          "like_count": 11009,
+          "listed_count": 452,
+          "media_count": 3365,
+          "tweet_count": 3992
+        },
+        "url": "https://t.co/8EKl9wg1Xw",
+        "username": "Cine_vichaar",
+        "verified": true
+      }
+    ]
+  }
+}

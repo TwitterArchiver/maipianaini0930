@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2021365047696687105",
+        "3_2021365047692492802",
+        "3_2021365047667326980"
+      ],
+      "media_source_tweet_id": [
+        "2021365058110923033",
+        "2021365058110923033",
+        "2021365058110923033"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2021657086204293273",
+    "created_at": "2026-02-11T18:46:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T19:46:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021657086204293273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1475915871235235846",
+          "start": 3,
+          "username": "pinkskysyre"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Lb6wf1KNdX",
+          "end": 81,
+          "expanded_url": "https://x.com/pinkskysyre/status/2021365058110923033/photo/1",
+          "media_key": "3_2021365047696687105",
+          "start": 58,
+          "url": "https://t.co/Lb6wf1KNdX"
+        },
+        {
+          "display_url": "pic.x.com/Lb6wf1KNdX",
+          "end": 81,
+          "expanded_url": "https://x.com/pinkskysyre/status/2021365058110923033/photo/1",
+          "media_key": "3_2021365047692492802",
+          "start": 58,
+          "url": "https://t.co/Lb6wf1KNdX"
+        },
+        {
+          "display_url": "pic.x.com/Lb6wf1KNdX",
+          "end": 81,
+          "expanded_url": "https://x.com/pinkskysyre/status/2021365058110923033/photo/1",
+          "media_key": "3_2021365047667326980",
+          "start": 58,
+          "url": "https://t.co/Lb6wf1KNdX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021657086204293273",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 439
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021365058110923033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pinkskysyre: 1980s euro cotton bomber jacket by ‘bout https://t.co/Lb6wf1KNdX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1432,
+        "media_key": "3_2021365047696687105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1UzR1aAAEw1XK.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1509,
+        "media_key": "3_2021365047692492802",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1UzR0aAAIbPr9.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2021365047667326980",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1UzRuaAAQtRKz.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021365047696687105",
+            "3_2021365047692492802",
+            "3_2021365047667326980"
+          ],
+          "media_source_tweet_id": [
+            "2021365058110923033",
+            "2021365058110923033",
+            "2021365058110923033"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021657086204293273",
+        "created_at": "2026-02-11T18:46:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T19:46:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021657086204293273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1475915871235235846",
+              "start": 3,
+              "username": "pinkskysyre"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lb6wf1KNdX",
+              "end": 81,
+              "expanded_url": "https://x.com/pinkskysyre/status/2021365058110923033/photo/1",
+              "media_key": "3_2021365047696687105",
+              "start": 58,
+              "url": "https://t.co/Lb6wf1KNdX"
+            },
+            {
+              "display_url": "pic.x.com/Lb6wf1KNdX",
+              "end": 81,
+              "expanded_url": "https://x.com/pinkskysyre/status/2021365058110923033/photo/1",
+              "media_key": "3_2021365047692492802",
+              "start": 58,
+              "url": "https://t.co/Lb6wf1KNdX"
+            },
+            {
+              "display_url": "pic.x.com/Lb6wf1KNdX",
+              "end": 81,
+              "expanded_url": "https://x.com/pinkskysyre/status/2021365058110923033/photo/1",
+              "media_key": "3_2021365047667326980",
+              "start": 58,
+              "url": "https://t.co/Lb6wf1KNdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021657086204293273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 439
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021365058110923033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pinkskysyre: 1980s euro cotton bomber jacket by ‘bout https://t.co/Lb6wf1KNdX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021365047696687105",
+            "3_2021365047692492802",
+            "3_2021365047667326980"
+          ]
+        },
+        "author_id": "1475915871235235846",
+        "conversation_id": "2021365058110923033",
+        "created_at": "2026-02-10T23:25:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T00:25:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021365058110923033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Lb6wf1KNdX",
+              "end": 64,
+              "expanded_url": "https://x.com/pinkskysyre/status/2021365058110923033/photo/1",
+              "media_key": "3_2021365047696687105",
+              "start": 41,
+              "url": "https://t.co/Lb6wf1KNdX"
+            },
+            {
+              "display_url": "pic.x.com/Lb6wf1KNdX",
+              "end": 64,
+              "expanded_url": "https://x.com/pinkskysyre/status/2021365058110923033/photo/1",
+              "media_key": "3_2021365047692492802",
+              "start": 41,
+              "url": "https://t.co/Lb6wf1KNdX"
+            },
+            {
+              "display_url": "pic.x.com/Lb6wf1KNdX",
+              "end": 64,
+              "expanded_url": "https://x.com/pinkskysyre/status/2021365058110923033/photo/1",
+              "media_key": "3_2021365047667326980",
+              "start": 41,
+              "url": "https://t.co/Lb6wf1KNdX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021365058110923033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1914,
+          "impression_count": 293153,
+          "like_count": 8118,
+          "quote_count": 58,
+          "reply_count": 13,
+          "retweet_count": 439
+        },
+        "reply_settings": "everyone",
+        "text": "1980s euro cotton bomber jacket by ‘bout https://t.co/Lb6wf1KNdX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 219,
+          "like_count": 3980,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1278
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-28T19:45:58.000Z",
+        "description": "start creating",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/franzivisuals/…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/franzivisuals/profilecard/?igsh=aXdkdHlmem4yajBy",
+                "start": 0,
+                "url": "https://t.co/lNCflYmJ9E"
+              }
+            ]
+          }
+        },
+        "id": "1475915871235235846",
+        "name": "pinkskysyre",
+        "pinned_tweet_id": "1794109672825237997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1792293242731433984/ALzelmlJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3934,
+          "following_count": 92,
+          "like_count": 2757,
+          "listed_count": 20,
+          "media_count": 1923,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/lNCflYmJ9E",
+        "username": "pinkskysyre",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079089431588594077",
+    "created_at": "2026-07-20T06:22:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T07:22:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079089431588594077"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Blind Melon · Soup · Song · 1995",
+          "display_url": "open.spotify.com/track/1uKe5ci0…",
+          "end": 91,
+          "expanded_url": "https://open.spotify.com/track/1uKe5ci0y60Q3OS6ECeM9M?si=RI1i48QGRW-8Nw3vTSiGtg&utm_source=twitter",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://pbs.twimg.com/news_img/2079089433727668224/JaZaikuu?format=jpg&name=orig",
+              "width": 640
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2079089433727668224/JaZaikuu?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 68,
+          "status": 200,
+          "title": "Car Seat (God's Presents)",
+          "unwound_url": "https://open.spotify.com/track/1uKe5ci0y60Q3OS6ECeM9M?si=RI1i48QGRW-8Nw3vTSiGtg&utm_source=twitter",
+          "url": "https://t.co/9Y3SdtPMtD"
+        },
+        {
+          "display_url": "en.wikipedia.org/wiki/Susan_Smi…",
+          "end": 115,
+          "expanded_url": "https://en.wikipedia.org/wiki/Susan_Smith",
+          "start": 92,
+          "status": 200,
+          "title": "Susan Smith - Wikipedia",
+          "unwound_url": "https://en.wikipedia.org/wiki/Susan_Smith",
+          "url": "https://t.co/aYCvpjU0mM"
+        },
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 139,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2079086248048935322",
+          "start": 116,
+          "url": "https://t.co/8nwdMfUTkH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079089431588594077",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079086248048935322",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这首歌的创作灵感来源于当时一条新闻：谋杀亲子的女性苏珊·史密斯。她为了和某个富豪结婚而把两个孩子（3岁和14个月）放在车上开进湖里淹死\nhttps://t.co/9Y3SdtPMtD\nhttps://t.co/aYCvpjU0mM https://t.co/8nwdMfUTkH"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079089431588594077",
+        "created_at": "2026-07-20T06:22:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:22:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079089431588594077"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Blind Melon · Soup · Song · 1995",
+              "display_url": "open.spotify.com/track/1uKe5ci0…",
+              "end": 91,
+              "expanded_url": "https://open.spotify.com/track/1uKe5ci0y60Q3OS6ECeM9M?si=RI1i48QGRW-8Nw3vTSiGtg&utm_source=twitter",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2079089433727668224/JaZaikuu?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2079089433727668224/JaZaikuu?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 68,
+              "status": 200,
+              "title": "Car Seat (God's Presents)",
+              "unwound_url": "https://open.spotify.com/track/1uKe5ci0y60Q3OS6ECeM9M?si=RI1i48QGRW-8Nw3vTSiGtg&utm_source=twitter",
+              "url": "https://t.co/9Y3SdtPMtD"
+            },
+            {
+              "display_url": "en.wikipedia.org/wiki/Susan_Smi…",
+              "end": 115,
+              "expanded_url": "https://en.wikipedia.org/wiki/Susan_Smith",
+              "start": 92,
+              "status": 200,
+              "title": "Susan Smith - Wikipedia",
+              "unwound_url": "https://en.wikipedia.org/wiki/Susan_Smith",
+              "url": "https://t.co/aYCvpjU0mM"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 139,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2079086248048935322",
+              "start": 116,
+              "url": "https://t.co/8nwdMfUTkH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079089431588594077",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079086248048935322",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这首歌的创作灵感来源于当时一条新闻：谋杀亲子的女性苏珊·史密斯。她为了和某个富豪结婚而把两个孩子（3岁和14个月）放在车上开进湖里淹死\nhttps://t.co/9Y3SdtPMtD\nhttps://t.co/aYCvpjU0mM https://t.co/8nwdMfUTkH"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079086248048935322",
+        "created_at": "2026-07-20T06:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T07:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079086248048935322"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079086248048935322",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "and his loving arms enfolds me, he will leave me not alone"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 301,
+          "like_count": 11137,
+          "listed_count": 1,
+          "media_count": 737,
+          "tweet_count": 4915
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

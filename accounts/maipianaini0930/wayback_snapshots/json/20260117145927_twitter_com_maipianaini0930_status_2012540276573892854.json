@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2012535251940049141",
+    "created_at": "2026-01-17T14:59:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T15:59:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012540276573892854"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1994429035242569728",
+          "start": 0,
+          "username": "shuijiaozzz233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012540276573892854",
+    "in_reply_to_user_id": "1994429035242569728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012535251940049141",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuijiaozzz233 我是皮鞋控"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2012535206729723904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-32G48XsAAEpKt.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012535206733885440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-32G49XMAAxlP1.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2012535206729699328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-32G48XUAA3eA-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2012535251940049141",
+        "created_at": "2026-01-17T14:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012540276573892854"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1994429035242569728",
+              "start": 0,
+              "username": "shuijiaozzz233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012540276573892854",
+        "in_reply_to_user_id": "1994429035242569728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012535251940049141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuijiaozzz233 我是皮鞋控"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012535206729723904",
+            "3_2012535206733885440",
+            "3_2012535206729699328"
+          ]
+        },
+        "author_id": "1994429035242569728",
+        "conversation_id": "2012535251940049141",
+        "created_at": "2026-01-17T14:39:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T15:39:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012535251940049141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ilJUTxdjKm",
+              "end": 35,
+              "expanded_url": "https://x.com/shuijiaozzz233/status/2012535251940049141/photo/1",
+              "media_key": "3_2012535206729723904",
+              "start": 12,
+              "url": "https://t.co/ilJUTxdjKm"
+            },
+            {
+              "display_url": "pic.x.com/ilJUTxdjKm",
+              "end": 35,
+              "expanded_url": "https://x.com/shuijiaozzz233/status/2012535251940049141/photo/1",
+              "media_key": "3_2012535206733885440",
+              "start": 12,
+              "url": "https://t.co/ilJUTxdjKm"
+            },
+            {
+              "display_url": "pic.x.com/ilJUTxdjKm",
+              "end": 35,
+              "expanded_url": "https://x.com/shuijiaozzz233/status/2012535251940049141/photo/1",
+              "media_key": "3_2012535206729699328",
+              "start": 12,
+              "url": "https://t.co/ilJUTxdjKm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012535251940049141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的肩膀站得下全人类… https://t.co/ilJUTxdjKm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006274810918363138/El07gvs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 193,
+          "like_count": 3050,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 986
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-28T15:32:03.000Z",
+        "description": "叫我睡觉 你们正义凛然而我只是孩子",
+        "id": "1994429035242569728",
+        "name": "(^ー゜)",
+        "pinned_tweet_id": "1997025313986170962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996244507336261632/McNiwa2T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 85,
+          "like_count": 590,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 210
+        },
+        "username": "shuijiaozzz233",
+        "verified": false
+      }
+    ]
+  }
+}

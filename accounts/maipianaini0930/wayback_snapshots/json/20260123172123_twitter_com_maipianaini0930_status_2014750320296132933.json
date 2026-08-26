@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2014750320296132933",
+    "created_at": "2026-01-23T17:21:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-23T18:21:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2014750320296132933"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Yelti和麦片找猫玩’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1MYGN…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1MYGNlgDBLvxw",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2014750322011602944/HhS1BF6r?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2014750322011602944/HhS1BF6r?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: Yelti和麦片找猫玩’s Space",
+          "unwound_url": "https://twitter.com/i/spaces/1MYGNlgDBLvxw/peek",
+          "url": "https://t.co/DRzT6WLj9G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2014750320296132933",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/DRzT6WLj9G"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2014750320296132933",
+        "created_at": "2026-01-23T17:21:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-23T18:21:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014750320296132933"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Yelti和麦片找猫玩’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1MYGN…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1MYGNlgDBLvxw",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2014750322011602944/HhS1BF6r?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014750322011602944/HhS1BF6r?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: Yelti和麦片找猫玩’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1MYGNlgDBLvxw/peek",
+              "url": "https://t.co/DRzT6WLj9G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014750320296132933",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DRzT6WLj9G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013475639219585024/EhafFf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 203,
+          "like_count": 3361,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1040
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

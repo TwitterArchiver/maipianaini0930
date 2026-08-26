@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2033796701094613035",
+    "created_at": "2026-03-17T07:27:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T08:27:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033807403813388591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018706138490175488",
+          "start": 0,
+          "username": "Effybhhkq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033807403813388591",
+    "in_reply_to_user_id": "2018706138490175488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033802116276556090",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Effybhhkq 看需求，我想拍出噪点和梦核感，画质偏暖一些。根据需求可以去问问ai哪些机型合适。\n有个值得注意的地方：买之前问好卖家用什么型号的内存卡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2033796701094613035",
+        "created_at": "2026-03-17T07:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033807403813388591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018706138490175488",
+              "start": 0,
+              "username": "Effybhhkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033807403813388591",
+        "in_reply_to_user_id": "2018706138490175488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033802116276556090",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Effybhhkq 看需求，我想拍出噪点和梦核感，画质偏暖一些。根据需求可以去问问ai哪些机型合适。\n有个值得注意的地方：买之前问好卖家用什么型号的内存卡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018706138490175488",
+        "conversation_id": "2033796701094613035",
+        "created_at": "2026-03-17T07:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T08:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033802116276556090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033802116276556090",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033796701094613035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 有没有好用的ccd 我也想买"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 235,
+          "like_count": 6064,
+          "listed_count": 0,
+          "media_count": 335,
+          "tweet_count": 2086
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T15:21:12.000Z",
+        "description": "",
+        "id": "2018706138490175488",
+        "name": "Effy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026071088137113600/xHoYZnpX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 25,
+          "like_count": 144,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 182
+        },
+        "username": "Effybhhkq",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037794880613949868",
+    "created_at": "2026-03-28T10:47:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T11:47:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037844083532796225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1643842444746784773",
+          "start": 0,
+          "username": "chunye7355608"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037844083532796225",
+    "in_reply_to_user_id": "1643842444746784773",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037843808872960328",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunye7355608 还以为你是故意寻衅想吵架，看来我误解了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037843797783257088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfgIxqaoAA4xDp.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037843797787471872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfgIxra8AADItn.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037794880613949868",
+        "created_at": "2026-03-28T10:47:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:47:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037844083532796225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1643842444746784773",
+              "start": 0,
+              "username": "chunye7355608"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037844083532796225",
+        "in_reply_to_user_id": "1643842444746784773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037843808872960328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunye7355608 还以为你是故意寻衅想吵架，看来我误解了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037843797783257088",
+            "3_2037843797787471872"
+          ]
+        },
+        "author_id": "1643842444746784773",
+        "conversation_id": "2037794880613949868",
+        "created_at": "2026-03-28T10:46:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T11:46:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037843808872960328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CxsGpsIqRx",
+              "end": 97,
+              "expanded_url": "https://x.com/chunye7355608/status/2037843808872960328/photo/1",
+              "media_key": "3_2037843797783257088",
+              "start": 74,
+              "url": "https://t.co/CxsGpsIqRx"
+            },
+            {
+              "display_url": "pic.x.com/CxsGpsIqRx",
+              "end": 97,
+              "expanded_url": "https://x.com/chunye7355608/status/2037843808872960328/photo/1",
+              "media_key": "3_2037843797787471872",
+              "start": 74,
+              "url": "https://t.co/CxsGpsIqRx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037843808872960328",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037843071845716146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 到达你需要的目的地其实只需要非常低廉的价格，我觉得亲身经历能写出更有感觉的作品，这是我作为一个艺术生能给你的建议 https://t.co/CxsGpsIqRx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 251,
+          "like_count": 7005,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 2593
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-06T05:06:12.000Z",
+        "description": "食用意识苔藓中｜麻酱妈：@Www1129800Www",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 12,
+                "username": "Www1129800Www"
+              }
+            ]
+          }
+        },
+        "id": "1643842444746784773",
+        "location": "你的左后方",
+        "name": "春野",
+        "pinned_tweet_id": "1874392414615695716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012031628747673600/hG7v8Anc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 554,
+          "following_count": 195,
+          "like_count": 4225,
+          "listed_count": 5,
+          "media_count": 485,
+          "tweet_count": 2215
+        },
+        "username": "chunye7355608",
+        "verified": false
+      }
+    ]
+  }
+}

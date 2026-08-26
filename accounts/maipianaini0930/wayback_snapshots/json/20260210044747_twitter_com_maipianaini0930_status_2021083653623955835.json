@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2021083653623955835",
+    "created_at": "2026-02-10T04:47:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T05:47:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021083653623955835"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021083653623955835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "中午去驿站拿酒，路上听见两个人用苏南口音絮叨，我体内所有的躁狂与不安都像在某个角落里爆发开来瞬间蔓延全身，骂道：操你妈的，喊出这一声后，我感到精疲力竭，蹒跚着努力让自己不至于眩晕栽倒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021083653623955835",
+        "created_at": "2026-02-10T04:47:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T05:47:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021083653623955835"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021083653623955835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午去驿站拿酒，路上听见两个人用苏南口音絮叨，我体内所有的躁狂与不安都像在某个角落里爆发开来瞬间蔓延全身，骂道：操你妈的，喊出这一声后，我感到精疲力竭，蹒跚着努力让自己不至于眩晕栽倒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 217,
+          "like_count": 3893,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1226
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

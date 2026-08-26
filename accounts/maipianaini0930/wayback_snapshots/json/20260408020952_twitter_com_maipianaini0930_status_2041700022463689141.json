@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2041700022463689141",
+    "created_at": "2026-04-08T02:09:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T03:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041700022463689141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mafercca_/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/mafercca_/status/2041566066674167985",
+          "start": 8,
+          "url": "https://t.co/u98lBa5Thm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041700022463689141",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041566066674167985",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "坦坦荡荡送老师 https://t.co/u98lBa5Thm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2041565994792185858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFUZdKEa8AIugWb.jpg",
+        "width": 2740
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2041700022463689141",
+        "created_at": "2026-04-08T02:09:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T03:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041700022463689141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mafercca_/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/mafercca_/status/2041566066674167985",
+              "start": 8,
+              "url": "https://t.co/u98lBa5Thm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041700022463689141",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041566066674167985",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "坦坦荡荡送老师 https://t.co/u98lBa5Thm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041565994792185858"
+          ]
+        },
+        "author_id": "1647904361778122752",
+        "conversation_id": "2041566066674167985",
+        "created_at": "2026-04-07T17:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T18:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041566066674167985"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MtuaCYj7zd",
+              "end": 40,
+              "expanded_url": "https://x.com/Mafercca_/status/2041566066674167985/photo/1",
+              "media_key": "3_2041565994792185858",
+              "start": 17,
+              "url": "https://t.co/MtuaCYj7zd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041566066674167985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1047,
+          "like_count": 48,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "有了Gemini搞创作方便多了😁 https://t.co/MtuaCYj7zd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 263,
+          "like_count": 7738,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 2980
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T10:06:47.000Z",
+        "description": "大家一起变好玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "register.codac.org.cn/front_terminal…",
+                "end": 23,
+                "expanded_url": "https://register.codac.org.cn/front_terminal/pc_terminal/index.html",
+                "start": 0,
+                "url": "https://t.co/i62PHo031k"
+              }
+            ]
+          }
+        },
+        "id": "1647904361778122752",
+        "name": "玛菲卡回归现实",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1681634803249221632/HWIVAmlR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3330,
+          "following_count": 644,
+          "like_count": 2656,
+          "listed_count": 22,
+          "media_count": 307,
+          "tweet_count": 2321
+        },
+        "url": "https://t.co/i62PHo031k",
+        "username": "Mafercca_",
+        "verified": false
+      }
+    ]
+  }
+}

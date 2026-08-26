@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2021605872766513473",
+    "created_at": "2026-02-11T15:22:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T16:22:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2021605872766513473"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hzh1450627/sta…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/hzh1450627/status/2021514719417487514",
+          "start": 31,
+          "url": "https://t.co/fdeUYAKUmI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021605872766513473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021514719417487514",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "三观正这个短语本来就带有强烈的规训色彩，相信尼采的奴隶道德吧 https://t.co/fdeUYAKUmI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021605872766513473",
+        "created_at": "2026-02-11T15:22:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T16:22:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021605872766513473"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hzh1450627/sta…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/hzh1450627/status/2021514719417487514",
+              "start": 31,
+              "url": "https://t.co/fdeUYAKUmI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021605872766513473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021514719417487514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "三观正这个短语本来就带有强烈的规训色彩，相信尼采的奴隶道德吧 https://t.co/fdeUYAKUmI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1989254812572196864",
+        "conversation_id": "2021513935485321708",
+        "created_at": "2026-02-11T09:20:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T10:20:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021514719417487514"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1960187829687885824",
+              "start": 0,
+              "username": "taikongjile"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021514719417487514",
+        "in_reply_to_user_id": "1960187829687885824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 434,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021513935485321708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taikongjile 都地雷系了还跟你讲三观正，能跟你聊三观都算ta牛逼了，何况跟你聊三观的时候更多是卖惨的时候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 218,
+          "like_count": 3946,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1261
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-14T08:51:31.000Z",
+        "description": "cn沥雨 I 可以叫我沥雨或者鲤鱼噢 I 是一个双相障碍患者 I 超级想和与od/精神疾病/割腕/负面/二次元和一些有趣的朋友互fo交朋友聊天！属性持续发掘中…",
+        "id": "1989254812572196864",
+        "location": "东京",
+        "name": "愛のメッセージ",
+        "pinned_tweet_id": "2020851109942997272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1992228906712367104/it4IYepC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 72,
+          "like_count": 624,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 503
+        },
+        "username": "hzh1450627",
+        "verified": false
+      }
+    ]
+  }
+}

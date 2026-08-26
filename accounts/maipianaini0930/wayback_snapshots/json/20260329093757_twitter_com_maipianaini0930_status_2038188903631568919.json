@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2038188903631568919",
+    "created_at": "2026-03-29T09:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T10:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038188903631568919"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1246502071408504833",
+          "start": 3,
+          "username": "alerta_gr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038188903631568919",
+    "lang": "el",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037852482542383468",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @alerta_gr: Θεσσαλονίκη | Πάνω από 1000 άτομα συμμετέχουν στην αντιπολεμική πορεία που διοργανώνεται από οργανώσεις, συλλογικότητες και…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2037852455694974976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfoAu5bQAAdpVx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2037852455829110784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfoAvZaAAALLHG.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2037852456504184832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfoAx6W0AAZpHc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037852457544638464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfoA1ya4AAD5zp.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2038188903631568919",
+        "created_at": "2026-03-29T09:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038188903631568919"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1246502071408504833",
+              "start": 3,
+              "username": "alerta_gr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038188903631568919",
+        "lang": "el",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037852482542383468",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @alerta_gr: Θεσσαλονίκη | Πάνω από 1000 άτομα συμμετέχουν στην αντιπολεμική πορεία που διοργανώνεται από οργανώσεις, συλλογικότητες και…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037852455694974976",
+            "3_2037852455829110784",
+            "3_2037852456504184832",
+            "3_2037852457544638464"
+          ]
+        },
+        "author_id": "1246502071408504833",
+        "conversation_id": "2037852482542383468",
+        "created_at": "2026-03-28T11:21:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:21:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037852482542383468"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 188,
+              "start": 177,
+              "tag": "antireport"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/civDQXChRD",
+              "end": 212,
+              "expanded_url": "https://x.com/alerta_gr/status/2037852482542383468/photo/1",
+              "media_key": "3_2037852455694974976",
+              "start": 189,
+              "url": "https://t.co/civDQXChRD"
+            },
+            {
+              "display_url": "pic.x.com/civDQXChRD",
+              "end": 212,
+              "expanded_url": "https://x.com/alerta_gr/status/2037852482542383468/photo/1",
+              "media_key": "3_2037852455829110784",
+              "start": 189,
+              "url": "https://t.co/civDQXChRD"
+            },
+            {
+              "display_url": "pic.x.com/civDQXChRD",
+              "end": 212,
+              "expanded_url": "https://x.com/alerta_gr/status/2037852482542383468/photo/1",
+              "media_key": "3_2037852456504184832",
+              "start": 189,
+              "url": "https://t.co/civDQXChRD"
+            },
+            {
+              "display_url": "pic.x.com/civDQXChRD",
+              "end": 212,
+              "expanded_url": "https://x.com/alerta_gr/status/2037852482542383468/photo/1",
+              "media_key": "3_2037852457544638464",
+              "start": 189,
+              "url": "https://t.co/civDQXChRD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037852482542383468",
+        "lang": "el",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2065,
+          "like_count": 36,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "Θεσσαλονίκη | Πάνω από 1000 άτομα συμμετέχουν στην αντιπολεμική πορεία που διοργανώνεται από οργανώσεις, συλλογικότητες και πρωτοβουλίες του αριστερού και του αναρχικού χώρου. \n#antireport https://t.co/civDQXChRD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "AAAAA麦片烟酒零售批发",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 250,
+          "like_count": 7075,
+          "listed_count": 0,
+          "media_count": 436,
+          "tweet_count": 2667
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-04T18:17:23.000Z",
+        "description": "Τα γεγονότα από την σκοπιά της βάσης",
+        "id": "1246502071408504833",
+        "name": "alerta_gr",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1246520037860614144/goOQcjHO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8080,
+          "following_count": 76,
+          "like_count": 4,
+          "listed_count": 43,
+          "media_count": 741,
+          "tweet_count": 5577
+        },
+        "username": "alerta_gr",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2046263629478322312",
+    "created_at": "2026-04-20T21:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T22:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046339678291550377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1404062958586576898",
+          "start": 0,
+          "username": "ytlsy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046339678291550377",
+    "in_reply_to_user_id": "1404062958586576898",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046263629478322312",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ytlsy_ 🤮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2046263629478322312",
+        "created_at": "2026-04-20T21:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T22:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046339678291550377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1404062958586576898",
+              "start": 0,
+              "username": "ytlsy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046339678291550377",
+        "in_reply_to_user_id": "1404062958586576898",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046263629478322312",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ytlsy_ 🤮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404062958586576898",
+        "conversation_id": "2046263629478322312",
+        "created_at": "2026-04-20T16:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046263629478322312"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046263629478322312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "初中性骚扰女同学的数学老师当上副校长了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 270,
+          "like_count": 8469,
+          "listed_count": 1,
+          "media_count": 517,
+          "tweet_count": 3279
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-13T13:07:58.000Z",
+        "description": "雑多、たまに作品を上げる。不謹慎ツイ有り//中国産メス猿。中文、日本語、EN//atreema/あつりーま（ツリ）/砍树//キチガイツイート🥰🥰😘😘😡😡🥵🥵😈🤡",
+        "id": "1404062958586576898",
+        "location": "ベルセウスの空",
+        "name": "Atreema",
+        "pinned_tweet_id": "2027695899225551148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005657380747702272/jNLzUejz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 1401,
+          "like_count": 16746,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 2927
+        },
+        "username": "ytlsy_",
+        "verified": false
+      }
+    ]
+  }
+}

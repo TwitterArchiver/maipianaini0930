@@ -1,0 +1,301 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2005634109155196992",
+    "created_at": "2025-12-29T13:36:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-29T14:36:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005634109155196992"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 47,
+          "normalized_text": "Sergei Yesenin",
+          "probability": 0.983,
+          "start": 34,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "955468345473716224",
+          "start": 3,
+          "username": "100YearsAgoLive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005634109155196992",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 468
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005287612664406433",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @100YearsAgoLive: Russian poet Sergei Yesenin writes with his blood a death poem entitled “Goodbye, my friend, goodbye,” and then hangs…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 642,
+        "media_key": "3_2005287607471656960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Q2dFvXUAALTyc.jpg",
+        "width": 482
+      },
+      {
+        "height": 1056,
+        "media_key": "3_2005287607429709824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9Q2dFlXQAABUHn.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2005634109155196992",
+        "created_at": "2025-12-29T13:36:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-29T14:36:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005634109155196992"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Sergei Yesenin",
+              "probability": 0.983,
+              "start": 34,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "955468345473716224",
+              "start": 3,
+              "username": "100YearsAgoLive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005634109155196992",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 468
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005287612664406433",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @100YearsAgoLive: Russian poet Sergei Yesenin writes with his blood a death poem entitled “Goodbye, my friend, goodbye,” and then hangs…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005287607471656960",
+            "3_2005287607429709824"
+          ]
+        },
+        "author_id": "955468345473716224",
+        "conversation_id": "2005287612664406433",
+        "created_at": "2025-12-28T14:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005287612664406433"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 26,
+              "normalized_text": "Sergei Yesenin",
+              "probability": 0.9799,
+              "start": 13,
+              "type": "Person"
+            },
+            {
+              "end": 153,
+              "normalized_text": "Leningrad",
+              "probability": 0.872,
+              "start": 145,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CGgW4NZHCP",
+              "end": 190,
+              "expanded_url": "https://x.com/100YearsAgoLive/status/2005287612664406433/photo/1",
+              "media_key": "3_2005287607471656960",
+              "start": 167,
+              "url": "https://t.co/CGgW4NZHCP"
+            },
+            {
+              "display_url": "pic.x.com/CGgW4NZHCP",
+              "end": 190,
+              "expanded_url": "https://x.com/100YearsAgoLive/status/2005287612664406433/photo/1",
+              "media_key": "3_2005287607429709824",
+              "start": 167,
+              "url": "https://t.co/CGgW4NZHCP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005287612664406433",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1971,
+          "impression_count": 354212,
+          "like_count": 8040,
+          "quote_count": 145,
+          "reply_count": 61,
+          "retweet_count": 468
+        },
+        "reply_settings": "everyone",
+        "text": "Russian poet Sergei Yesenin writes with his blood a death poem entitled “Goodbye, my friend, goodbye,” and then hangs himself in a hotel room in Leningrad. He was 30. https://t.co/CGgW4NZHCP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 197,
+          "like_count": 2388,
+          "listed_count": 0,
+          "media_count": 140,
+          "tweet_count": 857
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-22T15:53:00.000Z",
+        "description": "Live-posting as a reporter embedded in history. Curated by @MannyMarotta. Companion to @50YearsAgoLive, @25YearsAgoLive, and @250YearsAgoLive. DM for business.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 59,
+                "username": "MannyMarotta"
+              },
+              {
+                "end": 102,
+                "start": 87,
+                "username": "50YearsAgoLive"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "25YearsAgoLive"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "250YearsAgoLive"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/HistoryLive",
+                "end": 23,
+                "expanded_url": "http://patreon.com/HistoryLive",
+                "start": 0,
+                "url": "https://t.co/WomlhbTcgS"
+              }
+            ]
+          }
+        },
+        "id": "955468345473716224",
+        "location": "1925",
+        "name": "1925 Live",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874250714538446848/G8pp6tAM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84048,
+          "following_count": 217,
+          "like_count": 4944,
+          "listed_count": 373,
+          "media_count": 18823,
+          "tweet_count": 26545
+        },
+        "url": "https://t.co/WomlhbTcgS",
+        "username": "100YearsAgoLive",
+        "verified": true
+      }
+    ]
+  }
+}

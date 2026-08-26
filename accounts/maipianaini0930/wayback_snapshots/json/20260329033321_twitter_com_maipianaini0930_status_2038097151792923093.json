@@ -1,0 +1,483 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1612701142105956352"
+      ],
+      "media_source_tweet_id": [
+        "1612701146501595137"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1179068612096561152",
+          "name": "Debbie Harry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1179068612096561152",
+          "name": "Debbie Harry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1179068612096561152",
+          "name": "Debbie Harry"
+        }
+      }
+    ],
+    "conversation_id": "2038097151792923093",
+    "created_at": "2026-03-29T03:33:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T04:33:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038097151792923093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "957638065278930945",
+          "start": 3,
+          "username": "rocknrollscars"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7u4m6hFNxE",
+          "end": 76,
+          "expanded_url": "https://x.com/69_scars/status/1612701146501595137/photo/1",
+          "media_key": "3_1612701142105956352",
+          "start": 53,
+          "url": "https://t.co/7u4m6hFNxE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038097151792923093",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 36
+    },
+    "referenced_tweets": [
+      {
+        "id": "1612701146501595137",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rocknrollscars: Debbie Harry by Mick Rock. 1979. https://t.co/7u4m6hFNxE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1094,
+        "media_key": "3_1612701142105956352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FmF3JPAXoAAW4Yd.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1612701142105956352"
+          ],
+          "media_source_tweet_id": [
+            "1612701146501595137"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1179068612096561152",
+              "name": "Debbie Harry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1179068612096561152",
+              "name": "Debbie Harry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1179068612096561152",
+              "name": "Debbie Harry"
+            }
+          }
+        ],
+        "conversation_id": "2038097151792923093",
+        "created_at": "2026-03-29T03:33:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T04:33:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038097151792923093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "957638065278930945",
+              "start": 3,
+              "username": "rocknrollscars"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7u4m6hFNxE",
+              "end": 76,
+              "expanded_url": "https://x.com/69_scars/status/1612701146501595137/photo/1",
+              "media_key": "3_1612701142105956352",
+              "start": 53,
+              "url": "https://t.co/7u4m6hFNxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038097151792923093",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 36
+        },
+        "referenced_tweets": [
+          {
+            "id": "1612701146501595137",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rocknrollscars: Debbie Harry by Mick Rock. 1979. https://t.co/7u4m6hFNxE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1612701142105956352"
+          ]
+        },
+        "author_id": "957638065278930945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1179068612096561152",
+              "name": "Debbie Harry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1179068612096561152",
+              "name": "Debbie Harry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1179068612096561152",
+              "name": "Debbie Harry"
+            }
+          }
+        ],
+        "conversation_id": "1612701146501595137",
+        "created_at": "2023-01-10T06:41:30.000Z",
+        "edit_controls": {
+          "editable_until": "2023-01-10T07:11:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1612701146501595137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7u4m6hFNxE",
+              "end": 56,
+              "expanded_url": "https://x.com/69_scars/status/1612701146501595137/photo/1",
+              "media_key": "3_1612701142105956352",
+              "start": 33,
+              "url": "https://t.co/7u4m6hFNxE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1612701146501595137",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 16895,
+          "like_count": 333,
+          "quote_count": 3,
+          "reply_count": 2,
+          "retweet_count": 36
+        },
+        "reply_settings": "everyone",
+        "text": "Debbie Harry by Mick Rock. 1979. https://t.co/7u4m6hFNxE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "AAAAA麦片烟酒零售批发",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 251,
+          "like_count": 7023,
+          "listed_count": 0,
+          "media_count": 433,
+          "tweet_count": 2649
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-28T15:34:41.000Z",
+        "description": "𝗞𝗡𝗢𝗕𝗛𝗘𝗔𝗗",
+        "id": "957638065278930945",
+        "name": "𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗜𝗢𝗡 𝗢𝗙 𝗦𝗖𝗔𝗥𝗦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813313406826369024/aduOSHVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74445,
+          "following_count": 0,
+          "like_count": 47536,
+          "listed_count": 180,
+          "media_count": 8877,
+          "tweet_count": 10745
+        },
+        "username": "rocknrollscars",
+        "verified": false
+      }
+    ]
+  }
+}

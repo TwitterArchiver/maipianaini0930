@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028291005943017472"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028291012737831047",
+    "created_at": "2026-03-02T02:07:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T03:07:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028291012737831047"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lhvn7jrcgK",
+          "end": 31,
+          "expanded_url": "https://x.com/maipianaini0930/status/2028291012737831047/photo/1",
+          "media_key": "3_2028291005943017472",
+          "start": 8,
+          "url": "https://t.co/lhvn7jrcgK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028291012737831047",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不是你的母亲 https://t.co/lhvn7jrcgK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2028291005943017472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXv7G5acAA1HW-.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028291005943017472"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028291012737831047",
+        "created_at": "2026-03-02T02:07:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T03:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028291012737831047"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lhvn7jrcgK",
+              "end": 31,
+              "expanded_url": "https://x.com/maipianaini0930/status/2028291012737831047/photo/1",
+              "media_key": "3_2028291005943017472",
+              "start": 8,
+              "url": "https://t.co/lhvn7jrcgK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028291012737831047",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不是你的母亲 https://t.co/lhvn7jrcgK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 217,
+          "like_count": 5124,
+          "listed_count": 0,
+          "media_count": 253,
+          "tweet_count": 1632
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}
