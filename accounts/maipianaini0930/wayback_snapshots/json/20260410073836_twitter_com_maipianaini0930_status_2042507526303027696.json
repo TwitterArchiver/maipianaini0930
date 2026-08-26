@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2042388592115548160",
+        "3_2042388592140640256",
+        "3_2042388592325246977",
+        "3_2042388592547545089"
+      ],
+      "media_source_tweet_id": [
+        "2042388615486193949",
+        "2042388615486193949",
+        "2042388615486193949",
+        "2042388615486193949"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2042507526303027696",
+    "created_at": "2026-04-10T07:38:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T08:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042507526303027696"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2858829775",
+          "start": 3,
+          "username": "gunsayjp"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/JvDYCMDZK5",
+          "end": 47,
+          "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+          "media_key": "3_2042388592115548160",
+          "start": 24,
+          "url": "https://t.co/JvDYCMDZK5"
+        },
+        {
+          "display_url": "pic.x.com/JvDYCMDZK5",
+          "end": 47,
+          "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+          "media_key": "3_2042388592140640256",
+          "start": 24,
+          "url": "https://t.co/JvDYCMDZK5"
+        },
+        {
+          "display_url": "pic.x.com/JvDYCMDZK5",
+          "end": 47,
+          "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+          "media_key": "3_2042388592325246977",
+          "start": 24,
+          "url": "https://t.co/JvDYCMDZK5"
+        },
+        {
+          "display_url": "pic.x.com/JvDYCMDZK5",
+          "end": 47,
+          "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+          "media_key": "3_2042388592547545089",
+          "start": 24,
+          "url": "https://t.co/JvDYCMDZK5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042507526303027696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 142
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042388615486193949",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gunsayjp: 腰痛体操の過去絵① https://t.co/JvDYCMDZK5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1486,
+        "media_key": "3_2042388592115548160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgFmn5bgAAlYQ7.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1655,
+        "media_key": "3_2042388592140640256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgFmn_aYAAQ270.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1427,
+        "media_key": "3_2042388592325246977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgFmorbQAEhDVT.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1312,
+        "media_key": "3_2042388592547545089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFgFmpgbQAEYnqz.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042388592115548160",
+            "3_2042388592140640256",
+            "3_2042388592325246977",
+            "3_2042388592547545089"
+          ],
+          "media_source_tweet_id": [
+            "2042388615486193949",
+            "2042388615486193949",
+            "2042388615486193949",
+            "2042388615486193949"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2042507526303027696",
+        "created_at": "2026-04-10T07:38:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T08:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042507526303027696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2858829775",
+              "start": 3,
+              "username": "gunsayjp"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JvDYCMDZK5",
+              "end": 47,
+              "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+              "media_key": "3_2042388592115548160",
+              "start": 24,
+              "url": "https://t.co/JvDYCMDZK5"
+            },
+            {
+              "display_url": "pic.x.com/JvDYCMDZK5",
+              "end": 47,
+              "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+              "media_key": "3_2042388592140640256",
+              "start": 24,
+              "url": "https://t.co/JvDYCMDZK5"
+            },
+            {
+              "display_url": "pic.x.com/JvDYCMDZK5",
+              "end": 47,
+              "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+              "media_key": "3_2042388592325246977",
+              "start": 24,
+              "url": "https://t.co/JvDYCMDZK5"
+            },
+            {
+              "display_url": "pic.x.com/JvDYCMDZK5",
+              "end": 47,
+              "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+              "media_key": "3_2042388592547545089",
+              "start": 24,
+              "url": "https://t.co/JvDYCMDZK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042507526303027696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 142
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042388615486193949",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gunsayjp: 腰痛体操の過去絵① https://t.co/JvDYCMDZK5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042388592115548160",
+            "3_2042388592140640256",
+            "3_2042388592325246977",
+            "3_2042388592547545089"
+          ]
+        },
+        "author_id": "2858829775",
+        "conversation_id": "2042388615486193949",
+        "created_at": "2026-04-09T23:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T00:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042388615486193949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JvDYCMDZK5",
+              "end": 33,
+              "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+              "media_key": "3_2042388592115548160",
+              "start": 10,
+              "url": "https://t.co/JvDYCMDZK5"
+            },
+            {
+              "display_url": "pic.x.com/JvDYCMDZK5",
+              "end": 33,
+              "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+              "media_key": "3_2042388592140640256",
+              "start": 10,
+              "url": "https://t.co/JvDYCMDZK5"
+            },
+            {
+              "display_url": "pic.x.com/JvDYCMDZK5",
+              "end": 33,
+              "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+              "media_key": "3_2042388592325246977",
+              "start": 10,
+              "url": "https://t.co/JvDYCMDZK5"
+            },
+            {
+              "display_url": "pic.x.com/JvDYCMDZK5",
+              "end": 33,
+              "expanded_url": "https://x.com/gunsayjp/status/2042388615486193949/photo/1",
+              "media_key": "3_2042388592547545089",
+              "start": 10,
+              "url": "https://t.co/JvDYCMDZK5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042388615486193949",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 331,
+          "impression_count": 41666,
+          "like_count": 1401,
+          "quote_count": 6,
+          "reply_count": 6,
+          "retweet_count": 142
+        },
+        "reply_settings": "everyone",
+        "text": "腰痛体操の過去絵① https://t.co/JvDYCMDZK5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 262,
+          "like_count": 7912,
+          "listed_count": 1,
+          "media_count": 465,
+          "tweet_count": 3033
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-16T23:10:25.000Z",
+        "description": "お絵描き/漫画/広告/骨董/PC修理 ミカンスキー\nBOOTH https://t.co/ol2Zmfi2pV\nskeb https://t.co/2Aa45j92tW\nフォリオ https://t.co/z3VpwBHQ2E\nニジエ https://t.co/qLE9EqdyAO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "syouwa.booth.pm",
+                "end": 55,
+                "expanded_url": "http://syouwa.booth.pm",
+                "start": 32,
+                "url": "https://t.co/ol2Zmfi2pV"
+              },
+              {
+                "display_url": "skeb.jp/@gunsayjp",
+                "end": 84,
+                "expanded_url": "http://skeb.jp/@gunsayjp",
+                "start": 61,
+                "url": "https://t.co/2Aa45j92tW"
+              },
+              {
+                "display_url": "fori.io/gunsayjp",
+                "end": 113,
+                "expanded_url": "https://fori.io/gunsayjp",
+                "start": 90,
+                "url": "https://t.co/z3VpwBHQ2E"
+              },
+              {
+                "display_url": "nijie.info/members.php?id…",
+                "end": 141,
+                "expanded_url": "http://nijie.info/members.php?id=1043139",
+                "start": 118,
+                "url": "https://t.co/qLE9EqdyAO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=31581705",
+                "start": 0,
+                "url": "https://t.co/AzsKlU7g05"
+              }
+            ]
+          }
+        },
+        "id": "2858829775",
+        "location": "埼玉",
+        "name": "昭和@skeb募集中",
+        "pinned_tweet_id": "2022975387588845865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1301723976096391168/Ulnosz-o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1673,
+          "following_count": 1116,
+          "like_count": 118495,
+          "listed_count": 35,
+          "media_count": 3664,
+          "tweet_count": 13464
+        },
+        "url": "https://t.co/AzsKlU7g05",
+        "username": "gunsayjp",
+        "verified": false
+      }
+    ]
+  }
+}

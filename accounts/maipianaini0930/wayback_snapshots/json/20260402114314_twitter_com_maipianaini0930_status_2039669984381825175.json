@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039667916703162779",
+    "created_at": "2026-04-02T11:43:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T12:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039669984381825175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777236168503074816",
+          "start": 0,
+          "username": "Gloria080605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039669984381825175",
+    "in_reply_to_user_id": "1777236168503074816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039667916703162779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gloria080605 我听starman也有这种感觉）不过联想到的是深夜霓虹森林中的精神急诊科被踉跄推进抢救室的自杀者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039667916703162779",
+        "created_at": "2026-04-02T11:43:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039669984381825175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777236168503074816",
+              "start": 0,
+              "username": "Gloria080605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039669984381825175",
+        "in_reply_to_user_id": "1777236168503074816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039667916703162779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gloria080605 我听starman也有这种感觉）不过联想到的是深夜霓虹森林中的精神急诊科被踉跄推进抢救室的自杀者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777236168503074816",
+        "conversation_id": "2039667916703162779",
+        "created_at": "2026-04-02T11:35:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T12:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039667916703162779"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039667916703162779",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "开窗通风又闻到那个味道了，\n夏天的味道，精神病发作、药片、血滴的味道"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 247,
+          "like_count": 7389,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 2765
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T07:25:07.000Z",
+        "description": "",
+        "id": "1777236168503074816",
+        "name": "对不起，婊子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037161736911163392/047Npayz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 54,
+          "like_count": 244,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 95
+        },
+        "username": "Gloria080605",
+        "verified": false
+      }
+    ]
+  }
+}

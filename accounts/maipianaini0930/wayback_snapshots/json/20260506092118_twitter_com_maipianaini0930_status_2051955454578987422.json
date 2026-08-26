@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2051938100788760880",
+    "created_at": "2026-05-06T09:21:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T10:21:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051955454578987422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902891477556137987",
+          "start": 0,
+          "username": "chisetu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051955454578987422",
+    "in_reply_to_user_id": "1902891477556137987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051954152297918657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chisetu_ 那这一定是朝鲜制造的“阿里郎”手机吧😿😿😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2051938100788760880",
+        "created_at": "2026-05-06T09:21:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:21:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051955454578987422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902891477556137987",
+              "start": 0,
+              "username": "chisetu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051955454578987422",
+        "in_reply_to_user_id": "1902891477556137987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051954152297918657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chisetu_ 那这一定是朝鲜制造的“阿里郎”手机吧😿😿😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902891477556137987",
+        "conversation_id": "2051938100788760880",
+        "created_at": "2026-05-06T09:16:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T10:16:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051954152297918657"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051954152297918657",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051938100788760880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 スマホから発せられる光が太陽みたいなものなんじゃないかな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 274,
+          "like_count": 9158,
+          "listed_count": 2,
+          "media_count": 572,
+          "tweet_count": 3597
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:14:26.000Z",
+        "description": "うるさい人で\n大日本スクワット教教徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chisetu_",
+                "end": 23,
+                "expanded_url": "https://lit.link/chisetu_",
+                "start": 0,
+                "url": "https://t.co/yUFz5Xi359"
+              }
+            ]
+          }
+        },
+        "id": "1902891477556137987",
+        "location": "イカ焼きの中",
+        "name": "稚夢",
+        "pinned_tweet_id": "2048998861679829198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013818920797642789/cFRna2WX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 132,
+          "like_count": 43960,
+          "listed_count": 0,
+          "media_count": 2445,
+          "tweet_count": 23805
+        },
+        "url": "https://t.co/yUFz5Xi359",
+        "username": "chisetu_",
+        "verified": false
+      }
+    ]
+  }
+}

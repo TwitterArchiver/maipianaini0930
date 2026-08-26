@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2078484469519179918",
+    "created_at": "2026-07-18T17:03:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T18:03:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078525968201990264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1739391734491086848",
+          "start": 0,
+          "username": "IXXA00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078525968201990264",
+    "in_reply_to_user_id": "1739391734491086848",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078484469519179918",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IXXA00 日本人超爱吃碳水 想不通 我可以只吃很少的米饭但每周必须摄入大量乳制品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2078484469519179918",
+        "created_at": "2026-07-18T17:03:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T18:03:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078525968201990264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1739391734491086848",
+              "start": 0,
+              "username": "IXXA00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078525968201990264",
+        "in_reply_to_user_id": "1739391734491086848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078484469519179918",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IXXA00 日本人超爱吃碳水 想不通 我可以只吃很少的米饭但每周必须摄入大量乳制品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1739391734491086848",
+        "conversation_id": "2078484469519179918",
+        "created_at": "2026-07-18T14:18:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T15:18:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078484469519179918"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078484469519179918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1341,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和你们说，中国人永远无法理解，日本的米饭思维真的离谱。\n一碗好米饭，在日🇯🇵真的有地位，所有菜全部都是围着饭转，豆腐，汤，黄瓜小咸菜，梅干，都是为了吃饭存在的。\n炸猪排也是，表面看是肉食胜利，其实还是米饭思维，炸猪排是来服务米饭的，\n\n说白了，猪排是高级版梅干。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 297,
+          "like_count": 11111,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 4898
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-25T21:04:51.000Z",
+        "description": "男的，36",
+        "id": "1739391734491086848",
+        "location": "辽宁省",
+        "name": "isla",
+        "pinned_tweet_id": "2072853266300641574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073713293701873664/_bw8RXIU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7510,
+          "following_count": 4540,
+          "like_count": 43295,
+          "listed_count": 18,
+          "media_count": 3165,
+          "tweet_count": 42769
+        },
+        "url": "",
+        "username": "IXXA00",
+        "verified": true
+      }
+    ]
+  }
+}

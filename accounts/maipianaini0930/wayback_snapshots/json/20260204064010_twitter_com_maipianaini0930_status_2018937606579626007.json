@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2018694427070366068",
+    "created_at": "2026-02-04T06:40:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:40:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018937606579626007"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823428965773795329",
+          "start": 0,
+          "username": "mianmianmian0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018937606579626007",
+    "in_reply_to_user_id": "1823428965773795329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018694427070366068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@mianmianmian0 就算是健全蛆也得戴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2018694427070366068",
+        "created_at": "2026-02-04T06:40:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:40:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018937606579626007"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823428965773795329",
+              "start": 0,
+              "username": "mianmianmian0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018937606579626007",
+        "in_reply_to_user_id": "1823428965773795329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018694427070366068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@mianmianmian0 就算是健全蛆也得戴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1823428965773795329",
+        "conversation_id": "2018694427070366068",
+        "created_at": "2026-02-03T14:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018694427070366068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018694427070366068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "我的唯一总结就是精神病做爱得戴套，我爸妈一个自杀未遂的抑郁症一个疑似精神分裂两个人操逼操出来我这样一个天天对着镜子说你死全家了的女儿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 216,
+          "like_count": 3733,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1145
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T18:38:48.000Z",
+        "description": "草原尽头我两手空空",
+        "id": "1823428965773795329",
+        "name": "极地春",
+        "pinned_tweet_id": "2015461239250735416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005008617100247042/o0yvibt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 158,
+          "like_count": 14362,
+          "listed_count": 1,
+          "media_count": 569,
+          "tweet_count": 8160
+        },
+        "username": "mianmianmian0",
+        "verified": false
+      }
+    ]
+  }
+}

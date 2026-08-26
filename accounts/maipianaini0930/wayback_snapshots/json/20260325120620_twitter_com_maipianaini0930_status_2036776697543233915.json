@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2036709915130282016",
+    "created_at": "2026-03-25T12:06:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:06:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036776697543233915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1993150970705199108",
+          "start": 0,
+          "username": "Nana_naiiiiiii"
+        },
+        {
+          "end": 26,
+          "id": "1339446920511569920",
+          "start": 16,
+          "username": "shudesu00"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036776697543233915",
+    "in_reply_to_user_id": "1993150970705199108",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036709915130282016",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nana_naiiiiiii @shudesu00 ⌛️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2036709915130282016",
+        "created_at": "2026-03-25T12:06:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:06:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036776697543233915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1993150970705199108",
+              "start": 0,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 26,
+              "id": "1339446920511569920",
+              "start": 16,
+              "username": "shudesu00"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036776697543233915",
+        "in_reply_to_user_id": "1993150970705199108",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036709915130282016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nana_naiiiiiii @shudesu00 ⌛️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1993150970705199108",
+        "conversation_id": "2036709915130282016",
+        "created_at": "2026-03-25T07:40:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T08:40:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036709915130282016"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036709915130282016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2658,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 53,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "400fo大感谢www！！\n一等奖*一盒盐野义（可折现80）\n二等奖*一盒红普（可折现20\n二等奖*一盒玉美片（可折现10\n参与条件依旧转关评 \n奈奈爱你们！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 249,
+          "like_count": 6679,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 2441
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 134,
+          "like_count": 13452,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 730
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-17T05:46:58.000Z",
+        "description": "ftx__They/He/it_习惯性点赞_强迫症_bp-过量_aspd/ADHD_别来说教易爆炸_👾…🐱愛🩵👭 💕✝️@CoFfffEeeeE1 @Miekoudesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 73,
+                "start": 60,
+                "username": "CoFfffEeeeE1"
+              },
+              {
+                "end": 85,
+                "start": 74,
+                "username": "Miekoudesu"
+              }
+            ]
+          }
+        },
+        "id": "1339446920511569920",
+        "name": "小树🌲_MaruyamaTachiki",
+        "pinned_tweet_id": "1792758274967953516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031122814372294656/GXY7w6V2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4674,
+          "following_count": 2290,
+          "like_count": 116306,
+          "listed_count": 9,
+          "media_count": 1904,
+          "tweet_count": 19304
+        },
+        "username": "shudesu00",
+        "verified": false
+      }
+    ]
+  }
+}

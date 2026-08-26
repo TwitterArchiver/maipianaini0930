@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2057443301545152521",
+    "created_at": "2026-05-22T15:31:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T16:31:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057846869326549279"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1813824741209436161",
+          "start": 0,
+          "username": "wncross165672"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057846869326549279",
+    "in_reply_to_user_id": "1813824741209436161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057443301545152521",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wncross165672 我说你想想看我能做什么呢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 774,
+        "media_key": "3_2057443267768430592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI2BwFDbMAAy4g8.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2057443301545152521",
+        "created_at": "2026-05-22T15:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T16:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057846869326549279"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1813824741209436161",
+              "start": 0,
+              "username": "wncross165672"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057846869326549279",
+        "in_reply_to_user_id": "1813824741209436161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057443301545152521",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wncross165672 我说你想想看我能做什么呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057443267768430592"
+          ]
+        },
+        "author_id": "1813824741209436161",
+        "conversation_id": "2057443301545152521",
+        "created_at": "2026-05-21T12:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057443301545152521"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ux5QfGz13S",
+              "end": 75,
+              "expanded_url": "https://x.com/wncross165672/status/2057443301545152521/photo/1",
+              "media_key": "3_2057443267768430592",
+              "start": 52,
+              "url": "https://t.co/Ux5QfGz13S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057443301545152521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次一瓶美金刚下肚子以后进了精神病院呆了三周 每次医生问我以后打算干什么我就想起来碇唯这句话还说出去了 https://t.co/Ux5QfGz13S"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 288,
+          "like_count": 9685,
+          "listed_count": 2,
+          "media_count": 613,
+          "tweet_count": 4012
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-18T06:35:00.000Z",
+        "description": "",
+        "id": "1813824741209436161",
+        "name": "白色哀悼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047968738901946368/kLrplQVX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 6,
+          "like_count": 147,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 24
+        },
+        "username": "wncross165672",
+        "verified": false
+      }
+    ]
+  }
+}

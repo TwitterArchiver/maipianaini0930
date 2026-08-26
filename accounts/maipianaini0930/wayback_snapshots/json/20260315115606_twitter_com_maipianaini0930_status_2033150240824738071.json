@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2033150240824738071",
+    "created_at": "2026-03-15T11:56:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T12:56:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033150240824738071"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2033150240824738071",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我喝尽了所有酒，有波本、葡萄酒、啤酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2033150240824738071",
+        "created_at": "2026-03-15T11:56:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T12:56:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033150240824738071"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033150240824738071",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我喝尽了所有酒，有波本、葡萄酒、啤酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 234,
+          "like_count": 5821,
+          "listed_count": 0,
+          "media_count": 322,
+          "tweet_count": 1991
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

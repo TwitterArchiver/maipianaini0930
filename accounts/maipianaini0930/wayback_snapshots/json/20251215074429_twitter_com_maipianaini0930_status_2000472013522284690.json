@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2000472013522284690",
+    "created_at": "2025-12-15T07:44:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000472013522284690"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000472013522284690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我很怕自己被社会打磨平了会变成一个顺直男，所以要在保守暮气沉沉的中年前死掉，很多中年人那么保就是因为自己没有小将那么狂的底气了，没资本了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2000472013522284690",
+        "created_at": "2025-12-15T07:44:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000472013522284690"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000472013522284690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很怕自己被社会打磨平了会变成一个顺直男，所以要在保守暮气沉沉的中年前死掉，很多中年人那么保就是因为自己没有小将那么狂的底气了，没资本了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "热河南路",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 177,
+          "like_count": 1939,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 660
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

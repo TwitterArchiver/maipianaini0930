@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054535296264372224",
+        "3_2054535297581322240"
+      ],
+      "media_source_tweet_id": [
+        "2055604174444773816",
+        "2055604174444773816"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2055703213681291738",
+    "created_at": "2026-05-16T17:33:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:33:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055703213681291738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3402790198",
+          "start": 3,
+          "username": "SPACECANNABIS"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PMsblCBZJq",
+          "end": 59,
+          "expanded_url": "https://x.com/SPACECANNABIS/status/2055604174444773816/photo/1",
+          "media_key": "3_2054535296264372224",
+          "start": 36,
+          "url": "https://t.co/PMsblCBZJq"
+        },
+        {
+          "display_url": "pic.x.com/PMsblCBZJq",
+          "end": 59,
+          "expanded_url": "https://x.com/SPACECANNABIS/status/2055604174444773816/photo/1",
+          "media_key": "3_2054535297581322240",
+          "start": 36,
+          "url": "https://t.co/PMsblCBZJq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055703213681291738",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1502
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055604174444773816",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SPACECANNABIS: Obrigado senhora https://t.co/PMsblCBZJq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2054535296264372224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMs93BXAAA3O2k.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1055,
+        "media_key": "3_2054535297581322240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIMs977WEAAHO-Q.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054535296264372224",
+            "3_2054535297581322240"
+          ],
+          "media_source_tweet_id": [
+            "2055604174444773816",
+            "2055604174444773816"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2055703213681291738",
+        "created_at": "2026-05-16T17:33:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055703213681291738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3402790198",
+              "start": 3,
+              "username": "SPACECANNABIS"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMsblCBZJq",
+              "end": 59,
+              "expanded_url": "https://x.com/SPACECANNABIS/status/2055604174444773816/photo/1",
+              "media_key": "3_2054535296264372224",
+              "start": 36,
+              "url": "https://t.co/PMsblCBZJq"
+            },
+            {
+              "display_url": "pic.x.com/PMsblCBZJq",
+              "end": 59,
+              "expanded_url": "https://x.com/SPACECANNABIS/status/2055604174444773816/photo/1",
+              "media_key": "3_2054535297581322240",
+              "start": 36,
+              "url": "https://t.co/PMsblCBZJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055703213681291738",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1502
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055604174444773816",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SPACECANNABIS: Obrigado senhora https://t.co/PMsblCBZJq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054535296264372224",
+            "3_2054535297581322240"
+          ]
+        },
+        "author_id": "3402790198",
+        "conversation_id": "2055604174444773816",
+        "created_at": "2026-05-16T11:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T12:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055604174444773816"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PMsblCBZJq",
+              "end": 40,
+              "expanded_url": "https://x.com/SPACECANNABIS/status/2055604174444773816/photo/1",
+              "media_key": "3_2054535296264372224",
+              "start": 17,
+              "url": "https://t.co/PMsblCBZJq"
+            },
+            {
+              "display_url": "pic.x.com/PMsblCBZJq",
+              "end": 40,
+              "expanded_url": "https://x.com/SPACECANNABIS/status/2055604174444773816/photo/1",
+              "media_key": "3_2054535297581322240",
+              "start": 17,
+              "url": "https://t.co/PMsblCBZJq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055604174444773816",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 707,
+          "impression_count": 469451,
+          "like_count": 25047,
+          "quote_count": 87,
+          "reply_count": 108,
+          "retweet_count": 1502
+        },
+        "reply_settings": "everyone",
+        "text": "Obrigado senhora https://t.co/PMsblCBZJq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 283,
+          "like_count": 9440,
+          "listed_count": 2,
+          "media_count": 601,
+          "tweet_count": 3881
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2015-08-04T14:05:01.000Z",
+        "description": "instagram: https://t.co/vV5HPsy6Hl\n\n@BIKE1OOYEARS\n\n🇧🇷",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "BIKE1OOYEARS"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/spacecannabisb…",
+                "end": 34,
+                "expanded_url": "https://www.instagram.com/spacecannabisbrasil/",
+                "start": 11,
+                "url": "https://t.co/vV5HPsy6Hl"
+              }
+            ]
+          }
+        },
+        "id": "3402790198",
+        "location": "São Paulo, Brasil",
+        "name": "SpaceCannabis 🍃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041366436640141312/GKMxmS5d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257283,
+          "following_count": 359,
+          "like_count": 235,
+          "listed_count": 93,
+          "media_count": 2482,
+          "tweet_count": 2615
+        },
+        "username": "SPACECANNABIS",
+        "verified": false
+      }
+    ]
+  }
+}

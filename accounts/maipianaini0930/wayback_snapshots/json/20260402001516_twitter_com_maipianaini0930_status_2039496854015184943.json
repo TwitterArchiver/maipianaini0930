@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039386665668772263",
+    "created_at": "2026-04-02T00:15:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T01:15:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039496854015184943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1483472245062209536",
+          "start": 0,
+          "username": "fuku_2cc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039496854015184943",
+    "in_reply_to_user_id": "1483472245062209536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039386665668772263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuku_2cc 生日礼物是一口威士忌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039386665668772263",
+        "created_at": "2026-04-02T00:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T01:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039496854015184943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1483472245062209536",
+              "start": 0,
+              "username": "fuku_2cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039496854015184943",
+        "in_reply_to_user_id": "1483472245062209536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039386665668772263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuku_2cc 生日礼物是一口威士忌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483472245062209536",
+        "conversation_id": "2039386665668772263",
+        "created_at": "2026-04-01T16:57:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T17:57:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039386665668772263"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039386665668772263",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "22岁的第一个凌晨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 245,
+          "like_count": 7277,
+          "listed_count": 0,
+          "media_count": 408,
+          "tweet_count": 2710
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T16:12:20.000Z",
+        "description": "知らない",
+        "id": "1483472245062209536",
+        "name": "冰冻人脑慕斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672299870986829825/tkFRDGVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 205,
+          "like_count": 16181,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 3228
+        },
+        "username": "fuku_2cc",
+        "verified": false
+      }
+    ]
+  }
+}

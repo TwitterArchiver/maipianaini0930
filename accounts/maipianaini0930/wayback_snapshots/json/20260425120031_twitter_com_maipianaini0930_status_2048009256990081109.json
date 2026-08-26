@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2047572480605421944",
+    "created_at": "2026-04-25T12:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T13:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048009256990081109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1094420453261746176",
+          "start": 0,
+          "username": "shadowKrysztal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048009256990081109",
+    "in_reply_to_user_id": "1094420453261746176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047572480605421944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shadowKrysztal 像kino乐队的专辑封面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1938,
+        "media_key": "3_2047572475949756416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpwUYDaMAAK_yU.jpg",
+        "width": 960
+      },
+      {
+        "height": 1938,
+        "media_key": "3_2047572476394385408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpwUZtasAAdaQw.jpg",
+        "width": 960
+      },
+      {
+        "height": 1938,
+        "media_key": "3_2047572476583161856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpwUaabMAAT6Pc.jpg",
+        "width": 960
+      },
+      {
+        "height": 1938,
+        "media_key": "3_2047572477879169025",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGpwUfPasAE2DsB.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2047572480605421944",
+        "created_at": "2026-04-25T12:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T13:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048009256990081109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1094420453261746176",
+              "start": 0,
+              "username": "shadowKrysztal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048009256990081109",
+        "in_reply_to_user_id": "1094420453261746176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047572480605421944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shadowKrysztal 像kino乐队的专辑封面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047572475949756416",
+            "3_2047572476394385408",
+            "3_2047572476583161856",
+            "3_2047572477879169025"
+          ]
+        },
+        "author_id": "1094420453261746176",
+        "conversation_id": "2047572480605421944",
+        "created_at": "2026-04-24T07:04:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:04:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047572480605421944"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRVYm707hU",
+              "end": 54,
+              "expanded_url": "https://x.com/shadowKrysztal/status/2047572480605421944/photo/1",
+              "media_key": "3_2047572475949756416",
+              "start": 31,
+              "url": "https://t.co/tRVYm707hU"
+            },
+            {
+              "display_url": "pic.x.com/tRVYm707hU",
+              "end": 54,
+              "expanded_url": "https://x.com/shadowKrysztal/status/2047572480605421944/photo/1",
+              "media_key": "3_2047572476394385408",
+              "start": 31,
+              "url": "https://t.co/tRVYm707hU"
+            },
+            {
+              "display_url": "pic.x.com/tRVYm707hU",
+              "end": 54,
+              "expanded_url": "https://x.com/shadowKrysztal/status/2047572480605421944/photo/1",
+              "media_key": "3_2047572476583161856",
+              "start": 31,
+              "url": "https://t.co/tRVYm707hU"
+            },
+            {
+              "display_url": "pic.x.com/tRVYm707hU",
+              "end": 54,
+              "expanded_url": "https://x.com/shadowKrysztal/status/2047572480605421944/photo/1",
+              "media_key": "3_2047572477879169025",
+              "start": 31,
+              "url": "https://t.co/tRVYm707hU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047572480605421944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 454,
+          "impression_count": 341584,
+          "like_count": 2947,
+          "quote_count": 44,
+          "reply_count": 269,
+          "retweet_count": 176
+        },
+        "reply_settings": "everyone",
+        "text": "这种设计我立起来看。⏰航天去哪儿抓壮丁了居然抓到了如此高人。 https://t.co/tRVYm707hU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 320,
+          "following_count": 278,
+          "like_count": 8747,
+          "listed_count": 1,
+          "media_count": 534,
+          "tweet_count": 3386
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-10T02:19:04.000Z",
+        "description": "NSFW Account | Non-AI Content | 它已踏上旅途，消失在时刻的彼方 | 常驻四川 | Single",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.krysztal.dev",
+                "end": 23,
+                "expanded_url": "https://blog.krysztal.dev",
+                "start": 0,
+                "url": "https://t.co/GyAtCswHRL"
+              }
+            ]
+          }
+        },
+        "id": "1094420453261746176",
+        "location": "Beside you.",
+        "name": "krysztal.rs",
+        "pinned_tweet_id": "2032541438949601694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037598712911007744/U8R-GNfY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1910,
+          "following_count": 1073,
+          "like_count": 22790,
+          "listed_count": 3,
+          "media_count": 2119,
+          "tweet_count": 38978
+        },
+        "url": "https://t.co/GyAtCswHRL",
+        "username": "shadowKrysztal",
+        "verified": false
+      }
+    ]
+  }
+}

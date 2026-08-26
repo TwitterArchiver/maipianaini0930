@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2047954415924207783",
+    "created_at": "2026-04-25T08:31:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T09:31:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047956685541789796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594280404504444931",
+          "start": 0,
+          "username": "LichitLich"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047956685541789796",
+    "in_reply_to_user_id": "1594280404504444931",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047956011416441244",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LichitLich 真的假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2047954415924207783",
+        "created_at": "2026-04-25T08:31:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:31:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047956685541789796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594280404504444931",
+              "start": 0,
+              "username": "LichitLich"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047956685541789796",
+        "in_reply_to_user_id": "1594280404504444931",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047956011416441244",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LichitLich 真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594280404504444931",
+        "conversation_id": "2047954415924207783",
+        "created_at": "2026-04-25T08:28:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047956011416441244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047956011416441244",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047954415924207783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 第二张图很像电棍"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 275,
+          "like_count": 8639,
+          "listed_count": 1,
+          "media_count": 530,
+          "tweet_count": 3344
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T10:44:50.000Z",
+        "description": "male//泛性恋//麦当劳薯饼//减肥//#东方project//没脾气//纯良//好色//fallout//试着戒烟//碎碎念//收集喜欢的文字//我的爱人是 @R18Giano",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 32,
+                "start": 22,
+                "tag": "东方project"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "R18Giano"
+              }
+            ]
+          }
+        },
+        "id": "1594280404504444931",
+        "name": "Lich🐱🙏心怀信念，救助苦难",
+        "pinned_tweet_id": "2040511334354485327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042425919135223808/Qp2rYOg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 2641,
+          "like_count": 28307,
+          "listed_count": 6,
+          "media_count": 1216,
+          "tweet_count": 9348
+        },
+        "username": "LichitLich",
+        "verified": false
+      }
+    ]
+  }
+}

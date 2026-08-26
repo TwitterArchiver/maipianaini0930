@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037494529495101576",
+    "created_at": "2026-03-27T11:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T12:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037496100085764387"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1749719755119071232",
+          "start": 0,
+          "username": "lan_shang32900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037496100085764387",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037495388601745867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lan_shang32900 我认识一个酒精过敏一喝酒就浑身起疹子的人，被我带的现在天天喝酒）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037494529495101576",
+        "created_at": "2026-03-27T11:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037496100085764387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037496100085764387",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037495388601745867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 我认识一个酒精过敏一喝酒就浑身起疹子的人，被我带的现在天天喝酒）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2037494529495101576",
+        "created_at": "2026-03-27T11:42:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T12:42:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037495388601745867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037495388601745867",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037494529495101576",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 好希望迷你瓶空瓶也可以这样用（喜欢喝但酒精不耐受的家伙）（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 251,
+          "like_count": 6843,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 2513
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1079,
+          "following_count": 759,
+          "like_count": 39727,
+          "listed_count": 3,
+          "media_count": 752,
+          "tweet_count": 10323
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

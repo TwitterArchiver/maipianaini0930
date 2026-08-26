@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032047429558956032"
+      ],
+      "media_source_tweet_id": [
+        "2032047431576404440"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2032056681656697091",
+    "created_at": "2026-03-12T11:30:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-12T12:30:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032056681656697091"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2032043767713452032",
+          "start": 3,
+          "username": "CABR_Lies"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/35zXzMHGQf",
+          "end": 100,
+          "expanded_url": "https://x.com/CABR_Lies/status/2032047431576404440/photo/1",
+          "media_key": "3_2032047429558956032",
+          "start": 77,
+          "url": "https://t.co/35zXzMHGQf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032056681656697091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032047431576404440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CABR_Lies: 可以帮我转发一下吗？我是枭儿，睡了一觉不小心把自己睡到平行世界了，号被封掉了。换号是最他娘麻烦的。还得麻烦大家再找一次我。 https://t.co/35zXzMHGQf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1117,
+        "media_key": "3_2032047429558956032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDNIXvWbcAAqn2S.jpg",
+        "width": 1264
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032047429558956032"
+          ],
+          "media_source_tweet_id": [
+            "2032047431576404440"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032056681656697091",
+        "created_at": "2026-03-12T11:30:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T12:30:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032056681656697091"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2032043767713452032",
+              "start": 3,
+              "username": "CABR_Lies"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/35zXzMHGQf",
+              "end": 100,
+              "expanded_url": "https://x.com/CABR_Lies/status/2032047431576404440/photo/1",
+              "media_key": "3_2032047429558956032",
+              "start": 77,
+              "url": "https://t.co/35zXzMHGQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032056681656697091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032047431576404440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CABR_Lies: 可以帮我转发一下吗？我是枭儿，睡了一觉不小心把自己睡到平行世界了，号被封掉了。换号是最他娘麻烦的。还得麻烦大家再找一次我。 https://t.co/35zXzMHGQf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032047429558956032"
+          ]
+        },
+        "author_id": "2032043767713452032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2032047431576404440",
+        "created_at": "2026-03-12T10:53:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T11:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032047431576404440"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/35zXzMHGQf",
+              "end": 85,
+              "expanded_url": "https://x.com/CABR_Lies/status/2032047431576404440/photo/1",
+              "media_key": "3_2032047429558956032",
+              "start": 62,
+              "url": "https://t.co/35zXzMHGQf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032047431576404440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 183,
+          "like_count": 8,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "可以帮我转发一下吗？我是枭儿，睡了一觉不小心把自己睡到平行世界了，号被封掉了。换号是最他娘麻烦的。还得麻烦大家再找一次我。 https://t.co/35zXzMHGQf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 230,
+          "like_count": 5649,
+          "listed_count": 0,
+          "media_count": 312,
+          "tweet_count": 1941
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T10:39:31.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #drugtwt #shtwt ｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚𝕝𝕦𝕧 𝕝𝕚𝕜𝕖 𝕣𝕠𝕔𝕜 𝕣𝕠𝕝𝕝",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 59,
+                "start": 51,
+                "tag": "drugtwt"
+              },
+              {
+                "end": 66,
+                "start": 60,
+                "tag": "shtwt"
+              }
+            ]
+          }
+        },
+        "id": "2032043767713452032",
+        "location": "𝟐𝟕𝐂𝐥𝐮𝐛",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2032047608798302418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032044042373173248/P0TOWWQb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 1,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 11
+        },
+        "username": "CABR_Lies",
+        "verified": false
+      }
+    ]
+  }
+}

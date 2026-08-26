@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079766339678535994",
+    "created_at": "2026-07-22T07:55:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:55:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079837646029987916"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079837646029987916",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079766339678535994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079766339678535994",
+        "created_at": "2026-07-22T07:55:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:55:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079837646029987916"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079837646029987916",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079766339678535994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079766339678535994",
+        "created_at": "2026-07-22T03:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079766339678535994"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2078761601214394721",
+              "start": 21,
+              "url": "https://t.co/tzmA47TPEX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079766339678535994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078761601214394721",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想早点出掉可以转发给点流量吗啊啊啊啊啊 https://t.co/tzmA47TPEX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 302,
+          "like_count": 11251,
+          "listed_count": 1,
+          "media_count": 748,
+          "tweet_count": 4972
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059194226810945536"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2059194244024386025",
+    "created_at": "2026-05-26T08:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059194244024386025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EPu1uqk1Qy",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2059194244024386025/photo/1",
+          "media_key": "3_2059194226810945536",
+          "start": 0,
+          "url": "https://t.co/EPu1uqk1Qy"
+        },
+        {
+          "display_url": "x.com/fanjfao/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/fanjfao/status/2059193135113162843",
+          "start": 24,
+          "url": "https://t.co/IX2dMtyNkO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059194244024386025",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059193135113162843",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/EPu1uqk1Qy https://t.co/IX2dMtyNkO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2059194226810945536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJO6PTyaAAAZELL.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059194226810945536"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059194244024386025",
+        "created_at": "2026-05-26T08:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059194244024386025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EPu1uqk1Qy",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2059194244024386025/photo/1",
+              "media_key": "3_2059194226810945536",
+              "start": 0,
+              "url": "https://t.co/EPu1uqk1Qy"
+            },
+            {
+              "display_url": "x.com/fanjfao/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/fanjfao/status/2059193135113162843",
+              "start": 24,
+              "url": "https://t.co/IX2dMtyNkO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059194244024386025",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059193135113162843",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/EPu1uqk1Qy https://t.co/IX2dMtyNkO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056015134812946432",
+        "conversation_id": "2059189155788476665",
+        "created_at": "2026-05-26T08:41:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:41:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059193135113162843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059193135113162843",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059192314212634649",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 讨口子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 281,
+          "like_count": 9748,
+          "listed_count": 2,
+          "media_count": 621,
+          "tweet_count": 4078
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T14:14:10.000Z",
+        "description": "",
+        "id": "2056015134812946432",
+        "name": "Fan",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 23
+        },
+        "username": "Fanjfao",
+        "verified": false
+      }
+    ]
+  }
+}

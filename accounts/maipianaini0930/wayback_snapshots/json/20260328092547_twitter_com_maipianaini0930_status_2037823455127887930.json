@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037692429093228663",
+    "created_at": "2026-03-28T09:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T10:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037823455127887930"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "433484367",
+          "start": 0,
+          "username": "tanhuanbing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037823455127887930",
+    "in_reply_to_user_id": "433484367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037692429093228663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tanhuanbing 这个黄咖喱好诱人"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037692393856835585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdWb6FaIAEXy_6.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037692393827471360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdWb5-aEAATiTk.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037692393835859968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdWb6AaEAAFziy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037692393823318016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEdWb59asAAFpX0.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037692429093228663",
+        "created_at": "2026-03-28T09:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T10:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037823455127887930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "433484367",
+              "start": 0,
+              "username": "tanhuanbing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037823455127887930",
+        "in_reply_to_user_id": "433484367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037692429093228663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tanhuanbing 这个黄咖喱好诱人"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037692393856835585",
+            "3_2037692393827471360",
+            "3_2037692393835859968",
+            "3_2037692393823318016"
+          ]
+        },
+        "author_id": "433484367",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2037692429093228663",
+        "created_at": "2026-03-28T00:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T01:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037692429093228663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0pUwb4xq4A",
+              "end": 28,
+              "expanded_url": "https://x.com/tanhuanbing/status/2037692429093228663/photo/1",
+              "media_key": "3_2037692393856835585",
+              "start": 5,
+              "url": "https://t.co/0pUwb4xq4A"
+            },
+            {
+              "display_url": "pic.x.com/0pUwb4xq4A",
+              "end": 28,
+              "expanded_url": "https://x.com/tanhuanbing/status/2037692429093228663/photo/1",
+              "media_key": "3_2037692393827471360",
+              "start": 5,
+              "url": "https://t.co/0pUwb4xq4A"
+            },
+            {
+              "display_url": "pic.x.com/0pUwb4xq4A",
+              "end": 28,
+              "expanded_url": "https://x.com/tanhuanbing/status/2037692429093228663/photo/1",
+              "media_key": "3_2037692393835859968",
+              "start": 5,
+              "url": "https://t.co/0pUwb4xq4A"
+            },
+            {
+              "display_url": "pic.x.com/0pUwb4xq4A",
+              "end": 28,
+              "expanded_url": "https://x.com/tanhuanbing/status/2037692429093228663/photo/1",
+              "media_key": "3_2037692393823318016",
+              "start": 5,
+              "url": "https://t.co/0pUwb4xq4A"
+            },
+            {
+              "display_url": "x.com/tanhuanbing/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/tanhuanbing/status/2037684040829194516",
+              "start": 29,
+              "url": "https://t.co/wmhYHr30j6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037692429093228663",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2230,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037684040829194516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看菜系 https://t.co/0pUwb4xq4A https://t.co/wmhYHr30j6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 251,
+          "like_count": 7001,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 2586
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2011-12-10T16:39:01.000Z",
+        "description": "wocengjingkuaguoshanhedahai~~",
+        "id": "433484367",
+        "name": "瘫痪饼",
+        "pinned_tweet_id": "1697019948277879195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1584942339557969920/WwsQAvpt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26149,
+          "following_count": 3451,
+          "like_count": 31687,
+          "listed_count": 92,
+          "media_count": 7062,
+          "tweet_count": 17016
+        },
+        "username": "tanhuanbing",
+        "verified": false
+      }
+    ]
+  }
+}

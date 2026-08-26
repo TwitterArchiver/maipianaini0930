@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027967149894209541",
+        "3_2027967149902598144",
+        "3_2027967149915181059",
+        "3_2027967149906792448"
+      ],
+      "media_source_tweet_id": [
+        "2027967171951989208",
+        "2027967171951989208",
+        "2027967171951989208",
+        "2027967171951989208"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028096548530491551",
+    "created_at": "2026-03-01T13:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-01T14:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028096548530491551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1539262209619939329",
+          "start": 3,
+          "username": "jujuqqqzzzzzzz"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/snNdCyy8Yi",
+          "end": 129,
+          "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+          "media_key": "3_2027967149894209541",
+          "start": 106,
+          "url": "https://t.co/snNdCyy8Yi"
+        },
+        {
+          "display_url": "pic.x.com/snNdCyy8Yi",
+          "end": 129,
+          "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+          "media_key": "3_2027967149902598144",
+          "start": 106,
+          "url": "https://t.co/snNdCyy8Yi"
+        },
+        {
+          "display_url": "pic.x.com/snNdCyy8Yi",
+          "end": 129,
+          "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+          "media_key": "3_2027967149915181059",
+          "start": 106,
+          "url": "https://t.co/snNdCyy8Yi"
+        },
+        {
+          "display_url": "pic.x.com/snNdCyy8Yi",
+          "end": 129,
+          "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+          "media_key": "3_2027967149906792448",
+          "start": 106,
+          "url": "https://t.co/snNdCyy8Yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028096548530491551",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 694
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027967171951989208",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jujuqqqzzzzzzz: 서울 놀러와 사진 찍으며 느낀건데 서울 특유의 이런 딱딱? 감성이 참 재밋는 것 같아요 ㅋㅋㅋㅋㅋ 딱딱한데 먼가 낡았음 어휘력 딸려서 표현이 안된듀,,, https://t.co/snNdCyy8Yi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2027967149894209541",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTJYNGbEAUvgV9.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2027967149902598144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTJYNIbEAAWfLM.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1602,
+        "media_key": "3_2027967149915181059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTJYNLbEAMO64K.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2027967149906792448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCTJYNJbEAArX3q.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027967149894209541",
+            "3_2027967149902598144",
+            "3_2027967149915181059",
+            "3_2027967149906792448"
+          ],
+          "media_source_tweet_id": [
+            "2027967171951989208",
+            "2027967171951989208",
+            "2027967171951989208",
+            "2027967171951989208"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028096548530491551",
+        "created_at": "2026-03-01T13:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028096548530491551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1539262209619939329",
+              "start": 3,
+              "username": "jujuqqqzzzzzzz"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/snNdCyy8Yi",
+              "end": 129,
+              "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+              "media_key": "3_2027967149894209541",
+              "start": 106,
+              "url": "https://t.co/snNdCyy8Yi"
+            },
+            {
+              "display_url": "pic.x.com/snNdCyy8Yi",
+              "end": 129,
+              "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+              "media_key": "3_2027967149902598144",
+              "start": 106,
+              "url": "https://t.co/snNdCyy8Yi"
+            },
+            {
+              "display_url": "pic.x.com/snNdCyy8Yi",
+              "end": 129,
+              "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+              "media_key": "3_2027967149915181059",
+              "start": 106,
+              "url": "https://t.co/snNdCyy8Yi"
+            },
+            {
+              "display_url": "pic.x.com/snNdCyy8Yi",
+              "end": 129,
+              "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+              "media_key": "3_2027967149906792448",
+              "start": 106,
+              "url": "https://t.co/snNdCyy8Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028096548530491551",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 694
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027967171951989208",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jujuqqqzzzzzzz: 서울 놀러와 사진 찍으며 느낀건데 서울 특유의 이런 딱딱? 감성이 참 재밋는 것 같아요 ㅋㅋㅋㅋㅋ 딱딱한데 먼가 낡았음 어휘력 딸려서 표현이 안된듀,,, https://t.co/snNdCyy8Yi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027967149894209541",
+            "3_2027967149902598144",
+            "3_2027967149915181059",
+            "3_2027967149906792448"
+          ]
+        },
+        "author_id": "1539262209619939329",
+        "conversation_id": "2027967171951989208",
+        "created_at": "2026-03-01T04:40:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T05:40:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027967171951989208"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/snNdCyy8Yi",
+              "end": 109,
+              "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+              "media_key": "3_2027967149894209541",
+              "start": 86,
+              "url": "https://t.co/snNdCyy8Yi"
+            },
+            {
+              "display_url": "pic.x.com/snNdCyy8Yi",
+              "end": 109,
+              "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+              "media_key": "3_2027967149902598144",
+              "start": 86,
+              "url": "https://t.co/snNdCyy8Yi"
+            },
+            {
+              "display_url": "pic.x.com/snNdCyy8Yi",
+              "end": 109,
+              "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+              "media_key": "3_2027967149915181059",
+              "start": 86,
+              "url": "https://t.co/snNdCyy8Yi"
+            },
+            {
+              "display_url": "pic.x.com/snNdCyy8Yi",
+              "end": 109,
+              "expanded_url": "https://x.com/jujuqqqzzzzzzz/status/2027967171951989208/photo/1",
+              "media_key": "3_2027967149906792448",
+              "start": 86,
+              "url": "https://t.co/snNdCyy8Yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027967171951989208",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 762,
+          "impression_count": 213647,
+          "like_count": 4024,
+          "quote_count": 470,
+          "reply_count": 12,
+          "retweet_count": 694
+        },
+        "reply_settings": "everyone",
+        "text": "서울 놀러와 사진 찍으며 느낀건데 서울 특유의 이런 딱딱? 감성이 참 재밋는 것 같아요 ㅋㅋㅋㅋㅋ 딱딱한데 먼가 낡았음 어휘력 딸려서 표현이 안된듀,,, https://t.co/snNdCyy8Yi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 216,
+          "like_count": 5085,
+          "listed_count": 0,
+          "media_count": 251,
+          "tweet_count": 1623
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-21T15:01:32.000Z",
+        "description": "Illustrator | Artwork | Collab 외주 및 협업 문의 ✉️ jujuqqqzzzzzzz@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/jujuqqqzzzzzzz",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/jujuqqqzzzzzzz",
+                "start": 0,
+                "url": "https://t.co/QILJr73xqW"
+              }
+            ]
+          }
+        },
+        "id": "1539262209619939329",
+        "name": "주",
+        "pinned_tweet_id": "2018625019379908791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004836986344120320/WYsWI0RX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20505,
+          "following_count": 973,
+          "like_count": 4723,
+          "listed_count": 95,
+          "media_count": 1004,
+          "tweet_count": 4218
+        },
+        "url": "https://t.co/QILJr73xqW",
+        "username": "jujuqqqzzzzzzz",
+        "verified": false
+      }
+    ]
+  }
+}

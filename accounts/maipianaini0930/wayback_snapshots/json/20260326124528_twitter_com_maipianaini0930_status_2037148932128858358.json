@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037147040413868471",
+    "created_at": "2026-03-26T12:45:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037148932128858358"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2037148932128858358",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037147040413868471",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我可不要坐牢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 933,
+        "media_key": "3_2037147028623679489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVmbeRbYAEAzo5.jpg",
+        "width": 750
+      },
+      {
+        "height": 909,
+        "media_key": "3_2037147028615290884",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVmbePbYAQXEhx.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037147040413868471",
+        "created_at": "2026-03-26T12:45:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037148932128858358"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037148932128858358",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037147040413868471",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我可不要坐牢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037147028623679489",
+            "3_2037147028615290884"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037147040413868471",
+        "created_at": "2026-03-26T12:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037147040413868471"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YhAPYnLaFn",
+              "end": 35,
+              "expanded_url": "https://x.com/maipianaini0930/status/2037147040413868471/photo/1",
+              "media_key": "3_2037147028623679489",
+              "start": 12,
+              "url": "https://t.co/YhAPYnLaFn"
+            },
+            {
+              "display_url": "pic.x.com/YhAPYnLaFn",
+              "end": 35,
+              "expanded_url": "https://x.com/maipianaini0930/status/2037147040413868471/photo/1",
+              "media_key": "3_2037147028615290884",
+              "start": 12,
+              "url": "https://t.co/YhAPYnLaFn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037147040413868471",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我入狱照也就拍成这样了 https://t.co/YhAPYnLaFn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 250,
+          "like_count": 6721,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 2463
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2043668016400068884",
+    "created_at": "2026-04-13T12:29:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T13:29:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043668016400068884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hitman_t800/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/hitman_t800/status/2043637175854747773",
+          "start": 5,
+          "url": "https://t.co/GEumIF4XsW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043668016400068884",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043637175854747773",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想试试 https://t.co/GEumIF4XsW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2844,
+        "media_key": "3_2043637135375474688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFx1JZ_aIAANxDG.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2043668016400068884",
+        "created_at": "2026-04-13T12:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T13:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043668016400068884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hitman_t800/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/hitman_t800/status/2043637175854747773",
+              "start": 5,
+              "url": "https://t.co/GEumIF4XsW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043668016400068884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043637175854747773",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想试试 https://t.co/GEumIF4XsW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043637135375474688"
+          ]
+        },
+        "author_id": "1425706149060308994",
+        "conversation_id": "2043637175854747773",
+        "created_at": "2026-04-13T10:27:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:27:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043637175854747773"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HYHwdgfpHi",
+              "end": 35,
+              "expanded_url": "https://x.com/Hitman_T800/status/2043637175854747773/photo/1",
+              "media_key": "3_2043637135375474688",
+              "start": 12,
+              "url": "https://t.co/HYHwdgfpHi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043637175854747773",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 9,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想试试但是一个人怎么办 https://t.co/HYHwdgfpHi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2043643748257788371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 274,
+          "like_count": 8094,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 3093
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T06:30:25.000Z",
+        "description": "普通人的碎碎念/男的/视奸bot",
+        "id": "1425706149060308994",
+        "name": "仿生人T800",
+        "pinned_tweet_id": "1905188226819854730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993362668347170816/31pbj8ku_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 675,
+          "like_count": 59543,
+          "listed_count": 3,
+          "media_count": 657,
+          "tweet_count": 9055
+        },
+        "username": "Hitman_T800",
+        "verified": false
+      }
+    ]
+  }
+}

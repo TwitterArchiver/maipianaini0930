@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037661743632310373",
+    "created_at": "2026-03-28T02:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T03:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037713890612752568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1697058929358897152",
+          "start": 0,
+          "username": "UGG2029176"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037713890612752568",
+    "in_reply_to_user_id": "1697058929358897152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037713736526594227",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UGG2029176 没抽过，你给我买啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037661743632310373",
+        "created_at": "2026-03-28T02:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037713890612752568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1697058929358897152",
+              "start": 0,
+              "username": "UGG2029176"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037713890612752568",
+        "in_reply_to_user_id": "1697058929358897152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037713736526594227",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UGG2029176 没抽过，你给我买啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1697058929358897152",
+        "conversation_id": "2037661743632310373",
+        "created_at": "2026-03-28T02:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T03:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037713736526594227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037713736526594227",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037661743632310373",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 大麻什么感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 250,
+          "like_count": 6892,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 2545
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-31T01:30:12.000Z",
+        "description": "无套hifun.嗨艹",
+        "id": "1697058929358897152",
+        "location": "West Region, Singapore",
+        "name": "hi fun 嗨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1697079160399667200/J16DNZRw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3590,
+          "following_count": 282,
+          "like_count": 17,
+          "listed_count": 9,
+          "media_count": 25,
+          "tweet_count": 999
+        },
+        "username": "UGG2029176",
+        "verified": false
+      }
+    ]
+  }
+}

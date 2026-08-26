@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2018947096263692376",
+    "created_at": "2026-02-04T07:17:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:17:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018947096263692376"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842194704508796928",
+          "start": 3,
+          "username": "zongke1898"
+        },
+        {
+          "end": 31,
+          "id": "1863793428045459456",
+          "start": 16,
+          "username": "Zhirendedie123"
+        },
+        {
+          "end": 43,
+          "id": "1851166889655091202",
+          "start": 32,
+          "username": "DEERJU2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018947096263692376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 40
+    },
+    "referenced_tweets": [
+      {
+        "id": "1878366728968958353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zongke1898: @Zhirendedie123 @DEERJU2024 仇富，是无产阶级优越的道德品质，是无产者朴素的阶级感情，是在私有制里孕育着的公有制胚胎，优秀的无产者必备的品质。"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Zhirendedie123].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Zhirendedie123",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Zhirendedie123"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2018947096263692376",
+        "created_at": "2026-02-04T07:17:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018947096263692376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842194704508796928",
+              "start": 3,
+              "username": "zongke1898"
+            },
+            {
+              "end": 31,
+              "id": "1863793428045459456",
+              "start": 16,
+              "username": "Zhirendedie123"
+            },
+            {
+              "end": 43,
+              "id": "1851166889655091202",
+              "start": 32,
+              "username": "DEERJU2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018947096263692376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878366728968958353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zongke1898: @Zhirendedie123 @DEERJU2024 仇富，是无产阶级优越的道德品质，是无产者朴素的阶级感情，是在私有制里孕育着的公有制胚胎，优秀的无产者必备的品质。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842194704508796928",
+        "conversation_id": "1878062861362090200",
+        "created_at": "2025-01-12T09:01:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-12T10:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1878366728968958353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1863793428045459456",
+              "start": 0,
+              "username": "Zhirendedie123"
+            },
+            {
+              "end": 27,
+              "id": "1851166889655091202",
+              "start": 16,
+              "username": "DEERJU2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1878366728968958353",
+        "in_reply_to_user_id": "1863793428045459456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 26980,
+          "like_count": 285,
+          "quote_count": 6,
+          "reply_count": 10,
+          "retweet_count": 40
+        },
+        "referenced_tweets": [
+          {
+            "id": "1878071062912782385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zhirendedie123 @DEERJU2024 仇富，是无产阶级优越的道德品质，是无产者朴素的阶级感情，是在私有制里孕育着的公有制胚胎，优秀的无产者必备的品质。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 217,
+          "like_count": 3744,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1152
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-04T13:27:07.000Z",
+        "description": "天下大乱，形势大好！     \n                             \n武攻文卫，天翻地覆！@luchishui1898\n        一切权力归劳动者！推翻中帝！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "luchishui1898"
+              }
+            ]
+          }
+        },
+        "id": "1842194704508796928",
+        "name": "康生.(Константин.)",
+        "pinned_tweet_id": "1983199839296074263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970197416638062594/dOdintF8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3046,
+          "following_count": 154,
+          "like_count": 18542,
+          "listed_count": 22,
+          "media_count": 513,
+          "tweet_count": 4902
+        },
+        "username": "zongke1898",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-29T07:39:32.000Z",
+        "description": "辩证法是实在世界中一切运动、一切生命、一切事业之推动的原则/\n我在他中直观到作为自我的我自己，然而在他中又直观到一个直接现存着的、作为自我而与我对立的、绝对独立的另一个客体。——黑格尔\n\n/要么是列宁主义，要么不是马克思主义。/Carry the revolution through the end.",
+        "id": "1851166889655091202",
+        "name": "Durkey",
+        "pinned_tweet_id": "2005364586413998209",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003359414171127808/qr6PQvyn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1743,
+          "following_count": 53,
+          "like_count": 626,
+          "listed_count": 12,
+          "media_count": 542,
+          "tweet_count": 8233
+        },
+        "username": "DEERJU2024",
+        "verified": false
+      }
+    ]
+  }
+}

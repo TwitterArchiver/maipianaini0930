@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2031739050655359238",
+    "created_at": "2026-03-11T14:28:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T15:28:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031739050655359238"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031739050655359238",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我已经有点觉得喝酒无趣了，渴望更极端更容易成瘾的享乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2031739050655359238",
+        "created_at": "2026-03-11T14:28:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T15:28:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031739050655359238"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031739050655359238",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我已经有点觉得喝酒无趣了，渴望更极端更容易成瘾的享乐"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 228,
+          "like_count": 5824,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 1917
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

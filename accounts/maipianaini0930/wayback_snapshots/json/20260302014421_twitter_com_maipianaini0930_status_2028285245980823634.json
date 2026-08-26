@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028285245980823634",
+    "created_at": "2026-03-02T01:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T02:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028285245980823634"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "NGL: Anonymous Q&A",
+          "display_url": "ngl.link/lcandy",
+          "end": 23,
+          "expanded_url": "http://ngl.link/lcandy",
+          "images": [
+            {
+              "height": 631,
+              "url": "https://pbs.twimg.com/news_img/2028096426262319104/uOfJnt-j?format=jpg&name=orig",
+              "width": 1201
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2028096426262319104/uOfJnt-j?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "@lcandy: Send me anonymous messages!",
+          "unwound_url": "https://ngl.link/lcandy",
+          "url": "https://t.co/DVW0RXQTTy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028285245980823634",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/DVW0RXQTTy\n\n肆无忌惮放心大胆问：👂🏼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028285245980823634",
+        "created_at": "2026-03-02T01:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028285245980823634"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "NGL: Anonymous Q&A",
+              "display_url": "ngl.link/lcandy",
+              "end": 23,
+              "expanded_url": "http://ngl.link/lcandy",
+              "images": [
+                {
+                  "height": 631,
+                  "url": "https://pbs.twimg.com/news_img/2028096426262319104/uOfJnt-j?format=jpg&name=orig",
+                  "width": 1201
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2028096426262319104/uOfJnt-j?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "@lcandy: Send me anonymous messages!",
+              "unwound_url": "https://ngl.link/lcandy",
+              "url": "https://t.co/DVW0RXQTTy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028285245980823634",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DVW0RXQTTy\n\n肆无忌惮放心大胆问：👂🏼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 216,
+          "like_count": 5117,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 1629
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

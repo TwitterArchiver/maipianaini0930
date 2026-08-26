@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2002993361691836531",
+    "created_at": "2025-12-22T06:43:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T07:43:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002993361691836531"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 138,
+          "normalized_text": "Palestin",
+          "probability": 0.3306,
+          "start": 131,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1934228741938393089",
+          "start": 3,
+          "username": "Communist977"
+        },
+        {
+          "end": 29,
+          "id": "1513410916473192450",
+          "start": 18,
+          "username": "PamphletsY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002993361691836531",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002442704618434704",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Communist977: @PamphletsY Sadly their government sells drones and other electronic equipment to zionists to track and genocide Palestin…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2002993361691836531",
+        "created_at": "2025-12-22T06:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002993361691836531"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 138,
+              "normalized_text": "Palestin",
+              "probability": 0.3306,
+              "start": 131,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934228741938393089",
+              "start": 3,
+              "username": "Communist977"
+            },
+            {
+              "end": 29,
+              "id": "1513410916473192450",
+              "start": 18,
+              "username": "PamphletsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002993361691836531",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002442704618434704",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Communist977: @PamphletsY Sadly their government sells drones and other electronic equipment to zionists to track and genocide Palestin…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934228741938393089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2002374975462789540",
+        "created_at": "2025-12-20T18:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T19:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002442704618434704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1513410916473192450",
+              "start": 0,
+              "username": "PamphletsY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002442704618434704",
+        "in_reply_to_user_id": "1513410916473192450",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 5971,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002374975462789540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PamphletsY Sadly their government sells drones and other electronic equipment to zionists to track and genocide Palestinians."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130,
+          "following_count": 184,
+          "like_count": 2145,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 725
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T12:37:36.000Z",
+        "description": "Workers of the world, unite! Geo political commentary.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/commun…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/communist977.bsky.social",
+                "start": 0,
+                "url": "https://t.co/iG94pU2Es1"
+              }
+            ]
+          }
+        },
+        "id": "1934228741938393089",
+        "location": "Nepal",
+        "name": "Communist ☭★",
+        "pinned_tweet_id": "1994810054189719783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979942274562674688/or7Xrswd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 107,
+          "like_count": 5092,
+          "listed_count": 4,
+          "media_count": 400,
+          "tweet_count": 5427
+        },
+        "url": "https://t.co/iG94pU2Es1",
+        "username": "Communist977",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T06:57:42.000Z",
+        "description": "🚨 ▂▃▅ 70% Politically Correct  ▅▃▂ 🇵🇸",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pamphlets.blog/links",
+                "end": 23,
+                "expanded_url": "http://pamphlets.blog/links",
+                "start": 0,
+                "url": "https://t.co/lsuoWGx5Np"
+              }
+            ]
+          }
+        },
+        "id": "1513410916473192450",
+        "location": "Beijing",
+        "name": "Pamphlets",
+        "pinned_tweet_id": "2002279429704159612",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947829069183160320/N3ED3-jP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127103,
+          "following_count": 10641,
+          "like_count": 88731,
+          "listed_count": 1151,
+          "media_count": 26130,
+          "tweet_count": 59715
+        },
+        "url": "https://t.co/lsuoWGx5Np",
+        "username": "PamphletsY",
+        "verified": true
+      }
+    ]
+  }
+}

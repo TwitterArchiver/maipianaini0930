@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2084472911436579323",
+    "created_at": "2026-08-04T03:49:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T04:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084486828082819117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693124545492983808",
+          "start": 0,
+          "username": "rustInsidee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084486828082819117",
+    "in_reply_to_user_id": "1693124545492983808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084486177571389939",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rustInsidee 我现在就躲里面呢😈😈😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2084472911436579323",
+        "created_at": "2026-08-04T03:49:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084486828082819117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693124545492983808",
+              "start": 0,
+              "username": "rustInsidee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084486828082819117",
+        "in_reply_to_user_id": "1693124545492983808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084486177571389939",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rustInsidee 我现在就躲里面呢😈😈😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693124545492983808",
+        "conversation_id": "2084472911436579323",
+        "created_at": "2026-08-04T03:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084486177571389939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084486177571389939",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084472911436579323",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 我昨天刚去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 305,
+          "like_count": 11334,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 5111
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T04:55:41.000Z",
+        "description": "我純潔的一刻勝過你一生的謊言",
+        "id": "1693124545492983808",
+        "name": "她在時間門外",
+        "pinned_tweet_id": "1742580780474478784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004070213848055808/sNu-TCBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8432,
+          "following_count": 445,
+          "like_count": 11750,
+          "listed_count": 23,
+          "media_count": 1998,
+          "tweet_count": 9009
+        },
+        "url": "",
+        "username": "rustInsidee",
+        "verified": false
+      }
+    ]
+  }
+}

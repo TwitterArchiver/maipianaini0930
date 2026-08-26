@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2023597975675826177"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2010135272852230376",
+    "created_at": "2026-02-17T03:18:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T04:18:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023597980906123335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1567199719201415169",
+          "start": 0,
+          "username": "OldInternetFeel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PEHngJHKch",
+          "end": 40,
+          "expanded_url": "https://x.com/maipianaini0930/status/2023597980906123335/photo/1",
+          "media_key": "3_2023597975675826177",
+          "start": 17,
+          "url": "https://t.co/PEHngJHKch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023597980906123335",
+    "in_reply_to_user_id": "1567199719201415169",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010135272852230376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OldInternetFeel https://t.co/PEHngJHKch"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 250,
+        "media_key": "3_2023597975675826177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBVDoyxbcAE-mZI.jpg",
+        "width": 250
+      },
+      {
+        "height": 379,
+        "media_key": "3_2010135269542907904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-VvYKOW0AAVTqr.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023597975675826177"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2010135272852230376",
+        "created_at": "2026-02-17T03:18:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T04:18:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023597980906123335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1567199719201415169",
+              "start": 0,
+              "username": "OldInternetFeel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PEHngJHKch",
+              "end": 40,
+              "expanded_url": "https://x.com/maipianaini0930/status/2023597980906123335/photo/1",
+              "media_key": "3_2023597975675826177",
+              "start": 17,
+              "url": "https://t.co/PEHngJHKch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023597980906123335",
+        "in_reply_to_user_id": "1567199719201415169",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010135272852230376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OldInternetFeel https://t.co/PEHngJHKch"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010135269542907904"
+          ]
+        },
+        "author_id": "1567199719201415169",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2010135272852230376",
+        "created_at": "2026-01-10T23:42:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T00:42:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010135272852230376"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Windows 98",
+              "probability": 0.9612,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hvsR1rvdLx",
+              "end": 40,
+              "expanded_url": "https://x.com/OldInternetFeel/status/2010135272852230376/photo/1",
+              "media_key": "3_2010135269542907904",
+              "start": 17,
+              "url": "https://t.co/hvsR1rvdLx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010135272852230376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 49,
+          "impression_count": 19522,
+          "like_count": 637,
+          "quote_count": 4,
+          "reply_count": 4,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "Windows 98 icons https://t.co/hvsR1rvdLx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 202,
+          "like_count": 4277,
+          "listed_count": 0,
+          "media_count": 200,
+          "tweet_count": 1347
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-06T17:15:49.000Z",
+        "description": "I post things that have the feel of the old internet or just old things (meaning before 2017)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cameronsworld.net",
+                "end": 23,
+                "expanded_url": "https://www.cameronsworld.net",
+                "start": 0,
+                "url": "https://t.co/gKUdfBxaKs"
+              }
+            ]
+          }
+        },
+        "id": "1567199719201415169",
+        "location": "The Cyberspace",
+        "name": "Old Internet",
+        "pinned_tweet_id": "1567213969684717568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567212634386071552/FYxctdTu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471570,
+          "following_count": 55,
+          "like_count": 153,
+          "listed_count": 923,
+          "media_count": 13641,
+          "tweet_count": 15288
+        },
+        "url": "https://t.co/gKUdfBxaKs",
+        "username": "OldInternetFeel",
+        "verified": true
+      }
+    ]
+  }
+}

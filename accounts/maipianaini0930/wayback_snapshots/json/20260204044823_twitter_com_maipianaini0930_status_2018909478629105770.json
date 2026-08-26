@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2018666417881513984"
+      ],
+      "media_source_tweet_id": [
+        "2018666634995699770"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2018909478629105770",
+    "created_at": "2026-02-04T04:48:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T05:48:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018909478629105770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1504809714512764937",
+          "start": 3,
+          "username": "pasadomer1diano"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ghESCQgKpU",
+          "end": 51,
+          "expanded_url": "https://x.com/pasadomer1diano/status/2018666634995699770/video/1",
+          "media_key": "7_2018666417881513984",
+          "start": 28,
+          "url": "https://t.co/ghESCQgKpU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018909478629105770",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 19
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018666634995699770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @pasadomer1diano: 🇸🇬🏴‍☠️ https://t.co/ghESCQgKpU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 66689,
+        "height": 1280,
+        "media_key": "7_2018666417881513984",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018666417881513984/pu/img/LARW8C8PuQ14olYM.jpg",
+        "public_metrics": {
+          "view_count": 656
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018666417881513984/pu/vid/avc1/320x568/8MPQVh8ZbWNxNkVu.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018666417881513984/pu/vid/avc1/480x852/VYNkiR0MAcaQQKrN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018666417881513984/pu/vid/avc1/720x1280/V0FPFa3C23LLEYIq.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018666417881513984/pu/pl/U2BvvFEa_vimW2pV.m3u8?tag=12&v=9da"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018666417881513984"
+          ],
+          "media_source_tweet_id": [
+            "2018666634995699770"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2018909478629105770",
+        "created_at": "2026-02-04T04:48:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T05:48:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018909478629105770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1504809714512764937",
+              "start": 3,
+              "username": "pasadomer1diano"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghESCQgKpU",
+              "end": 51,
+              "expanded_url": "https://x.com/pasadomer1diano/status/2018666634995699770/video/1",
+              "media_key": "7_2018666417881513984",
+              "start": 28,
+              "url": "https://t.co/ghESCQgKpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018909478629105770",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018666634995699770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @pasadomer1diano: 🇸🇬🏴‍☠️ https://t.co/ghESCQgKpU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018666417881513984"
+          ]
+        },
+        "author_id": "1504809714512764937",
+        "conversation_id": "2018666634995699770",
+        "created_at": "2026-02-03T12:43:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:43:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018666634995699770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghESCQgKpU",
+              "end": 30,
+              "expanded_url": "https://x.com/pasadomer1diano/status/2018666634995699770/video/1",
+              "media_key": "7_2018666417881513984",
+              "start": 7,
+              "url": "https://t.co/ghESCQgKpU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018666634995699770",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1256,
+          "like_count": 59,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "🇸🇬🏴‍☠️ https://t.co/ghESCQgKpU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 214,
+          "like_count": 3696,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1134
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-18T13:19:37.000Z",
+        "description": "Ⓐ\n\nhttps://t.co/jmqDdpZ1Ip\n\nhttps://t.co/4DBlqaTE9Z",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/pasado…",
+                "end": 26,
+                "expanded_url": "https://bsky.app/profile/pasadomeridiano.bsky.social",
+                "start": 3,
+                "url": "https://t.co/jmqDdpZ1Ip"
+              },
+              {
+                "display_url": "ni.hil.ist/@pasadomeridia…",
+                "end": 51,
+                "expanded_url": "https://ni.hil.ist/@pasadomeridiano",
+                "start": 28,
+                "url": "https://t.co/4DBlqaTE9Z"
+              }
+            ]
+          }
+        },
+        "id": "1504809714512764937",
+        "name": "𝕱𝖊𝖗 🏴‍☠️",
+        "pinned_tweet_id": "1932070477180150062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1944636514702688256/s_kL8yy9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1813,
+          "following_count": 782,
+          "like_count": 29107,
+          "listed_count": 1,
+          "media_count": 712,
+          "tweet_count": 12415
+        },
+        "username": "pasadomer1diano",
+        "verified": false
+      }
+    ]
+  }
+}

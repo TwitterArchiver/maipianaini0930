@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037668539432345995",
+    "created_at": "2026-03-28T11:18:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T12:18:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037851775378788649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1988906017778962432",
+          "start": 0,
+          "username": "inrainbows11451"
+        },
+        {
+          "end": 33,
+          "id": "2033556052650975232",
+          "start": 17,
+          "username": "NBabysitte65342"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037851775378788649",
+    "in_reply_to_user_id": "1988906017778962432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037850216058228899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inrainbows11451 @NBabysitte65342 我不屑于"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037850210194624512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEfl-BwbEAA4fYQ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037668539432345995",
+        "created_at": "2026-03-28T11:18:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:18:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037851775378788649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1988906017778962432",
+              "start": 0,
+              "username": "inrainbows11451"
+            },
+            {
+              "end": 33,
+              "id": "2033556052650975232",
+              "start": 17,
+              "username": "NBabysitte65342"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037851775378788649",
+        "in_reply_to_user_id": "1988906017778962432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037850216058228899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inrainbows11451 @NBabysitte65342 我不屑于"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037850210194624512"
+          ]
+        },
+        "author_id": "1988906017778962432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037668539432345995",
+        "created_at": "2026-03-28T11:12:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T12:12:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037850216058228899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            },
+            {
+              "end": 33,
+              "id": "2033556052650975232",
+              "start": 17,
+              "username": "NBabysitte65342"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n43bGVx1ao",
+              "end": 67,
+              "expanded_url": "https://x.com/inrainbows11451/status/2037850216058228899/photo/1",
+              "media_key": "3_2037850210194624512",
+              "start": 44,
+              "url": "https://t.co/n43bGVx1ao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037850216058228899",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037668539432345995",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 @NBabysitte65342 你要不要捅一下这个 https://t.co/n43bGVx1ao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 251,
+          "like_count": 7002,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 2597
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-13T09:45:40.000Z",
+        "description": "民族自由主义(类Libertarian）/地方主义/L(G)B🏳️‍🌈/文化上有点保守/渴望贴贴喵😭/ dio-swa-nang 潮汕儂",
+        "id": "1988906017778962432",
+        "name": "In Rainbows 🇹🇼🇨🇳",
+        "pinned_tweet_id": "2025825125665563063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988906231881428992/BZ0uE1kX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 76,
+          "like_count": 1874,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 795
+        },
+        "username": "inrainbows11451",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-16T14:48:51.000Z",
+        "description": "(he/him)(lgbtq+腐女友好)(🈲terf激女🈲反同🈲共产主义🈲三好)，非左非右 / 辱男辱女辱同辱跨唯我独尊 / 不爱鉴证，但有爱支tv / 厌蠢 / 爱变脸 / 点进来的乙女爱女mtfterf母父蒸发 / 当然你知道辱女的多 / 彩礼沟通大师，包砍价",
+        "id": "2033556052650975232",
+        "name": "msk摇我一命😇🇺🇲🇺🇦✝️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033571514407325696/Vp6V8GGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 47,
+          "like_count": 5026,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 331
+        },
+        "username": "NBabysitte65342",
+        "verified": false
+      }
+    ]
+  }
+}

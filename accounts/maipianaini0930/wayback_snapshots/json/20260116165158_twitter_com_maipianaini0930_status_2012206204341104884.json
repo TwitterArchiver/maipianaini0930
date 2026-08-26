@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2011790607296147523",
+    "created_at": "2026-01-16T16:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T17:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012206204341104884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667779272478687232",
+          "start": 0,
+          "username": "MilkyWayDet_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012206204341104884",
+    "in_reply_to_user_id": "1667779272478687232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011790607296147523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkyWayDet_ 城南城北卤子细尝味道是不一样的，南偏咸（个人觉得）我喜欢的一家，是用葱熬的，特别香"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2011790593857634307",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-tQ4t1bQAMeHKf.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2011790607296147523",
+        "created_at": "2026-01-16T16:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T17:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012206204341104884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667779272478687232",
+              "start": 0,
+              "username": "MilkyWayDet_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012206204341104884",
+        "in_reply_to_user_id": "1667779272478687232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011790607296147523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkyWayDet_ 城南城北卤子细尝味道是不一样的，南偏咸（个人觉得）我喜欢的一家，是用葱熬的，特别香"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011790593857634307"
+          ]
+        },
+        "author_id": "1667779272478687232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2011790607296147523",
+        "created_at": "2026-01-15T13:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T14:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011790607296147523"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lvXVL0asjR",
+              "end": 31,
+              "expanded_url": "https://x.com/MilkyWayDet_/status/2011790607296147523/photo/1",
+              "media_key": "3_2011790593857634307",
+              "start": 8,
+              "url": "https://t.co/lvXVL0asjR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011790607296147523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 16524,
+          "like_count": 491,
+          "quote_count": 5,
+          "reply_count": 56,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "南京烤鸭我爱你 https://t.co/lvXVL0asjR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006274810918363138/El07gvs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 195,
+          "like_count": 3009,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 990
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T06:22:28.000Z",
+        "description": "🦦 我只是一个脆弱敏感好吃懒做的小女孩",
+        "id": "1667779272478687232",
+        "location": "宇宙盡頭的餐廳",
+        "name": "銀河系超級偵探",
+        "pinned_tweet_id": "1992609947197329828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685264169569042433/mihVUuV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1599,
+          "following_count": 121,
+          "like_count": 13119,
+          "listed_count": 15,
+          "media_count": 1012,
+          "tweet_count": 2568
+        },
+        "username": "MilkyWayDet_",
+        "verified": false
+      }
+    ]
+  }
+}

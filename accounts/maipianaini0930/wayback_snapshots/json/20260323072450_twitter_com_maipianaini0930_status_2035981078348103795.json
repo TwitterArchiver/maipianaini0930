@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2035958408596128058",
+    "created_at": "2026-03-23T07:24:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:24:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035981078348103795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728656771735273472",
+          "start": 0,
+          "username": "amiercreer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035981078348103795",
+    "in_reply_to_user_id": "1728656771735273472",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035958408596128058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amiercreer 还能刷到丁默邨。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2035958408596128058",
+        "created_at": "2026-03-23T07:24:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:24:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035981078348103795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728656771735273472",
+              "start": 0,
+              "username": "amiercreer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035981078348103795",
+        "in_reply_to_user_id": "1728656771735273472",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035958408596128058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amiercreer 还能刷到丁默邨。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728656771735273472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the Chinese New Year for all years. ",
+              "id": "1347140848870334468",
+              "name": "Chinese New Year"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2035958408596128058",
+        "created_at": "2026-03-23T05:54:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T06:54:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035958408596128058"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mp.weixin.qq.com/s/e6gOAVuzGPG1…",
+              "end": 23,
+              "expanded_url": "https://mp.weixin.qq.com/s/e6gOAVuzGPG1YzYEjAX9ZA",
+              "start": 0,
+              "unwound_url": "https://mp.weixin.qq.com/mp/wappoc_appmsgcaptcha?poc_token=HLDVwGmj5qZ90Ai8-XqTt5u7Vfiwc0oR5dLrwbxs&target_url=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2Fe6gOAVuzGPG1YzYEjAX9ZA",
+              "url": "https://t.co/z6iz5D0nq8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035958408596128058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 219,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/z6iz5D0nq8\n终于！改完！谢谢狐狸奶奶（鞠躬）\n\n1933年秋—1934年春，郑苹如于上海私立民光中学就读（丁默邨时任校董）。1939年12月21日，中统局4人在暗杀丁默邨失手，暴露身份，为中华民国维新政府捕获。1940年春节后，她被枪决。她也是张爱玲小说《色戒》和电影中王佳芝的原型。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 241,
+          "like_count": 6509,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 2376
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T06:07:58.000Z",
+        "description": "你既怕又何必想，你既想又何必怕@yannan74713我的幕后",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "yannan74713"
+              }
+            ]
+          }
+        },
+        "id": "1728656771735273472",
+        "name": "Hermaphroditus🎀",
+        "pinned_tweet_id": "1765721690301219061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893501220620509186/59T8Mbft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3776,
+          "following_count": 378,
+          "like_count": 13818,
+          "listed_count": 8,
+          "media_count": 794,
+          "tweet_count": 6171
+        },
+        "username": "amiercreer",
+        "verified": false
+      }
+    ]
+  }
+}

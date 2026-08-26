@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2025763577903329294",
+    "created_at": "2026-02-23T04:15:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T05:15:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025786538416799958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025786538416799958",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025763577903329294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 还有阳陵虎符，中间可以分开吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2025754870037524480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBztUkaasAAk3ME.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2025754873850126337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBztUynaYAEU8hO.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2025754888383442945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBztVowbMAETvfk.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2025754881647341568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBztVPqacAA6_lp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2025763577903329294",
+        "created_at": "2026-02-23T04:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T05:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025786538416799958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025786538416799958",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025763577903329294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 还有阳陵虎符，中间可以分开吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025754870037524480",
+            "3_2025754873850126337",
+            "3_2025754888383442945",
+            "3_2025754881647341568"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2025763577903329294",
+        "created_at": "2026-02-23T02:44:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T03:09:37.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025754891118109036",
+          "2025763577903329294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKwUJpXbmf",
+              "end": 66,
+              "expanded_url": "https://x.com/wuerbangbang/status/2025763577903329294/photo/1",
+              "media_key": "3_2025754870037524480",
+              "start": 43,
+              "url": "https://t.co/hKwUJpXbmf"
+            },
+            {
+              "display_url": "pic.x.com/hKwUJpXbmf",
+              "end": 66,
+              "expanded_url": "https://x.com/wuerbangbang/status/2025763577903329294/photo/1",
+              "media_key": "3_2025754873850126337",
+              "start": 43,
+              "url": "https://t.co/hKwUJpXbmf"
+            },
+            {
+              "display_url": "pic.x.com/hKwUJpXbmf",
+              "end": 66,
+              "expanded_url": "https://x.com/wuerbangbang/status/2025763577903329294/photo/1",
+              "media_key": "3_2025754888383442945",
+              "start": 43,
+              "url": "https://t.co/hKwUJpXbmf"
+            },
+            {
+              "display_url": "pic.x.com/hKwUJpXbmf",
+              "end": 66,
+              "expanded_url": "https://x.com/wuerbangbang/status/2025763577903329294/photo/1",
+              "media_key": "3_2025754881647341568",
+              "start": 43,
+              "url": "https://t.co/hKwUJpXbmf"
+            },
+            {
+              "display_url": "x.com/GushengLongyi/…",
+              "end": 90,
+              "expanded_url": "https://twitter.com/GushengLongyi/status/2025448522368385031",
+              "start": 67,
+              "url": "https://t.co/DljOFc2urA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025763577903329294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025448522368385031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我非常喜欢王国维碑上这句“独立之精神，自由之思想”，冰箱贴里把它放在正中很高的位置。 https://t.co/hKwUJpXbmf https://t.co/DljOFc2urA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 211,
+          "like_count": 4654,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1427
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、旅游手工、猫咪爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Hmong,  lover of history, heritage, art & kitty🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2017141174021345689",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7175,
+          "following_count": 918,
+          "like_count": 10791,
+          "listed_count": 27,
+          "media_count": 1946,
+          "tweet_count": 6134
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

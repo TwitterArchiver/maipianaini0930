@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034487925938024785",
+    "created_at": "2026-03-19T04:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034487925938024785"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "Shaggy",
+          "probability": 0.5667,
+          "start": 46,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1670814731744210944",
+          "start": 3,
+          "username": "Bandit161_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034487925938024785",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2371
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034278383077687529",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bandit161_: Bringing back this classic. \n\nShaggy has no mugshot, which implies he was never caught. He definitely went into hiding in C…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 581,
+        "media_key": "3_2034278378640158720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDs1aEUasAAT1lF.jpg",
+        "width": 424
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034487925938024785",
+        "created_at": "2026-03-19T04:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034487925938024785"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "Shaggy",
+              "probability": 0.5667,
+              "start": 46,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1670814731744210944",
+              "start": 3,
+              "username": "Bandit161_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034487925938024785",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2371
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034278383077687529",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bandit161_: Bringing back this classic. \n\nShaggy has no mugshot, which implies he was never caught. He definitely went into hiding in C…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034278378640158720"
+          ]
+        },
+        "author_id": "1670814731744210944",
+        "conversation_id": "2034278383077687529",
+        "created_at": "2026-03-18T14:38:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T15:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034278383077687529"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Shaggy",
+              "probability": 0.7717,
+              "start": 30,
+              "type": "Person"
+            },
+            {
+              "end": 125,
+              "normalized_text": "Cuba",
+              "probability": 0.9851,
+              "start": 122,
+              "type": "Place"
+            },
+            {
+              "end": 136,
+              "normalized_text": "Algeria",
+              "probability": 0.9736,
+              "start": 130,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uLJQQV1Slj",
+              "end": 161,
+              "expanded_url": "https://x.com/Bandit161_/status/2034278383077687529/photo/1",
+              "media_key": "3_2034278378640158720",
+              "start": 138,
+              "url": "https://t.co/uLJQQV1Slj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034278383077687529",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12458,
+          "impression_count": 2925301,
+          "like_count": 51806,
+          "quote_count": 207,
+          "reply_count": 239,
+          "retweet_count": 2371
+        },
+        "reply_settings": "everyone",
+        "text": "Bringing back this classic. \n\nShaggy has no mugshot, which implies he was never caught. He definitely went into hiding in Cuba or Algeria https://t.co/uLJQQV1Slj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 234,
+          "like_count": 6126,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 2162
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-19T15:24:27.000Z",
+        "description": "Shengwulian Maoist | DSA Party Cadre | @SouthIdahoDSA🌹@dsaemerge 🌸 | Vive La Commune! 🚩| He/They",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "SouthIdahoDSA"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "dsaemerge"
+              }
+            ]
+          }
+        },
+        "id": "1670814731744210944",
+        "name": "Bandit ☭ 🔻🌸",
+        "pinned_tweet_id": "1952479075517481165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958315115444613120/tsIqwPxG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2083,
+          "following_count": 946,
+          "like_count": 12386,
+          "listed_count": 18,
+          "media_count": 661,
+          "tweet_count": 6935
+        },
+        "username": "Bandit161_",
+        "verified": false
+      }
+    ]
+  }
+}

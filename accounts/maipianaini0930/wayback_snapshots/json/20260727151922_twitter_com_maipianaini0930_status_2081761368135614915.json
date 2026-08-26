@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2081728349274325141",
+    "created_at": "2026-07-27T15:19:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T16:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081761368135614915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057497111718166531",
+          "start": 0,
+          "username": "ovum0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081761368135614915",
+    "in_reply_to_user_id": "2057497111718166531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081760533959815371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovum0000 我喝醉了真会做不计后果的事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2081728349274325141",
+        "created_at": "2026-07-27T15:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081761368135614915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057497111718166531",
+              "start": 0,
+              "username": "ovum0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081761368135614915",
+        "in_reply_to_user_id": "2057497111718166531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081760533959815371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovum0000 我喝醉了真会做不计后果的事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057497111718166531",
+        "conversation_id": "2081728349274325141",
+        "created_at": "2026-07-27T15:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T16:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081760533959815371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081760533959815371",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081728855224783307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 别人喝酒：军事政治领域大神\n麦片喝酒：我想打王浩昌，我想杀王浩昌，我和王浩昌谁更霸气？\n就很……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 305,
+          "like_count": 11355,
+          "listed_count": 1,
+          "media_count": 759,
+          "tweet_count": 5098
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "",
+        "id": "2057497111718166531",
+        "name": "dihshdhd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081147917851930625/zVYlyX2t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 18,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "ovum0000",
+        "verified": false
+      }
+    ]
+  }
+}

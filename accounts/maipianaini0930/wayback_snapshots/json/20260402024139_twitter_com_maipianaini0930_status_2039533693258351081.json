@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2038959257757069365",
+    "created_at": "2026-04-02T02:41:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:41:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039533693258351081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818861490558189570",
+          "start": 0,
+          "username": "gogatsu_yuki5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039533693258351081",
+    "in_reply_to_user_id": "1818861490558189570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038959257757069365",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gogatsu_yuki5 私も同感です，そして、私もそうしました"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2038959257757069365",
+        "created_at": "2026-04-02T02:41:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:41:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039533693258351081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818861490558189570",
+              "start": 0,
+              "username": "gogatsu_yuki5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039533693258351081",
+        "in_reply_to_user_id": "1818861490558189570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038959257757069365",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gogatsu_yuki5 私も同感です，そして、私もそうしました"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818861490558189570",
+        "conversation_id": "2038959257757069365",
+        "created_at": "2026-03-31T12:39:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038959257757069365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038959257757069365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 443,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "世間体気にして自分を押し殺すことが大人になることだなんて私は認めないよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 246,
+          "like_count": 7315,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 2722
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T04:09:36.000Z",
+        "description": "毎日お疲れ様です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/gogatsu_yuki05…",
+                "end": 23,
+                "expanded_url": "https://note.com/gogatsu_yuki0512",
+                "start": 0,
+                "url": "https://t.co/cwXgBCch32"
+              }
+            ]
+          }
+        },
+        "id": "1818861490558189570",
+        "name": "ごがつのゆき",
+        "pinned_tweet_id": "1818933121066422562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039343522114084864/1v9h_HPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 202,
+          "like_count": 184493,
+          "listed_count": 12,
+          "media_count": 175,
+          "tweet_count": 4838
+        },
+        "url": "https://t.co/cwXgBCch32",
+        "username": "gogatsu_yuki5",
+        "verified": false
+      }
+    ]
+  }
+}

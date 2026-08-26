@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2031218193176346895",
+    "created_at": "2026-03-10T10:40:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T11:40:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031319280726503626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1252614970900086786",
+          "start": 0,
+          "username": "PunkRockStory"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031319280726503626",
+    "in_reply_to_user_id": "1252614970900086786",
+    "lang": "no",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031218193176346895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PunkRockStory “hello emi～～～gooodbyyyyye aaammm！”"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1034,
+        "media_key": "3_2031218190026682371",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDBWLpXaMAM1CxQ.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2031218193176346895",
+        "created_at": "2026-03-10T10:40:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T11:40:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031319280726503626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1252614970900086786",
+              "start": 0,
+              "username": "PunkRockStory"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031319280726503626",
+        "in_reply_to_user_id": "1252614970900086786",
+        "lang": "no",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031218193176346895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PunkRockStory “hello emi～～～gooodbyyyyye aaammm！”"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031218190026682371"
+          ]
+        },
+        "author_id": "1252614970900086786",
+        "conversation_id": "2031218193176346895",
+        "created_at": "2026-03-10T03:58:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T04:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031218193176346895"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 33,
+              "normalized_text": "Sex Pistols",
+              "probability": 0.3386,
+              "start": 23,
+              "type": "Other"
+            },
+            {
+              "end": 210,
+              "normalized_text": "US",
+              "probability": 0.5738,
+              "start": 209,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 273,
+              "start": 262,
+              "tag": "sexpistols"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8oEpm1dzNE",
+              "end": 297,
+              "expanded_url": "https://x.com/PunkRockStory/status/2031218193176346895/photo/1",
+              "media_key": "3_2031218190026682371",
+              "start": 274,
+              "url": "https://t.co/8oEpm1dzNE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031218193176346895",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 269,
+                "start": 258,
+                "tag": "sexpistols"
+              },
+              {
+                "end": 286,
+                "start": 270,
+                "tag": "punkrockhistory"
+              }
+            ]
+          },
+          "text": "49 years ago today\nThe Sex Pistols signed a record deal with A&M Records on March 10, 1977.\n\nThe termination: After only six days, several incidents in the offices, and pressure from other artists and the US headquarters, the band was fired.\n\n📸 Graham Wood\n\n#sexpistols #punkrockhistory"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2355,
+          "like_count": 94,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "49 years ago today\nThe Sex Pistols signed a record deal with A&amp;M Records on March 10, 1977.\n\nThe termination: After only six days, several incidents in the offices, and pressure from other artists and the US headquarters, the band was fired.\n\n📸 Graham Wood\n\n#sexpistols https://t.co/8oEpm1dzNE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 225,
+          "like_count": 5786,
+          "listed_count": 0,
+          "media_count": 304,
+          "tweet_count": 1893
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-21T15:07:48.000Z",
+        "description": "Pictures, facts, memories and emotions from an irrepressible, sweeping, wild, exciting time of the 70s and 80s.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "allmylinks.com/punkrockstory",
+                "end": 23,
+                "expanded_url": "https://allmylinks.com/punkrockstory",
+                "start": 0,
+                "url": "https://t.co/H898zfqOK9"
+              }
+            ]
+          }
+        },
+        "id": "1252614970900086786",
+        "name": "Punkrock History",
+        "pinned_tweet_id": "1403192818777083906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1256835407112802305/7FMsuQW2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85147,
+          "following_count": 409,
+          "like_count": 79427,
+          "listed_count": 361,
+          "media_count": 8657,
+          "tweet_count": 27250
+        },
+        "url": "https://t.co/H898zfqOK9",
+        "username": "PunkRockStory",
+        "verified": true
+      }
+    ]
+  }
+}

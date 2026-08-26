@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2067282971217002498"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2067282990972174844",
+    "created_at": "2026-06-17T16:27:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T17:27:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2067282990972174844"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dPDCj6yYWH",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2067282990972174844/photo/1",
+          "media_key": "3_2067282971217002498",
+          "start": 0,
+          "url": "https://t.co/dPDCj6yYWH"
+        },
+        {
+          "display_url": "x.com/greekcommie191…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/greekcommie1917/status/2067189749673021931",
+          "start": 24,
+          "url": "https://t.co/eScoii67sK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067282990972174844",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067189749673021931",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/dPDCj6yYWH https://t.co/eScoii67sK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2067282971217002498",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLB26M2agAInPtU.jpg",
+        "width": 4032
+      },
+      {
+        "height": 2019,
+        "media_key": "3_2067189742773407744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLAiHl1XEAA6xew.jpg",
+        "width": 1078
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067282971217002498"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2067282990972174844",
+        "created_at": "2026-06-17T16:27:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T17:27:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067282990972174844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dPDCj6yYWH",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2067282990972174844/photo/1",
+              "media_key": "3_2067282971217002498",
+              "start": 0,
+              "url": "https://t.co/dPDCj6yYWH"
+            },
+            {
+              "display_url": "x.com/greekcommie191…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/greekcommie1917/status/2067189749673021931",
+              "start": 24,
+              "url": "https://t.co/eScoii67sK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067282990972174844",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067189749673021931",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/dPDCj6yYWH https://t.co/eScoii67sK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2067189742773407744"
+          ]
+        },
+        "author_id": "1408333321621409796",
+        "conversation_id": "2067189749673021931",
+        "created_at": "2026-06-17T10:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067189749673021931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qMwtZDhZgw",
+              "end": 23,
+              "expanded_url": "https://x.com/Greekcommie1917/status/2067189749673021931/photo/1",
+              "media_key": "3_2067189742773407744",
+              "start": 0,
+              "url": "https://t.co/qMwtZDhZgw"
+            },
+            {
+              "display_url": "x.com/Oct7NeverForge…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/Oct7NeverForget/status/2067013417349558613",
+              "start": 24,
+              "url": "https://t.co/kQ981ud2eV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067189749673021931",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2916,
+          "like_count": 239,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067013417349558613",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/qMwtZDhZgw https://t.co/kQ981ud2eV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 314,
+          "like_count": 10421,
+          "listed_count": 2,
+          "media_count": 677,
+          "tweet_count": 4538
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-25T07:58:11.000Z",
+        "description": "''He does not see tomorrow. He even fears it. The spectre of Communism sends shivers down his spine.'' Marxist-Leninist-Maoist",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ci-ic.net",
+                "end": 23,
+                "expanded_url": "https://ci-ic.net/",
+                "start": 0,
+                "url": "https://t.co/P6HBn6ocpP"
+              }
+            ]
+          }
+        },
+        "id": "1408333321621409796",
+        "location": "Greece",
+        "name": "Greek Commie🇵🇸",
+        "pinned_tweet_id": "1668020543461683200",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816897903668973568/V3OxrHQE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 632,
+          "like_count": 45740,
+          "listed_count": 24,
+          "media_count": 927,
+          "tweet_count": 4490
+        },
+        "url": "https://t.co/P6HBn6ocpP",
+        "username": "Greekcommie1917",
+        "verified": false
+      }
+    ]
+  }
+}

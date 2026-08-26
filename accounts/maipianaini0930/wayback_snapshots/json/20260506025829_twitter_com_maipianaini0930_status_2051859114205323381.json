@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2051859114205323381",
+    "created_at": "2026-05-06T02:58:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T03:58:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051859114205323381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1268560601912979456",
+          "start": 3,
+          "username": "__Ximco__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051859114205323381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 698
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051721742465515769",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__Ximco__: 反LGBTの極右の父親の下で暮らしているが、父親が老いて何も言えなくなってきたので普通に家で女装して過ごしている　何でも思い通りになると思うなよ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2051859114205323381",
+        "created_at": "2026-05-06T02:58:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:58:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051859114205323381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1268560601912979456",
+              "start": 3,
+              "username": "__Ximco__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051859114205323381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 698
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051721742465515769",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__Ximco__: 反LGBTの極右の父親の下で暮らしているが、父親が老いて何も言えなくなってきたので普通に家で女装して過ごしている　何でも思い通りになると思うなよ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1268560601912979456",
+        "conversation_id": "2051721742465515769",
+        "created_at": "2026-05-05T17:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051721742465515769"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051721742465515769",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 392,
+          "impression_count": 272163,
+          "like_count": 10105,
+          "quote_count": 24,
+          "reply_count": 17,
+          "retweet_count": 698
+        },
+        "reply_settings": "everyone",
+        "text": "反LGBTの極右の父親の下で暮らしているが、父親が老いて何も言えなくなってきたので普通に家で女装して過ごしている　何でも思い通りになると思うなよ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 273,
+          "like_count": 9109,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 3550
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T15:10:24.000Z",
+        "description": "アイコンはオリキャラの杠葉雨音(@AmaneYuzuriha)という子です。魔法少女をやっています。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "AmaneYuzuriha"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ximco",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/ximco",
+                "start": 0,
+                "url": "https://t.co/Zjyw6J9bPZ"
+              }
+            ]
+          }
+        },
+        "id": "1268560601912979456",
+        "location": "面白&カワイイ総合ポータル",
+        "name": "ヒムコ a.k.a 杠葉雨音",
+        "pinned_tweet_id": "2038229607779037266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927404797973417986/tJEGB2H5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1341,
+          "following_count": 818,
+          "like_count": 28556,
+          "listed_count": 32,
+          "media_count": 932,
+          "tweet_count": 30995
+        },
+        "url": "https://t.co/Zjyw6J9bPZ",
+        "username": "__Ximco__",
+        "verified": false
+      }
+    ]
+  }
+}

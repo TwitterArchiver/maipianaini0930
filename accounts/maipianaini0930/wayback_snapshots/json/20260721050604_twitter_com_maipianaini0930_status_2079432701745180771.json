@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079387223552925746",
+    "created_at": "2026-07-21T05:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T06:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079432701745180771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1276688173750317056",
+          "start": 0,
+          "username": "cyousei6"
+        },
+        {
+          "end": 23,
+          "id": "2823603854",
+          "start": 10,
+          "username": "aptx48693734"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079432701745180771",
+    "in_reply_to_user_id": "1276688173750317056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079424019690832195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cyousei6 @aptx48693734 请问这个价格包含验光吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079387223552925746",
+        "created_at": "2026-07-21T05:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T06:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079432701745180771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1276688173750317056",
+              "start": 0,
+              "username": "cyousei6"
+            },
+            {
+              "end": 23,
+              "id": "2823603854",
+              "start": 10,
+              "username": "aptx48693734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079432701745180771",
+        "in_reply_to_user_id": "1276688173750317056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079424019690832195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cyousei6 @aptx48693734 请问这个价格包含验光吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1276688173750317056",
+        "conversation_id": "2079387223552925746",
+        "created_at": "2026-07-21T04:31:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T05:31:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079424019690832195"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2823603854",
+              "start": 0,
+              "username": "aptx48693734"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079424019690832195",
+        "in_reply_to_user_id": "2823603854",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 130,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079406030019236275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aptx48693734 是jins梅田店。店里正在做活动，活动的眼镜是3300-7700吧，不做活动一副一万左右"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 441,
+          "following_count": 305,
+          "like_count": 11223,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 4950
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-27T01:26:08.000Z",
+        "description": "日本大阪在住🇯🇵\n非中介，拒绝闲聊❌",
+        "id": "1276688173750317056",
+        "location": "大阪",
+        "name": "かがり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1738816393255227392/Pdk1HP0M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7080,
+          "following_count": 235,
+          "like_count": 28430,
+          "listed_count": 28,
+          "media_count": 2054,
+          "tweet_count": 15979
+        },
+        "url": "",
+        "username": "cyousei6",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-21T06:52:38.000Z",
+        "description": "",
+        "id": "2823603854",
+        "location": "Tokyo-to, Japan",
+        "name": "Urd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/858188792905191424/PN7Z1RV__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331,
+          "following_count": 2962,
+          "like_count": 8165,
+          "listed_count": 2,
+          "media_count": 50,
+          "tweet_count": 13754
+        },
+        "url": "",
+        "username": "aptx48693734",
+        "verified": false
+      }
+    ]
+  }
+}

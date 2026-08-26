@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037810740925747295",
+    "created_at": "2026-03-28T08:35:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T09:35:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037810740925747295"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/trashpandagirl…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/trashpandagirl/status/2036931365678051374",
+          "start": 19,
+          "url": "https://t.co/7T5yctNYk3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037810740925747295",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036931365678051374",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "康米在台上谁最倒霉：知识分子和艺术家 https://t.co/7T5yctNYk3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "3_2036931363409186816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HESiSGvbUAA30yq.jpg",
+        "width": 473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037810740925747295",
+        "created_at": "2026-03-28T08:35:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T09:35:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037810740925747295"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/trashpandagirl…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/trashpandagirl/status/2036931365678051374",
+              "start": 19,
+              "url": "https://t.co/7T5yctNYk3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037810740925747295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036931365678051374",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "康米在台上谁最倒霉：知识分子和艺术家 https://t.co/7T5yctNYk3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036931363409186816"
+          ]
+        },
+        "author_id": "1550322819464142848",
+        "conversation_id": "2036931365678051374",
+        "created_at": "2026-03-25T22:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T23:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036931365678051374"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E3NSjTGCde",
+              "end": 71,
+              "expanded_url": "https://x.com/TrashPandaGirl/status/2036931365678051374/photo/1",
+              "media_key": "3_2036931363409186816",
+              "start": 48,
+              "url": "https://t.co/E3NSjTGCde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036931365678051374",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 750538,
+          "like_count": 6040,
+          "quote_count": 52,
+          "reply_count": 119,
+          "retweet_count": 163
+        },
+        "reply_settings": "everyone",
+        "text": "Anti-communist propaganda is so ridiculous lmao https://t.co/E3NSjTGCde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 251,
+          "like_count": 6987,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 2580
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T03:33:06.000Z",
+        "description": "(She/Her) Trans | ☭ | Atheist/Nihilist | HRT start date: 5/31/24 | Banner: \"Divine Fire of the Feminine\" by @ArtsyMarx1st",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 108,
+                "username": "ArtsyMarx1st"
+              }
+            ]
+          }
+        },
+        "id": "1550322819464142848",
+        "name": "🦝⨂trash panda 🔻🏳️‍⚧️",
+        "pinned_tweet_id": "1932267001562402852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1856507286920830976/2nNFN1aG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4456,
+          "following_count": 2828,
+          "like_count": 101080,
+          "listed_count": 186,
+          "media_count": 2689,
+          "tweet_count": 38888
+        },
+        "username": "TrashPandaGirl",
+        "verified": false
+      }
+    ]
+  }
+}

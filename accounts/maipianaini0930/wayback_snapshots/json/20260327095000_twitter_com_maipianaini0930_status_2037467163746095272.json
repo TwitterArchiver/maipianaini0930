@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037422205114400929",
+    "created_at": "2026-03-27T09:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037467163746095272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "90377947",
+          "start": 0,
+          "username": "BryanWang236"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037467163746095272",
+    "in_reply_to_user_id": "90377947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037422205114400929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BryanWang236 卡夫卡的国家和普契尼的国家"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037422205114400929",
+        "created_at": "2026-03-27T09:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037467163746095272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "90377947",
+              "start": 0,
+              "username": "BryanWang236"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037467163746095272",
+        "in_reply_to_user_id": "90377947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037422205114400929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BryanWang236 卡夫卡的国家和普契尼的国家"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "90377947",
+        "conversation_id": "2037422205114400929",
+        "created_at": "2026-03-27T06:51:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:51:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037422205114400929"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037422205114400929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 926,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "南歐人還是熱情，在中歐吃早餐，餐廳鴉雀無聲的，在義大利，餐廳吵得像香港茶餐廳"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 251,
+          "like_count": 6825,
+          "listed_count": 0,
+          "media_count": 407,
+          "tweet_count": 2503
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-16T11:59:19.000Z",
+        "description": "The amazing life is full of surprising everyday.",
+        "id": "90377947",
+        "location": "Hongkong",
+        "name": "Bryan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/879595752762232832/EpGmFiSL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 697,
+          "following_count": 814,
+          "like_count": 82100,
+          "listed_count": 5,
+          "media_count": 1727,
+          "tweet_count": 20682
+        },
+        "username": "BryanWang236",
+        "verified": false
+      }
+    ]
+  }
+}

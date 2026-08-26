@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028369813878591856",
+    "created_at": "2026-03-02T09:12:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T10:12:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028397917938287057"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1455781426192740355",
+          "start": 0,
+          "username": "uni_wwwww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028397917938287057",
+    "in_reply_to_user_id": "1455781426192740355",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028393642961035272",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@uni_wwwww 我们租不起四合院干脆把里面人杀了搬进去吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028369813878591856",
+        "created_at": "2026-03-02T09:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028397917938287057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455781426192740355",
+              "start": 0,
+              "username": "uni_wwwww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028397917938287057",
+        "in_reply_to_user_id": "1455781426192740355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028393642961035272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@uni_wwwww 我们租不起四合院干脆把里面人杀了搬进去吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455781426192740355",
+        "conversation_id": "2028369813878591856",
+        "created_at": "2026-03-02T08:55:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:55:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028393642961035272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028393642961035272",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028369813878591856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 走吧我们去北京租个四合院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 221,
+          "like_count": 5225,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 1662
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-11-03T06:19:07.000Z",
+        "description": "大号@AORINGO_nemuru ｜✟✞神堕✞✟",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 2,
+                "username": "AORINGO_nemuru"
+              }
+            ]
+          }
+        },
+        "id": "1455781426192740355",
+        "name": "AORINGO_ura",
+        "pinned_tweet_id": "1576278893685678080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891854498655580160/JdaX1d4X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 225,
+          "like_count": 5344,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 129
+        },
+        "username": "uni_wwwww",
+        "verified": false
+      }
+    ]
+  }
+}

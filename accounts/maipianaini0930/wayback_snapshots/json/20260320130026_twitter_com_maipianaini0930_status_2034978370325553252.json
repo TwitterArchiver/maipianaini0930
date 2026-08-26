@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034946063975809296",
+    "created_at": "2026-03-20T13:00:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T14:00:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034978370325553252"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "寿司郎",
+          "probability": 0.6308,
+          "start": 18,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1667779272478687232",
+          "start": 0,
+          "username": "MilkyWayDet_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034978370325553252",
+    "in_reply_to_user_id": "1667779272478687232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034946063975809296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MilkyWayDet_ 南京没有寿司郎"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034946055830405120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2Up_ragAAEpvE.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034946063975809296",
+        "created_at": "2026-03-20T13:00:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T14:00:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034978370325553252"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "寿司郎",
+              "probability": 0.6308,
+              "start": 18,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1667779272478687232",
+              "start": 0,
+              "username": "MilkyWayDet_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034978370325553252",
+        "in_reply_to_user_id": "1667779272478687232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034946063975809296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MilkyWayDet_ 南京没有寿司郎"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034946055830405120"
+          ]
+        },
+        "author_id": "1667779272478687232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2034946063975809296",
+        "created_at": "2026-03-20T10:52:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:52:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034946063975809296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P6glo5kuct",
+              "end": 31,
+              "expanded_url": "https://x.com/MilkyWayDet_/status/2034946063975809296/photo/1",
+              "media_key": "3_2034946055830405120",
+              "start": 8,
+              "url": "https://t.co/P6glo5kuct"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034946063975809296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 718,
+          "like_count": 49,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南京烤鸭寿司😋 https://t.co/P6glo5kuct"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 240,
+          "like_count": 6348,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 2330
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-11T06:22:28.000Z",
+        "description": "微波炉冥想学派创始人@MicrowaveMed\n我的猫 @mimi240628",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "MicrowaveMed"
+              },
+              {
+                "end": 39,
+                "start": 28,
+                "username": "mimi240628"
+              }
+            ]
+          }
+        },
+        "id": "1667779272478687232",
+        "location": "宇宙盡頭的餐廳",
+        "name": "銀河系超級偵探",
+        "pinned_tweet_id": "1992609947197329828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1685264169569042433/mihVUuV7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1909,
+          "following_count": 144,
+          "like_count": 16559,
+          "listed_count": 18,
+          "media_count": 1137,
+          "tweet_count": 3059
+        },
+        "username": "MilkyWayDet_",
+        "verified": false
+      }
+    ]
+  }
+}

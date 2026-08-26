@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027701665403703298"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2027701682520658133",
+    "created_at": "2026-02-28T11:05:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:05:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027701682520658133"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kiLHPooh01",
+          "end": 28,
+          "expanded_url": "https://x.com/maipianaini0930/status/2027701682520658133/photo/1",
+          "media_key": "3_2027701665403703298",
+          "start": 5,
+          "url": "https://t.co/kiLHPooh01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027701682520658133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今晚喝： https://t.co/kiLHPooh01"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3600,
+        "media_key": "3_2027701665403703298",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCPX6-TbEAIUvZ9.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027701665403703298"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2027701682520658133",
+        "created_at": "2026-02-28T11:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027701682520658133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kiLHPooh01",
+              "end": 28,
+              "expanded_url": "https://x.com/maipianaini0930/status/2027701682520658133/photo/1",
+              "media_key": "3_2027701665403703298",
+              "start": 5,
+              "url": "https://t.co/kiLHPooh01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027701682520658133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今晚喝： https://t.co/kiLHPooh01"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 219,
+          "like_count": 5045,
+          "listed_count": 0,
+          "media_count": 250,
+          "tweet_count": 1617
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

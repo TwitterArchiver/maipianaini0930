@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2010756563271909774",
+    "created_at": "2026-01-12T16:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T17:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2010756563271909774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meiriyiwenxjp/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/meiriyiwenxjp/status/2010674740722364788",
+          "start": 12,
+          "url": "https://t.co/JCKVHY2LSM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010756563271909774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010674740722364788",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我才是她对象你能不能滚 https://t.co/JCKVHY2LSM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2010756563271909774",
+        "created_at": "2026-01-12T16:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T17:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2010756563271909774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meiriyiwenxjp/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/meiriyiwenxjp/status/2010674740722364788",
+              "start": 12,
+              "url": "https://t.co/JCKVHY2LSM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010756563271909774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010674740722364788",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我才是她对象你能不能滚 https://t.co/JCKVHY2LSM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1243004743217074177",
+        "conversation_id": "2010632728581226836",
+        "created_at": "2026-01-12T11:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T12:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010674740722364788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1589222872555212801",
+              "start": 0,
+              "username": "Kana_siacy"
+            },
+            {
+              "end": 28,
+              "id": "1987138845058736133",
+              "start": 12,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010674740722364788",
+        "in_reply_to_user_id": "1589222872555212801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010632728581226836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kana_siacy @maipianaini0930 bb看下私信"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006274810918363138/El07gvs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 201,
+          "like_count": 2798,
+          "listed_count": 0,
+          "media_count": 152,
+          "tweet_count": 935
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-26T02:40:07.000Z",
+        "description": "",
+        "id": "1243004743217074177",
+        "location": "Buffalo, NY",
+        "name": "每日一问习近平什么时候死",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1597650215708033026/b16lpbGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 29,
+          "like_count": 52,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 285
+        },
+        "username": "meiriyiwenXJP",
+        "verified": false
+      }
+    ]
+  }
+}

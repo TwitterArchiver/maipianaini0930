@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2067563388813861254",
+    "created_at": "2026-06-18T16:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067640521296875721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863662689509314563",
+          "start": 0,
+          "username": "mmmmmercury_413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067640521296875721",
+    "in_reply_to_user_id": "1863662689509314563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067637551356362924",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mmmmmercury_413 打算在焦虑的时候用来急救.....平时就吃思诺思 阿普唑仑鼻吸和娱乐用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2067563388813861254",
+        "created_at": "2026-06-18T16:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067640521296875721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863662689509314563",
+              "start": 0,
+              "username": "mmmmmercury_413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067640521296875721",
+        "in_reply_to_user_id": "1863662689509314563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067637551356362924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mmmmmercury_413 打算在焦虑的时候用来急救.....平时就吃思诺思 阿普唑仑鼻吸和娱乐用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1863662689509314563",
+        "conversation_id": "2067563388813861254",
+        "created_at": "2026-06-18T15:56:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T16:56:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067637551356362924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067637551356362924",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067563388813861254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 omg安定"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 318,
+          "like_count": 10479,
+          "listed_count": 2,
+          "media_count": 679,
+          "tweet_count": 4553
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-02T19:13:21.000Z",
+        "description": "┈──┈˖˚⊹ ཐི⋆♱⋆ཋྀ ⊹˚˖ ┈──┈ drugtwt/shedtwt｜dont report backup acc @mmmmmercury134",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 64,
+                "username": "mmmmmercury134"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mmmmmercury_41…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mmmmmercury_413?igsh=bzdtMHd5cnMwbXRo&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/rNQym1uaAf"
+              }
+            ]
+          }
+        },
+        "id": "1863662689509314563",
+        "location": "MERCURY",
+        "name": "mmmMercXXX🐾🪽",
+        "pinned_tweet_id": "2000269407327768988",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000270507527262208/Jld_1uPz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 987,
+          "like_count": 10352,
+          "listed_count": 2,
+          "media_count": 516,
+          "tweet_count": 2940
+        },
+        "url": "https://t.co/rNQym1uaAf",
+        "username": "mmmmmercury_413",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Caricature & Portrait",
+          "id": "1037077233070821376",
+          "name": "Caricature and portrait"
+        }
+      }
+    ],
+    "conversation_id": "2080349674205265976",
+    "created_at": "2026-07-23T17:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T18:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080349674205265976"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2080349674205265976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "闭起眼睛 流动起伏的骨骼像飘动一般把我腾空撑起 我感觉像无尽的电脑页面 重复放映自己的某幅肖像同时我又类似翩翩起舞那般晃动"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Caricature & Portrait",
+              "id": "1037077233070821376",
+              "name": "Caricature and portrait"
+            }
+          }
+        ],
+        "conversation_id": "2080349674205265976",
+        "created_at": "2026-07-23T17:49:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T18:49:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080349674205265976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080349674205265976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "闭起眼睛 流动起伏的骨骼像飘动一般把我腾空撑起 我感觉像无尽的电脑页面 重复放映自己的某幅肖像同时我又类似翩翩起舞那般晃动"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2079927002224836795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 304,
+          "like_count": 11296,
+          "listed_count": 1,
+          "media_count": 750,
+          "tweet_count": 5019
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

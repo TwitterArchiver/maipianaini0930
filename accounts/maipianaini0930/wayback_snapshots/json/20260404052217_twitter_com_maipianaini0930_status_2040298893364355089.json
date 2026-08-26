@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040298893364355089",
+    "created_at": "2026-04-04T05:22:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T06:22:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040298893364355089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1878611513969446912",
+          "start": 3,
+          "username": "amadare_2nd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040298893364355089",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040257172563730534",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amadare_2nd: 台湾？中国？か分からないけどめっちゃ可愛い男の娘多くね？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040298893364355089",
+        "created_at": "2026-04-04T05:22:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:22:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040298893364355089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1878611513969446912",
+              "start": 3,
+              "username": "amadare_2nd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040298893364355089",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040257172563730534",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amadare_2nd: 台湾？中国？か分からないけどめっちゃ可愛い男の娘多くね？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1878611513969446912",
+        "conversation_id": "2040257172563730534",
+        "created_at": "2026-04-04T02:36:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T03:36:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040257172563730534"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040257172563730534",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 12352,
+          "like_count": 274,
+          "quote_count": 3,
+          "reply_count": 16,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "台湾？中国？か分からないけどめっちゃ可愛い男の娘多くね？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "注射死刑",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 251,
+          "like_count": 7526,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 2856
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-13T01:14:34.000Z",
+        "description": "綺麗なおにーさんになりたいです。DM⭕️ 返信遅いかも 加工強め 欲しいもの▶︎https://t.co/10xv0INvn7",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 63,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/1045AERNS4UNK?ref_=wl_share",
+                "start": 40,
+                "url": "https://t.co/10xv0INvn7"
+              }
+            ]
+          }
+        },
+        "id": "1878611513969446912",
+        "location": "実在しません",
+        "name": "あまだれ",
+        "pinned_tweet_id": "2024096662155882836",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036412383955185664/cBgEBXQB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 871,
+          "following_count": 319,
+          "like_count": 3046,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1501
+        },
+        "username": "amadare_2nd",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,659 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "José Antonio Kast",
+          "id": "925090849830051841",
+          "name": "José Antonio Kast"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "José Antonio Kast",
+          "id": "925090849830051841",
+          "name": "José Antonio Kast"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "José Antonio Kast",
+          "id": "925090849830051841",
+          "name": "José Antonio Kast"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555193751324176385",
+          "name": "Chile politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1555193882232508416",
+          "name": "Chile political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2000681269265306054",
+    "created_at": "2025-12-15T21:36:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T22:36:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000681269265306054"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "José Antonio Kast",
+          "probability": 0.9496,
+          "start": 18,
+          "type": "Person"
+        },
+        {
+          "end": 65,
+          "normalized_text": "Chile",
+          "probability": 0.9064,
+          "start": 61,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1391783875681021957",
+          "start": 3,
+          "username": "ShoahUkraine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000681269265306054",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 428
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000431690775134400",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ShoahUkraine: José Antonio Kast was elected president of Chile in the runoff election, defeating his communist opponent .\n\nHis father,…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 348,
+        "media_key": "3_2000431688740917254",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8L2BazWUAYD5LV.jpg",
+        "width": 250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "José Antonio Kast",
+              "id": "925090849830051841",
+              "name": "José Antonio Kast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "José Antonio Kast",
+              "id": "925090849830051841",
+              "name": "José Antonio Kast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "José Antonio Kast",
+              "id": "925090849830051841",
+              "name": "José Antonio Kast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555193751324176385",
+              "name": "Chile politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555193882232508416",
+              "name": "Chile political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2000681269265306054",
+        "created_at": "2025-12-15T21:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T22:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000681269265306054"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "José Antonio Kast",
+              "probability": 0.9496,
+              "start": 18,
+              "type": "Person"
+            },
+            {
+              "end": 65,
+              "normalized_text": "Chile",
+              "probability": 0.9064,
+              "start": 61,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1391783875681021957",
+              "start": 3,
+              "username": "ShoahUkraine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000681269265306054",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 428
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000431690775134400",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ShoahUkraine: José Antonio Kast was elected president of Chile in the runoff election, defeating his communist opponent .\n\nHis father,…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000431688740917254"
+          ]
+        },
+        "author_id": "1391783875681021957",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "José Antonio Kast",
+              "id": "925090849830051841",
+              "name": "José Antonio Kast"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "José Antonio Kast",
+              "id": "925090849830051841",
+              "name": "José Antonio Kast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "José Antonio Kast",
+              "id": "925090849830051841",
+              "name": "José Antonio Kast"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555193751324176385",
+              "name": "Chile politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1555193882232508416",
+              "name": "Chile political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2000431690775134400",
+        "created_at": "2025-12-15T05:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T06:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000431690775134400"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 16,
+              "normalized_text": "José Antonio Kast",
+              "probability": 0.8836,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 47,
+              "normalized_text": "Chile",
+              "probability": 0.9075,
+              "start": 43,
+              "type": "Place"
+            },
+            {
+              "end": 132,
+              "normalized_text": "Michael Kast",
+              "probability": 0.8828,
+              "start": 121,
+              "type": "Person"
+            },
+            {
+              "end": 173,
+              "normalized_text": "Michael Martín Kast Schindele",
+              "probability": 0.7933,
+              "start": 145,
+              "type": "Person"
+            },
+            {
+              "end": 243,
+              "normalized_text": "Thalkirchdorf",
+              "probability": 0.9439,
+              "start": 231,
+              "type": "Place"
+            },
+            {
+              "end": 254,
+              "normalized_text": "Germany",
+              "probability": 0.9422,
+              "start": 248,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DzC5at2ijK",
+              "end": 302,
+              "expanded_url": "https://x.com/ShoahUkraine/status/2000431690775134400/photo/1",
+              "media_key": "3_2000431688740917254",
+              "start": 279,
+              "url": "https://t.co/DzC5at2ijK"
+            },
+            {
+              "display_url": "x.com/PamphletsY/sta…",
+              "end": 326,
+              "expanded_url": "https://twitter.com/PamphletsY/status/2000338132961722637",
+              "start": 303,
+              "url": "https://t.co/mLPzX7TWJV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000431690775134400",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "José Antonio Kast was elected president of Chile in the runoff election, defeating his communist opponent .\n\nHis father, Michael Kast (full name Michael Martín Kast Schindele), was born on April 2, 1924, in the Bavarian village of Thalkirchdorf in Germany; he voluntarily joined Adolf Hitler's Nazi Party in September 1942 at age 18 (membership number 9271831), initially served on garrison duty in France in 1942, then fought on the Eastern Front against the Soviet Union from 1943 to 1944, including specifically in the Battle of Korsun–Cherkassy (also known as the Korsun Pocket).\n\nHe rose to the rank of Oberleutnant (first lieutenant) in the Wehrmacht infantry, was later transferred to Italy in 1944–1945 where he defended the Gothic Line in the Apennine Mountains, was captured by American forces near Trento in May 1945, and emigrated to Chile in 1950! 🫠"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 222,
+          "impression_count": 79849,
+          "like_count": 1548,
+          "quote_count": 42,
+          "reply_count": 61,
+          "retweet_count": 428
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000338132961722637",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "José Antonio Kast was elected president of Chile in the runoff election, defeating his communist opponent .\n\nHis father, Michael Kast (full name Michael Martín Kast Schindele), was born on April 2, 1924, in the Bavarian village of Thalkirchdorf in Germany; he voluntarily joined https://t.co/DzC5at2ijK https://t.co/mLPzX7TWJV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "热河南路",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 178,
+          "like_count": 1971,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 664
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-05-10T15:55:18.000Z",
+        "description": "Lenin, Stalin , Tito",
+        "id": "1391783875681021957",
+        "location": "Jerusalem Oblast ",
+        "name": "WW2 The Eastern Front",
+        "pinned_tweet_id": "2000049527412404345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862383623145697280/3MSHSJZH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56105,
+          "following_count": 162,
+          "like_count": 4810,
+          "listed_count": 315,
+          "media_count": 5249,
+          "tweet_count": 18933
+        },
+        "username": "ShoahUkraine",
+        "verified": true
+      }
+    ]
+  }
+}

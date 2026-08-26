@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2024403490781688235",
+    "created_at": "2026-02-19T13:06:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T14:06:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024470547602743608"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1865050179617067008",
+          "start": 0,
+          "username": "AyaStellaria"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024470547602743608",
+    "in_reply_to_user_id": "1865050179617067008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024403490781688235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyaStellaria 可惜没有猎枪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024403486834905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBggPtrbUAAaWzm.jpg",
+        "width": 2023
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024403487371726848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBggPvrakAA0MR3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024403487438884864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBggPv7bUAAVuBg.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2024403487015260160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBggPuWbUAAtF0i.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2024403490781688235",
+        "created_at": "2026-02-19T13:06:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T14:06:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024470547602743608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1865050179617067008",
+              "start": 0,
+              "username": "AyaStellaria"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024470547602743608",
+        "in_reply_to_user_id": "1865050179617067008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024403490781688235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyaStellaria 可惜没有猎枪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024403486834905088",
+            "3_2024403487371726848",
+            "3_2024403487438884864",
+            "3_2024403487015260160"
+          ]
+        },
+        "author_id": "1865050179617067008",
+        "conversation_id": "2024403490781688235",
+        "created_at": "2026-02-19T08:39:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T09:39:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024403490781688235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoK8AQxLLc",
+              "end": 28,
+              "expanded_url": "https://x.com/AyaStellaria/status/2024403490781688235/photo/1",
+              "media_key": "3_2024403486834905088",
+              "start": 5,
+              "url": "https://t.co/EoK8AQxLLc"
+            },
+            {
+              "display_url": "pic.x.com/EoK8AQxLLc",
+              "end": 28,
+              "expanded_url": "https://x.com/AyaStellaria/status/2024403490781688235/photo/1",
+              "media_key": "3_2024403487371726848",
+              "start": 5,
+              "url": "https://t.co/EoK8AQxLLc"
+            },
+            {
+              "display_url": "pic.x.com/EoK8AQxLLc",
+              "end": 28,
+              "expanded_url": "https://x.com/AyaStellaria/status/2024403490781688235/photo/1",
+              "media_key": "3_2024403487438884864",
+              "start": 5,
+              "url": "https://t.co/EoK8AQxLLc"
+            },
+            {
+              "display_url": "pic.x.com/EoK8AQxLLc",
+              "end": 28,
+              "expanded_url": "https://x.com/AyaStellaria/status/2024403490781688235/photo/1",
+              "media_key": "3_2024403487015260160",
+              "start": 5,
+              "url": "https://t.co/EoK8AQxLLc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024403490781688235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 139,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好多兔子 https://t.co/EoK8AQxLLc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 205,
+          "like_count": 4384,
+          "listed_count": 0,
+          "media_count": 206,
+          "tweet_count": 1366
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T15:06:56.000Z",
+        "description": "比风更轻盈，比路更坚定，比面朝人海的诀别更有感情",
+        "id": "1865050179617067008",
+        "location": "玉浮山",
+        "name": "凛御",
+        "pinned_tweet_id": "1892910789776068924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008491850056007680/KyJknQuk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 944,
+          "like_count": 66229,
+          "listed_count": 12,
+          "media_count": 657,
+          "tweet_count": 13359
+        },
+        "username": "AyaStellaria",
+        "verified": false
+      }
+    ]
+  }
+}

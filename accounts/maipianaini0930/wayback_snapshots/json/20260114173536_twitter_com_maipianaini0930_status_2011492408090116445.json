@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2011490255522992377",
+    "created_at": "2026-01-14T17:35:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-14T18:35:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011492408090116445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1787149306740510720",
+          "start": 0,
+          "username": "freeindx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011492408090116445",
+    "in_reply_to_user_id": "1787149306740510720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011490255522992377",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@freeindx abyss倒闭了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2011490255522992377",
+        "created_at": "2026-01-14T17:35:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T18:35:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011492408090116445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1787149306740510720",
+              "start": 0,
+              "username": "freeindx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011492408090116445",
+        "in_reply_to_user_id": "1787149306740510720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011490255522992377",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@freeindx abyss倒闭了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1787149306740510720",
+        "conversation_id": "2011490255522992377",
+        "created_at": "2026-01-14T17:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T18:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011490255522992377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "杨静萍’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1OwxW…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1OwxWeVWaOnGQ",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 杨静萍’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1OwxWeVWaOnGQ/peek",
+              "url": "https://t.co/DR4q7fE4zg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011490255522992377",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DR4q7fE4zg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006274810918363138/El07gvs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 205,
+          "like_count": 2905,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 966
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-05T15:56:21.000Z",
+        "description": "🚪188r",
+        "id": "1787149306740510720",
+        "name": "杨静萍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005663391076229121/E1MXeSvB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2576,
+          "following_count": 826,
+          "like_count": 6221,
+          "listed_count": 1,
+          "media_count": 295,
+          "tweet_count": 2986
+        },
+        "username": "freeindx",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053042736228679680"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053042755400880267",
+    "created_at": "2026-05-09T09:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053042755400880267"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/NPZRrfUjj4",
+          "end": 32,
+          "expanded_url": "https://x.com/maipianaini0930/status/2053042755400880267/photo/1",
+          "media_key": "3_2053042736228679680",
+          "start": 9,
+          "url": "https://t.co/NPZRrfUjj4"
+        },
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2053035429553905708",
+          "start": 33,
+          "url": "https://t.co/AGLWnqDW8I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053042755400880267",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053035429553905708",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "火柴居然还能点着 https://t.co/NPZRrfUjj4 https://t.co/AGLWnqDW8I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2846,
+        "media_key": "3_2053042736228679680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3ffbmbQAATebW.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3776,
+        "media_key": "3_2053035365188153344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3YyYVasAAWeAP.jpg",
+        "width": 2516
+      },
+      {
+        "height": 2509,
+        "media_key": "3_2053035365213364224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3YyYbbYAAYh7G.jpg",
+        "width": 3024
+      },
+      {
+        "height": 1642,
+        "media_key": "3_2053035365188132864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3YyYVaYAA9AR0.jpg",
+        "width": 2509
+      },
+      {
+        "height": 2242,
+        "media_key": "3_2053035365204979712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3YyYZbcAAZvkk.jpg",
+        "width": 2839
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053042736228679680"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053042755400880267",
+        "created_at": "2026-05-09T09:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053042755400880267"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NPZRrfUjj4",
+              "end": 32,
+              "expanded_url": "https://x.com/maipianaini0930/status/2053042755400880267/photo/1",
+              "media_key": "3_2053042736228679680",
+              "start": 9,
+              "url": "https://t.co/NPZRrfUjj4"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2053035429553905708",
+              "start": 33,
+              "url": "https://t.co/AGLWnqDW8I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053042755400880267",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053035429553905708",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "火柴居然还能点着 https://t.co/NPZRrfUjj4 https://t.co/AGLWnqDW8I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053035365188153344",
+            "3_2053035365213364224",
+            "3_2053035365188132864",
+            "3_2053035365204979712"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2053035429553905708",
+        "created_at": "2026-05-09T08:52:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053035429553905708"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dP6eisO0IV",
+              "end": 39,
+              "expanded_url": "https://x.com/maipianaini0930/status/2053035429553905708/photo/1",
+              "media_key": "3_2053035365188153344",
+              "start": 16,
+              "url": "https://t.co/dP6eisO0IV"
+            },
+            {
+              "display_url": "pic.x.com/dP6eisO0IV",
+              "end": 39,
+              "expanded_url": "https://x.com/maipianaini0930/status/2053035429553905708/photo/1",
+              "media_key": "3_2053035365213364224",
+              "start": 16,
+              "url": "https://t.co/dP6eisO0IV"
+            },
+            {
+              "display_url": "pic.x.com/dP6eisO0IV",
+              "end": 39,
+              "expanded_url": "https://x.com/maipianaini0930/status/2053035429553905708/photo/1",
+              "media_key": "3_2053035365188132864",
+              "start": 16,
+              "url": "https://t.co/dP6eisO0IV"
+            },
+            {
+              "display_url": "pic.x.com/dP6eisO0IV",
+              "end": 39,
+              "expanded_url": "https://x.com/maipianaini0930/status/2053035429553905708/photo/1",
+              "media_key": "3_2053035365204979712",
+              "start": 16,
+              "url": "https://t.co/dP6eisO0IV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053035429553905708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一堆，\n日本的\n旧\n火柴？？？ https://t.co/dP6eisO0IV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 278,
+          "like_count": 9219,
+          "listed_count": 2,
+          "media_count": 587,
+          "tweet_count": 3673
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

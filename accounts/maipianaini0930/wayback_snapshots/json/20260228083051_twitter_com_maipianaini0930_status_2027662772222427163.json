@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027662726080987136",
+        "3_2027662726093570048"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2027662772222427163",
+    "created_at": "2026-02-28T08:30:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T09:30:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027662772222427163"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/t7oRzhMjVF",
+          "end": 26,
+          "expanded_url": "https://x.com/maipianaini0930/status/2027662772222427163/photo/1",
+          "media_key": "3_2027662726080987136",
+          "start": 3,
+          "url": "https://t.co/t7oRzhMjVF"
+        },
+        {
+          "display_url": "pic.x.com/t7oRzhMjVF",
+          "end": 26,
+          "expanded_url": "https://x.com/maipianaini0930/status/2027662772222427163/photo/1",
+          "media_key": "3_2027662726093570048",
+          "start": 3,
+          "url": "https://t.co/t7oRzhMjVF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027662772222427163",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "散步 https://t.co/t7oRzhMjVF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2027662726080987136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCO0gaBbgAA2k6E.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2027662726093570048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCO0gaEbgAA0jc2.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027662726080987136",
+            "3_2027662726093570048"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2027662772222427163",
+        "created_at": "2026-02-28T08:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T09:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027662772222427163"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t7oRzhMjVF",
+              "end": 26,
+              "expanded_url": "https://x.com/maipianaini0930/status/2027662772222427163/photo/1",
+              "media_key": "3_2027662726080987136",
+              "start": 3,
+              "url": "https://t.co/t7oRzhMjVF"
+            },
+            {
+              "display_url": "pic.x.com/t7oRzhMjVF",
+              "end": 26,
+              "expanded_url": "https://x.com/maipianaini0930/status/2027662772222427163/photo/1",
+              "media_key": "3_2027662726093570048",
+              "start": 3,
+              "url": "https://t.co/t7oRzhMjVF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027662772222427163",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "散步 https://t.co/t7oRzhMjVF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 218,
+          "like_count": 5043,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 1615
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

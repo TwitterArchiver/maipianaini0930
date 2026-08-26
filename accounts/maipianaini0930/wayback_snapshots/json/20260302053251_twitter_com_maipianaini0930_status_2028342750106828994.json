@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2028342750106828994",
+    "created_at": "2026-03-02T05:32:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T06:32:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028342750106828994"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1880582182466658304",
+          "start": 3,
+          "username": "fhwofjow51260"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028342750106828994",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 506
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028099681839116510",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @fhwofjow51260: 香港开放取用学术图书平台\n\n由 香港大学、香港中文大学、香港城市大学 的图书馆与出版社联合发起，提供开放获取学术图书资源。\n\n平台涵盖历史、哲学、宗教、法学、人类学、性别研究等领域，支持在线阅读及 PDF 下载（部分提供 EPUB），完全免…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1722,
+        "media_key": "3_2028099377437483008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCVBo3FaIAAXGWx.jpg",
+        "width": 3438
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2028342750106828994",
+        "created_at": "2026-03-02T05:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T06:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028342750106828994"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1880582182466658304",
+              "start": 3,
+              "username": "fhwofjow51260"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028342750106828994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 506
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028099681839116510",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @fhwofjow51260: 香港开放取用学术图书平台\n\n由 香港大学、香港中文大学、香港城市大学 的图书馆与出版社联合发起，提供开放获取学术图书资源。\n\n平台涵盖历史、哲学、宗教、法学、人类学、性别研究等领域，支持在线阅读及 PDF 下载（部分提供 EPUB），完全免…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028099377437483008"
+          ]
+        },
+        "author_id": "1880582182466658304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2028099681839116510",
+        "created_at": "2026-03-01T13:26:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T14:26:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028099681839116510"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "All books on this platform are licensed under a Creativ...",
+              "display_url": "openbookshongkong.com/book/",
+              "end": 154,
+              "expanded_url": "https://openbookshongkong.com/book/",
+              "start": 131,
+              "status": 200,
+              "title": "圖書下載",
+              "unwound_url": "https://openbookshongkong.com/book/",
+              "url": "https://t.co/c0Xrlyacgy"
+            },
+            {
+              "display_url": "pic.x.com/YYuaIyHi5v",
+              "end": 178,
+              "expanded_url": "https://x.com/fhwofjow51260/status/2028099681839116510/photo/1",
+              "media_key": "3_2028099377437483008",
+              "start": 155,
+              "url": "https://t.co/YYuaIyHi5v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028099681839116510",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2058,
+          "impression_count": 138606,
+          "like_count": 1462,
+          "quote_count": 6,
+          "reply_count": 21,
+          "retweet_count": 506
+        },
+        "reply_settings": "everyone",
+        "text": "香港开放取用学术图书平台\n\n由 香港大学、香港中文大学、香港城市大学 的图书馆与出版社联合发起，提供开放获取学术图书资源。\n\n平台涵盖历史、哲学、宗教、法学、人类学、性别研究等领域，支持在线阅读及 PDF 下载（部分提供 EPUB），完全免费，无需注册。\n\n🔗 https://t.co/c0Xrlyacgy https://t.co/YYuaIyHi5v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 219,
+          "like_count": 5170,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1646
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-18T11:45:17.000Z",
+        "description": "爱分享，防失联：https://t.co/ZXqWkdmlIU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nami.636310.xyz",
+                "end": 31,
+                "expanded_url": "http://nami.636310.xyz/",
+                "start": 8,
+                "url": "https://t.co/ZXqWkdmlIU"
+              }
+            ]
+          }
+        },
+        "id": "1880582182466658304",
+        "location": "阿尔法",
+        "name": "娜美知识库",
+        "pinned_tweet_id": "1985341169220661474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947441244810207232/WE8X2Clc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48369,
+          "following_count": 541,
+          "like_count": 2543,
+          "listed_count": 249,
+          "media_count": 1291,
+          "tweet_count": 1597
+        },
+        "username": "fhwofjow51260",
+        "verified": true
+      }
+    ]
+  }
+}

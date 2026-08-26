@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2044873074504307069",
+    "created_at": "2026-04-17T08:14:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T09:14:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045053193621778888"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1497481140915290115",
+          "start": 0,
+          "username": "karasu_ga_warau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045053193621778888",
+    "in_reply_to_user_id": "1497481140915290115",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044873074504307069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karasu_ga_warau 小时候只是当成一个略显荒谬的玩笑故事看完了原没有意识到事情的严重性"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1483,
+        "media_key": "3_2044873067416190976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDZOHobAAAi_x4.jpg",
+        "width": 1083
+      },
+      {
+        "height": 1125,
+        "media_key": "3_2044873067269107712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGDZOHFWsAA2lq5.jpg",
+        "width": 1102
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2044873074504307069",
+        "created_at": "2026-04-17T08:14:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T09:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045053193621778888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1497481140915290115",
+              "start": 0,
+              "username": "karasu_ga_warau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045053193621778888",
+        "in_reply_to_user_id": "1497481140915290115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044873074504307069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karasu_ga_warau 小时候只是当成一个略显荒谬的玩笑故事看完了原没有意识到事情的严重性"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044873067416190976",
+            "3_2044873067269107712"
+          ]
+        },
+        "author_id": "1497481140915290115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166408461485101056",
+              "name": "Authors"
+            }
+          }
+        ],
+        "conversation_id": "2044873074504307069",
+        "created_at": "2026-04-16T20:18:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T21:18:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044873074504307069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8AmcJZ2W5H",
+              "end": 89,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2044873074504307069/photo/1",
+              "media_key": "3_2044873067416190976",
+              "start": 66,
+              "url": "https://t.co/8AmcJZ2W5H"
+            },
+            {
+              "display_url": "pic.x.com/8AmcJZ2W5H",
+              "end": 89,
+              "expanded_url": "https://x.com/karasu_ga_warau/status/2044873074504307069/photo/1",
+              "media_key": "3_2044873067269107712",
+              "start": 66,
+              "url": "https://t.co/8AmcJZ2W5H"
+            },
+            {
+              "display_url": "x.com/karasu_ga_wara…",
+              "end": 113,
+              "expanded_url": "https://twitter.com/karasu_ga_warau/status/2044860853451927730",
+              "start": 90,
+              "url": "https://t.co/e6EluPX9ee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044873074504307069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 8316,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044860853451927730",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甚至比如這段情節，終身制、瞎折騰、再活三百歲、好大喜功、顛倒黑白….反正我是不信鄭淵潔不會預言術啦！（鄭淵潔《五個蘋果折騰地球》） https://t.co/8AmcJZ2W5H https://t.co/e6EluPX9ee"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2043643748257788371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 263,
+          "like_count": 8240,
+          "listed_count": 1,
+          "media_count": 485,
+          "tweet_count": 3136
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-26T07:59:00.000Z",
+        "description": "Proud Chinese communism survivor | Proud Feminist | Proud Queer (she/they) | May all the justice live in peace, love in peace and rest in peace.",
+        "id": "1497481140915290115",
+        "name": "夏巢川 Rei Xia",
+        "pinned_tweet_id": "1814038292738035893",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798095968576958464/DJkGIkQO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28612,
+          "following_count": 1314,
+          "like_count": 9841,
+          "listed_count": 117,
+          "media_count": 564,
+          "tweet_count": 5627
+        },
+        "username": "karasu_ga_warau",
+        "verified": false
+      }
+    ]
+  }
+}

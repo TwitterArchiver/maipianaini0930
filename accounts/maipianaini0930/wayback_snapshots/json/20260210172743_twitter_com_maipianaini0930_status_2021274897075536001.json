@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2021273723869762019",
+    "created_at": "2026-02-10T17:27:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T18:27:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021274897075536001"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021274897075536001",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021273723869762019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们靠在尸体旁喝了一瓶杜松子酒，我无法理解你为何为了我朝他不省人事的后背开枪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021273723869762019",
+        "created_at": "2026-02-10T17:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021274897075536001"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021274897075536001",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021273723869762019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们靠在尸体旁喝了一瓶杜松子酒，我无法理解你为何为了我朝他不省人事的后背开枪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021273723869762019",
+        "created_at": "2026-02-10T17:23:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:23:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021273723869762019"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021273723869762019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "或者，在极其保守的美国南部，我们躺在柴垛上哼“house of the rising sun”酗酒家暴的父亲，懦弱的母亲，直到你那父亲在卡车里烧炭自尽了，日子也没有好过，被拐骗、靠在高速公路上坑蒙拐骗榨取嫖客们的财务，离开阿拉巴马，入狱。又越狱在高速搭便车载了一个同样越狱的同性恋，他逼迫你口交，你杀了他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 216,
+          "like_count": 3900,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 1242
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

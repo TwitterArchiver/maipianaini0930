@@ -1,0 +1,135 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085200357240807424"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2085200371161665583",
+    "created_at": "2026-08-06T03:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T04:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085200371161665583"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/UwExC7HFE5",
+          "end": 27,
+          "expanded_url": "https://x.com/maipianaini0930/status/2085200371161665583/photo/1",
+          "media_key": "3_2085200357240807424",
+          "start": 4,
+          "url": "https://t.co/UwExC7HFE5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085200371161665583",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去死吧 https://t.co/UwExC7HFE5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2085200357240807424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPAerVLbIAAZhgT.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085200357240807424"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2085200371161665583",
+        "created_at": "2026-08-06T03:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T04:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085200371161665583"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwExC7HFE5",
+              "end": 27,
+              "expanded_url": "https://x.com/maipianaini0930/status/2085200371161665583/photo/1",
+              "media_key": "3_2085200357240807424",
+              "start": 4,
+              "url": "https://t.co/UwExC7HFE5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085200371161665583",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去死吧 https://t.co/UwExC7HFE5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 305,
+          "like_count": 11337,
+          "listed_count": 1,
+          "media_count": 766,
+          "tweet_count": 5133
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

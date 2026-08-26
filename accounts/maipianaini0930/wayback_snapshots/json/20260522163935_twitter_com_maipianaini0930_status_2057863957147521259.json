@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2057500230145507635",
+    "created_at": "2026-05-22T16:39:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:39:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057863957147521259"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037407236067299328",
+          "start": 0,
+          "username": "sidjekekww"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057863957147521259",
+    "in_reply_to_user_id": "2037407236067299328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057774458543235190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sidjekekww 你也可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2057500230145507635",
+        "created_at": "2026-05-22T16:39:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:39:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057863957147521259"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037407236067299328",
+              "start": 0,
+              "username": "sidjekekww"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057863957147521259",
+        "in_reply_to_user_id": "2037407236067299328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057774458543235190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sidjekekww 你也可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037407236067299328",
+        "conversation_id": "2057500230145507635",
+        "created_at": "2026-05-22T10:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057774458543235190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057774458543235190",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057500230145507635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 这个很可爱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 288,
+          "like_count": 9689,
+          "listed_count": 2,
+          "media_count": 614,
+          "tweet_count": 4016
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-27T05:53:08.000Z",
+        "description": "07 11.25 女 泛性恋 偏爱ftx （有点m 是个brat）我还是oder ed妹 会抽点爆珠 墙内是小画师 搞自设 喜欢emoart 听情绪摇滚",
+        "id": "2037407236067299328",
+        "name": "fish",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057781142275637248/0xxooaxV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 35,
+          "like_count": 137,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 50
+        },
+        "username": "sidjekekww",
+        "verified": false
+      }
+    ]
+  }
+}

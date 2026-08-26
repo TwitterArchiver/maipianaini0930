@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2026241210927767668",
+    "created_at": "2026-02-24T10:22:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:22:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026241210927767668"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026241210927767668",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "以前我非常喜欢猜火车这部电影，油管上有人同时把这部电影和黑街追缉令和怒火青春相提并论，差不多就是把青春期那种pain拍的太精准了。我看完发现还是更喜欢la haine（怒火青春）可惜猜火车和文艺青年长发男已经彻底堕为一个较贬义的符号了。此类题材的电影杨德昌拍的也很好，但最好的还是青少年哪吒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2026241210927767668",
+        "created_at": "2026-02-24T10:22:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:22:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026241210927767668"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026241210927767668",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以前我非常喜欢猜火车这部电影，油管上有人同时把这部电影和黑街追缉令和怒火青春相提并论，差不多就是把青春期那种pain拍的太精准了。我看完发现还是更喜欢la haine（怒火青春）可惜猜火车和文艺青年长发男已经彻底堕为一个较贬义的符号了。此类题材的电影杨德昌拍的也很好，但最好的还是青少年哪吒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 212,
+          "like_count": 4729,
+          "listed_count": 0,
+          "media_count": 222,
+          "tweet_count": 1480
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

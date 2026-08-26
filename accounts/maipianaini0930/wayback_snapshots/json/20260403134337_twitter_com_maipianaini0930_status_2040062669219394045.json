@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040062669219394045",
+    "created_at": "2026-04-03T13:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T14:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040062669219394045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1987138845058736133",
+          "start": 3,
+          "username": "maipianaini0930"
+        },
+        {
+          "end": 35,
+          "id": "1891748269853700096",
+          "start": 21,
+          "username": "Entropy149868"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040062669219394045",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040062615385514107",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maipianaini0930: @Entropy149868 由于切身经历我对某些职业的恐惧和揣测，没有大他者我为何会构建出一个大他者，大他者是经历的堆砌。\n\n但是我愿意撇开ip异常去信任你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040062669219394045",
+        "created_at": "2026-04-03T13:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040062669219394045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1987138845058736133",
+              "start": 3,
+              "username": "maipianaini0930"
+            },
+            {
+              "end": 35,
+              "id": "1891748269853700096",
+              "start": 21,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040062669219394045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040062615385514107",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maipianaini0930: @Entropy149868 由于切身经历我对某些职业的恐惧和揣测，没有大他者我为何会构建出一个大他者，大他者是经历的堆砌。\n\n但是我愿意撇开ip异常去信任你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040055114057367803",
+        "created_at": "2026-04-03T13:43:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:43:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040062615385514107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1891748269853700096",
+              "start": 0,
+              "username": "Entropy149868"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040062615385514107",
+        "in_reply_to_user_id": "1891748269853700096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040061309992182072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Entropy149868 由于切身经历我对某些职业的恐惧和揣测，没有大他者我为何会构建出一个大他者，大他者是经历的堆砌。\n\n但是我愿意撇开ip异常去信任你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 251,
+          "like_count": 7503,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 2842
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T07:15:35.000Z",
+        "description": "不怎么用X，梯子不好使l金属党|最喜欢的乐队psychonaut4l半建全人lentpl小县城人l求互fol查成分互fo",
+        "id": "1891748269853700096",
+        "location": "安徽",
+        "name": "ENTROPY💊",
+        "pinned_tweet_id": "2034233679720091762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033192882195312640/4-foBkF-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 274,
+          "like_count": 518,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 255
+        },
+        "username": "Entropy149868",
+        "verified": false
+      }
+    ]
+  }
+}

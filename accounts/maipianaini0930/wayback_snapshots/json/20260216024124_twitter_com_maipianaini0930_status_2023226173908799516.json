@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2023226173908799516",
+    "created_at": "2026-02-16T02:41:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023226173908799516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1987679279199719425",
+          "start": 3,
+          "username": "chitsu_jo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023226173908799516",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022651157513154648",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chitsu_jo: 「為(ため)」や「及び」など漢字でも平仮名でも差し支ない単語をどちらで記すか決めるのに相当な時間を要する事がある。文法的な正誤や制約文字数上の関係などの合理的理由ではなく、その文に漢字と平仮名どちらのほうが雰囲気が合うか考えてしまうのだ、強迫的なま…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2023226173908799516",
+        "created_at": "2026-02-16T02:41:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023226173908799516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1987679279199719425",
+              "start": 3,
+              "username": "chitsu_jo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023226173908799516",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022651157513154648",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chitsu_jo: 「為(ため)」や「及び」など漢字でも平仮名でも差し支ない単語をどちらで記すか決めるのに相当な時間を要する事がある。文法的な正誤や制約文字数上の関係などの合理的理由ではなく、その文に漢字と平仮名どちらのほうが雰囲気が合うか考えてしまうのだ、強迫的なま…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987679279199719425",
+        "conversation_id": "2022651157513154648",
+        "created_at": "2026-02-14T12:36:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:36:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022651157513154648"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022651157513154648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4543,
+          "like_count": 76,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "「為(ため)」や「及び」など漢字でも平仮名でも差し支ない単語をどちらで記すか決めるのに相当な時間を要する事がある。文法的な正誤や制約文字数上の関係などの合理的理由ではなく、その文に漢字と平仮名どちらのほうが雰囲気が合うか考えてしまうのだ、強迫的なまでに。私は文字に対する神経症なのだ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 202,
+          "like_count": 4234,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1328
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-10T00:31:16.000Z",
+        "description": "履歴 消し方 本垢@wn9y14 散歩垢@5l7ju",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 9,
+                "username": "wn9y14"
+              },
+              {
+                "end": 26,
+                "start": 20,
+                "username": "5l7ju"
+              }
+            ]
+          }
+        },
+        "id": "1987679279199719425",
+        "name": "秩序",
+        "pinned_tweet_id": "2009142209170510007",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987681742963224577/aZPytaJM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 160,
+          "like_count": 13253,
+          "listed_count": 16,
+          "media_count": 226,
+          "tweet_count": 2335
+        },
+        "username": "chitsu_jo",
+        "verified": false
+      }
+    ]
+  }
+}

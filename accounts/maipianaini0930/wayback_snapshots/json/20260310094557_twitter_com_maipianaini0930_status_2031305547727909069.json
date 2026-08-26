@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2031305547727909069",
+    "created_at": "2026-03-10T09:45:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T10:45:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031305547727909069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1843201902550634496",
+          "start": 3,
+          "username": "LwrDHYyuxR22499"
+        },
+        {
+          "end": 46,
+          "id": "1647815138450505730",
+          "start": 31,
+          "username": "yaming00742313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031305547727909069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031009133433123324",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LwrDHYyuxR22499: 因为放弃赔偿\n我和 @yaming00742313 过得清贫至极\n他的耳朵，至今仍带着永久的听力伤\n可我们依旧守在前线🐱\n依旧在为性少数群体的权益，拼尽全力\n有时和教官打架\n有时为被抓走的跨性别伙伴，\n联合众人拉横幅站出来抗议\n被带进警…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2031009117792575488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-YCCmbIAA56Al.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031009116873961472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-YB_LaMAAOeOd.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031009117993906176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-YCDWbMAA_fbX.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031009118685908993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-YCF7aUAEivUR.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2031305547727909069",
+        "created_at": "2026-03-10T09:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T10:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031305547727909069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1843201902550634496",
+              "start": 3,
+              "username": "LwrDHYyuxR22499"
+            },
+            {
+              "end": 46,
+              "id": "1647815138450505730",
+              "start": 31,
+              "username": "yaming00742313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031305547727909069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031009133433123324",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LwrDHYyuxR22499: 因为放弃赔偿\n我和 @yaming00742313 过得清贫至极\n他的耳朵，至今仍带着永久的听力伤\n可我们依旧守在前线🐱\n依旧在为性少数群体的权益，拼尽全力\n有时和教官打架\n有时为被抓走的跨性别伙伴，\n联合众人拉横幅站出来抗议\n被带进警…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031009117792575488",
+            "3_2031009116873961472",
+            "3_2031009117993906176",
+            "3_2031009118685908993"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2031009133433123324",
+        "created_at": "2026-03-09T14:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T15:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031009133433123324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 25,
+              "id": "1647815138450505730",
+              "start": 10,
+              "username": "yaming00742313"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WN3yilQR8y",
+              "end": 180,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2031009133433123324/photo/1",
+              "media_key": "3_2031009117792575488",
+              "start": 157,
+              "url": "https://t.co/WN3yilQR8y"
+            },
+            {
+              "display_url": "pic.x.com/WN3yilQR8y",
+              "end": 180,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2031009133433123324/photo/1",
+              "media_key": "3_2031009116873961472",
+              "start": 157,
+              "url": "https://t.co/WN3yilQR8y"
+            },
+            {
+              "display_url": "pic.x.com/WN3yilQR8y",
+              "end": 180,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2031009133433123324/photo/1",
+              "media_key": "3_2031009117993906176",
+              "start": 157,
+              "url": "https://t.co/WN3yilQR8y"
+            },
+            {
+              "display_url": "pic.x.com/WN3yilQR8y",
+              "end": 180,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2031009133433123324/photo/1",
+              "media_key": "3_2031009118685908993",
+              "start": 157,
+              "url": "https://t.co/WN3yilQR8y"
+            },
+            {
+              "display_url": "x.com/LwrDHYyuxR2249…",
+              "end": 204,
+              "expanded_url": "https://twitter.com/LwrDHYyuxR22499/status/2031005867618005086",
+              "start": 181,
+              "url": "https://t.co/zn6DfvuB3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031009133433123324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 18112,
+          "like_count": 298,
+          "quote_count": 2,
+          "reply_count": 24,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031005867618005086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为放弃赔偿\n我和 @yaming00742313 过得清贫至极\n他的耳朵，至今仍带着永久的听力伤\n可我们依旧守在前线🐱\n依旧在为性少数群体的权益，拼尽全力\n有时和教官打架\n有时为被抓走的跨性别伙伴，\n联合众人拉横幅站出来抗议\n被带进警局被特警殴打\n也因接受BBC报道惹上无数麻烦。\n 但我始终相信\n这一切都值得 https://t.co/WN3yilQR8y https://t.co/zn6DfvuB3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 225,
+          "like_count": 5780,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 1889
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人\n因个人能力突出\n曾受邀与BBC Eye对扭转机构进行曝光",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030919906380902400/imyfKWjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3729,
+          "following_count": 2039,
+          "like_count": 1983,
+          "listed_count": 12,
+          "media_count": 360,
+          "tweet_count": 2327
+        },
+        "username": "LwrDHYyuxR22499",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12218,
+          "following_count": 1566,
+          "like_count": 7691,
+          "listed_count": 30,
+          "media_count": 369,
+          "tweet_count": 2703
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

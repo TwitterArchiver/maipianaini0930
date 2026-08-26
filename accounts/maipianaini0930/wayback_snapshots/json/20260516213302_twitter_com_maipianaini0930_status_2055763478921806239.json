@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2055248122482426239",
+    "created_at": "2026-05-16T21:33:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T22:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055763478921806239"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2046660159867400192",
+          "start": 0,
+          "username": "nyanyanya6767"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055763478921806239",
+    "in_reply_to_user_id": "2046660159867400192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055763252609724813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyanyanya6767 是个问题呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2055248122482426239",
+        "created_at": "2026-05-16T21:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055763478921806239"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2046660159867400192",
+              "start": 0,
+              "username": "nyanyanya6767"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055763478921806239",
+        "in_reply_to_user_id": "2046660159867400192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055763252609724813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyanyanya6767 是个问题呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046660159867400192",
+        "conversation_id": "2055248122482426239",
+        "created_at": "2026-05-16T21:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T22:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055763252609724813"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055763252609724813",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055761288358510748",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 我也想但是怕被貓尿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 285,
+          "like_count": 9462,
+          "listed_count": 2,
+          "media_count": 602,
+          "tweet_count": 3892
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T18:39:55.000Z",
+        "description": "前世：@omo0903\n躁鬱／焦慮／自傷／od／穿孔",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 3,
+                "username": "omo0903"
+              }
+            ]
+          }
+        },
+        "id": "2046660159867400192",
+        "name": "？二代目",
+        "pinned_tweet_id": "2046664939327389913",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046663732911370240/Xy3J4G70_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 226,
+          "like_count": 1929,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 51
+        },
+        "username": "nyanyanya6767",
+        "verified": false
+      }
+    ]
+  }
+}

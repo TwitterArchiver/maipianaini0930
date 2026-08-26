@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2016704539613949952"
+      ],
+      "media_source_tweet_id": [
+        "2016704550070341736"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2016859034310365581",
+    "created_at": "2026-01-29T13:00:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T14:00:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016859034310365581"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1845498563272318978",
+          "start": 3,
+          "username": "tlhouseki311"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OcFOxMQe9F",
+          "end": 59,
+          "expanded_url": "https://x.com/tlhouseki311/status/2016704550070341736/photo/1",
+          "media_key": "3_2016704539613949952",
+          "start": 36,
+          "url": "https://t.co/OcFOxMQe9F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016859034310365581",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 624
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016704550070341736",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tlhouseki311: 家庭環境がまずかった場合のおつかい https://t.co/OcFOxMQe9F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 848,
+        "media_key": "3_2016704539613949952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_zGGASbcAAcU0l.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016704539613949952"
+          ],
+          "media_source_tweet_id": [
+            "2016704550070341736"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2016859034310365581",
+        "created_at": "2026-01-29T13:00:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T14:00:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016859034310365581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1845498563272318978",
+              "start": 3,
+              "username": "tlhouseki311"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcFOxMQe9F",
+              "end": 59,
+              "expanded_url": "https://x.com/tlhouseki311/status/2016704550070341736/photo/1",
+              "media_key": "3_2016704539613949952",
+              "start": 36,
+              "url": "https://t.co/OcFOxMQe9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016859034310365581",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 625
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016704550070341736",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tlhouseki311: 家庭環境がまずかった場合のおつかい https://t.co/OcFOxMQe9F"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2016704539613949952"
+          ]
+        },
+        "author_id": "1845498563272318978",
+        "conversation_id": "2016704550070341736",
+        "created_at": "2026-01-29T02:46:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T03:46:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016704550070341736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OcFOxMQe9F",
+              "end": 41,
+              "expanded_url": "https://x.com/tlhouseki311/status/2016704550070341736/photo/1",
+              "media_key": "3_2016704539613949952",
+              "start": 18,
+              "url": "https://t.co/OcFOxMQe9F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016704550070341736",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 361,
+          "impression_count": 379782,
+          "like_count": 26311,
+          "quote_count": 57,
+          "reply_count": 13,
+          "retweet_count": 625
+        },
+        "reply_settings": "everyone",
+        "text": "家庭環境がまずかった場合のおつかい https://t.co/OcFOxMQe9F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013475639219585024/EhafFf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 212,
+          "like_count": 3528,
+          "listed_count": 0,
+          "media_count": 176,
+          "tweet_count": 1082
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T16:15:29.000Z",
+        "description": "変だけど光ってるツイートだけ。",
+        "id": "1845498563272318978",
+        "name": "TLで拾った変な宝石",
+        "pinned_tweet_id": "2016704501160562891",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015304479831441408/OkO5K9MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2036,
+          "following_count": 2245,
+          "like_count": 54,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 608
+        },
+        "username": "tlhouseki311",
+        "verified": false
+      }
+    ]
+  }
+}

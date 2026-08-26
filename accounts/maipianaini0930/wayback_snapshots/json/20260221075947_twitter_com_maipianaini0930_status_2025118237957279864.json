@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2024020345510899954",
+    "created_at": "2026-02-21T07:59:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T08:59:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025118237957279864"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1563928247691202560",
+          "start": 0,
+          "username": "LauEmmett"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025118237957279864",
+    "in_reply_to_user_id": "1563928247691202560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025116837944631558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LauEmmett 镜像翻转了吗？难道是我的错觉？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2024020345510899954",
+        "created_at": "2026-02-21T07:59:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:59:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025118237957279864"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1563928247691202560",
+              "start": 0,
+              "username": "LauEmmett"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025118237957279864",
+        "in_reply_to_user_id": "1563928247691202560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025116837944631558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LauEmmett 镜像翻转了吗？难道是我的错觉？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563928247691202560",
+        "conversation_id": "2024020345510899954",
+        "created_at": "2026-02-21T07:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T08:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025116837944631558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025116837944631558",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025111576211296476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 左"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 188,
+          "following_count": 207,
+          "like_count": 4412,
+          "listed_count": 0,
+          "media_count": 210,
+          "tweet_count": 1393
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T16:35:34.000Z",
+        "description": "「感謝女人」，没有女人，男 人根本無法生存.",
+        "id": "1563928247691202560",
+        "location": "广州市",
+        "name": "干炒牛河",
+        "pinned_tweet_id": "1649996992909807616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1646322330921041929/W1GYIoyA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 189,
+          "like_count": 15664,
+          "listed_count": 3,
+          "media_count": 898,
+          "tweet_count": 1920
+        },
+        "username": "LauEmmett",
+        "verified": false
+      }
+    ]
+  }
+}

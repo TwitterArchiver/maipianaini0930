@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2059189155788476665",
+    "created_at": "2026-05-26T08:38:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059192314212634649"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2056015134812946432",
+          "start": 0,
+          "username": "Fanjfao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059192314212634649",
+    "in_reply_to_user_id": "2056015134812946432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059192107521200581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fanjfao 那就闭嘴"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059189155788476665",
+        "created_at": "2026-05-26T08:38:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059192314212634649"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2056015134812946432",
+              "start": 0,
+              "username": "Fanjfao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059192314212634649",
+        "in_reply_to_user_id": "2056015134812946432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059192107521200581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fanjfao 那就闭嘴"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056015134812946432",
+        "conversation_id": "2059189155788476665",
+        "created_at": "2026-05-26T08:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059192107521200581"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059192107521200581",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059189155788476665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 不做公益"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 281,
+          "like_count": 9748,
+          "listed_count": 2,
+          "media_count": 620,
+          "tweet_count": 4077
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T14:14:10.000Z",
+        "description": "",
+        "id": "2056015134812946432",
+        "name": "Fan",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 20
+        },
+        "username": "Fanjfao",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1998031756545720320",
+        "3_1998031756545630208",
+        "3_1998031756554125312",
+        "3_1998031756545667072"
+      ],
+      "media_source_tweet_id": [
+        "1998031766561718630",
+        "1998031766561718630",
+        "1998031766561718630",
+        "1998031766561718630"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "1998209800463864087",
+    "created_at": "2025-12-09T01:55:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-09T02:55:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998209800463864087"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1337457311506341888",
+          "start": 3,
+          "username": "sksksrkk"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/vQRWQy9CZr",
+          "end": 44,
+          "expanded_url": "https://x.com/sksksrkk/status/1998031766561718630/photo/1",
+          "media_key": "3_1998031756545720320",
+          "start": 21,
+          "url": "https://t.co/vQRWQy9CZr"
+        },
+        {
+          "display_url": "pic.x.com/vQRWQy9CZr",
+          "end": 44,
+          "expanded_url": "https://x.com/sksksrkk/status/1998031766561718630/photo/1",
+          "media_key": "3_1998031756545630208",
+          "start": 21,
+          "url": "https://t.co/vQRWQy9CZr"
+        },
+        {
+          "display_url": "pic.x.com/vQRWQy9CZr",
+          "end": 44,
+          "expanded_url": "https://x.com/sksksrkk/status/1998031766561718630/photo/1",
+          "media_key": "3_1998031756554125312",
+          "start": 21,
+          "url": "https://t.co/vQRWQy9CZr"
+        },
+        {
+          "display_url": "pic.x.com/vQRWQy9CZr",
+          "end": 44,
+          "expanded_url": "https://x.com/sksksrkk/status/1998031766561718630/photo/1",
+          "media_key": "3_1998031756545667072",
+          "start": 21,
+          "url": "https://t.co/vQRWQy9CZr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998209800463864087",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998031766561718630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sksksrkk: 멸종의 기억 https://t.co/vQRWQy9CZr"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1998209800463864087].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1998209800463864087",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1998209800463864087"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1998031756545720320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pvS-rbgAAmo0l.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1998031756545630208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pvS-raIAAJNPx.jpg",
+        "width": 2048
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1998031756554125312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pvS-tbwAAKvN-.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_1998031756545667072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7pvS-rasAA407z.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998031756545720320",
+            "3_1998031756545630208",
+            "3_1998031756554125312",
+            "3_1998031756545667072"
+          ]
+        },
+        "author_id": "1337457311506341888",
+        "conversation_id": "1998031766561718630",
+        "created_at": "2025-12-08T14:07:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:07:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998031766561718630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vQRWQy9CZr",
+              "end": 30,
+              "expanded_url": "https://x.com/sksksrkk/status/1998031766561718630/photo/1",
+              "media_key": "3_1998031756545720320",
+              "start": 7,
+              "url": "https://t.co/vQRWQy9CZr"
+            },
+            {
+              "display_url": "pic.x.com/vQRWQy9CZr",
+              "end": 30,
+              "expanded_url": "https://x.com/sksksrkk/status/1998031766561718630/photo/1",
+              "media_key": "3_1998031756545630208",
+              "start": 7,
+              "url": "https://t.co/vQRWQy9CZr"
+            },
+            {
+              "display_url": "pic.x.com/vQRWQy9CZr",
+              "end": 30,
+              "expanded_url": "https://x.com/sksksrkk/status/1998031766561718630/photo/1",
+              "media_key": "3_1998031756554125312",
+              "start": 7,
+              "url": "https://t.co/vQRWQy9CZr"
+            },
+            {
+              "display_url": "pic.x.com/vQRWQy9CZr",
+              "end": 30,
+              "expanded_url": "https://x.com/sksksrkk/status/1998031766561718630/photo/1",
+              "media_key": "3_1998031756545667072",
+              "start": 7,
+              "url": "https://t.co/vQRWQy9CZr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998031766561718630",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 391,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "멸종의 기억 https://t.co/vQRWQy9CZr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 170,
+          "like_count": 1682,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 559
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-11T18:00:55.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spin-spin.com/sksksrkk",
+                "end": 23,
+                "expanded_url": "https://spin-spin.com/sksksrkk",
+                "start": 0,
+                "url": "https://t.co/x622IWpfht"
+              }
+            ]
+          }
+        },
+        "id": "1337457311506341888",
+        "name": "윤뇌",
+        "pinned_tweet_id": "1929453260739682619",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908418419999006720/KZ6E9uFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3527,
+          "following_count": 497,
+          "like_count": 4923,
+          "listed_count": 2,
+          "media_count": 1006,
+          "tweet_count": 5102
+        },
+        "url": "https://t.co/x622IWpfht",
+        "username": "sksksrkk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034899605679480896",
+    "created_at": "2026-03-20T07:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T08:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034900480883851373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986685406998659072",
+          "start": 0,
+          "username": "obsession_exe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034900480883851373",
+    "in_reply_to_user_id": "1986685406998659072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034900153149399402",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obsession_exe 极端体验让我觉得自己还活着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034899605679480896",
+        "created_at": "2026-03-20T07:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034900480883851373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986685406998659072",
+              "start": 0,
+              "username": "obsession_exe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034900480883851373",
+        "in_reply_to_user_id": "1986685406998659072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034900153149399402",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obsession_exe 极端体验让我觉得自己还活着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986685406998659072",
+        "conversation_id": "2034899605679480896",
+        "created_at": "2026-03-20T07:49:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T08:49:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034900153149399402"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034900153149399402",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034899605679480896",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 好像要掉下來了、好可怕…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 239,
+          "like_count": 6302,
+          "listed_count": 0,
+          "media_count": 370,
+          "tweet_count": 2298
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T06:41:36.000Z",
+        "description": "もうなんか病み垢なのかわからん…仲良くさせてもろて\nリプで絡みに行くのが多いかもしれない\n\nキチ雑多サブ→@yoru_exe創作→@aka__exe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 53,
+                "username": "yoru_exe"
+              },
+              {
+                "end": 74,
+                "start": 65,
+                "username": "aka__exe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/krmjjx1z0r1h2d8",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/krmjjx1z0r1h2d8",
+                "start": 0,
+                "url": "https://t.co/uPoxVWN3rv"
+              }
+            ]
+          }
+        },
+        "id": "1986685406998659072",
+        "location": "フクロウ幸運水供給場",
+        "name": "聾唖",
+        "pinned_tweet_id": "2026897010608198126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026577142570696704/PVuZnhK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 258,
+          "like_count": 36496,
+          "listed_count": 12,
+          "media_count": 38,
+          "tweet_count": 4277
+        },
+        "url": "https://t.co/uPoxVWN3rv",
+        "username": "obsession_exe",
+        "verified": false
+      }
+    ]
+  }
+}

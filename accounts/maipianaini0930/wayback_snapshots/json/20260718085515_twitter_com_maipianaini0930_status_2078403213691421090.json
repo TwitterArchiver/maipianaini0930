@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2078108256296222763",
+    "created_at": "2026-07-18T08:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078403213691421090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046206405921624064",
+          "start": 0,
+          "username": "LobonilRock"
+        },
+        {
+          "end": 27,
+          "id": "1819916289605095424",
+          "start": 13,
+          "username": "SUMUD19480413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078403213691421090",
+    "in_reply_to_user_id": "2046206405921624064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078108256296222763",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LobonilRock @SUMUD19480413 你会绷不住的"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18466,
+        "height": 1280,
+        "media_key": "13_2078108231243587584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2078108231243587584/img/NG5sA1AmiHJJC7F5.jpg",
+        "public_metrics": {
+          "view_count": 1315575
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078108231243587584/vid/avc1/320x568/DJcPqAtPfQIK48CU.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078108231243587584/vid/avc1/480x852/4KN2iqlI5q8gcco3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2078108231243587584/vid/avc1/720x1280/2kaAmXSC9JBVzzFk.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2078108231243587584/pl/F-z70SPXf35sLKWF.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2078108256296222763",
+        "created_at": "2026-07-18T08:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078403213691421090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046206405921624064",
+              "start": 0,
+              "username": "LobonilRock"
+            },
+            {
+              "end": 27,
+              "id": "1819916289605095424",
+              "start": 13,
+              "username": "SUMUD19480413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078403213691421090",
+        "in_reply_to_user_id": "2046206405921624064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078108256296222763",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LobonilRock @SUMUD19480413 你会绷不住的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2078108231243587584"
+          ]
+        },
+        "author_id": "2046206405921624064",
+        "conversation_id": "2078108256296222763",
+        "created_at": "2026-07-17T13:23:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T14:23:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078108256296222763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zlW8QcTok5",
+              "end": 33,
+              "expanded_url": "https://x.com/LobonilRock/status/2078108256296222763/video/1",
+              "media_key": "13_2078108231243587584",
+              "start": 10,
+              "url": "https://t.co/zlW8QcTok5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078108256296222763",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11082,
+          "impression_count": 2313540,
+          "like_count": 49514,
+          "quote_count": 91,
+          "reply_count": 275,
+          "retweet_count": 3331
+        },
+        "reply_settings": "everyone",
+        "text": "Coe kkkkk https://t.co/zlW8QcTok5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 296,
+          "like_count": 11075,
+          "listed_count": 1,
+          "media_count": 731,
+          "tweet_count": 4865
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-20T12:37:00.000Z",
+        "description": "não leve nada que eu digo a sério só faço piadas. Fã de humor negro/ácido e shitpost🃏\nDM aberta pra falar o que quiser🎴\nADMs: @LobonilFox 🐺 @Tsukiro38 👻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "LobonilFox"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "Tsukiro38"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/xFUZPRxuge",
+                "end": 23,
+                "expanded_url": "https://discord.gg/xFUZPRxuge",
+                "start": 0,
+                "url": "https://t.co/QM0wPH3Om0"
+              }
+            ]
+          }
+        },
+        "id": "2046206405921624064",
+        "name": "LobonilRock🦊🃏🎴",
+        "pinned_tweet_id": "2073132442362225136",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074922573607960577/8rNdH3V9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 634,
+          "following_count": 145,
+          "like_count": 6089,
+          "listed_count": 1,
+          "media_count": 247,
+          "tweet_count": 1100
+        },
+        "url": "https://t.co/QM0wPH3Om0",
+        "username": "LobonilRock",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-04T02:00:42.000Z",
+        "description": "For all Oppressed",
+        "id": "1819916289605095424",
+        "location": "Beirut",
+        "name": "N.NF🇪🇭",
+        "pinned_tweet_id": "2034930236195045496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036440969030340609/a-Ah3qLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 953,
+          "following_count": 4030,
+          "like_count": 24799,
+          "listed_count": 5,
+          "media_count": 573,
+          "tweet_count": 13785
+        },
+        "url": "",
+        "username": "SUMUD19480413",
+        "verified": false
+      }
+    ]
+  }
+}

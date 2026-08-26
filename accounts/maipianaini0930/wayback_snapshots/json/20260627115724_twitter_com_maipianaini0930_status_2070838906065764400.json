@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070838898289434624"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2070838906065764400",
+    "created_at": "2026-06-27T11:57:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T12:57:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070838906065764400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EoDp2XAWDL",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2070838906065764400/photo/1",
+          "media_key": "3_2070838898289434624",
+          "start": 0,
+          "url": "https://t.co/EoDp2XAWDL"
+        },
+        {
+          "display_url": "x.com/n3kuv/status/2…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/n3kuv/status/2070712161811460409",
+          "start": 24,
+          "url": "https://t.co/o5tSdeimQ5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070838906065764400",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070712161811460409",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/EoDp2XAWDL https://t.co/o5tSdeimQ5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1180,
+        "media_key": "3_2070838898289434624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL0ZAZeaYAAp88w.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1180,
+        "media_key": "3_2070712153368297472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLylu32aAAADHbR.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070838898289434624"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2070838906065764400",
+        "created_at": "2026-06-27T11:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T12:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070838906065764400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EoDp2XAWDL",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2070838906065764400/photo/1",
+              "media_key": "3_2070838898289434624",
+              "start": 0,
+              "url": "https://t.co/EoDp2XAWDL"
+            },
+            {
+              "display_url": "x.com/n3kuv/status/2…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/n3kuv/status/2070712161811460409",
+              "start": 24,
+              "url": "https://t.co/o5tSdeimQ5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070838906065764400",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070712161811460409",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/EoDp2XAWDL https://t.co/o5tSdeimQ5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070712153368297472"
+          ]
+        },
+        "author_id": "1476198137589268480",
+        "conversation_id": "2070712161811460409",
+        "created_at": "2026-06-27T03:33:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:33:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070712161811460409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvvdONh8pM",
+              "end": 37,
+              "expanded_url": "https://x.com/N3kuv/status/2070712161811460409/photo/1",
+              "media_key": "3_2070712153368297472",
+              "start": 14,
+              "url": "https://t.co/bvvdONh8pM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070712161811460409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 4419,
+          "like_count": 75,
+          "quote_count": 10,
+          "reply_count": 10,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我把我能想到的药全打进去了 https://t.co/bvvdONh8pM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 304,
+          "like_count": 10643,
+          "listed_count": 1,
+          "media_count": 694,
+          "tweet_count": 4624
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-29T14:29:24.000Z",
+        "description": "既往不咎/伴有精神病性症状的重度抑郁发作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nekocaline",
+                "end": 23,
+                "expanded_url": "https://t.me/nekocaline",
+                "start": 0,
+                "url": "https://t.co/y3ZllgnZVb"
+              }
+            ]
+          }
+        },
+        "id": "1476198137589268480",
+        "name": "分享4-keto-PCP不好体验",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070796175243112448/X522JuKL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 508,
+          "like_count": 5457,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 421
+        },
+        "url": "https://t.co/y3ZllgnZVb",
+        "username": "N3kuv",
+        "verified": false
+      }
+    ]
+  }
+}

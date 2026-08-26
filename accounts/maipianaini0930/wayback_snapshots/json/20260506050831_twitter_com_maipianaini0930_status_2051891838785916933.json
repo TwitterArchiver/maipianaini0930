@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2051872599395971294",
+    "created_at": "2026-05-06T05:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T06:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051891838785916933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1125325219671842817",
+          "start": 0,
+          "username": "Beagleear_slapu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051891838785916933",
+    "in_reply_to_user_id": "1125325219671842817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051890461120594256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beagleear_slapu 给您擦身体、服侍您起身如厕、把饭烧好用托盘端到床边一筷子一筷子喂您、给您读睡前故事放花园宝宝、每天下午推着轮椅准时带您出去溜一圈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2051890461120594256].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2051890461120594256",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2051890461120594256"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2051872599395971294",
+        "created_at": "2026-05-06T05:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T06:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051891838785916933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1125325219671842817",
+              "start": 0,
+              "username": "Beagleear_slapu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051891838785916933",
+        "in_reply_to_user_id": "1125325219671842817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051890461120594256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beagleear_slapu 给您擦身体、服侍您起身如厕、把饭烧好用托盘端到床边一筷子一筷子喂您、给您读睡前故事放花园宝宝、每天下午推着轮椅准时带您出去溜一圈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 273,
+          "like_count": 9128,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 3563
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-06T09:03:34.000Z",
+        "description": "01年/双性恋/贫乳/brat/有主不约/不准视奸我",
+        "id": "1125325219671842817",
+        "location": "广东",
+        "name": "鱼是不能喝中药的",
+        "pinned_tweet_id": "1875114905713746177",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660355160244359168/R387vl88_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1666,
+          "following_count": 1326,
+          "like_count": 9578,
+          "listed_count": 3,
+          "media_count": 1493,
+          "tweet_count": 9892
+        },
+        "username": "Beagleear_slapu",
+        "verified": false
+      }
+    ]
+  }
+}

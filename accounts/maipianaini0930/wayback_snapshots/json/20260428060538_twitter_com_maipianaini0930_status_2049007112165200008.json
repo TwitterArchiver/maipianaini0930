@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2048765426172383459",
+    "created_at": "2026-04-28T06:05:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T07:05:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049007112165200008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1639664012907429890",
+          "start": 0,
+          "username": "Je1nFaur_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049007112165200008",
+    "in_reply_to_user_id": "1639664012907429890",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048765426172383459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Je1nFaur_l 洋泾浜英语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2048765426172383459",
+        "created_at": "2026-04-28T06:05:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T07:05:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049007112165200008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1639664012907429890",
+              "start": 0,
+              "username": "Je1nFaur_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049007112165200008",
+        "in_reply_to_user_id": "1639664012907429890",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048765426172383459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Je1nFaur_l 洋泾浜英语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1639664012907429890",
+        "conversation_id": "2048765426172383459",
+        "created_at": "2026-04-27T14:05:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T15:05:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048765426172383459"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048765426172383459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 405,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日式英语不管是读音还是语法都别有风味额"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 274,
+          "like_count": 8963,
+          "listed_count": 1,
+          "media_count": 541,
+          "tweet_count": 3427
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-25T16:22:49.000Z",
+        "description": "我是Mio大王 宅女一枚呀\n你管得着我发什么吗\n粉红网左滚\n不谈恋爱玩推只为碎碎念问就是无性恋\nshitposting & venting randomly\n #フォロバ0　 #フォロバ絶対しない\n看到不喜欢的评论会拉黑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 86,
+                "start": 80,
+                "tag": "フォロバ0"
+              },
+              {
+                "end": 98,
+                "start": 88,
+                "tag": "フォロバ絶対しない"
+              }
+            ]
+          }
+        },
+        "id": "1639664012907429890",
+        "location": "Oración, the Calvard Republic",
+        "name": "mio大王@無言ブロック失礼します",
+        "pinned_tweet_id": "1939326757410349487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004336547978768384/Oz15S-zD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1150,
+          "following_count": 3917,
+          "like_count": 213461,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 12568
+        },
+        "username": "Je1nFaur_l",
+        "verified": false
+      }
+    ]
+  }
+}

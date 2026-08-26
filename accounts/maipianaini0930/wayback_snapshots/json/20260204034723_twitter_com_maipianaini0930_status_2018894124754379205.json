@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018894117519216640",
+        "3_2018894117519167488"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      }
+    ],
+    "conversation_id": "2018894124754379205",
+    "created_at": "2026-02-04T03:47:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T04:47:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018894124754379205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AdtxlHJ4No",
+          "end": 137,
+          "expanded_url": "https://x.com/maipianaini0930/status/2018894124754379205/photo/1",
+          "media_key": "3_2018894117519216640",
+          "start": 114,
+          "url": "https://t.co/AdtxlHJ4No"
+        },
+        {
+          "display_url": "pic.x.com/AdtxlHJ4No",
+          "end": 137,
+          "expanded_url": "https://x.com/maipianaini0930/status/2018894124754379205/photo/1",
+          "media_key": "3_2018894117519167488",
+          "start": 114,
+          "url": "https://t.co/AdtxlHJ4No"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018894124754379205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个七十年代玩世不恭的英国小痞子居然亲以公开支持maga我只感到一股震惊荡彻心底，社会这个傻逼太恶心了，可以把鲜活的人异化成目光昏黄保守的市侩。这种对自己只要活着终有一天也不可避免地会成为他们其中一员的恐惧感让我再一次想要死亡 https://t.co/AdtxlHJ4No"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2018894117519216640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASNgNnb0AAqM-y.jpg",
+        "width": 750
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2018894117519167488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HASNgNnbEAAsWZm.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018894117519216640",
+            "3_2018894117519167488"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2018894124754379205",
+        "created_at": "2026-02-04T03:47:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018894124754379205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdtxlHJ4No",
+              "end": 137,
+              "expanded_url": "https://x.com/maipianaini0930/status/2018894124754379205/photo/1",
+              "media_key": "3_2018894117519216640",
+              "start": 114,
+              "url": "https://t.co/AdtxlHJ4No"
+            },
+            {
+              "display_url": "pic.x.com/AdtxlHJ4No",
+              "end": 137,
+              "expanded_url": "https://x.com/maipianaini0930/status/2018894124754379205/photo/1",
+              "media_key": "3_2018894117519167488",
+              "start": 114,
+              "url": "https://t.co/AdtxlHJ4No"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018894124754379205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个七十年代玩世不恭的英国小痞子居然亲以公开支持maga我只感到一股震惊荡彻心底，社会这个傻逼太恶心了，可以把鲜活的人异化成目光昏黄保守的市侩。这种对自己只要活着终有一天也不可避免地会成为他们其中一员的恐惧感让我再一次想要死亡 https://t.co/AdtxlHJ4No"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 213,
+          "like_count": 3676,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1127
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

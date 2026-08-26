@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040334481559855256",
+    "created_at": "2026-04-04T07:51:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T08:51:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040336510336295254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1563922308171202560",
+          "start": 0,
+          "username": "pussyjiang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040336510336295254",
+    "in_reply_to_user_id": "1563922308171202560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040335069911634420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pussyjiang 我骗你的，为了吸引别人来看我发的东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040334481559855256",
+        "created_at": "2026-04-04T07:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040336510336295254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1563922308171202560",
+              "start": 0,
+              "username": "pussyjiang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040336510336295254",
+        "in_reply_to_user_id": "1563922308171202560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040335069911634420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pussyjiang 我骗你的，为了吸引别人来看我发的东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1563922308171202560",
+        "conversation_id": "2040334481559855256",
+        "created_at": "2026-04-04T07:46:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:46:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040335069911634420"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040335069911634420",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040334481559855256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 好帅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 251,
+          "like_count": 7552,
+          "listed_count": 0,
+          "media_count": 432,
+          "tweet_count": 2875
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-28T16:12:21.000Z",
+        "description": "青春再见 带着遗憾走下去吧",
+        "id": "1563922308171202560",
+        "location": "Guangdong",
+        "name": "🏳️‍🌈2pineapple",
+        "pinned_tweet_id": "2032092805905203241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034289515981107200/FmAOPPKe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88,
+          "following_count": 449,
+          "like_count": 22487,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 4706
+        },
+        "username": "pussyjiang",
+        "verified": false
+      }
+    ]
+  }
+}

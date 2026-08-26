@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2053483404109438976"
+      ],
+      "media_source_tweet_id": [
+        "2053483571550228866"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2059194873895694710",
+    "created_at": "2026-05-26T08:48:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:48:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059194873895694710"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RZoBfvGuxF",
+          "end": 23,
+          "expanded_url": "https://x.com/esdferofijao/status/2053483571550228866/video/1",
+          "media_key": "13_2053483404109438976",
+          "start": 0,
+          "url": "https://t.co/RZoBfvGuxF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059194873895694710",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/RZoBfvGuxF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7829,
+        "height": 1080,
+        "media_key": "13_2053483404109438976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2053483404109438976/img/fZCG0ZX43JbPlikj.jpg",
+        "public_metrics": {
+          "view_count": 78277
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053483404109438976/vid/avc1/336x270/IQeBg0LuU4Wx1_42.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053483404109438976/vid/avc1/450x360/FgFyrs-cuV-6GTYn.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2053483404109438976/vid/avc1/900x720/_55mVfPJ2xL3iG8K.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2053483404109438976/pl/pRejD_N6Nzq_Wp_Q.m3u8?tag=14"
+          }
+        ],
+        "width": 1350
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2053483404109438976"
+          ],
+          "media_source_tweet_id": [
+            "2053483571550228866"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059194873895694710",
+        "created_at": "2026-05-26T08:48:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059194873895694710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RZoBfvGuxF",
+              "end": 23,
+              "expanded_url": "https://x.com/esdferofijao/status/2053483571550228866/video/1",
+              "media_key": "13_2053483404109438976",
+              "start": 0,
+              "url": "https://t.co/RZoBfvGuxF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059194873895694710",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/RZoBfvGuxF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 281,
+          "like_count": 9748,
+          "listed_count": 2,
+          "media_count": 622,
+          "tweet_count": 4079
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

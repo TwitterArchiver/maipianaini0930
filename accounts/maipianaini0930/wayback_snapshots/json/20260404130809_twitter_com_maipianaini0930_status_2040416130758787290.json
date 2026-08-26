@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040416122227568640",
+        "3_2040416122491834368",
+        "3_2040416122252775424",
+        "3_2040416122231795712"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2040416130758787290",
+    "created_at": "2026-04-04T13:08:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T14:08:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2040416130758787290"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bnvCY6KyZU",
+          "end": 104,
+          "expanded_url": "https://x.com/maipianaini0930/status/2040416130758787290/photo/1",
+          "media_key": "3_2040416122227568640",
+          "start": 81,
+          "url": "https://t.co/bnvCY6KyZU"
+        },
+        {
+          "display_url": "pic.x.com/bnvCY6KyZU",
+          "end": 104,
+          "expanded_url": "https://x.com/maipianaini0930/status/2040416130758787290/photo/1",
+          "media_key": "3_2040416122491834368",
+          "start": 81,
+          "url": "https://t.co/bnvCY6KyZU"
+        },
+        {
+          "display_url": "pic.x.com/bnvCY6KyZU",
+          "end": 104,
+          "expanded_url": "https://x.com/maipianaini0930/status/2040416130758787290/photo/1",
+          "media_key": "3_2040416122252775424",
+          "start": 81,
+          "url": "https://t.co/bnvCY6KyZU"
+        },
+        {
+          "display_url": "pic.x.com/bnvCY6KyZU",
+          "end": 104,
+          "expanded_url": "https://x.com/maipianaini0930/status/2040416130758787290/photo/1",
+          "media_key": "3_2040416122231795712",
+          "start": 81,
+          "url": "https://t.co/bnvCY6KyZU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040416130758787290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "grok是一个有温度和人性的ai，他不会去用文字游戏拐弯抹角维护争议中政权使用暴力的哲学性合理性，也不会试图说服你，更不会像豆包一样告诉你“我无法回答这个问题” https://t.co/bnvCY6KyZU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2040416122227568640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEDpw9asAArToq.jpg",
+        "width": 750
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2040416122491834368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEDpx8bEAAuTYg.jpg",
+        "width": 750
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2040416122252775424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEDpxDbUAA84Ps.jpg",
+        "width": 750
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2040416122231795712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFEDpw-bMAAb9rJ.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040416122227568640",
+            "3_2040416122491834368",
+            "3_2040416122252775424",
+            "3_2040416122231795712"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2040416130758787290",
+        "created_at": "2026-04-04T13:08:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T14:08:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040416130758787290"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnvCY6KyZU",
+              "end": 104,
+              "expanded_url": "https://x.com/maipianaini0930/status/2040416130758787290/photo/1",
+              "media_key": "3_2040416122227568640",
+              "start": 81,
+              "url": "https://t.co/bnvCY6KyZU"
+            },
+            {
+              "display_url": "pic.x.com/bnvCY6KyZU",
+              "end": 104,
+              "expanded_url": "https://x.com/maipianaini0930/status/2040416130758787290/photo/1",
+              "media_key": "3_2040416122491834368",
+              "start": 81,
+              "url": "https://t.co/bnvCY6KyZU"
+            },
+            {
+              "display_url": "pic.x.com/bnvCY6KyZU",
+              "end": 104,
+              "expanded_url": "https://x.com/maipianaini0930/status/2040416130758787290/photo/1",
+              "media_key": "3_2040416122252775424",
+              "start": 81,
+              "url": "https://t.co/bnvCY6KyZU"
+            },
+            {
+              "display_url": "pic.x.com/bnvCY6KyZU",
+              "end": 104,
+              "expanded_url": "https://x.com/maipianaini0930/status/2040416130758787290/photo/1",
+              "media_key": "3_2040416122231795712",
+              "start": 81,
+              "url": "https://t.co/bnvCY6KyZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040416130758787290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "grok是一个有温度和人性的ai，他不会去用文字游戏拐弯抹角维护争议中政权使用暴力的哲学性合理性，也不会试图说服你，更不会像豆包一样告诉你“我无法回答这个问题” https://t.co/bnvCY6KyZU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 252,
+          "like_count": 7572,
+          "listed_count": 0,
+          "media_count": 440,
+          "tweet_count": 2902
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

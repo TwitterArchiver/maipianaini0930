@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2077689953786732963",
+    "created_at": "2026-07-16T14:48:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T15:48:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077767410254499964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1605802861434003456",
+          "start": 0,
+          "username": "rotteddakimkura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077767410254499964",
+    "in_reply_to_user_id": "1605802861434003456",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077689953786732963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rotteddakimkura u ok？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2077689953786732963",
+        "created_at": "2026-07-16T14:48:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T15:48:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077767410254499964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1605802861434003456",
+              "start": 0,
+              "username": "rotteddakimkura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077767410254499964",
+        "in_reply_to_user_id": "1605802861434003456",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077689953786732963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rotteddakimkura u ok？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1605802861434003456",
+        "conversation_id": "2077689953786732963",
+        "created_at": "2026-07-16T09:41:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T10:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077689953786732963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077689953786732963",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "i cant sleep but its 3 am 💔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n来视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 431,
+          "following_count": 297,
+          "like_count": 11008,
+          "listed_count": 1,
+          "media_count": 729,
+          "tweet_count": 4798
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T05:50:23.000Z",
+        "description": "18 // cis male // femboymaxxer // 152cm // cgw 45kg // cw 49kg",
+        "id": "1605802861434003456",
+        "name": "failwife",
+        "pinned_tweet_id": "2068064468526071892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068063018186133504/RYKK_pXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 8,
+          "like_count": 7690,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "rotteddakimkura",
+        "verified": false
+      }
+    ]
+  }
+}

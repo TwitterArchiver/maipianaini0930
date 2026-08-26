@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2050763667042611703",
+    "created_at": "2026-05-03T03:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T04:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050778538488565881"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050778538488565881",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050763667042611703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 🤫这个秘密少数人掌握就行啦....."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2050763667042611703",
+        "created_at": "2026-05-03T03:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050778538488565881"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050778538488565881",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050763667042611703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 🤫这个秘密少数人掌握就行啦....."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677732423667445760",
+        "conversation_id": "2050763667042611703",
+        "created_at": "2026-05-03T02:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T03:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050763667042611703"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2050763667042611703",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 994,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我今天忽然悟出一个生活小贴士：确定不去了的临期动车/火车票，可以先改签推迟到很晚一天再取消，这样就没有手续费了……我之前花的退票费都是为了什么……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 276,
+          "like_count": 9070,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 3488
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、三俗烂梗、猫咪爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & kitty🪭🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2011619057360126001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9687,
+          "following_count": 954,
+          "like_count": 17275,
+          "listed_count": 42,
+          "media_count": 2529,
+          "tweet_count": 8109
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

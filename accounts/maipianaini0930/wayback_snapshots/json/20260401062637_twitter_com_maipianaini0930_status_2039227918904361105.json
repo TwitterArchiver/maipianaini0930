@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039227918904361105",
+    "created_at": "2026-04-01T06:26:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T07:26:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039227918904361105"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2037796255288729606",
+          "start": 16,
+          "url": "https://t.co/bdxzQdYCPv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039227918904361105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037796255288729606",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你瞎了吗？所以看不见我的评论？ https://t.co/bdxzQdYCPv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039227918904361105",
+        "created_at": "2026-04-01T06:26:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:26:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039227918904361105"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2037796255288729606",
+              "start": 16,
+              "url": "https://t.co/bdxzQdYCPv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039227918904361105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037796255288729606",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你瞎了吗？所以看不见我的评论？ https://t.co/bdxzQdYCPv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037796255288729606",
+        "created_at": "2026-03-28T07:37:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:37:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037796255288729606"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iilvv_/status/…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/iilvv_/status/2037177591220797698",
+              "start": 21,
+              "url": "https://t.co/hT7yqQWLA7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037796255288729606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037177591220797698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你是指赫胥黎的知觉之门还是斯诺登的棱镜门 https://t.co/hT7yqQWLA7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 241,
+          "like_count": 7215,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 2726
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

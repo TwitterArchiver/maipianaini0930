@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039400201912459614",
+    "created_at": "2026-04-02T02:11:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:11:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039526025768706319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1341766476609462274",
+          "start": 0,
+          "username": "mentallychels"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039526025768706319",
+    "in_reply_to_user_id": "1341766476609462274",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039400201912459614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mentallychels 灌几瓶啤酒就困了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039400201912459614",
+        "created_at": "2026-04-02T02:11:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:11:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039526025768706319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1341766476609462274",
+              "start": 0,
+              "username": "mentallychels"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039526025768706319",
+        "in_reply_to_user_id": "1341766476609462274",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039400201912459614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mentallychels 灌几瓶啤酒就困了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1341766476609462274",
+        "conversation_id": "2039400201912459614",
+        "created_at": "2026-04-01T17:51:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039400201912459614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039400201912459614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 569,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我吃了思诺思还是睡不着"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 246,
+          "like_count": 7305,
+          "listed_count": 0,
+          "media_count": 409,
+          "tweet_count": 2716
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-23T15:24:07.000Z",
+        "description": "小壑｜很久沒有更新就應該是死掉了｜咔我先咔 @scutigera_kuma🚪299/520/1314/2713",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 22,
+                "username": "scutigera_kuma"
+              }
+            ]
+          }
+        },
+        "id": "1341766476609462274",
+        "location": "北校C栋天台",
+        "name": "mentallychels",
+        "pinned_tweet_id": "1975825059651723566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1341766993821671426/K8xmFlJg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14463,
+          "following_count": 291,
+          "like_count": 2121,
+          "listed_count": 24,
+          "media_count": 387,
+          "tweet_count": 1525
+        },
+        "username": "mentallychels",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2029545991909908913",
+    "created_at": "2026-03-05T13:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T14:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029553112307073043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1657345207",
+          "start": 0,
+          "username": "intanssafitri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029553112307073043",
+    "in_reply_to_user_id": "1657345207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029552583757660669",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intanssafitri 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2029545991909908913",
+        "created_at": "2026-03-05T13:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029553112307073043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1657345207",
+              "start": 0,
+              "username": "intanssafitri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029553112307073043",
+        "in_reply_to_user_id": "1657345207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029552583757660669",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intanssafitri 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657345207",
+        "conversation_id": "2029545991909908913",
+        "created_at": "2026-03-05T13:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T14:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029552583757660669"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029552583757660669",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029552126297584036",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 建议看《鼹鼠》很符合你描述的意境。然后我个人最喜欢的他的作品是《圣山》"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 226,
+          "like_count": 5393,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 1749
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-09T09:10:23.000Z",
+        "description": "(－＂－怒)",
+        "id": "1657345207",
+        "location": "普鲁士",
+        "name": "Gardenia_33",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004401189350526978/pQPklOLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 59,
+          "like_count": 854,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 704
+        },
+        "username": "intanssafitri",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2077651179929231611",
+    "created_at": "2026-07-17T14:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T15:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078121290230276199"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1513444882865856516",
+          "start": 0,
+          "username": "thorino10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078121290230276199",
+    "in_reply_to_user_id": "1513444882865856516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077651179929231611",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thorino10 我只对什么时候能吸到可卡因和酒感兴趣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2077651179929231611",
+        "created_at": "2026-07-17T14:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T15:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078121290230276199"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1513444882865856516",
+              "start": 0,
+              "username": "thorino10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078121290230276199",
+        "in_reply_to_user_id": "1513444882865856516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077651179929231611",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thorino10 我只对什么时候能吸到可卡因和酒感兴趣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513444882865856516",
+        "conversation_id": "2077651179929231611",
+        "created_at": "2026-07-16T07:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T08:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077651179929231611"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077651179929231611",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 3375,
+          "like_count": 42,
+          "quote_count": 2,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果一个女的身边大部分朋友都是异性朋友而不是同性朋友，只能推测她对同性怀有敌意，这个敌意其实并不是同性造成的而是异性造成的，因不被选择觉得自己没有竞争优势又不服气转而敌视同性。可悲。\n另我也不明白同异性如何纯友谊，除非双方都对对方肉体不感兴趣，否则很显然女女友谊更纯粹更无目的性。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 296,
+          "like_count": 11036,
+          "listed_count": 1,
+          "media_count": 733,
+          "tweet_count": 4836
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:12:57.000Z",
+        "description": "你从不道别，你闷着头往前走，顺手接过命运递到你手上的东西，不管它是什么。",
+        "id": "1513444882865856516",
+        "name": "日内瓦十六夜",
+        "pinned_tweet_id": "1920530931422724192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356427384721408/9V-JtoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7050,
+          "following_count": 543,
+          "like_count": 17004,
+          "listed_count": 24,
+          "media_count": 423,
+          "tweet_count": 5751
+        },
+        "url": "",
+        "username": "thorino10",
+        "verified": false
+      }
+    ]
+  }
+}

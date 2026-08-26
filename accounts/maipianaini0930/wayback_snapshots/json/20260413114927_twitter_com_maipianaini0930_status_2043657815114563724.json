@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2043639798418842028",
+    "created_at": "2026-04-13T11:49:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T12:49:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043657815114563724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1594280404504444931",
+          "start": 0,
+          "username": "LichitLich"
+        },
+        {
+          "end": 24,
+          "id": "2013233628847980544",
+          "start": 12,
+          "username": "Asukai_Yuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043657815114563724",
+    "in_reply_to_user_id": "1594280404504444931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043656656723296570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LichitLich @Asukai_Yuki 这下是彻底劝退我了....发质是我特别引以为傲的东西啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2043639798418842028",
+        "created_at": "2026-04-13T11:49:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:49:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043657815114563724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1594280404504444931",
+              "start": 0,
+              "username": "LichitLich"
+            },
+            {
+              "end": 24,
+              "id": "2013233628847980544",
+              "start": 12,
+              "username": "Asukai_Yuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043657815114563724",
+        "in_reply_to_user_id": "1594280404504444931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043656656723296570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LichitLich @Asukai_Yuki 这下是彻底劝退我了....发质是我特别引以为傲的东西啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594280404504444931",
+        "conversation_id": "2043639798418842028",
+        "created_at": "2026-04-13T11:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043656656723296570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2013233628847980544",
+              "start": 0,
+              "username": "Asukai_Yuki"
+            },
+            {
+              "end": 29,
+              "id": "1987138845058736133",
+              "start": 13,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043656656723296570",
+        "in_reply_to_user_id": "2013233628847980544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043643968995704926",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Asukai_Yuki @maipianaini0930 感觉头发质量大损伤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2043643748257788371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 273,
+          "like_count": 8090,
+          "listed_count": 1,
+          "media_count": 475,
+          "tweet_count": 3088
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T10:44:50.000Z",
+        "description": "male//泛性恋//麦当劳薯饼//减肥中//#东方project//没脾气//纯良//好色//中古锤迫真遗老//试着戒烟//碎碎念，还有发癫//收集喜欢的文字//我的爱人是 @R18Giano",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 23,
+                "tag": "东方project"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 97,
+                "start": 88,
+                "username": "R18Giano"
+              }
+            ]
+          }
+        },
+        "id": "1594280404504444931",
+        "name": "Lich🍺🐱阿提拉的神圣手雷",
+        "pinned_tweet_id": "2040511334354485327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042425919135223808/Qp2rYOg8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 2467,
+          "like_count": 26167,
+          "listed_count": 6,
+          "media_count": 1202,
+          "tweet_count": 8868
+        },
+        "username": "LichitLich",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-19T12:54:43.000Z",
+        "description": "🏳️‍⚧️🏳️‍🌈＝郁希/飛鳥井ゆき | enby 泛性恋无浪漫，和我的琴已经结婚 | 06| 双相焦虑 | 🎸🎨  | rock'n'roll | oc | 我见你如于深井中窥飞鸟",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mikanseinonatsu",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mikanseinonatsu",
+                "start": 0,
+                "url": "https://t.co/1wmN2eVRYQ"
+              }
+            ]
+          }
+        },
+        "id": "2013233628847980544",
+        "location": "喜欢我请给我打钱❤️",
+        "name": "郁希",
+        "pinned_tweet_id": "2041094444750106844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030567969726840832/5gci_IPw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 400,
+          "following_count": 195,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 188,
+          "tweet_count": 2061
+        },
+        "url": "https://t.co/1wmN2eVRYQ",
+        "username": "Asukai_Yuki",
+        "verified": false
+      }
+    ]
+  }
+}

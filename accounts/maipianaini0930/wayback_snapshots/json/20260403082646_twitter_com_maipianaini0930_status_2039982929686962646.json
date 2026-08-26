@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039982020408025293",
+    "created_at": "2026-04-03T08:26:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T09:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039982929686962646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902891477556137987",
+          "start": 0,
+          "username": "chisetu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039982929686962646",
+    "in_reply_to_user_id": "1902891477556137987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039982673096249367",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chisetu_ 这可比爱泼斯坦文件还绝密的东西能随便公布吗🤐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039982020408025293",
+        "created_at": "2026-04-03T08:26:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039982929686962646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902891477556137987",
+              "start": 0,
+              "username": "chisetu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039982929686962646",
+        "in_reply_to_user_id": "1902891477556137987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039982673096249367",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chisetu_ 这可比爱泼斯坦文件还绝密的东西能随便公布吗🤐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902891477556137987",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2039982020408025293",
+        "created_at": "2026-04-03T08:25:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T09:25:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039982673096249367"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039982673096249367",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039982020408025293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 不发在Twitter上吗？？？？？？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 250,
+          "like_count": 7491,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 2818
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:14:26.000Z",
+        "description": "うるさい人で",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chisetu_",
+                "end": 23,
+                "expanded_url": "https://lit.link/chisetu_",
+                "start": 0,
+                "url": "https://t.co/yUFz5Xi359"
+              }
+            ]
+          }
+        },
+        "id": "1902891477556137987",
+        "location": "イカ焼きの中",
+        "name": "稚夢",
+        "pinned_tweet_id": "2038108064231100647",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013818920797642789/cFRna2WX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 94,
+          "like_count": 31518,
+          "listed_count": 1,
+          "media_count": 2262,
+          "tweet_count": 21355
+        },
+        "url": "https://t.co/yUFz5Xi359",
+        "username": "chisetu_",
+        "verified": false
+      }
+    ]
+  }
+}

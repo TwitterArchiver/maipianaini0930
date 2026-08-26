@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2033065959276364266",
+    "created_at": "2026-03-16T17:04:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T18:04:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033590176853987425"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1356924709036679168",
+          "start": 0,
+          "username": "wjf110"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033590176853987425",
+    "in_reply_to_user_id": "1356924709036679168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033065959276364266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wjf110 老子的钱就是被这些人掳走的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2033065959276364266",
+        "created_at": "2026-03-16T17:04:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033590176853987425"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1356924709036679168",
+              "start": 0,
+              "username": "wjf110"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033590176853987425",
+        "in_reply_to_user_id": "1356924709036679168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033065959276364266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wjf110 老子的钱就是被这些人掳走的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1356924709036679168",
+        "conversation_id": "2033065959276364266",
+        "created_at": "2026-03-15T06:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T07:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033065959276364266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2033065959276364266",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 193,
+          "impression_count": 806857,
+          "like_count": 2057,
+          "quote_count": 6,
+          "reply_count": 317,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "今天刚看了新闻\n\n那英迁移45亿资产去国外了\n\n你看，这就是差异，有钱人从来不抱怨社会，直接换地方了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 240,
+          "like_count": 6018,
+          "listed_count": 0,
+          "media_count": 332,
+          "tweet_count": 2084
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-03T11:17:24.000Z",
+        "description": "合作📩 TG: https://t.co/Jt8KmJOw3X\n\n其他社交VX QQ都是假冒\n\n｜AI  defi赛道｜\n｜二级 MEME｜",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/wjf110",
+                "end": 31,
+                "expanded_url": "https://t.me/wjf110",
+                "start": 8,
+                "url": "https://t.co/Jt8KmJOw3X"
+              }
+            ]
+          }
+        },
+        "id": "1356924709036679168",
+        "name": "好家伙🦅",
+        "pinned_tweet_id": "1728640398321750172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568617853930307584/D-4SOnGT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72259,
+          "following_count": 12769,
+          "like_count": 88966,
+          "listed_count": 168,
+          "media_count": 1770,
+          "tweet_count": 47121
+        },
+        "username": "wjf110",
+        "verified": true
+      }
+    ]
+  }
+}

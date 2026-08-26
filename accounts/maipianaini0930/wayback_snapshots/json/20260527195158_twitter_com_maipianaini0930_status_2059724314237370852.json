@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059724293349801984"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2059724314237370852",
+    "created_at": "2026-05-27T19:51:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:51:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059724314237370852"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yvQE3O3dKH",
+          "end": 36,
+          "expanded_url": "https://x.com/maipianaini0930/status/2059724314237370852/photo/1",
+          "media_key": "3_2059724293349801984",
+          "start": 13,
+          "url": "https://t.co/yvQE3O3dKH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059724314237370852",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "getsickandie https://t.co/yvQE3O3dKH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2059724293349801984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJWcVPhbgAAb2eb.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059724293349801984"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059724314237370852",
+        "created_at": "2026-05-27T19:51:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:51:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059724314237370852"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yvQE3O3dKH",
+              "end": 36,
+              "expanded_url": "https://x.com/maipianaini0930/status/2059724314237370852/photo/1",
+              "media_key": "3_2059724293349801984",
+              "start": 13,
+              "url": "https://t.co/yvQE3O3dKH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059724314237370852",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "getsickandie https://t.co/yvQE3O3dKH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 288,
+          "like_count": 9777,
+          "listed_count": 2,
+          "media_count": 625,
+          "tweet_count": 4104
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

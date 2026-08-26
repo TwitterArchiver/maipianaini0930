@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039014060105335247",
+    "created_at": "2026-04-01T07:19:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:19:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039241333030953051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1505242176560656386",
+          "start": 0,
+          "username": "ia0001_"
+        },
+        {
+          "end": 24,
+          "id": "1828822109696544768",
+          "start": 9,
+          "username": "gabheyem492991"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039241333030953051",
+    "in_reply_to_user_id": "1505242176560656386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039019874824171853",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ia0001_ @gabheyem492991 看你骂张雪峰是一种极致享受"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039019874824171853].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039019874824171853",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039019874824171853"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039014060105335247",
+        "created_at": "2026-04-01T07:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039241333030953051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1505242176560656386",
+              "start": 0,
+              "username": "ia0001_"
+            },
+            {
+              "end": 24,
+              "id": "1828822109696544768",
+              "start": 9,
+              "username": "gabheyem492991"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039241333030953051",
+        "in_reply_to_user_id": "1505242176560656386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039019874824171853",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ia0001_ @gabheyem492991 看你骂张雪峰是一种极致享受"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 241,
+          "like_count": 7233,
+          "listed_count": 0,
+          "media_count": 450,
+          "tweet_count": 2733
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-19T17:58:09.000Z",
+        "description": "",
+        "id": "1505242176560656386",
+        "name": "ia",
+        "pinned_tweet_id": "2039120352836747654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867013851029606400/A9xjdc2y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 261,
+          "following_count": 328,
+          "like_count": 50825,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 8881
+        },
+        "username": "ia0001_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-28T15:49:13.000Z",
+        "description": "I’m not a girl，I’m not a boy…I’m a pancake",
+        "id": "1828822109696544768",
+        "location": "百慕大",
+        "name": "松饼",
+        "pinned_tweet_id": "2039147278636851601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026742822448279553/L_GQtSvN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 909,
+          "like_count": 9972,
+          "listed_count": 1,
+          "media_count": 257,
+          "tweet_count": 1996
+        },
+        "username": "gabheyem492991",
+        "verified": false
+      }
+    ]
+  }
+}

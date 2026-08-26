@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079308404427047200",
+    "created_at": "2026-07-20T23:57:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T00:57:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079355144836399573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1840061282676027394",
+          "start": 0,
+          "username": "tiedademowang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079355144836399573",
+    "in_reply_to_user_id": "1840061282676027394",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079308404427047200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tiedademowang 吃点苯二氮卓？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079308404427047200",
+        "created_at": "2026-07-20T23:57:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T00:57:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079355144836399573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1840061282676027394",
+              "start": 0,
+              "username": "tiedademowang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079355144836399573",
+        "in_reply_to_user_id": "1840061282676027394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079308404427047200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tiedademowang 吃点苯二氮卓？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840061282676027394",
+        "conversation_id": "2079308404427047200",
+        "created_at": "2026-07-20T20:52:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T21:52:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079308404427047200"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079308404427047200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在非常难受，感觉刚才被人上身了，像被拉到泥潭里喘不上气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 438,
+          "following_count": 302,
+          "like_count": 11187,
+          "listed_count": 1,
+          "media_count": 745,
+          "tweet_count": 4939
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T16:09:47.000Z",
+        "description": "空间错位症漫记",
+        "id": "1840061282676027394",
+        "location": "一般都在床上",
+        "name": "迷路迴",
+        "pinned_tweet_id": "2064282667638784340",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071644634733064192/ikL-1Sek_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 290,
+          "like_count": 30989,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 607
+        },
+        "url": "",
+        "username": "tiedademowang",
+        "verified": false
+      }
+    ]
+  }
+}

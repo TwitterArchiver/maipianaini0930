@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026892625547243863",
+    "created_at": "2026-02-26T05:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T06:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026892625547243863"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3333183208",
+          "start": 3,
+          "username": "luscafusca150"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/8hlMF5",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/8hlMF5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026892625547243863",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 67
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026696287022666052",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luscafusca150: a barata dos eletronicos, como é possível que um radio relogio seja tão guerreiro e sobreviva a tudo https://t.co/8hlMF5…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2026696070785323012",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCBFVqbW0AQ-aDU.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026892625547243863",
+        "created_at": "2026-02-26T05:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T06:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026892625547243863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3333183208",
+              "start": 3,
+              "username": "luscafusca150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/8hlMF5",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/8hlMF5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026892625547243863",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 67
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026696287022666052",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luscafusca150: a barata dos eletronicos, como é possível que um radio relogio seja tão guerreiro e sobreviva a tudo https://t.co/8hlMF5…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026696070785323012"
+          ]
+        },
+        "author_id": "3333183208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026696287022666052",
+        "created_at": "2026-02-25T16:30:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T17:30:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026696287022666052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8hlMF5suS1",
+              "end": 124,
+              "expanded_url": "https://x.com/luscafusca150/status/2026696287022666052/photo/1",
+              "media_key": "3_2026696070785323012",
+              "start": 101,
+              "url": "https://t.co/8hlMF5suS1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026696287022666052",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 20097,
+          "like_count": 2224,
+          "quote_count": 21,
+          "reply_count": 43,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "a barata dos eletronicos, como é possível que um radio relogio seja tão guerreiro e sobreviva a tudo https://t.co/8hlMF5suS1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 212,
+          "like_count": 4950,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1560
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2015-06-18T18:23:42.000Z",
+        "description": "Arquiteto periférico, morador da Cidade de Deus\nThread (quase) diária sobre o mundinho de arquitetura e design🧵\nPix e contato: luscafusca150@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/luscafusca150",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/luscafusca150",
+                "start": 0,
+                "url": "https://t.co/UEWPpUbU96"
+              }
+            ]
+          }
+        },
+        "id": "3333183208",
+        "location": "Rio de Janeiro, Brasil",
+        "name": "Lusca Fusca",
+        "pinned_tweet_id": "1817899006816567790",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1535972147138633728/0VhhZVLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59786,
+          "following_count": 1474,
+          "like_count": 11026,
+          "listed_count": 71,
+          "media_count": 2721,
+          "tweet_count": 15309
+        },
+        "url": "https://t.co/UEWPpUbU96",
+        "username": "luscafusca150",
+        "verified": true
+      }
+    ]
+  }
+}

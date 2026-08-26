@@ -1,0 +1,380 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2034842999965024613",
+    "created_at": "2026-03-20T04:16:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T05:16:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034846452737069276"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2034846452737069276",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034842999965024613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "再也不想用这个傻逼百度网盘了有钱买个iCloud吧，广告巨多像故意催吐的一样误触跳转应用的时候更是让人狂暴到极致，又卡又慢不停想诱导你买那个无限空间。老中你东西做的烂就别做，翻墙以后我觉得我们能把街道设计的那么丑那么土完全不奇怪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2034842959292833792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD024_JaoAAWl5N.jpg",
+        "width": 4032
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2034842959246761993",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD024--boAk4Tz9.jpg",
+        "width": 1080
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2034842959280316418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD024_GboAI8p_2.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2034842959255158784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD024_AbwAARq2y.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2034842999965024613",
+        "created_at": "2026-03-20T04:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034846452737069276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034846452737069276",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034842999965024613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "再也不想用这个傻逼百度网盘了有钱买个iCloud吧，广告巨多像故意催吐的一样误触跳转应用的时候更是让人狂暴到极致，又卡又慢不停想诱导你买那个无限空间。老中你东西做的烂就别做，翻墙以后我觉得我们能把街道设计的那么丑那么土完全不奇怪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034842959292833792",
+            "3_2034842959246761993",
+            "3_2034842959280316418",
+            "3_2034842959255158784"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10024011738",
+              "name": "Apple - iPhone"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2034842999965024613",
+        "created_at": "2026-03-20T04:02:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:02:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034842999965024613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r2AfthBfET",
+              "end": 111,
+              "expanded_url": "https://x.com/maipianaini0930/status/2034842999965024613/photo/1",
+              "media_key": "3_2034842959292833792",
+              "start": 88,
+              "url": "https://t.co/r2AfthBfET"
+            },
+            {
+              "display_url": "pic.x.com/r2AfthBfET",
+              "end": 111,
+              "expanded_url": "https://x.com/maipianaini0930/status/2034842999965024613/photo/1",
+              "media_key": "3_2034842959246761993",
+              "start": 88,
+              "url": "https://t.co/r2AfthBfET"
+            },
+            {
+              "display_url": "pic.x.com/r2AfthBfET",
+              "end": 111,
+              "expanded_url": "https://x.com/maipianaini0930/status/2034842999965024613/photo/1",
+              "media_key": "3_2034842959280316418",
+              "start": 88,
+              "url": "https://t.co/r2AfthBfET"
+            },
+            {
+              "display_url": "pic.x.com/r2AfthBfET",
+              "end": 111,
+              "expanded_url": "https://x.com/maipianaini0930/status/2034842999965024613/photo/1",
+              "media_key": "3_2034842959255158784",
+              "start": 88,
+              "url": "https://t.co/r2AfthBfET"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034842999965024613",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个死人iPhone11已经快报废了又卡又慢，我想换16e，去百度网盘导照片愣是直接卡到关机，我真害怕哪天用着用着突然变成块砖。去年滑雪也有因为低温三十格电瞬间灰飞烟灭的案例 https://t.co/r2AfthBfET"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 237,
+          "like_count": 6251,
+          "listed_count": 0,
+          "media_count": 366,
+          "tweet_count": 2266
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

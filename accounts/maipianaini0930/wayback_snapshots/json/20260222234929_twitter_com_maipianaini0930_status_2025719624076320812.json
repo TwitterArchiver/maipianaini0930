@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "1981900340934156488",
+    "created_at": "2026-02-22T23:49:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T00:49:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025719624076320812"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1028097257378332672",
+          "start": 0,
+          "username": "hatunagi_yuzuki"
+        },
+        {
+          "end": 25,
+          "id": "1812822938728726528",
+          "start": 17,
+          "username": "hukouya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025719624076320812",
+    "in_reply_to_user_id": "1028097257378332672",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981900340934156488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hatunagi_yuzuki @hukouya 街景认出来了，升州路水游城附近"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_1981899273227612160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Ee43FWMAAlvxv.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1981899273311551488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Ee43ZXAAAnYkh.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1981899362352406528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4Ee-DGWoAAAJL4.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_1981899492816207872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4EfFpHWQAAQNSB.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1981900340934156488",
+        "created_at": "2026-02-22T23:49:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T00:49:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025719624076320812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1028097257378332672",
+              "start": 0,
+              "username": "hatunagi_yuzuki"
+            },
+            {
+              "end": 25,
+              "id": "1812822938728726528",
+              "start": 17,
+              "username": "hukouya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025719624076320812",
+        "in_reply_to_user_id": "1028097257378332672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981900340934156488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hatunagi_yuzuki @hukouya 街景认出来了，升州路水游城附近"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981899273227612160",
+            "3_1981899273311551488",
+            "3_1981899362352406528",
+            "3_1981899492816207872"
+          ]
+        },
+        "author_id": "1028097257378332672",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1341520686771175424",
+              "name": "Uma Musume"
+            }
+          }
+        ],
+        "conversation_id": "1981900340934156488",
+        "created_at": "2025-10-25T01:47:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T02:47:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981900340934156488"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 39,
+              "tag": "kigurumi"
+            },
+            {
+              "end": 54,
+              "start": 49,
+              "tag": "着ぐるみ"
+            },
+            {
+              "end": 59,
+              "start": 55,
+              "tag": "ウマ娘"
+            },
+            {
+              "end": 70,
+              "start": 60,
+              "tag": "umamusume"
+            },
+            {
+              "end": 80,
+              "start": 71,
+              "tag": "スーパークリーク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 102,
+              "id": "1028097257378332672",
+              "start": 86,
+              "username": "hatunagi_yuzuki"
+            },
+            {
+              "end": 124,
+              "id": "1812822938728726528",
+              "start": 116,
+              "username": "hukouya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jWhwZtZzNN",
+              "end": 148,
+              "expanded_url": "https://x.com/hatunagi_yuzuki/status/1981900340934156488/photo/1",
+              "media_key": "3_1981899273227612160",
+              "start": 125,
+              "url": "https://t.co/jWhwZtZzNN"
+            },
+            {
+              "display_url": "pic.x.com/jWhwZtZzNN",
+              "end": 148,
+              "expanded_url": "https://x.com/hatunagi_yuzuki/status/1981900340934156488/photo/1",
+              "media_key": "3_1981899273311551488",
+              "start": 125,
+              "url": "https://t.co/jWhwZtZzNN"
+            },
+            {
+              "display_url": "pic.x.com/jWhwZtZzNN",
+              "end": 148,
+              "expanded_url": "https://x.com/hatunagi_yuzuki/status/1981900340934156488/photo/1",
+              "media_key": "3_1981899362352406528",
+              "start": 125,
+              "url": "https://t.co/jWhwZtZzNN"
+            },
+            {
+              "display_url": "pic.x.com/jWhwZtZzNN",
+              "end": 148,
+              "expanded_url": "https://x.com/hatunagi_yuzuki/status/1981900340934156488/photo/1",
+              "media_key": "3_1981899492816207872",
+              "start": 125,
+              "url": "https://t.co/jWhwZtZzNN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981900340934156488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 9454,
+          "like_count": 134,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "心心念念的海湾外景\n感谢萤户妈妈神龙打满全场，孩子第一次（外景）玩得很开心\n\n#kigurumi #着ぐるみ #ウマ娘 #umamusume #スーパークリーク\n\n填充物 @hatunagi_yuzuki \n头主 后勤 摄影 后期 @hukouya https://t.co/jWhwZtZzNN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 210,
+          "like_count": 4643,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1422
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-11T01:54:22.000Z",
+        "description": "百四十二斤大柚子，废物点心",
+        "id": "1028097257378332672",
+        "name": "初凪ゆずき",
+        "pinned_tweet_id": "1981900340934156488",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996644002834374656/3UhuUbnO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1499,
+          "following_count": 877,
+          "like_count": 19675,
+          "listed_count": 10,
+          "media_count": 981,
+          "tweet_count": 13474
+        },
+        "username": "hatunagi_yuzuki",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-15T12:14:13.000Z",
+        "description": "希望永远不要讨厌食物，永远给世界微笑，永远爱身边的人\n| 天下第一不看镜头肉圆子填充物&瞎几把摁快门的废物 | 《BanG Dream》要乐奈 | 《赛马娘》樱花千代王 | 《ATRI -My Dear Moments-》亚托莉 | 《世界计划》东云绘名 |",
+        "id": "1812822938728726528",
+        "location": "金陵",
+        "name": "萤户",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020433536164184064/r5223bC__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2007,
+          "following_count": 4420,
+          "like_count": 13268,
+          "listed_count": 9,
+          "media_count": 68,
+          "tweet_count": 3092
+        },
+        "username": "hukouya",
+        "verified": false
+      }
+    ]
+  }
+}

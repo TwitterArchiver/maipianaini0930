@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034488976359424178",
+    "created_at": "2026-03-19T04:35:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T05:35:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034488976359424178"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nocontextbrits…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/nocontextbrits/status/2034342269336142265",
+          "start": 25,
+          "url": "https://t.co/bQdnAXRI6m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034488976359424178",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034342269336142265",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "jajajajajajajajajajajaja https://t.co/bQdnAXRI6m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 733,
+        "media_key": "3_2034342250495221760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDtvf5hWIAA4u-J.jpg",
+        "width": 792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034488976359424178",
+        "created_at": "2026-03-19T04:35:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T05:35:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034488976359424178"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nocontextbrits…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/nocontextbrits/status/2034342269336142265",
+              "start": 25,
+              "url": "https://t.co/bQdnAXRI6m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034488976359424178",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034342269336142265",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "jajajajajajajajajajajaja https://t.co/bQdnAXRI6m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034342250495221760"
+          ]
+        },
+        "author_id": "1377572924413124609",
+        "conversation_id": "2034342269336142265",
+        "created_at": "2026-03-18T18:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T19:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034342269336142265"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oPuo4BPjZ4",
+              "end": 23,
+              "expanded_url": "https://x.com/NoContextBrits/status/2034342269336142265/photo/1",
+              "media_key": "3_2034342250495221760",
+              "start": 0,
+              "url": "https://t.co/oPuo4BPjZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034342269336142265",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 147,
+          "impression_count": 82698,
+          "like_count": 4212,
+          "quote_count": 19,
+          "reply_count": 29,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/oPuo4BPjZ4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 234,
+          "like_count": 6130,
+          "listed_count": 0,
+          "media_count": 351,
+          "tweet_count": 2164
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-01T10:46:07.000Z",
+        "description": "A mordant celebration of British mediocrity according to the Washington Post. Contains sarcasm, irony and context.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nocontextbrits",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nocontextbrits",
+                "start": 0,
+                "url": "https://t.co/rMPTtp7qBr"
+              }
+            ]
+          }
+        },
+        "id": "1377572924413124609",
+        "location": "United Kingdom",
+        "name": "No Context Brits",
+        "pinned_tweet_id": "2033654577476616242",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989286782416887808/Yd_hknNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1812820,
+          "following_count": 0,
+          "like_count": 215,
+          "listed_count": 3503,
+          "media_count": 15656,
+          "tweet_count": 16180
+        },
+        "url": "https://t.co/rMPTtp7qBr",
+        "username": "NoContextBrits",
+        "verified": true
+      }
+    ]
+  }
+}

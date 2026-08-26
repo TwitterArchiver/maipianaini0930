@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2023716872999559168"
+      ],
+      "media_source_tweet_id": [
+        "2023719880659517623"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2038074879678071023",
+    "created_at": "2026-03-29T02:04:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T03:04:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038074879678071023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1987138845058736133",
+          "start": 3,
+          "username": "maipianaini0930"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XTeQP6M0xS",
+          "end": 44,
+          "expanded_url": "https://x.com/maipianaini0930/status/2023719880659517623/video/1",
+          "media_key": "13_2023716872999559168",
+          "start": 21,
+          "url": "https://t.co/XTeQP6M0xS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038074879678071023",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023719880659517623",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maipianaini0930: https://t.co/XTeQP6M0xS"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 205600,
+        "height": 1270,
+        "media_key": "13_2023716872999559168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023716872999559168/img/wuHYytSjf1z-iYWM.jpg",
+        "public_metrics": {
+          "view_count": 332
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023716872999559168/vid/avc1/320x564/teVWfKGjkAllIrPC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023716872999559168/vid/avc1/480x846/Qeno07t7wwxvwPil.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023716872999559168/vid/avc1/720x1270/wpJb5CkdhFYd4rR5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023716872999559168/pl/TgxH2Tqe3nXyE5Jy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023716872999559168"
+          ],
+          "media_source_tweet_id": [
+            "2023719880659517623"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2038074879678071023",
+        "created_at": "2026-03-29T02:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038074879678071023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1987138845058736133",
+              "start": 3,
+              "username": "maipianaini0930"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTeQP6M0xS",
+              "end": 44,
+              "expanded_url": "https://x.com/maipianaini0930/status/2023719880659517623/video/1",
+              "media_key": "13_2023716872999559168",
+              "start": 21,
+              "url": "https://t.co/XTeQP6M0xS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038074879678071023",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023719880659517623",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maipianaini0930: https://t.co/XTeQP6M0xS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023716872999559168"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2023719880659517623",
+        "created_at": "2026-02-17T11:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023719880659517623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTeQP6M0xS",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2023719880659517623/video/1",
+              "media_key": "13_2023716872999559168",
+              "start": 0,
+              "url": "https://t.co/XTeQP6M0xS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023719880659517623",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1192,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XTeQP6M0xS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 251,
+          "like_count": 7016,
+          "listed_count": 0,
+          "media_count": 432,
+          "tweet_count": 2640
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

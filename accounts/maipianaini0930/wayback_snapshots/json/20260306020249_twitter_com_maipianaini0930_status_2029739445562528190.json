@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2029520394190000161",
+    "created_at": "2026-03-06T02:02:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T03:02:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029739445562528190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1991319129312358408",
+          "start": 0,
+          "username": "kittycp666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029739445562528190",
+    "in_reply_to_user_id": "1991319129312358408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029735307856224739",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kittycp666 你是哪国人"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2029735307856224739].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2029735307856224739",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2029735307856224739"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2029520394190000161",
+        "created_at": "2026-03-06T02:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T03:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029739445562528190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1991319129312358408",
+              "start": 0,
+              "username": "kittycp666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029739445562528190",
+        "in_reply_to_user_id": "1991319129312358408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029735307856224739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kittycp666 你是哪国人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 227,
+          "like_count": 5418,
+          "listed_count": 0,
+          "media_count": 278,
+          "tweet_count": 1756
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-20T01:34:40.000Z",
+        "description": "",
+        "id": "1991319129312358408",
+        "location": "HRT 07/13/24",
+        "name": "73",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998161982684299264/qNrhN06q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 24,
+          "like_count": 301,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 42
+        },
+        "username": "kittycp666",
+        "verified": false
+      }
+    ]
+  }
+}

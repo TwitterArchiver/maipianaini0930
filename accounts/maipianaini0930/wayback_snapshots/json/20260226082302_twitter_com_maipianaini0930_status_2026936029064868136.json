@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026936014233821184",
+        "3_2026936014208630784"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026936029064868136",
+    "created_at": "2026-02-26T08:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T09:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026936029064868136"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lzaMmLoTuy",
+          "end": 41,
+          "expanded_url": "https://x.com/maipianaini0930/status/2026936029064868136/photo/1",
+          "media_key": "3_2026936014233821184",
+          "start": 18,
+          "url": "https://t.co/lzaMmLoTuy"
+        },
+        {
+          "display_url": "pic.x.com/lzaMmLoTuy",
+          "end": 41,
+          "expanded_url": "https://x.com/maipianaini0930/status/2026936029064868136/photo/1",
+          "media_key": "3_2026936014208630784",
+          "start": 18,
+          "url": "https://t.co/lzaMmLoTuy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026936029064868136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有可能，部分信息是我故意泄漏的 https://t.co/lzaMmLoTuy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2026936014233821184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEfkNbaYAAcdEM.jpg",
+        "width": 750
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2026936014208630784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCEfkNVaAAA876d.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026936014233821184",
+            "3_2026936014208630784"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026936029064868136",
+        "created_at": "2026-02-26T08:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T09:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026936029064868136"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lzaMmLoTuy",
+              "end": 41,
+              "expanded_url": "https://x.com/maipianaini0930/status/2026936029064868136/photo/1",
+              "media_key": "3_2026936014233821184",
+              "start": 18,
+              "url": "https://t.co/lzaMmLoTuy"
+            },
+            {
+              "display_url": "pic.x.com/lzaMmLoTuy",
+              "end": 41,
+              "expanded_url": "https://x.com/maipianaini0930/status/2026936029064868136/photo/1",
+              "media_key": "3_2026936014208630784",
+              "start": 18,
+              "url": "https://t.co/lzaMmLoTuy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026936029064868136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有可能，部分信息是我故意泄漏的 https://t.co/lzaMmLoTuy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 213,
+          "like_count": 4943,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1564
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

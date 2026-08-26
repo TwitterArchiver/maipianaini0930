@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2078874547248418816"
+      ],
+      "media_source_tweet_id": [
+        "2078874552533156125"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079388907079356916",
+    "created_at": "2026-07-21T02:12:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:12:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079388907079356916"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1679590200173838338",
+          "start": 3,
+          "username": "PaxtonCreekSup"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/44XFBSkMqA",
+          "end": 43,
+          "expanded_url": "https://x.com/PaxtonCreekSup/status/2078874552533156125/photo/1",
+          "media_key": "3_2078874547248418816",
+          "start": 20,
+          "url": "https://t.co/44XFBSkMqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079388907079356916",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2623
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078874552533156125",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PaxtonCreekSup: https://t.co/44XFBSkMqA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1036,
+        "media_key": "3_2078874547248418816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNmlYulX0AAy9nR.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078874547248418816"
+          ]
+        },
+        "author_id": "1679590200173838338",
+        "conversation_id": "2078874552533156125",
+        "created_at": "2026-07-19T16:08:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T17:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078874552533156125"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/44XFBSkMqA",
+              "end": 23,
+              "expanded_url": "https://x.com/PaxtonCreekSup/status/2078874552533156125/photo/1",
+              "media_key": "3_2078874547248418816",
+              "start": 0,
+              "url": "https://t.co/44XFBSkMqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078874552533156125",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1974,
+          "impression_count": 360854,
+          "like_count": 29480,
+          "quote_count": 52,
+          "reply_count": 59,
+          "retweet_count": 2623
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/44XFBSkMqA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078874547248418816"
+          ],
+          "media_source_tweet_id": [
+            "2078874552533156125"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079388907079356916",
+        "created_at": "2026-07-21T02:12:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:12:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079388907079356916"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1679590200173838338",
+              "start": 3,
+              "username": "PaxtonCreekSup"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/44XFBSkMqA",
+              "end": 43,
+              "expanded_url": "https://x.com/PaxtonCreekSup/status/2078874552533156125/photo/1",
+              "media_key": "3_2078874547248418816",
+              "start": 20,
+              "url": "https://t.co/44XFBSkMqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079388907079356916",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2623
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078874552533156125",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PaxtonCreekSup: https://t.co/44XFBSkMqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 304,
+          "like_count": 11204,
+          "listed_count": 1,
+          "media_count": 745,
+          "tweet_count": 4941
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-13T20:34:59.000Z",
+        "description": "Nekoti Scout...\nRunning somewhere in the Appalachians.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Paxtoncreeksupply.com",
+                "end": 23,
+                "expanded_url": "http://Paxtoncreeksupply.com",
+                "start": 0,
+                "url": "https://t.co/RQbTWnsrJt"
+              }
+            ]
+          }
+        },
+        "id": "1679590200173838338",
+        "name": "PaxtonCreekSupply",
+        "pinned_tweet_id": "2027000346359267574",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1787135427511570432/FUKX4OTQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 237,
+          "like_count": 506,
+          "listed_count": 5,
+          "media_count": 1023,
+          "tweet_count": 1417
+        },
+        "url": "https://t.co/RQbTWnsrJt",
+        "username": "PaxtonCreekSup",
+        "verified": false
+      }
+    ]
+  }
+}

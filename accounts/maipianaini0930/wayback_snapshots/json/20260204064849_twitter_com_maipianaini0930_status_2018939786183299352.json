@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2018939786183299352",
+    "created_at": "2026-02-04T06:48:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T07:48:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2018939786183299352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wind_dmr/statu…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/wind_dmr/status/2018763930148249801",
+          "start": 3,
+          "url": "https://t.co/3DfbHb1RvG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018939786183299352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018763930148249801",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "疯了 https://t.co/3DfbHb1RvG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2191,
+        "media_key": "3_2018763927224778753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAQXGI-bAAEnkL-.jpg",
+        "width": 968
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2018939786183299352",
+        "created_at": "2026-02-04T06:48:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T07:48:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018939786183299352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wind_dmr/statu…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/wind_dmr/status/2018763930148249801",
+              "start": 3,
+              "url": "https://t.co/3DfbHb1RvG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018939786183299352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018763930148249801",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疯了 https://t.co/3DfbHb1RvG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018763927224778753"
+          ]
+        },
+        "author_id": "4736358500",
+        "conversation_id": "2018763930148249801",
+        "created_at": "2026-02-03T19:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T20:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018763930148249801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TSVfPHCsSG",
+              "end": 50,
+              "expanded_url": "https://x.com/wind_dmr/status/2018763930148249801/photo/1",
+              "media_key": "3_2018763927224778753",
+              "start": 27,
+              "url": "https://t.co/TSVfPHCsSG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018763930148249801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 242,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不让人上厕所是吧。\n逼得高中生穿纸尿裤上课？\n人权呢 https://t.co/TSVfPHCsSG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 216,
+          "like_count": 3736,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1146
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-10T03:31:46.000Z",
+        "description": "一般路过猫娘｜Human To Catgirl｜INFP｜舞萌｜🚪128｜BPD+BD ADHD+ASD GD｜#FF14 鸟区｜业余无线电｜EE在读｜全栈｜傻逼｜ 胶片摄影｜#MTG #WH40K｜lasciate ogni speranza, voi ch'entrate",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "FF14"
+              },
+              {
+                "end": 92,
+                "start": 88,
+                "tag": "MTG"
+              },
+              {
+                "end": 99,
+                "start": 93,
+                "tag": "WH40K"
+              }
+            ]
+          }
+        },
+        "id": "4736358500",
+        "location": "天堂",
+        "name": "猫屎bot",
+        "pinned_tweet_id": "1962123059844030753",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1807176546215768064/SgBCkgp3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2480,
+          "following_count": 833,
+          "like_count": 124976,
+          "listed_count": 8,
+          "media_count": 2911,
+          "tweet_count": 24223
+        },
+        "username": "wind_dmr",
+        "verified": false
+      }
+    ]
+  }
+}

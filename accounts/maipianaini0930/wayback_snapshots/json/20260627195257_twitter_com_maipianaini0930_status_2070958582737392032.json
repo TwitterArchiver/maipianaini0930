@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2070958582737392032",
+    "created_at": "2026-06-27T19:52:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T20:52:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070958582737392032"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 126,
+          "start": 117,
+          "tag": "moothunt"
+        },
+        {
+          "end": 135,
+          "start": 127,
+          "tag": "sledtwt"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1605802861434003456",
+          "start": 3,
+          "username": "rotteddakimkura"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070958582737392032",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068064468526071892",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rotteddakimkura: got sussed at around 800 followers. if you were my mutual on this account please reach out!!! \n\n#moothunt #sledtwt #sl…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_2068064463312519169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLM9rBxaAAEQwYV.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2070958582737392032",
+        "created_at": "2026-06-27T19:52:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T20:52:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070958582737392032"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 126,
+              "start": 117,
+              "tag": "moothunt"
+            },
+            {
+              "end": 135,
+              "start": 127,
+              "tag": "sledtwt"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1605802861434003456",
+              "start": 3,
+              "username": "rotteddakimkura"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070958582737392032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068064468526071892",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rotteddakimkura: got sussed at around 800 followers. if you were my mutual on this account please reach out!!! \n\n#moothunt #sledtwt #sl…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068064463312519169"
+          ]
+        },
+        "author_id": "1605802861434003456",
+        "conversation_id": "2068064468526071892",
+        "created_at": "2026-06-19T20:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T21:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068064468526071892"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 105,
+              "start": 96,
+              "tag": "moothunt"
+            },
+            {
+              "end": 114,
+              "start": 106,
+              "tag": "sledtwt"
+            },
+            {
+              "end": 123,
+              "start": 115,
+              "tag": "slittwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fnotr2732",
+              "end": 147,
+              "expanded_url": "https://x.com/rotteddakimkura/status/2068064468526071892/photo/1",
+              "media_key": "3_2068064463312519169",
+              "start": 124,
+              "url": "https://t.co/4fnotr2732"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068064468526071892",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "got sussed at around 800 followers. if you were my mutual on this account please reach out!!! \n\n#moothunt #sledtwt #slittwt https://t.co/4fnotr2732"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 305,
+          "like_count": 10656,
+          "listed_count": 1,
+          "media_count": 696,
+          "tweet_count": 4634
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-22T05:50:23.000Z",
+        "description": "18 // cis male // femboymaxxer // 152cm // cgw 45kg // cw 49kg",
+        "id": "1605802861434003456",
+        "name": "failwife",
+        "pinned_tweet_id": "2068064468526071892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068063018186133504/RYKK_pXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 7,
+          "like_count": 2628,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "rotteddakimkura",
+        "verified": false
+      }
+    ]
+  }
+}

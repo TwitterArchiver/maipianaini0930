@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2038147421113639173",
+    "created_at": "2026-03-29T06:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038147421113639173"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_medusozo…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/amber_medusozoa/status/2038019049733476756",
+          "start": 15,
+          "url": "https://t.co/Zi6V852lrg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038147421113639173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038019049733476756",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你被死亡威胁了？？？\n😁😁😁 https://t.co/Zi6V852lrg"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2038147421113639173",
+        "created_at": "2026-03-29T06:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038147421113639173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_medusozo…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/amber_medusozoa/status/2038019049733476756",
+              "start": 15,
+              "url": "https://t.co/Zi6V852lrg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038147421113639173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038019049733476756",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你被死亡威胁了？？？\n😁😁😁 https://t.co/Zi6V852lrg"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035882965671215104",
+        "conversation_id": "2038019049733476756",
+        "created_at": "2026-03-28T22:23:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T23:23:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038019049733476756"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038019049733476756",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4279,
+          "like_count": 83,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "以后只会发照片和日常，不会再以中文在推特输出原创观点，已发布内容将会在备份后删除。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "AAAAA麦片烟酒零售批发",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 251,
+          "like_count": 7036,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 2654
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "@amber_toffee 水母二号机",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "amber_toffee"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "name": "amber",
+        "pinned_tweet_id": "2038019049733476756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036538174407602176/f3gEBOjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1107,
+          "following_count": 398,
+          "like_count": 630,
+          "listed_count": 1,
+          "media_count": 21,
+          "tweet_count": 443
+        },
+        "username": "amber_medusozoa",
+        "verified": true
+      }
+    ]
+  }
+}

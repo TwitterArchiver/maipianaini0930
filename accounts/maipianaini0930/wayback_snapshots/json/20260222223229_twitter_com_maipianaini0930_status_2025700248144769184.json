@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2025700238736949249"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2025700248144769184",
+    "created_at": "2026-02-22T22:32:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T23:32:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2025700248144769184"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OmK67lxnEb",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2025700248144769184/photo/1",
+          "media_key": "3_2025700238736949249",
+          "start": 0,
+          "url": "https://t.co/OmK67lxnEb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025700248144769184",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/OmK67lxnEb"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1237,
+        "media_key": "3_2025700238736949249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBy7om9XAAEnbZj.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025700238736949249"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2025700248144769184",
+        "created_at": "2026-02-22T22:32:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T23:32:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025700248144769184"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OmK67lxnEb",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2025700248144769184/photo/1",
+              "media_key": "3_2025700238736949249",
+              "start": 0,
+              "url": "https://t.co/OmK67lxnEb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025700248144769184",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/OmK67lxnEb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 209,
+          "like_count": 4634,
+          "listed_count": 0,
+          "media_count": 213,
+          "tweet_count": 1416
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

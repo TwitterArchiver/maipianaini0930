@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2029149697655660990",
+    "created_at": "2026-03-04T13:43:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T14:43:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029191026058117584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1657345207",
+          "start": 0,
+          "username": "intanssafitri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029191026058117584",
+    "in_reply_to_user_id": "1657345207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029190273327349823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intanssafitri 没事多往格林威治村和下东区跑跑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2029149697655660990",
+        "created_at": "2026-03-04T13:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029191026058117584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1657345207",
+              "start": 0,
+              "username": "intanssafitri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029191026058117584",
+        "in_reply_to_user_id": "1657345207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029190273327349823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intanssafitri 没事多往格林威治村和下东区跑跑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657345207",
+        "conversation_id": "2029149697655660990",
+        "created_at": "2026-03-04T13:40:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T14:40:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029190273327349823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029190273327349823",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029186403012325818",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 想回到几十年前的纽约租白人便宜出售的祖上传下来的破公寓，连地毯散发腐败的气息，然后一群人躺在上面一边喝酒一边谈论无法实现的梦想。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 226,
+          "like_count": 5355,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 1728
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-09T09:10:23.000Z",
+        "description": "(－＂－怒)",
+        "id": "1657345207",
+        "location": "普鲁士",
+        "name": "Gardenia_33",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004401189350526978/pQPklOLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 58,
+          "like_count": 832,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 683
+        },
+        "username": "intanssafitri",
+        "verified": false
+      }
+    ]
+  }
+}

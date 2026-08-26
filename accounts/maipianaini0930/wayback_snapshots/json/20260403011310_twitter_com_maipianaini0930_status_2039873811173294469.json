@@ -1,0 +1,982 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039873750104166400",
+        "3_2039873750116745216",
+        "3_2039873750129311745",
+        "3_2039873750125223936"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Tony Soprano is a troubled mob boss from New Jersey that goes into therapy to deal with personal and professional problems. He tells his therapist, Jennifer, all about his `colourful' life.",
+          "id": "10028298873",
+          "name": "The Sopranos"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+          "id": "1557697078762958848",
+          "name": "Pet Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1337196393832669184",
+          "name": "Disco Elysium"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pets",
+          "id": "852262932607926273",
+          "name": "Pets"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1197907410582532096",
+          "name": "Roleplaying games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281303057045676032",
+          "name": "Crime drama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1301813885272354816",
+          "name": "Stardew Valley"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1328679353413103616",
+          "name": "The Sopranos"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1337196393832669184",
+          "name": "Disco Elysium"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1403407197669715972",
+          "name": "Indie games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897662399922176",
+          "name": "Simulation games"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1328679353413103616",
+          "name": "The Sopranos"
+        }
+      }
+    ],
+    "conversation_id": "2039873811173294469",
+    "created_at": "2026-04-03T01:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T02:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039873811173294469"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sKUeyIAiN8",
+          "end": 227,
+          "expanded_url": "https://x.com/maipianaini0930/status/2039873811173294469/photo/1",
+          "media_key": "3_2039873750104166400",
+          "start": 204,
+          "url": "https://t.co/sKUeyIAiN8"
+        },
+        {
+          "display_url": "pic.x.com/sKUeyIAiN8",
+          "end": 227,
+          "expanded_url": "https://x.com/maipianaini0930/status/2039873811173294469/photo/1",
+          "media_key": "3_2039873750116745216",
+          "start": 204,
+          "url": "https://t.co/sKUeyIAiN8"
+        },
+        {
+          "display_url": "pic.x.com/sKUeyIAiN8",
+          "end": 227,
+          "expanded_url": "https://x.com/maipianaini0930/status/2039873811173294469/photo/1",
+          "media_key": "3_2039873750129311745",
+          "start": 204,
+          "url": "https://t.co/sKUeyIAiN8"
+        },
+        {
+          "display_url": "pic.x.com/sKUeyIAiN8",
+          "end": 227,
+          "expanded_url": "https://x.com/maipianaini0930/status/2039873811173294469/photo/1",
+          "media_key": "3_2039873750125223936",
+          "start": 204,
+          "url": "https://t.co/sKUeyIAiN8"
+        },
+        {
+          "display_url": "x.com/boypussydevil/…",
+          "end": 251,
+          "expanded_url": "https://twitter.com/boypussydevil/status/2039790925195739363",
+          "start": 228,
+          "url": "https://t.co/j2Mh4c8sPI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039873811173294469",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039790925195739363",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "things about me!!\n𖦹 age: 18\n𖦹 gender: male\n𖦹 sexuality: bisexual \n𖦹 Height: 168cm\n𖦹 Eye color: dark amber\n𖦹 Fav food: sour cream with chicken\n𖦹 Fav game: Stardew Valley\n𖦹 Fav show: ？no🤨\n𖦹 Fav animal: cat https://t.co/sKUeyIAiN8 https://t.co/j2Mh4c8sPI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2039873750104166400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8WXjWaUAAtHw-.jpg",
+        "width": 712
+      },
+      {
+        "height": 442,
+        "media_key": "3_2039873750116745216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8WXjZaQAAHEix.jpg",
+        "width": 795
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039873750129311745",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8WXjcaAAEORD3.jpg",
+        "width": 1536
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2039873750125223936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE8WXjbboAAdAou.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039873750104166400",
+            "3_2039873750116745216",
+            "3_2039873750129311745",
+            "3_2039873750125223936"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Tony Soprano is a troubled mob boss from New Jersey that goes into therapy to deal with personal and professional problems. He tells his therapist, Jennifer, all about his `colourful' life.",
+              "id": "10028298873",
+              "name": "The Sopranos"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Pets such as pet food, toys, cleaning",
+              "id": "1557697078762958848",
+              "name": "Pet Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1337196393832669184",
+              "name": "Disco Elysium"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pets",
+              "id": "852262932607926273",
+              "name": "Pets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303057045676032",
+              "name": "Crime drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1301813885272354816",
+              "name": "Stardew Valley"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1328679353413103616",
+              "name": "The Sopranos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337196393832669184",
+              "name": "Disco Elysium"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1403407197669715972",
+              "name": "Indie games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897662399922176",
+              "name": "Simulation games"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1328679353413103616",
+              "name": "The Sopranos"
+            }
+          }
+        ],
+        "conversation_id": "2039873811173294469",
+        "created_at": "2026-04-03T01:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T02:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039873811173294469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sKUeyIAiN8",
+              "end": 227,
+              "expanded_url": "https://x.com/maipianaini0930/status/2039873811173294469/photo/1",
+              "media_key": "3_2039873750104166400",
+              "start": 204,
+              "url": "https://t.co/sKUeyIAiN8"
+            },
+            {
+              "display_url": "pic.x.com/sKUeyIAiN8",
+              "end": 227,
+              "expanded_url": "https://x.com/maipianaini0930/status/2039873811173294469/photo/1",
+              "media_key": "3_2039873750116745216",
+              "start": 204,
+              "url": "https://t.co/sKUeyIAiN8"
+            },
+            {
+              "display_url": "pic.x.com/sKUeyIAiN8",
+              "end": 227,
+              "expanded_url": "https://x.com/maipianaini0930/status/2039873811173294469/photo/1",
+              "media_key": "3_2039873750129311745",
+              "start": 204,
+              "url": "https://t.co/sKUeyIAiN8"
+            },
+            {
+              "display_url": "pic.x.com/sKUeyIAiN8",
+              "end": 227,
+              "expanded_url": "https://x.com/maipianaini0930/status/2039873811173294469/photo/1",
+              "media_key": "3_2039873750125223936",
+              "start": 204,
+              "url": "https://t.co/sKUeyIAiN8"
+            },
+            {
+              "display_url": "x.com/boypussydevil/…",
+              "end": 251,
+              "expanded_url": "https://twitter.com/boypussydevil/status/2039790925195739363",
+              "start": 228,
+              "url": "https://t.co/j2Mh4c8sPI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039873811173294469",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039790925195739363",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "things about me!!\n𖦹 age: 18\n𖦹 gender: male\n𖦹 sexuality: bisexual \n𖦹 Height: 168cm\n𖦹 Eye color: dark amber\n𖦹 Fav food: sour cream with chicken\n𖦹 Fav game: Stardew Valley\n𖦹 Fav show: ？no🤨\n𖦹 Fav animal: cat https://t.co/sKUeyIAiN8 https://t.co/j2Mh4c8sPI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812115663810637824",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Tony Soprano is a troubled mob boss from New Jersey that goes into therapy to deal with personal and professional problems. He tells his therapist, Jennifer, all about his `colourful' life.",
+              "id": "10028298873",
+              "name": "The Sopranos"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1337196393832669184",
+              "name": "Disco Elysium"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303057045676032",
+              "name": "Crime drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1328679353413103616",
+              "name": "The Sopranos"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1337196393832669184",
+              "name": "Disco Elysium"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1328679353413103616",
+              "name": "The Sopranos"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "TVアニメ放送期間中「#ガチアクタ」「#GACHIAKUTA」「#Gachiakuta」でオリジナル絵文字登場！\nX限定のトーク企画「ガチバナシ！on X」随時配信中\nアニメ放送直前特番「ガチで来たぜ！ついに放送！直前特番 on X」アーカイブ配信中\n\nCBC/TBS系全国 28 局ネット「アガルアニメ」枠（日曜夜11時30分～）\nPrime Video先行配信（月曜0時00分～）、その他配信サービス（火曜0時00分～順次）\n\nX：@gachiakuta_PR\nHP：https://gachiakuta-anime.com",
+              "id": "1937302957462040576",
+              "name": "2025年7月より連続2クールで放送・配信中！ガチアクタ× Xグローバルコラボレーション！"
+            }
+          }
+        ],
+        "conversation_id": "2039790925195739363",
+        "created_at": "2026-04-02T19:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T20:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039790925195739363"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/deadmunchiez/s…",
+              "end": 222,
+              "expanded_url": "https://twitter.com/deadmunchiez/status/2039778962885214533",
+              "start": 199,
+              "url": "https://t.co/L3ipHLvVJa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039790925195739363",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039778962885214533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "things about me!!\n𖦹 age: 18\n𖦹 gender: male\n𖦹 sexuality: bisexual \n𖦹 Height: 152 cm\n𖦹 Eye color: black\n𖦹 Fav food: fried rice\n𖦹 Fav game: disco elysium\n𖦹 Fav show: THE SOPRANOS!!! \n𖦹 Fav animal: deer https://t.co/L3ipHLvVJa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 250,
+          "like_count": 7424,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 2790
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-13T13:23:47.000Z",
+        "description": "18 // cis male // 152cm // cgw 45kg // cw 53kg // doing my best to die while smoking and cutting myself",
+        "id": "1812115663810637824",
+        "location": "Revachol, Le Caillou",
+        "name": "Spirit Albarn of shtwt 🚬",
+        "pinned_tweet_id": "2021355873982087290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016742722267471872/KTomG879_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 811,
+          "following_count": 181,
+          "like_count": 30783,
+          "listed_count": 5,
+          "media_count": 604,
+          "tweet_count": 3790
+        },
+        "username": "boypussydevil",
+        "verified": false
+      }
+    ]
+  }
+}

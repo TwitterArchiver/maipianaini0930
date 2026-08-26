@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2024360320635224064",
+        "3_2024360320651984896"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2024360331276067261",
+    "created_at": "2026-02-19T05:48:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T06:48:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024360331276067261"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VuEZziyA1V",
+          "end": 68,
+          "expanded_url": "https://x.com/maipianaini0930/status/2024360331276067261/photo/1",
+          "media_key": "3_2024360320635224064",
+          "start": 45,
+          "url": "https://t.co/VuEZziyA1V"
+        },
+        {
+          "display_url": "pic.x.com/VuEZziyA1V",
+          "end": 68,
+          "expanded_url": "https://x.com/maipianaini0930/status/2024360331276067261/photo/1",
+          "media_key": "3_2024360320651984896",
+          "start": 45,
+          "url": "https://t.co/VuEZziyA1V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024360331276067261",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "flaming lips的专辑封面居然来自1966年纽约一篇有关lsd滥用人数激增的报道 https://t.co/VuEZziyA1V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 335,
+        "media_key": "3_2024360320635224064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBf4_HDbwAAvNCC.jpg",
+        "width": 540
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2024360320651984896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBf4_HHbgAAXsrl.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024360320635224064",
+            "3_2024360320651984896"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2024360331276067261",
+        "created_at": "2026-02-19T05:48:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T06:48:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024360331276067261"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VuEZziyA1V",
+              "end": 68,
+              "expanded_url": "https://x.com/maipianaini0930/status/2024360331276067261/photo/1",
+              "media_key": "3_2024360320635224064",
+              "start": 45,
+              "url": "https://t.co/VuEZziyA1V"
+            },
+            {
+              "display_url": "pic.x.com/VuEZziyA1V",
+              "end": 68,
+              "expanded_url": "https://x.com/maipianaini0930/status/2024360331276067261/photo/1",
+              "media_key": "3_2024360320651984896",
+              "start": 45,
+              "url": "https://t.co/VuEZziyA1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024360331276067261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "flaming lips的专辑封面居然来自1966年纽约一篇有关lsd滥用人数激增的报道 https://t.co/VuEZziyA1V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 205,
+          "like_count": 4350,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1357
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

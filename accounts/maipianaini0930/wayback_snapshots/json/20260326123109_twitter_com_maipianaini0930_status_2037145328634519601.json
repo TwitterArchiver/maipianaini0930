@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037145312259956744"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037145328634519601",
+    "created_at": "2026-03-26T12:31:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T13:31:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037145328634519601"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E9rIPtfAOc",
+          "end": 31,
+          "expanded_url": "https://x.com/maipianaini0930/status/2037145328634519601/photo/1",
+          "media_key": "3_2037145312259956744",
+          "start": 8,
+          "url": "https://t.co/E9rIPtfAOc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037145328634519601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这狗啃的刘海儿 https://t.co/E9rIPtfAOc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2808,
+        "media_key": "3_2037145312259956744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEVk3kUbYAgOIbb.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037145312259956744"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037145328634519601",
+        "created_at": "2026-03-26T12:31:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T13:31:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037145328634519601"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E9rIPtfAOc",
+              "end": 31,
+              "expanded_url": "https://x.com/maipianaini0930/status/2037145328634519601/photo/1",
+              "media_key": "3_2037145312259956744",
+              "start": 8,
+              "url": "https://t.co/E9rIPtfAOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037145328634519601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这狗啃的刘海儿 https://t.co/E9rIPtfAOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 250,
+          "like_count": 6721,
+          "listed_count": 0,
+          "media_count": 400,
+          "tweet_count": 2459
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

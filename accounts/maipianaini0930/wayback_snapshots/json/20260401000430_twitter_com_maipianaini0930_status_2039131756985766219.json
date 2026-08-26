@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2038979660542009846",
+    "created_at": "2026-04-01T00:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T01:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039131756985766219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1678425548673150976",
+          "start": 0,
+          "username": "nhnhOv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039131756985766219",
+    "in_reply_to_user_id": "1678425548673150976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039051050704163289",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhnhOv0 我叫布考斯基"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2038979660542009846",
+        "created_at": "2026-04-01T00:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T01:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039131756985766219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1678425548673150976",
+              "start": 0,
+              "username": "nhnhOv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039131756985766219",
+        "in_reply_to_user_id": "1678425548673150976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039051050704163289",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhnhOv0 我叫布考斯基"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678425548673150976",
+        "conversation_id": "2038979660542009846",
+        "created_at": "2026-03-31T18:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039051050704163289"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039051050704163289",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038979660542009846",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 酒鬼的传奇   你干脆叫     弗兰克加拉格"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "AAAAA麦片烟酒零售批发",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 242,
+          "like_count": 7186,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 2741
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T15:26:55.000Z",
+        "description": "“我是神经病想沉浸在美好的幻觉里再也不要醒来了”   \n小n/住院中……/od/镇定剂滥用/等待肉体的死亡灵魂的堕落/",
+        "id": "1678425548673150976",
+        "location": "天堂和地狱之间—人间",
+        "name": "习近平",
+        "pinned_tweet_id": "2028454710982881549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037081436575195136/5JeFAJNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 345,
+          "like_count": 6261,
+          "listed_count": 3,
+          "media_count": 139,
+          "tweet_count": 3909
+        },
+        "username": "nhnhOv0",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064260666773630976"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2064260705134797246",
+    "created_at": "2026-06-09T08:17:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2064260705134797246"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kDggmz0sRr",
+          "end": 46,
+          "expanded_url": "https://x.com/maipianaini0930/status/2064260705134797246/photo/1",
+          "media_key": "3_2064260666773630976",
+          "start": 23,
+          "url": "https://t.co/kDggmz0sRr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064260705134797246",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "南京谁挂壁，可以吃除了曲马多以外所有药，适度 https://t.co/kDggmz0sRr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2064260666773630976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKW6I7bacAAdCcH.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064260666773630976"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2064260705134797246",
+        "created_at": "2026-06-09T08:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064260705134797246"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kDggmz0sRr",
+              "end": 46,
+              "expanded_url": "https://x.com/maipianaini0930/status/2064260705134797246/photo/1",
+              "media_key": "3_2064260666773630976",
+              "start": 23,
+              "url": "https://t.co/kDggmz0sRr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064260705134797246",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "南京谁挂壁，可以吃除了曲马多以外所有药，适度 https://t.co/kDggmz0sRr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 312,
+          "like_count": 10203,
+          "listed_count": 2,
+          "media_count": 659,
+          "tweet_count": 4410
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

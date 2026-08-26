@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026313407549599765",
+    "created_at": "2026-02-24T15:19:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T16:19:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026315946537988461"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026315946537988461",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026314254484398174",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实内容跟在知乎能搜到的差不多，只是会刻意添油加醋一部分，有关母女未来还有小地方独特的阴谋论叙事，广东好多有关九十年代贩毒啥的，东北则是下岗潮"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026313407549599765",
+        "created_at": "2026-02-24T15:19:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:19:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026315946537988461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026315946537988461",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026314254484398174",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实内容跟在知乎能搜到的差不多，只是会刻意添油加醋一部分，有关母女未来还有小地方独特的阴谋论叙事，广东好多有关九十年代贩毒啥的，东北则是下岗潮"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026313407549599765",
+        "created_at": "2026-02-24T15:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T16:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026314254484398174"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026314254484398174",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026313407549599765",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我会试着向他们介绍什么是信息茧房，以及舆论管制，几乎所有人都觉得饿不死就是恩赐，于是关于这个内容的话题就停止了，我就和他们拉家常，了解不同地区的民风，这些素材也成为了我写作的来源，我脑子里储存的百分之七十的八卦都来源于他们口中"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 211,
+          "like_count": 4757,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1500
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

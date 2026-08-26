@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2070506787732877699",
+    "created_at": "2026-06-26T16:55:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:55:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070551475500298713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1897913540432068608",
+          "start": 0,
+          "username": "1lc5si9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070551475500298713",
+    "in_reply_to_user_id": "1897913540432068608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070506787732877699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@1lc5si9 呕吐物向上喷涌的冲动让我自己快飘起来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2070506787732877699",
+        "created_at": "2026-06-26T16:55:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:55:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070551475500298713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1897913540432068608",
+              "start": 0,
+              "username": "1lc5si9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070551475500298713",
+        "in_reply_to_user_id": "1897913540432068608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070506787732877699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@1lc5si9 呕吐物向上喷涌的冲动让我自己快飘起来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897913540432068608",
+        "conversation_id": "2070506787732877699",
+        "created_at": "2026-06-26T13:57:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:57:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070506787732877699"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070506787732877699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 198,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "有没有人懂右美沙芬起效的时候喉咙那个感觉怎么描述"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 304,
+          "like_count": 10634,
+          "listed_count": 1,
+          "media_count": 692,
+          "tweet_count": 4614
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-07T07:33:53.000Z",
+        "description": "",
+        "id": "1897913540432068608",
+        "location": "東京",
+        "name": "，",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952060927265873920/m2Roxxtb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 224,
+          "like_count": 8786,
+          "listed_count": 0,
+          "media_count": 1207,
+          "tweet_count": 6338
+        },
+        "url": "",
+        "username": "1lc5si9",
+        "verified": true
+      }
+    ]
+  }
+}

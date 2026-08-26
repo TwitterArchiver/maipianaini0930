@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2032428333036876210",
+    "created_at": "2026-03-13T13:39:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T14:39:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032451496860958794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1835724410902265856",
+          "start": 0,
+          "username": "Xxs8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032451496860958794",
+    "in_reply_to_user_id": "1835724410902265856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032428333036876210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxs8964 好喝，我最爱的饮料之一"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2032428328632885248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDSiy--aoAAfI26.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2032428333036876210",
+        "created_at": "2026-03-13T13:39:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T14:39:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032451496860958794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1835724410902265856",
+              "start": 0,
+              "username": "Xxs8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032451496860958794",
+        "in_reply_to_user_id": "1835724410902265856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032428333036876210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxs8964 好喝，我最爱的饮料之一"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032428328632885248"
+          ]
+        },
+        "author_id": "1835724410902265856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032428333036876210",
+        "created_at": "2026-03-13T12:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T13:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032428333036876210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OQI7qYJZK",
+              "end": 29,
+              "expanded_url": "https://x.com/Xxs8964/status/2032428333036876210/photo/1",
+              "media_key": "3_2032428328632885248",
+              "start": 6,
+              "url": "https://t.co/6OQI7qYJZK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032428333036876210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个好诡异 https://t.co/6OQI7qYJZK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 228,
+          "like_count": 5676,
+          "listed_count": 0,
+          "media_count": 315,
+          "tweet_count": 1948
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T16:56:48.000Z",
+        "description": "｜可以互fo ww｜08\nlgbtq友好\n加我不需要🚪 \n但是加我家猫需要🚪5r\n把我帖子转墙内你全家被压路机压成尸块",
+        "id": "1835724410902265856",
+        "name": "✟高性能小学生✟",
+        "pinned_tweet_id": "2024729265384935459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018747869092810752/I5TdE8mH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 690,
+          "like_count": 120,
+          "listed_count": 1,
+          "media_count": 172,
+          "tweet_count": 1175
+        },
+        "username": "Xxs8964",
+        "verified": false
+      }
+    ]
+  }
+}

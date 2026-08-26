@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2086976563300692407",
+    "created_at": "2026-08-11T11:24:38.000Z",
+    "display_text_range": [
+      17,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087138116654207189"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1345256864779390976",
+          "start": 0,
+          "username": "DIGGIN_EVERYDAY"
+        },
+        {
+          "end": 26,
+          "id": "1587790416057077760",
+          "start": 17,
+          "username": "musk_xxl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087138116654207189",
+    "in_reply_to_user_id": "1345256864779390976",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086976563300692407",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DIGGIN_EVERYDAY @musk_xxl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2086976558582079489",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPZuH2zaIAETRc0.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2086976563300692407",
+        "created_at": "2026-08-11T11:24:38.000Z",
+        "display_text_range": [
+          17,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087138116654207189"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1345256864779390976",
+              "start": 0,
+              "username": "DIGGIN_EVERYDAY"
+            },
+            {
+              "end": 26,
+              "id": "1587790416057077760",
+              "start": 17,
+              "username": "musk_xxl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087138116654207189",
+        "in_reply_to_user_id": "1345256864779390976",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086976563300692407",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DIGGIN_EVERYDAY @musk_xxl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086976558582079489"
+          ]
+        },
+        "author_id": "1345256864779390976",
+        "conversation_id": "2086976563300692407",
+        "created_at": "2026-08-11T00:42:41.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T01:42:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086976563300692407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F9nEZ0ChZu",
+              "end": 33,
+              "expanded_url": "https://x.com/DIGGIN_EVERYDAY/status/2086976563300692407/photo/1",
+              "media_key": "3_2086976558582079489",
+              "start": 10,
+              "url": "https://t.co/F9nEZ0ChZu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086976563300692407",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086976558582079489"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4237,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "また出品されてる。 https://t.co/F9nEZ0ChZu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2087138116654207189",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1783418005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 300,
+          "like_count": 11379,
+          "listed_count": 1,
+          "media_count": 777,
+          "tweet_count": 5217
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-02T06:33:33.000Z",
+        "description": "古物商。Oldies But Goodies. ※闇市※「closed」～@closed_so_deep 〜 ※古い紙と古写真物販展示イベント※〜 「JAPANESE EPHEMERA MARKET」 〜主宰。変なモノ、怪しいモノ、訳ありなモノなど処分に困っているもの買取いたしますので、お気軽にDM下さい。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 37,
+                "username": "closed_so_deep"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/diggin_everyda…",
+                "end": 23,
+                "expanded_url": "https://instagram.com/diggin_everyday?igshid=16ha1hwoxu4v8",
+                "start": 0,
+                "url": "https://t.co/S68VSa2NZc"
+              }
+            ]
+          }
+        },
+        "id": "1345256864779390976",
+        "is_identity_verified": false,
+        "location": "日本 大阪",
+        "most_recent_tweet_id": "2086976563300692407",
+        "name": "「DIGGIN'」",
+        "pinned_tweet_id": "1687062904963805184",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1345256864779390976/1664371928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575116100907327488/LDzLXA6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9157,
+          "following_count": 1101,
+          "like_count": 10564,
+          "listed_count": 61,
+          "media_count": 5568,
+          "tweet_count": 13622
+        },
+        "url": "https://t.co/S68VSa2NZc",
+        "username": "DIGGIN_EVERYDAY",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-02T12:55:22.000Z",
+        "description": "业余的。\n不要对我抱有很大的期待。\n🚪288 - +∞",
+        "id": "1587790416057077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086990884760146009",
+        "name": "Purify",
+        "pinned_tweet_id": "2067132317928464513",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587790416057077760/1779062316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059674174965354506/2jHOkEpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 315,
+          "like_count": 6745,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 1006
+        },
+        "url": "",
+        "username": "musk_xxl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

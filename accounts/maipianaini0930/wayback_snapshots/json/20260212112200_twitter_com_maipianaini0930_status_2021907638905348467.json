@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2021907638905348467",
+    "created_at": "2026-02-12T11:22:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T12:22:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021907638905348467"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 25,
+          "normalized_text": "Richard Kern",
+          "probability": 0.9491,
+          "start": 14,
+          "type": "Person"
+        },
+        {
+          "end": 44,
+          "normalized_text": "Heroin",
+          "probability": 0.4366,
+          "start": 39,
+          "type": "Person"
+        },
+        {
+          "end": 55,
+          "normalized_text": "NYC",
+          "probability": 0.8678,
+          "start": 53,
+          "type": "Place"
+        },
+        {
+          "end": 77,
+          "normalized_text": "Kern",
+          "probability": 0.5114,
+          "start": 74,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1232476667005865985",
+          "start": 3,
+          "username": "lung_leg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021907638905348467",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021826822162534418",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @lung_leg: Richard Kern shooting up Heroin in his NYC apartment, 1987. Kern relayed that being a heroin addict made SUBMIT TO ME NOW his…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1363,
+        "media_key": "3_2021825859972485120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA736FVb0AAAdG_.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021907638905348467",
+        "created_at": "2026-02-12T11:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T12:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021907638905348467"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 25,
+              "normalized_text": "Richard Kern",
+              "probability": 0.9491,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 44,
+              "normalized_text": "Heroin",
+              "probability": 0.4366,
+              "start": 39,
+              "type": "Person"
+            },
+            {
+              "end": 55,
+              "normalized_text": "NYC",
+              "probability": 0.8678,
+              "start": 53,
+              "type": "Place"
+            },
+            {
+              "end": 77,
+              "normalized_text": "Kern",
+              "probability": 0.5114,
+              "start": 74,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1232476667005865985",
+              "start": 3,
+              "username": "lung_leg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021907638905348467",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021826822162534418",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @lung_leg: Richard Kern shooting up Heroin in his NYC apartment, 1987. Kern relayed that being a heroin addict made SUBMIT TO ME NOW his…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021825859972485120"
+          ]
+        },
+        "author_id": "1232476667005865985",
+        "conversation_id": "2021826822162534418",
+        "created_at": "2026-02-12T06:00:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:00:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021826822162534418"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "Richard Kern",
+              "probability": 0.9598,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 30,
+              "normalized_text": "Heroin",
+              "probability": 0.4041,
+              "start": 25,
+              "type": "Other"
+            },
+            {
+              "end": 41,
+              "normalized_text": "NYC",
+              "probability": 0.8821,
+              "start": 39,
+              "type": "Place"
+            },
+            {
+              "end": 63,
+              "normalized_text": "Kern",
+              "probability": 0.4566,
+              "start": 60,
+              "type": "Person"
+            },
+            {
+              "end": 165,
+              "normalized_text": "NYC",
+              "probability": 0.8427,
+              "start": 163,
+              "type": "Place"
+            },
+            {
+              "end": 237,
+              "normalized_text": "GUNS",
+              "probability": 0.4186,
+              "start": 234,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o61dNUpUWC",
+              "end": 300,
+              "expanded_url": "https://x.com/lung_leg/status/2021826822162534418/photo/1",
+              "media_key": "3_2021825859972485120",
+              "start": 277,
+              "url": "https://t.co/o61dNUpUWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021826822162534418",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 3695,
+          "like_count": 201,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "following",
+        "text": "Richard Kern shooting up Heroin in his NYC apartment, 1987. Kern relayed that being a heroin addict made SUBMIT TO ME NOW his darkest film, and he soon after fled NYC for SF in an attempt to get clean (he did, and quickly shot SEX VS GUNS in 1990). Scanned from his book GRAY. https://t.co/o61dNUpUWC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 218,
+          "like_count": 4055,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1282
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-26T01:25:18.000Z",
+        "description": "heroin addict",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "boxd.it/4neC7",
+                "end": 23,
+                "expanded_url": "https://boxd.it/4neC7",
+                "start": 0,
+                "url": "https://t.co/3gfZV1CFTj"
+              }
+            ]
+          }
+        },
+        "id": "1232476667005865985",
+        "name": "Shaun࿓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015444653814730752/yHi-xpvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 234,
+          "like_count": 20535,
+          "listed_count": 3,
+          "media_count": 1040,
+          "tweet_count": 2415
+        },
+        "url": "https://t.co/3gfZV1CFTj",
+        "username": "lung_leg",
+        "verified": false
+      }
+    ]
+  }
+}

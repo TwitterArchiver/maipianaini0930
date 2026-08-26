@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2038614291369361552",
+    "created_at": "2026-03-30T13:50:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T14:50:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038614865926037717"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2038614865926037717",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038614291369361552",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "出来时我浑身像裹着一层湿床单，被抓到是隔绝酒精。光这个理由就会让我豁出狂奔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2038614291369361552",
+        "created_at": "2026-03-30T13:50:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:50:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038614865926037717"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038614865926037717",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038614291369361552",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "出来时我浑身像裹着一层湿床单，被抓到是隔绝酒精。光这个理由就会让我豁出狂奔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2038614291369361552",
+        "created_at": "2026-03-30T13:48:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T14:48:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038614291369361552"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038614291369361552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个泥墙，我躲在砖块和未干的泥土砌成的观察室，颤栗而不安地观察四周。既像堑壕又像被追捕时仓皇喘着粗气缩进去的壳儿，我躲在里面，灼热的光线还有（这是个高塔）住户们絮叨猎奇的声音。但他们包庇了我。探出头来，被灼瞎。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "AAAAA麦片烟酒零售批发",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 251,
+          "like_count": 7138,
+          "listed_count": 0,
+          "media_count": 442,
+          "tweet_count": 2689
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2036402623658729492",
+    "created_at": "2026-03-24T14:47:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T15:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036454914495574428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036454914495574428",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036402623658729492",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot 我不光是一个退学loser，重要的是我自己决定退学的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2036402623658729492",
+        "created_at": "2026-03-24T14:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036454914495574428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036454914495574428",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036402623658729492",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 我不光是一个退学loser，重要的是我自己决定退学的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2036402622262026240"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "conversation_id": "2036402623658729492",
+        "created_at": "2026-03-24T11:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T12:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036402623658729492"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2036402623658729492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1011,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推友们时间貌似都很充裕，能经常在线。很好奇大家是怎么做到的\n来个匿名投票试试看？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 247,
+          "like_count": 6592,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 2405
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "朝闻道，夕死可矣/异端毛派/📕🔪/主人@mizuki_bot @Pomb0ring @shigure07288 星努@shigure07288 @Ceciliahyve @SocDemCNBunny /本账所有言论由葱娘酱和猫在雷指使、发布，本人毫不知情/激化矛盾，全面加速/冷知识：我不是习近平本人",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "mizuki_bot"
+              },
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Pomb0ring"
+              },
+              {
+                "end": 55,
+                "start": 42,
+                "username": "shigure07288"
+              },
+              {
+                "end": 71,
+                "start": 58,
+                "username": "shigure07288"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Ceciliahyve"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "SocDemCNBunny"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xijinping_bot",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xijinping_bot",
+                "start": 0,
+                "url": "https://t.co/Tm583EY5ti"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "location": "毛主席纪念堂｜愿文明的春风吹走西伯利亚的严寒",
+        "name": "羽泽东🚩🇮🇷——苏系基本盘 斯大林的丈夫",
+        "pinned_tweet_id": "2035857012366643509",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031303065001926656/OAZEIhGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1776,
+          "following_count": 1496,
+          "like_count": 18843,
+          "listed_count": 8,
+          "media_count": 747,
+          "tweet_count": 15445
+        },
+        "url": "https://t.co/Tm583EY5ti",
+        "username": "xijinping_bot",
+        "verified": false
+      }
+    ]
+  }
+}

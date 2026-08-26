@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2073425985555562707",
+    "created_at": "2026-07-04T15:27:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T16:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073428546635411739"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2073428546635411739",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073427148032053319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可是呢，你拖着被酒精被药物弄废的身体和大学生一样排着队等待就业，这个时代不会眷顾你们，这个国家把你们当成盲流"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2073425985555562707",
+        "created_at": "2026-07-04T15:27:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073428546635411739"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073428546635411739",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073427148032053319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可是呢，你拖着被酒精被药物弄废的身体和大学生一样排着队等待就业，这个时代不会眷顾你们，这个国家把你们当成盲流"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2073425985555562707",
+        "created_at": "2026-07-04T15:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T16:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073427148032053319"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073427148032053319",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073425985555562707",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你只是在机械重复过去一个个青年堕落的过程，就像这个体制是如何把血淋淋的人异化包装成流水线上它需要的工具的。你只是没选做题而已，但成了另一个拙劣复制，烧掉都为打火机感到唾弃的垃圾"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2072502086227669473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 299,
+          "like_count": 10739,
+          "listed_count": 1,
+          "media_count": 701,
+          "tweet_count": 4696
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

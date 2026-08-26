@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2062188101091622912",
+    "created_at": "2026-06-04T10:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T11:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062480634619335054"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1566739868688199680",
+          "start": 0,
+          "username": "wabnp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062480634619335054",
+    "in_reply_to_user_id": "1566739868688199680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062478930830123200",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wabnp 如果听得懂他们大概率也不会对自己做题蛆的身份认同引以为豪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2062188101091622912",
+        "created_at": "2026-06-04T10:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062480634619335054"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1566739868688199680",
+              "start": 0,
+              "username": "wabnp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062480634619335054",
+        "in_reply_to_user_id": "1566739868688199680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062478930830123200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wabnp 如果听得懂他们大概率也不会对自己做题蛆的身份认同引以为豪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1566739868688199680",
+        "conversation_id": "2062188101091622912",
+        "created_at": "2026-06-04T10:17:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T11:17:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062478930830123200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062478930830123200",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062188101091622912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 做题去听不懂这个的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 302,
+          "like_count": 10098,
+          "listed_count": 2,
+          "media_count": 651,
+          "tweet_count": 4315
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T10:47:56.000Z",
+        "description": "你好",
+        "id": "1566739868688199680",
+        "location": "横幅2023.11",
+        "name": "醬燒魚乾",
+        "pinned_tweet_id": "1935293435520630965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053518722158186496/dIXQecEY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2412,
+          "following_count": 890,
+          "like_count": 256558,
+          "listed_count": 5,
+          "media_count": 652,
+          "tweet_count": 16635
+        },
+        "username": "wabnp",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2060009585164095768",
+    "created_at": "2026-05-28T15:25:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T16:25:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060019533373649043"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060019533373649043",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060009585164095768",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 终于能不挂梯子发推了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1740,
+        "media_key": "3_2060009582114865152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJafzO_bgAAD4Y-.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1740,
+        "media_key": "3_2060009582047727616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJafzOvbEAAW43g.jpg",
+        "width": 1260
+      },
+      {
+        "height": 1384,
+        "media_key": "3_2060009582139998208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJafzPFbAAAhF7a.jpg",
+        "width": 1020
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2060009585164095768",
+        "created_at": "2026-05-28T15:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T16:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060019533373649043"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060019533373649043",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060009585164095768",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 终于能不挂梯子发推了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060009582114865152",
+            "3_2060009582047727616",
+            "3_2060009582139998208"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "conversation_id": "2060009585164095768",
+        "created_at": "2026-05-28T14:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T15:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060009585164095768"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mx0gGaCgrx",
+              "end": 96,
+              "expanded_url": "https://x.com/wuerbangbang/status/2060009585164095768/photo/1",
+              "media_key": "3_2060009582114865152",
+              "start": 73,
+              "url": "https://t.co/Mx0gGaCgrx"
+            },
+            {
+              "display_url": "pic.x.com/Mx0gGaCgrx",
+              "end": 96,
+              "expanded_url": "https://x.com/wuerbangbang/status/2060009585164095768/photo/1",
+              "media_key": "3_2060009582047727616",
+              "start": 73,
+              "url": "https://t.co/Mx0gGaCgrx"
+            },
+            {
+              "display_url": "pic.x.com/Mx0gGaCgrx",
+              "end": 96,
+              "expanded_url": "https://x.com/wuerbangbang/status/2060009585164095768/photo/1",
+              "media_key": "3_2060009582139998208",
+              "start": 73,
+              "url": "https://t.co/Mx0gGaCgrx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060009585164095768",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2167,
+          "like_count": 103,
+          "quote_count": 0,
+          "reply_count": 30,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "朋友们，我要薅国家羊毛半年英水博，一生英伦情了。祝福我吧🥹！\n\n我有很多知识想学，很多很多！“我要这天，再遮不住我眼；我要这地，再埋不了我心！” https://t.co/Mx0gGaCgrx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱🇷🇺",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 386,
+          "following_count": 289,
+          "like_count": 9821,
+          "listed_count": 2,
+          "media_count": 629,
+          "tweet_count": 4118
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2011619057360126001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10396,
+          "following_count": 966,
+          "like_count": 18462,
+          "listed_count": 45,
+          "media_count": 2714,
+          "tweet_count": 8704
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

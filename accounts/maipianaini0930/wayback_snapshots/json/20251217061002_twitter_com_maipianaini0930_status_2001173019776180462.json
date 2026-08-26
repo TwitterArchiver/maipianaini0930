@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2001173019776180462",
+    "created_at": "2025-12-17T06:10:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T07:10:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001173019776180462"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "Bolshaya Tulskaya Street",
+          "probability": 0.6177,
+          "start": 45,
+          "type": "Other"
+        },
+        {
+          "end": 89,
+          "normalized_text": "House of Atomists",
+          "probability": 0.6687,
+          "start": 73,
+          "type": "Other"
+        },
+        {
+          "end": 103,
+          "normalized_text": "the Ship",
+          "probability": 0.7024,
+          "start": 96,
+          "type": "Other"
+        },
+        {
+          "end": 125,
+          "normalized_text": "Moscow",
+          "probability": 0.6852,
+          "start": 120,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2827076514",
+          "start": 3,
+          "username": "archeohistories"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001173019776180462",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000573666258804864",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @archeohistories: Residential building on Bolshaya Tulskaya Street, (“House of Atomists” or “the Ship”; 1970-1986) - Moscow, Soviet-Russ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_2000573658646142976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8N3JJ6bYAAiZOF.jpg",
+        "width": 1037
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2001173019776180462",
+        "created_at": "2025-12-17T06:10:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T07:10:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001173019776180462"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "Bolshaya Tulskaya Street",
+              "probability": 0.6177,
+              "start": 45,
+              "type": "Other"
+            },
+            {
+              "end": 89,
+              "normalized_text": "House of Atomists",
+              "probability": 0.6687,
+              "start": 73,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "the Ship",
+              "probability": 0.7024,
+              "start": 96,
+              "type": "Other"
+            },
+            {
+              "end": 125,
+              "normalized_text": "Moscow",
+              "probability": 0.6852,
+              "start": 120,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2827076514",
+              "start": 3,
+              "username": "archeohistories"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001173019776180462",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000573666258804864",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @archeohistories: Residential building on Bolshaya Tulskaya Street, (“House of Atomists” or “the Ship”; 1970-1986) - Moscow, Soviet-Russ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2000573658646142976"
+          ]
+        },
+        "author_id": "2827076514",
+        "conversation_id": "2000573666258804864",
+        "created_at": "2025-12-15T14:28:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000573666258804864"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 47,
+              "normalized_text": "Bolshaya Tulskaya Street",
+              "probability": 0.6839,
+              "start": 24,
+              "type": "Other"
+            },
+            {
+              "end": 68,
+              "normalized_text": "House of Atomists",
+              "probability": 0.6792,
+              "start": 52,
+              "type": "Other"
+            },
+            {
+              "end": 82,
+              "normalized_text": "the Ship",
+              "probability": 0.6442,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 104,
+              "normalized_text": "Moscow",
+              "probability": 0.8884,
+              "start": 99,
+              "type": "Place"
+            },
+            {
+              "end": 112,
+              "normalized_text": "Soviet",
+              "probability": 0.6021,
+              "start": 107,
+              "type": "Place"
+            },
+            {
+              "end": 119,
+              "normalized_text": "Russia",
+              "probability": 0.7821,
+              "start": 114,
+              "type": "Place"
+            },
+            {
+              "end": 171,
+              "normalized_text": "Bolshaya Tulskaya Street",
+              "probability": 0.5015,
+              "start": 148,
+              "type": "Other"
+            },
+            {
+              "end": 269,
+              "normalized_text": "the Ship",
+              "probability": 0.6913,
+              "start": 262,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CR1Fu9aGlS",
+              "end": 303,
+              "expanded_url": "https://x.com/archeohistories/status/2000573666258804864/photo/1",
+              "media_key": "3_2000573658646142976",
+              "start": 280,
+              "url": "https://t.co/CR1Fu9aGlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000573666258804864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1622,
+                "start": 1605,
+                "tag": "archaeohistories"
+              }
+            ]
+          },
+          "text": "Residential building on Bolshaya Tulskaya Street, (“House of Atomists” or “the Ship”; 1970-1986) - Moscow, Soviet-Russia.\n\nThe massive structure on Bolshaya Tulskaya Street is one of the most striking examples of late Soviet residential architecture. Nicknamed “the Ship” because of its long, prow like profile and layered decks of balconies, the building stretches nearly 400 meters along one of Moscow’s busiest thoroughfares. Its official name, the House of Atomists, reflects the people it was originally built to house scientists, engineers, and workers connected to the Soviet nuclear industry.\n\nConstruction began in 1970 and dragged on for sixteen years, a timeline that mirrored the stagnation of the Brezhnev era. While the building appears monolithic and severe from a distance, it was designed as a self contained community. Inside were apartments of varying sizes, internal courtyards, shops, and communal services intended to reduce the need for residents to leave the complex for daily necessities.\n\nArchitecturally, the building represents Soviet modernism at its most ambitious and controversial. Critics saw it as oppressive and inhuman in scale, while supporters viewed it as a bold attempt to solve urban housing shortages with monumental design. Today, it stands as a concrete artifact of Cold War Moscow, embodying both the optimism and contradictions of late twentieth century Soviet planning.\n\nAt the time of its completion, the House of Atomists was one of the longest residential buildings in Europe, containing more than 900 apartments under a single roof.\n\n© History Pictures\n\n#archaeohistories"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 40242,
+          "like_count": 618,
+          "quote_count": 10,
+          "reply_count": 16,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "Residential building on Bolshaya Tulskaya Street, (“House of Atomists” or “the Ship”; 1970-1986) - Moscow, Soviet-Russia.\n\nThe massive structure on Bolshaya Tulskaya Street is one of the most striking examples of late Soviet residential architecture. Nicknamed “the Ship” because https://t.co/CR1Fu9aGlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "热河南路",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 181,
+          "like_count": 2017,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 672
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2014-09-22T23:45:57.000Z",
+        "description": "History is an unending dialogue between present and the past, that's why few pages of history give more insight than all the metaphysical volumes. (9)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/archaeohistori…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/archaeohistories?igsh=emNobzV5b253djYx",
+                "start": 0,
+                "url": "https://t.co/gslu59ZGUc"
+              }
+            ]
+          }
+        },
+        "id": "2827076514",
+        "name": "Archaeo - Histories",
+        "pinned_tweet_id": "1874870024411967554",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1568989952729579520/zMcViNlj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 582947,
+          "following_count": 21,
+          "like_count": 125943,
+          "listed_count": 2868,
+          "media_count": 56109,
+          "tweet_count": 114441
+        },
+        "url": "https://t.co/gslu59ZGUc",
+        "username": "archeohistories",
+        "verified": true
+      }
+    ]
+  }
+}

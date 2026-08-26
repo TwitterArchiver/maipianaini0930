@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2050065677567037441"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2050065742146699428",
+    "created_at": "2026-05-01T04:12:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T05:12:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050065742146699428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/esM9Iel3x7",
+          "end": 47,
+          "expanded_url": "https://x.com/maipianaini0930/status/2050065742146699428/video/1",
+          "media_key": "13_2050065677567037441",
+          "start": 24,
+          "url": "https://t.co/esM9Iel3x7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050065742146699428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "屌保洁把我的酒拿走了昨天我拿的自动铅笔也拿走了 https://t.co/esM9Iel3x7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7433,
+        "height": 1280,
+        "media_key": "13_2050065677567037441",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050065677567037441/img/t0vj3Lb6HInOaOzD.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050065677567037441/vid/avc1/320x568/zvi-p3Z0yq3gp_9c.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050065677567037441/vid/avc1/480x852/-2IW-ZRzXpf6Pfo-.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050065677567037441/vid/avc1/720x1280/qo2KGrgUSO_gsLGs.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050065677567037441/pl/wJSQj-I3TMZNRGHz.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2050065677567037441"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2050065742146699428",
+        "created_at": "2026-05-01T04:12:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T05:12:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050065742146699428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/esM9Iel3x7",
+              "end": 47,
+              "expanded_url": "https://x.com/maipianaini0930/status/2050065742146699428/video/1",
+              "media_key": "13_2050065677567037441",
+              "start": 24,
+              "url": "https://t.co/esM9Iel3x7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050065742146699428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "屌保洁把我的酒拿走了昨天我拿的自动铅笔也拿走了 https://t.co/esM9Iel3x7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 270,
+          "like_count": 8973,
+          "listed_count": 2,
+          "media_count": 550,
+          "tweet_count": 3448
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

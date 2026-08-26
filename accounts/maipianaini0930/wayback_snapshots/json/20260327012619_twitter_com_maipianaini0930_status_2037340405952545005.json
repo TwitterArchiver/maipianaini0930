@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037257297357910099",
+    "created_at": "2026-03-27T01:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T02:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037340405952545005"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1283802245595791362",
+          "start": 0,
+          "username": "wangjianghuiCN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037340405952545005",
+    "in_reply_to_user_id": "1283802245595791362",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037257297357910099",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wangjianghuiCN 89年就有这种字体了？下次尬黑记得把图P像一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2037257292383756288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXKtqyboAAyrLN.jpg",
+        "width": 1280
+      },
+      {
+        "height": 212,
+        "media_key": "3_2037257292383748096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXKtqybgAAXMzI.jpg",
+        "width": 320
+      },
+      {
+        "height": 675,
+        "media_key": "3_2037257292240822272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEXKtqQWoAAUN8k.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037257297357910099",
+        "created_at": "2026-03-27T01:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T02:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037340405952545005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1283802245595791362",
+              "start": 0,
+              "username": "wangjianghuiCN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037340405952545005",
+        "in_reply_to_user_id": "1283802245595791362",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037257297357910099",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wangjianghuiCN 89年就有这种字体了？下次尬黑记得把图P像一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037257292383756288",
+            "3_2037257292383748096",
+            "3_2037257292240822272"
+          ]
+        },
+        "author_id": "1283802245595791362",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2037257297357910099",
+        "created_at": "2026-03-26T19:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T20:56:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037257297357910099"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ABusYz7Rof",
+              "end": 78,
+              "expanded_url": "https://x.com/wangjianghuiCN/status/2037257297357910099/photo/1",
+              "media_key": "3_2037257292383756288",
+              "start": 55,
+              "url": "https://t.co/ABusYz7Rof"
+            },
+            {
+              "display_url": "pic.x.com/ABusYz7Rof",
+              "end": 78,
+              "expanded_url": "https://x.com/wangjianghuiCN/status/2037257297357910099/photo/1",
+              "media_key": "3_2037257292383748096",
+              "start": 55,
+              "url": "https://t.co/ABusYz7Rof"
+            },
+            {
+              "display_url": "pic.x.com/ABusYz7Rof",
+              "end": 78,
+              "expanded_url": "https://x.com/wangjianghuiCN/status/2037257297357910099/photo/1",
+              "media_key": "3_2037257292240822272",
+              "start": 55,
+              "url": "https://t.co/ABusYz7Rof"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037257297357910099",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 41,
+          "impression_count": 29585,
+          "like_count": 129,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "电视剧《历史转折中的邓小平 》没演的横幅转变，从“ 小平您好 ”变成“ 小平您好糊涂 ”再变成“小平你好狠” https://t.co/ABusYz7Rof"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 251,
+          "like_count": 6740,
+          "listed_count": 0,
+          "media_count": 401,
+          "tweet_count": 2474
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-16T16:34:58.000Z",
+        "description": "2019年深圳市扫黄打非十大案件第五大案件！被“非法经营罪”定罪的中国政治犯！在中国29年，新加坡工作3年，现在在德国，反对川普，支持共和！油管https://t.co/v8Mc5Epj1n",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@wangjianghui?…",
+                "end": 95,
+                "expanded_url": "https://youtube.com/@wangjianghui?si=ETSEJogaWTngF8Un",
+                "start": 72,
+                "url": "https://t.co/v8Mc5Epj1n"
+              }
+            ]
+          }
+        },
+        "id": "1283802245595791362",
+        "name": "汪江徽",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025344960183013376/gKukmO7y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6378,
+          "following_count": 1479,
+          "like_count": 8713,
+          "listed_count": 13,
+          "media_count": 1106,
+          "tweet_count": 2710
+        },
+        "username": "wangjianghuiCN",
+        "verified": true
+      }
+    ]
+  }
+}

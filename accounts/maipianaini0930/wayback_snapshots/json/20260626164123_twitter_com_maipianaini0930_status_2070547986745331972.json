@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070547934761062400"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2070537701758247388",
+    "created_at": "2026-06-26T16:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T17:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070547986745331972"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860970079246303232",
+          "start": 0,
+          "username": "1ju3twant2die"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ql3Km8aBRN",
+          "end": 38,
+          "expanded_url": "https://x.com/maipianaini0930/status/2070547986745331972/photo/1",
+          "media_key": "3_2070547934761062400",
+          "start": 15,
+          "url": "https://t.co/Ql3Km8aBRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070547986745331972",
+    "in_reply_to_user_id": "1860970079246303232",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070537701758247388",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ju3twant2die https://t.co/Ql3Km8aBRN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2115,
+        "media_key": "3_2070547934761062400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwQYF3aEAAKX-c.jpg",
+        "width": 1559
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2070537666345779200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwHCZCbQAAennn.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070547934761062400"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2070537701758247388",
+        "created_at": "2026-06-26T16:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070547986745331972"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860970079246303232",
+              "start": 0,
+              "username": "1ju3twant2die"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ql3Km8aBRN",
+              "end": 38,
+              "expanded_url": "https://x.com/maipianaini0930/status/2070547986745331972/photo/1",
+              "media_key": "3_2070547934761062400",
+              "start": 15,
+              "url": "https://t.co/Ql3Km8aBRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070547986745331972",
+        "in_reply_to_user_id": "1860970079246303232",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070537701758247388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ju3twant2die https://t.co/Ql3Km8aBRN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070537666345779200"
+          ]
+        },
+        "author_id": "1860970079246303232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2070537701758247388",
+        "created_at": "2026-06-26T16:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T17:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070537701758247388"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XEQRrjHM45",
+              "end": 29,
+              "expanded_url": "https://x.com/1ju3twant2die/status/2070537701758247388/photo/1",
+              "media_key": "3_2070537666345779200",
+              "start": 6,
+              "url": "https://t.co/XEQRrjHM45"
+            },
+            {
+              "display_url": "x.com/1ju3twant2die/…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/1ju3twant2die/status/2070311212886511695",
+              "start": 30,
+              "url": "https://t.co/mGjkKhqVwX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070537701758247388",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070311212886511695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请祖国死心 https://t.co/XEQRrjHM45 https://t.co/mGjkKhqVwX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 304,
+          "like_count": 10634,
+          "listed_count": 1,
+          "media_count": 692,
+          "tweet_count": 4613
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T08:53:51.000Z",
+        "description": "Post-structuralism｜Anarcho-monarchism｜Psychoanalysis｜Drug｜ Low-Functioning Antisocial Personality Disorder｜Satanism｜@HysteriaAndLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 116,
+                "username": "HysteriaAndLove"
+              }
+            ]
+          }
+        },
+        "id": "1860970079246303232",
+        "name": "RichardRamirezi ⛧",
+        "pinned_tweet_id": "2068266238124638455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068995882398384128/lpqLs0_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 114,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 406
+        },
+        "url": "",
+        "username": "1ju3twant2die",
+        "verified": false
+      }
+    ]
+  }
+}

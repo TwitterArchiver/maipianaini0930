@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066161257884065792"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2066161288766779607",
+    "created_at": "2026-06-14T14:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T15:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066161288766779607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2xWOEb6ZGY",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2066161288766779607/photo/1",
+          "media_key": "3_2066161257884065792",
+          "start": 0,
+          "url": "https://t.co/2xWOEb6ZGY"
+        },
+        {
+          "display_url": "x.com/catwall/status…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/catwall/status/2066095385806774516",
+          "start": 24,
+          "url": "https://t.co/bdiZanUZaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066161288766779607",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066095385806774516",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/2xWOEb6ZGY https://t.co/bdiZanUZaV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2066161257884065792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx6t5DaoAAMfV5.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2066095350893465600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKw-xmYXUAAxUjW.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066161257884065792"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2066161288766779607",
+        "created_at": "2026-06-14T14:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066161288766779607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2xWOEb6ZGY",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2066161288766779607/photo/1",
+              "media_key": "3_2066161257884065792",
+              "start": 0,
+              "url": "https://t.co/2xWOEb6ZGY"
+            },
+            {
+              "display_url": "x.com/catwall/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/catwall/status/2066095385806774516",
+              "start": 24,
+              "url": "https://t.co/bdiZanUZaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066161288766779607",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066095385806774516",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/2xWOEb6ZGY https://t.co/bdiZanUZaV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066095350893465600"
+          ]
+        },
+        "author_id": "1902194167486541824",
+        "conversation_id": "2066095385806774516",
+        "created_at": "2026-06-14T09:48:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T10:48:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066095385806774516"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "中指"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kVF7GGyL7r",
+              "end": 27,
+              "expanded_url": "https://x.com/CatWall/status/2066095385806774516/photo/1",
+              "media_key": "3_2066095350893465600",
+              "start": 4,
+              "url": "https://t.co/kVF7GGyL7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066095385806774516",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#中指 https://t.co/kVF7GGyL7r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 307,
+          "like_count": 10314,
+          "listed_count": 2,
+          "media_count": 673,
+          "tweet_count": 4501
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-19T03:04:10.000Z",
+        "description": "头像本人 害怕人类",
+        "id": "1902194167486541824",
+        "name": "华尔猫猫",
+        "pinned_tweet_id": "2066095385806774516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964165883104022531/X7i10k_h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 183,
+          "like_count": 602,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 896
+        },
+        "username": "CatWall",
+        "verified": false
+      }
+    ]
+  }
+}

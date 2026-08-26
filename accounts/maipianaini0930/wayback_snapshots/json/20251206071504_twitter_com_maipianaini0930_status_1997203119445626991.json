@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "1997202131607343263",
+    "created_at": "2025-12-06T07:15:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T08:15:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997203119445626991"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1997203119445626991",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997202131607343263",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "据《Mojo》杂志报道，在录音期间，morrison对“操他妈的，杀了父亲”这句歌词既着迷又怀疑。正如krieger回忆的那样，“他当时陷入了俄狄浦斯情结的迷恋之中。” 随后，他不小心把录音师带来的电视机扔向了控制室的窗户。事后，制作人rothchild让他回家了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1997202131607343263",
+        "created_at": "2025-12-06T07:15:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:15:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997203119445626991"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1997203119445626991",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997202131607343263",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据《Mojo》杂志报道，在录音期间，morrison对“操他妈的，杀了父亲”这句歌词既着迷又怀疑。正如krieger回忆的那样，“他当时陷入了俄狄浦斯情结的迷恋之中。” 随后，他不小心把录音师带来的电视机扔向了控制室的窗户。事后，制作人rothchild让他回家了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1997202131607343263",
+        "created_at": "2025-12-06T07:11:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T08:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997202131607343263"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "The Doors · The Doors · Song · 1967",
+              "display_url": "open.spotify.com/track/5UgT7w6z…",
+              "end": 23,
+              "expanded_url": "https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK?si=25wAv70QQM6ymg7-GJ--9A",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/1997202133700300802/XX_niNKI?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1997202133700300802/XX_niNKI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "The End",
+              "unwound_url": "https://open.spotify.com/track/5UgT7w6zVZjP3oyawMzbiK?si=25wAv70QQM6ymg7-GJ--9A",
+              "url": "https://t.co/ikqG3M4CXf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997202131607343263",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/ikqG3M4CXf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 159,
+          "like_count": 1496,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 511
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

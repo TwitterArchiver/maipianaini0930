@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2061755273786827248",
+    "created_at": "2026-06-02T11:03:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T12:03:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061765575106544107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902891477556137987",
+          "start": 0,
+          "username": "chisetu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061765575106544107",
+    "in_reply_to_user_id": "1902891477556137987",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061761738266325001",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chisetu_ 唉 辛苦啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2061755273786827248",
+        "created_at": "2026-06-02T11:03:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:03:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061765575106544107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902891477556137987",
+              "start": 0,
+              "username": "chisetu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061765575106544107",
+        "in_reply_to_user_id": "1902891477556137987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061761738266325001",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chisetu_ 唉 辛苦啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902891477556137987",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tanning",
+              "id": "855114635963318272",
+              "name": "Tanning"
+            }
+          }
+        ],
+        "conversation_id": "2061755273786827248",
+        "created_at": "2026-06-02T10:47:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T11:47:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061761738266325001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061761738266325001",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061757689328509395",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 いいや？次は21日に畑仕事するよ\n日焼けの痛みが中々治らなくてね"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 297,
+          "like_count": 9986,
+          "listed_count": 2,
+          "media_count": 643,
+          "tweet_count": 4268
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:14:26.000Z",
+        "description": "うるさい人で\n大日本スクワット教教徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chisetu_",
+                "end": 23,
+                "expanded_url": "https://lit.link/chisetu_",
+                "start": 0,
+                "url": "https://t.co/yUFz5Xi359"
+              }
+            ]
+          }
+        },
+        "id": "1902891477556137987",
+        "location": "イカ焼きの中",
+        "name": "稚夢",
+        "pinned_tweet_id": "2048998861679829198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013818920797642789/cFRna2WX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 148,
+          "like_count": 55986,
+          "listed_count": 2,
+          "media_count": 2614,
+          "tweet_count": 25736
+        },
+        "url": "https://t.co/yUFz5Xi359",
+        "username": "chisetu_",
+        "verified": false
+      }
+    ]
+  }
+}

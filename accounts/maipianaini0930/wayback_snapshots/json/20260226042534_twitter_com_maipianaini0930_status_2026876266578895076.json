@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026867481642766490",
+    "created_at": "2026-02-26T04:25:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T05:25:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026876266578895076"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026876266578895076",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026867481642766490",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "假如我习惯用四肢行走肯定会加入他们的，因为我十分好奇目的地，没准是出现在比阿特利克斯动物小说里灰尘呛嗓子的破阁楼、需要穿过麦浪小径抵达的动物集市，人类永远找不到"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2026867472641699842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDhOkGaMAIQnEP.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026867481642766490",
+        "created_at": "2026-02-26T04:25:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T05:25:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026876266578895076"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026876266578895076",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026867481642766490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "假如我习惯用四肢行走肯定会加入他们的，因为我十分好奇目的地，没准是出现在比阿特利克斯动物小说里灰尘呛嗓子的破阁楼、需要穿过麦浪小径抵达的动物集市，人类永远找不到"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026867472641699842"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026867481642766490",
+        "created_at": "2026-02-26T03:50:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T04:50:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026867481642766490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qHo0WTac3i",
+              "end": 30,
+              "expanded_url": "https://x.com/maipianaini0930/status/2026867481642766490/photo/1",
+              "media_key": "3_2026867472641699842",
+              "start": 7,
+              "url": "https://t.co/qHo0WTac3i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026867481642766490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "猫在列队前进 https://t.co/qHo0WTac3i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 212,
+          "like_count": 4926,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1553
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

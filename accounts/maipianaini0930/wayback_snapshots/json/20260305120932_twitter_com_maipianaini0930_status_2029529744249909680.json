@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2029453100004864298",
+    "created_at": "2026-03-05T12:09:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T13:09:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029529744249909680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693124545492983808",
+          "start": 0,
+          "username": "rustInsidee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029529744249909680",
+    "in_reply_to_user_id": "1693124545492983808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029523361773289828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rustInsidee 想要😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2029453100004864298",
+        "created_at": "2026-03-05T12:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T13:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029529744249909680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693124545492983808",
+              "start": 0,
+              "username": "rustInsidee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029529744249909680",
+        "in_reply_to_user_id": "1693124545492983808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029523361773289828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rustInsidee 想要😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693124545492983808",
+        "conversation_id": "2029453100004864298",
+        "created_at": "2026-03-05T11:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T12:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029523361773289828"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029523361773289828",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029510998345052659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 牙齿打算打洞做项链！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 226,
+          "like_count": 5376,
+          "listed_count": 0,
+          "media_count": 277,
+          "tweet_count": 1739
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T04:55:41.000Z",
+        "description": "我純潔的一刻勝過你一生的謊言",
+        "id": "1693124545492983808",
+        "name": "她在時間門外",
+        "pinned_tweet_id": "1742580780474478784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004070213848055808/sNu-TCBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7959,
+          "following_count": 403,
+          "like_count": 10071,
+          "listed_count": 20,
+          "media_count": 1763,
+          "tweet_count": 7771
+        },
+        "username": "rustInsidee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079197543389655386",
+    "created_at": "2026-07-21T01:54:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T02:54:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079384525755601244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1877758854156763136",
+          "start": 0,
+          "username": "BaalHaded"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079384525755601244",
+    "in_reply_to_user_id": "1877758854156763136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079375504109425045",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaalHaded 去过 感觉还是不够爽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079197543389655386",
+        "created_at": "2026-07-21T01:54:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:54:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079384525755601244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1877758854156763136",
+              "start": 0,
+              "username": "BaalHaded"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079384525755601244",
+        "in_reply_to_user_id": "1877758854156763136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079375504109425045",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaalHaded 去过 感觉还是不够爽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1877758854156763136",
+        "conversation_id": "2079197543389655386",
+        "created_at": "2026-07-21T01:18:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T02:18:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079375504109425045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079375504109425045",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079197543389655386",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 建议试试蹦极？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 304,
+          "like_count": 11198,
+          "listed_count": 1,
+          "media_count": 745,
+          "tweet_count": 4940
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-10T16:46:18.000Z",
+        "description": "留意甜言蜜语与夜路小径。",
+        "id": "1877758854156763136",
+        "location": "Dreamlands",
+        "name": "臧否",
+        "pinned_tweet_id": "2009933425596391569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877804624071028736/rXsqD2ot_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 984,
+          "like_count": 21407,
+          "listed_count": 4,
+          "media_count": 218,
+          "tweet_count": 4736
+        },
+        "url": "",
+        "username": "BaalHaded",
+        "verified": false
+      }
+    ]
+  }
+}

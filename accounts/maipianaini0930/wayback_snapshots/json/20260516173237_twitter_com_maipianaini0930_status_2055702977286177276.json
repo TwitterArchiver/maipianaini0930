@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2055592719649796592",
+    "created_at": "2026-05-16T17:32:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T18:32:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055702977286177276"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1707350362787913728",
+          "start": 0,
+          "username": "lysosome807"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055702977286177276",
+    "in_reply_to_user_id": "1707350362787913728",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055592719649796592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lysosome807 美"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2055592708421615616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIburWRagAAqYsC.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2055592708622995456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIburXBbUAA2uar.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2055592708425777152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIburWSaAAAKJV-.jpg",
+        "width": 1620
+      },
+      {
+        "height": 1528,
+        "media_key": "3_2055592708631347200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIburXDawAAPBPK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2055592719649796592",
+        "created_at": "2026-05-16T17:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055702977286177276"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1707350362787913728",
+              "start": 0,
+              "username": "lysosome807"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055702977286177276",
+        "in_reply_to_user_id": "1707350362787913728",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055592719649796592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lysosome807 美"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055592708421615616",
+            "3_2055592708622995456",
+            "3_2055592708425777152",
+            "3_2055592708631347200"
+          ]
+        },
+        "author_id": "1707350362787913728",
+        "conversation_id": "2055592719649796592",
+        "created_at": "2026-05-16T10:14:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T11:14:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055592719649796592"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wRgOPMjZiH",
+              "end": 49,
+              "expanded_url": "https://x.com/lysosome807/status/2055592719649796592/photo/1",
+              "media_key": "3_2055592708421615616",
+              "start": 26,
+              "url": "https://t.co/wRgOPMjZiH"
+            },
+            {
+              "display_url": "pic.x.com/wRgOPMjZiH",
+              "end": 49,
+              "expanded_url": "https://x.com/lysosome807/status/2055592719649796592/photo/1",
+              "media_key": "3_2055592708622995456",
+              "start": 26,
+              "url": "https://t.co/wRgOPMjZiH"
+            },
+            {
+              "display_url": "pic.x.com/wRgOPMjZiH",
+              "end": 49,
+              "expanded_url": "https://x.com/lysosome807/status/2055592719649796592/photo/1",
+              "media_key": "3_2055592708425777152",
+              "start": 26,
+              "url": "https://t.co/wRgOPMjZiH"
+            },
+            {
+              "display_url": "pic.x.com/wRgOPMjZiH",
+              "end": 49,
+              "expanded_url": "https://x.com/lysosome807/status/2055592719649796592/photo/1",
+              "media_key": "3_2055592708631347200",
+              "start": 26,
+              "url": "https://t.co/wRgOPMjZiH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055592719649796592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1351,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿片，活的🤤\n“识罂粟拒毒品”，推油们认识罂粟了嘛 https://t.co/wRgOPMjZiH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 283,
+          "like_count": 9438,
+          "listed_count": 2,
+          "media_count": 601,
+          "tweet_count": 3880
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-28T11:03:58.000Z",
+        "description": "Ayane/郁寧/ayn｜20+｜中文/English ｜不涉政｜夜行性生物｜ボカロ爱好者｜プロセカ奏/まふゆ推｜重度抑郁不安定，积极治疗中..｜同类互fo，私信随意｜天下起了雨，但无处可去",
+        "id": "1707350362787913728",
+        "location": "某个逝去的黄昏",
+        "name": "水月 郁寧",
+        "pinned_tweet_id": "2024256659338756250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043783536893931520/FZ56MFoI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 779,
+          "like_count": 3141,
+          "listed_count": 0,
+          "media_count": 58,
+          "tweet_count": 301
+        },
+        "username": "lysosome807",
+        "verified": false
+      }
+    ]
+  }
+}

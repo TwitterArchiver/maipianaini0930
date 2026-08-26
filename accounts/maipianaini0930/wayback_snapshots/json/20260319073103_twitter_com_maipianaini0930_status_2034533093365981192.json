@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034386041218503111",
+    "created_at": "2026-03-19T07:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-19T08:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034533093365981192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770978896457998336",
+          "start": 0,
+          "username": "gloodybore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034533093365981192",
+    "in_reply_to_user_id": "1770978896457998336",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034532663860633657",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gloodybore 😯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034386041218503111",
+        "created_at": "2026-03-19T07:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034533093365981192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770978896457998336",
+              "start": 0,
+              "username": "gloodybore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034533093365981192",
+        "in_reply_to_user_id": "1770978896457998336",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034532663860633657",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gloodybore 😯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770978896457998336",
+        "conversation_id": "2034386041218503111",
+        "created_at": "2026-03-19T07:29:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T08:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034532663860633657"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 75,
+              "normalized_text": "Eyehategod",
+              "probability": 0.6175,
+              "start": 66,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034532663860633657",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034529999227945322",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 no one its just a lame joke referencing the band Eyehategod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 234,
+          "like_count": 6170,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 2190
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T01:01:05.000Z",
+        "description": "Stupid emoviolence fuck | Read strawpage before following | My name is Janaan | DMs open | i love my boyfriend @burymeinredbull",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 111,
+                "username": "burymeinredbull"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "breakcorebloodparty.straw.page",
+                "end": 23,
+                "expanded_url": "https://breakcorebloodparty.straw.page/",
+                "start": 0,
+                "url": "https://t.co/IntEG2Gj1L"
+              }
+            ]
+          }
+        },
+        "id": "1770978896457998336",
+        "location": "she/her/he/him",
+        "name": "disgusting insomniac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033388872114065408/Rdis_eK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 603,
+          "like_count": 35115,
+          "listed_count": 8,
+          "media_count": 1332,
+          "tweet_count": 21952
+        },
+        "url": "https://t.co/IntEG2Gj1L",
+        "username": "gloodybore",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2018559443932532913",
+    "created_at": "2026-02-04T07:07:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:07:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018944588992717217"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1490670069877252101",
+          "start": 0,
+          "username": "Sww2080"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018944588992717217",
+    "in_reply_to_user_id": "1490670069877252101",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018943871560917270",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sww2080 比国内干净\n在英国半个月穿的鞋，回国以后跟国内穿的鞋子鞋底对比真的好分明。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2018559443932532913",
+        "created_at": "2026-02-04T07:07:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:07:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018944588992717217"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1490670069877252101",
+              "start": 0,
+              "username": "Sww2080"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018944588992717217",
+        "in_reply_to_user_id": "1490670069877252101",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018943871560917270",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sww2080 比国内干净\n在英国半个月穿的鞋，回国以后跟国内穿的鞋子鞋底对比真的好分明。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1490670069877252101",
+        "conversation_id": "2018559443932532913",
+        "created_at": "2026-02-04T07:05:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018943871560917270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018943871560917270",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018940378825842698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 咦怎么这样，雨天也这样的话地板很脏吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 216,
+          "like_count": 3739,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1148
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-07T12:53:44.000Z",
+        "description": "粤/普/Eng\n\n先问是不是，再问为什么\n\nI never want someone's chest lying under my foot\nЯ никому не хочу ставить ногу на грудь\n\n我先是一个人，然后才是各种身份标签",
+        "id": "1490670069877252101",
+        "location": "幻想乡，距离你1.4公里",
+        "name": "千早爱因S坦🇵🇸🇭🇰(不吃香菜版)",
+        "pinned_tweet_id": "1715195016287752650",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000493459996598275/6DOjxy0W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 1770,
+          "like_count": 295251,
+          "listed_count": 17,
+          "media_count": 1706,
+          "tweet_count": 50170
+        },
+        "username": "Sww2080",
+        "verified": false
+      }
+    ]
+  }
+}

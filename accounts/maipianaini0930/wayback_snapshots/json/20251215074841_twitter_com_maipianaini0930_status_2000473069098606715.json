@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2000470140580982894",
+    "created_at": "2025-12-15T07:48:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:48:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000473069098606715"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1758532281873125377",
+          "start": 0,
+          "username": "miyoko39196"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000473069098606715",
+    "in_reply_to_user_id": "1758532281873125377",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000471572008841528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miyoko39196 好啊🤩"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2000470140580982894",
+        "created_at": "2025-12-15T07:48:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:48:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000473069098606715"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1758532281873125377",
+              "start": 0,
+              "username": "miyoko39196"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000473069098606715",
+        "in_reply_to_user_id": "1758532281873125377",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000471572008841528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miyoko39196 好啊🤩"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758532281873125377",
+        "conversation_id": "2000470140580982894",
+        "created_at": "2025-12-15T07:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000471572008841528"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000471572008841528",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000470140580982894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 有机会给你拍组照片哇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "热河南路",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 177,
+          "like_count": 1939,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 662
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-16T16:42:37.000Z",
+        "description": "佛教信徒／梦想成为正义的伙伴／照见五蕴皆空度一切苦厄／想她的时候就疯狂刷推",
+        "id": "1758532281873125377",
+        "name": "miyoko",
+        "pinned_tweet_id": "1999409951790497934",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816362060768575488/vBUYB_KY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 71,
+          "like_count": 11,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 60
+        },
+        "username": "miyoko39196",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026630047084478539",
+    "created_at": "2026-02-25T14:08:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T15:08:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026660658423672941"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818861490558189570",
+          "start": 0,
+          "username": "gogatsu_yuki5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026660658423672941",
+    "in_reply_to_user_id": "1818861490558189570",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026630047084478539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gogatsu_yuki5 what happened"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026630047084478539",
+        "created_at": "2026-02-25T14:08:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:08:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026660658423672941"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818861490558189570",
+              "start": 0,
+              "username": "gogatsu_yuki5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026660658423672941",
+        "in_reply_to_user_id": "1818861490558189570",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026630047084478539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gogatsu_yuki5 what happened"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818861490558189570",
+        "conversation_id": "2026630047084478539",
+        "created_at": "2026-02-25T12:07:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T13:07:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026630047084478539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026630047084478539",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 67,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "気を抜いてた\nあの時学んだはずなのに\n馬鹿だ\n殺してくれ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 212,
+          "like_count": 4852,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1529
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T04:09:36.000Z",
+        "description": "毎日お疲れ様です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/gogatsu_yuki05…",
+                "end": 23,
+                "expanded_url": "https://note.com/gogatsu_yuki0512",
+                "start": 0,
+                "url": "https://t.co/cwXgBCbJdu"
+              }
+            ]
+          }
+        },
+        "id": "1818861490558189570",
+        "name": "ごがつのゆき",
+        "pinned_tweet_id": "1818933121066422562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017253648854835200/l8j0RSBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 207,
+          "like_count": 173725,
+          "listed_count": 10,
+          "media_count": 442,
+          "tweet_count": 5330
+        },
+        "url": "https://t.co/cwXgBCbJdu",
+        "username": "gogatsu_yuki5",
+        "verified": false
+      }
+    ]
+  }
+}

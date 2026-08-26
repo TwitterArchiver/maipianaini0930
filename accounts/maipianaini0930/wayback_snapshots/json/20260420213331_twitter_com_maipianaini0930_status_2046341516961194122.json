@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2046341516961194122",
+    "created_at": "2026-04-20T21:33:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T22:33:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046341516961194122"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/stparabellum/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/stparabellum/status/2045980893433446718",
+          "start": 20,
+          "url": "https://t.co/81Au1h2za4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046341516961194122",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045980893433446718",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "使我们能与偏见与强制力平等对话的东西： https://t.co/81Au1h2za4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2045980891286065152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGTIx9JX0AAI6Qw.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2046341516961194122",
+        "created_at": "2026-04-20T21:33:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T22:33:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046341516961194122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/stparabellum/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/stparabellum/status/2045980893433446718",
+              "start": 20,
+              "url": "https://t.co/81Au1h2za4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046341516961194122",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045980893433446718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "使我们能与偏见与强制力平等对话的东西： https://t.co/81Au1h2za4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045980891286065152"
+          ]
+        },
+        "author_id": "534400451",
+        "conversation_id": "2045980893433446718",
+        "created_at": "2026-04-19T21:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T22:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045980893433446718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1gTF5ip9GV",
+              "end": 23,
+              "expanded_url": "https://x.com/stparabellum/status/2045980893433446718/photo/1",
+              "media_key": "3_2045980891286065152",
+              "start": 0,
+              "url": "https://t.co/1gTF5ip9GV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045980893433446718",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 8807,
+          "like_count": 827,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/1gTF5ip9GV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 271,
+          "like_count": 8472,
+          "listed_count": 1,
+          "media_count": 517,
+          "tweet_count": 3280
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2012-03-23T15:14:53.000Z",
+        "description": "War Aesthetics and Balaclavas",
+        "id": "534400451",
+        "location": "Sahara ☀️",
+        "name": "𝙉𝙞𝙛",
+        "pinned_tweet_id": "1766131555309654341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947415687355330560/y_m31G4P_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47265,
+          "following_count": 262,
+          "like_count": 97006,
+          "listed_count": 125,
+          "media_count": 6726,
+          "tweet_count": 14857
+        },
+        "username": "stparabellum",
+        "verified": true
+      }
+    ]
+  }
+}

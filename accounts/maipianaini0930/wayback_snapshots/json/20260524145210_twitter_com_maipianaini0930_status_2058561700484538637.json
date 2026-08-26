@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2058403939800994276",
+    "created_at": "2026-05-24T14:52:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T15:52:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058561700484538637"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1860970079246303232",
+          "start": 0,
+          "username": "1ju3twant2die"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058561700484538637",
+    "in_reply_to_user_id": "1860970079246303232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058403939800994276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1ju3twant2die 铁罐和平"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2058403939800994276",
+        "created_at": "2026-05-24T14:52:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T15:52:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058561700484538637"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1860970079246303232",
+              "start": 0,
+              "username": "1ju3twant2die"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058561700484538637",
+        "in_reply_to_user_id": "1860970079246303232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058403939800994276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1ju3twant2die 铁罐和平"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1860970079246303232",
+        "conversation_id": "2058403939800994276",
+        "created_at": "2026-05-24T04:25:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T05:25:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058403939800994276"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058403939800994276",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "比起饭后那口烟其实我感觉对于我这种酒鬼药蛆来说起床那口烟才是真的享受，高焦香烟那种刺激感立刻就可以把身体从昏沉解离的状态短暂的唤醒让自己可以有动力从床上爬起来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 285,
+          "like_count": 9710,
+          "listed_count": 2,
+          "media_count": 616,
+          "tweet_count": 4045
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T08:53:51.000Z",
+        "description": "意识主体@HysteriaAndLove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 4,
+                "username": "HysteriaAndLove"
+              }
+            ]
+          }
+        },
+        "id": "1860970079246303232",
+        "name": "RichardRamirezi ⛧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860971782217605120/WY3KaNM9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 24,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 14
+        },
+        "username": "1ju3twant2die",
+        "verified": false
+      }
+    ]
+  }
+}

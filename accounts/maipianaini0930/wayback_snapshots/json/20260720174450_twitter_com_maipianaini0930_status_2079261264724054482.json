@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079261255051988992",
+        "3_2079261255052005376",
+        "3_2079261255110725632"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2079256170959913104",
+    "created_at": "2026-07-20T17:44:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T18:44:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079261264724054482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2031983501038534664",
+          "start": 0,
+          "username": "planifoliaspark"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Re77mGRNgt",
+          "end": 90,
+          "expanded_url": "https://x.com/maipianaini0930/status/2079261264724054482/photo/1",
+          "media_key": "3_2079261255051988992",
+          "start": 67,
+          "url": "https://t.co/Re77mGRNgt"
+        },
+        {
+          "display_url": "pic.x.com/Re77mGRNgt",
+          "end": 90,
+          "expanded_url": "https://x.com/maipianaini0930/status/2079261264724054482/photo/1",
+          "media_key": "3_2079261255052005376",
+          "start": 67,
+          "url": "https://t.co/Re77mGRNgt"
+        },
+        {
+          "display_url": "pic.x.com/Re77mGRNgt",
+          "end": 90,
+          "expanded_url": "https://x.com/maipianaini0930/status/2079261264724054482/photo/1",
+          "media_key": "3_2079261255110725632",
+          "start": 67,
+          "url": "https://t.co/Re77mGRNgt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079261264724054482",
+    "in_reply_to_user_id": "2031983501038534664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079257210568548390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@planifoliaspark 急的是你吧😋帮你问了ai\n不去钻车是借的偷的还是搭车的牛角尖，答主完全可能生活在一个经济欠发达地区 https://t.co/Re77mGRNgt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2079261255051988992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsFGFabUAAx8eC.jpg",
+        "width": 750
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2079261255052005376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsFGFabkAAEdaR.jpg",
+        "width": 750
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2079261255110725632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsFGFobkAAQbCT.jpg",
+        "width": 750
+      },
+      {
+        "height": 383,
+        "media_key": "3_2079257141647691776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsBWpya0AADDc9.png",
+        "width": 616
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079261255051988992",
+            "3_2079261255052005376",
+            "3_2079261255110725632"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079256170959913104",
+        "created_at": "2026-07-20T17:44:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:44:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079261264724054482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2031983501038534664",
+              "start": 0,
+              "username": "planifoliaspark"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Re77mGRNgt",
+              "end": 90,
+              "expanded_url": "https://x.com/maipianaini0930/status/2079261264724054482/photo/1",
+              "media_key": "3_2079261255051988992",
+              "start": 67,
+              "url": "https://t.co/Re77mGRNgt"
+            },
+            {
+              "display_url": "pic.x.com/Re77mGRNgt",
+              "end": 90,
+              "expanded_url": "https://x.com/maipianaini0930/status/2079261264724054482/photo/1",
+              "media_key": "3_2079261255052005376",
+              "start": 67,
+              "url": "https://t.co/Re77mGRNgt"
+            },
+            {
+              "display_url": "pic.x.com/Re77mGRNgt",
+              "end": 90,
+              "expanded_url": "https://x.com/maipianaini0930/status/2079261264724054482/photo/1",
+              "media_key": "3_2079261255110725632",
+              "start": 67,
+              "url": "https://t.co/Re77mGRNgt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079261264724054482",
+        "in_reply_to_user_id": "2031983501038534664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079257210568548390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@planifoliaspark 急的是你吧😋帮你问了ai\n不去钻车是借的偷的还是搭车的牛角尖，答主完全可能生活在一个经济欠发达地区 https://t.co/Re77mGRNgt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079257141647691776"
+          ]
+        },
+        "author_id": "2031983501038534664",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2079256170959913104",
+        "created_at": "2026-07-20T17:28:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T18:28:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079257210568548390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nNZlQxHWvQ",
+              "end": 58,
+              "expanded_url": "https://x.com/planifoliaspark/status/2079257210568548390/photo/1",
+              "media_key": "3_2079257141647691776",
+              "start": 35,
+              "url": "https://t.co/nNZlQxHWvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079257210568548390",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079256170959913104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 你怎么急了？哪一句提到车是借的了？ https://t.co/nNZlQxHWvQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 299,
+          "like_count": 11172,
+          "listed_count": 1,
+          "media_count": 742,
+          "tweet_count": 4931
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T06:40:16.000Z",
+        "description": "推油寻回中 香草3rd | coffee fanatic | ENFP | Langs: 🇨🇳🇺🇸🇯🇵| Exchange Service & Infra | 不想在X “合群” | 利物浦是冠军",
+        "id": "2031983501038534664",
+        "location": "脱礼爱司脱意国邮船公司",
+        "name": "𝓥𝓪𝓷𝓲𝓵𝓵𝓪𝓢𝓸𝓭𝓪",
+        "pinned_tweet_id": "2069867391111282782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059896447068454912/lr9HfcqA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 362,
+          "like_count": 9294,
+          "listed_count": 1,
+          "media_count": 389,
+          "tweet_count": 4112
+        },
+        "url": "",
+        "username": "planifoliaspark",
+        "verified": false
+      }
+    ]
+  }
+}

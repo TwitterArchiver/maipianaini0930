@@ -1,0 +1,908 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named places in the world, like Fenway Park",
+          "id": "13",
+          "name": "Place"
+        },
+        "entity": {
+          "description": "KGO do not tune!",
+          "id": "1430251940810612738",
+          "name": "Minneapolis"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Folk",
+          "id": "884775851589419008",
+          "name": "Folk music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Folk",
+          "id": "884775851589419008",
+          "name": "Folk music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286017614041329665",
+          "name": "Folk & acoustic"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "KGO do not tune!",
+          "id": "1430251940810612738",
+          "name": "Minneapolis"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Bruce Springsteen",
+          "id": "877869411520045059",
+          "name": "Bruce Springsteen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Bruce Springsteen",
+          "id": "877869411520045059",
+          "name": "Bruce Springsteen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Bruce Springsteen",
+          "id": "877869411520045059",
+          "name": "Bruce Springsteen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      }
+    ],
+    "conversation_id": "2024368090881151033",
+    "created_at": "2026-02-19T06:18:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-19T07:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024368090881151033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/occupydemocrat…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/occupydemocrats/status/2023838343260434896",
+          "start": 27,
+          "url": "https://t.co/CRFihYttzO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024368090881151033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023838343260434896",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉千言万语淤堵在心，想说点什么但说不出来遂转了个帖 https://t.co/CRFihYttzO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 658,
+        "media_key": "3_2023837040400625664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBYdEMRbcAAcz5_.jpg",
+        "width": 869
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "description": "KGO do not tune!",
+              "id": "1430251940810612738",
+              "name": "Minneapolis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Folk",
+              "id": "884775851589419008",
+              "name": "Folk music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Folk",
+              "id": "884775851589419008",
+              "name": "Folk music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286017614041329665",
+              "name": "Folk & acoustic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "KGO do not tune!",
+              "id": "1430251940810612738",
+              "name": "Minneapolis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Bruce Springsteen",
+              "id": "877869411520045059",
+              "name": "Bruce Springsteen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Bruce Springsteen",
+              "id": "877869411520045059",
+              "name": "Bruce Springsteen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bruce Springsteen",
+              "id": "877869411520045059",
+              "name": "Bruce Springsteen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2024368090881151033",
+        "created_at": "2026-02-19T06:18:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T07:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024368090881151033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/occupydemocrat…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/occupydemocrats/status/2023838343260434896",
+              "start": 27,
+              "url": "https://t.co/CRFihYttzO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024368090881151033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023838343260434896",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉千言万语淤堵在心，想说点什么但说不出来遂转了个帖 https://t.co/CRFihYttzO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023837040400625664"
+          ]
+        },
+        "author_id": "878284831",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named places in the world, like Fenway Park",
+              "id": "13",
+              "name": "Place"
+            },
+            "entity": {
+              "description": "KGO do not tune!",
+              "id": "1430251940810612738",
+              "name": "Minneapolis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Folk",
+              "id": "884775851589419008",
+              "name": "Folk music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Folk",
+              "id": "884775851589419008",
+              "name": "Folk music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286017614041329665",
+              "name": "Folk & acoustic"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "KGO do not tune!",
+              "id": "1430251940810612738",
+              "name": "Minneapolis"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Bruce Springsteen",
+              "id": "877869411520045059",
+              "name": "Bruce Springsteen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Bruce Springsteen",
+              "id": "877869411520045059",
+              "name": "Bruce Springsteen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Bruce Springsteen",
+              "id": "877869411520045059",
+              "name": "Bruce Springsteen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2023838343260434896",
+        "created_at": "2026-02-17T19:13:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T20:13:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023838343260434896"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "Bruce Springsteen",
+              "probability": 0.9812,
+              "start": 23,
+              "type": "Person"
+            },
+            {
+              "end": 60,
+              "normalized_text": "MAGA",
+              "probability": 0.3879,
+              "start": 57,
+              "type": "Other"
+            },
+            {
+              "end": 125,
+              "normalized_text": "America",
+              "probability": 0.8826,
+              "start": 119,
+              "type": "Place"
+            },
+            {
+              "end": 227,
+              "normalized_text": "Minneapolis",
+              "probability": 0.9601,
+              "start": 217,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XgdSjwLvFJ",
+              "end": 298,
+              "expanded_url": "https://x.com/OccupyDemocrats/status/2023838343260434896/photo/1",
+              "media_key": "3_2023837040400625664",
+              "start": 275,
+              "url": "https://t.co/XgdSjwLvFJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023838343260434896",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "BREAKING: Music legend Bruce Springsteen drops a bomb on MAGA world by announcing a surprise nationwide tour to defend America against \"our wannabe king\" and his \"rogue government.\"\n\nBest of all? The first stop is in Minneapolis.\n\n\"Fans, friends, and good folk from coast to coast. We are living through dark, disturbing, and dangerous times, but do not despair. The cavalry is coming,\" The Boss said in an announcement video.\n\n\"Bruce Springsteen and the E Street Band will be taking the stage this spring from Minneapolis to California to Texas to Washington, D.C. for the Land of Hope and Dreams American Tour,\" he continued. \"We will be rocking your town in celebration and in defense of America, American democracy, American freedom, our American Constitution, and our sacred American dream, all of which are under attack by our wannabe king and his rogue government in Washington, D.C.\"\n\n\"Everyone, regardless of where you stand or what you believe in, is welcome,\" Springsteen added. \"So come on out and join the united free republic of E Street Nation for an American spring of rock and rebellion. I'll see you there.\"\n\nBy starting the tour in Minneapolis, Springsteen is intentionally drawing attention to the brutal violence and killings that Trump has inflicted on the city with his masked federal agents. The singer composed the hit song \"Streets of Minneapolis\" in response to the ICE crackdowns. It went on to chart #1 in 21 countries.\n\nThe tour starts March 31st and will entail 20-date arena showings. The timing is an absolute disaster for Trump, because it means the bard of blue collar America will be hammering his administration at one sold-out show after another. Given his rock bottom approval rating and worsening Epstein scandal, Trump can scarcely afford more bad press ahead of the midterm elections.\n\nSpringsteen has proven to be one of Trump's most formidable and outspoken foes. He recognizes that this president has betrayed the working class that populate so many of his hit songs and he despises the relentless attacks on our democracy.\n\nPlease ❤️ and share to thank Bruce Springsteen!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 528,
+          "impression_count": 508114,
+          "like_count": 23714,
+          "quote_count": 403,
+          "reply_count": 4089,
+          "retweet_count": 7033
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: Music legend Bruce Springsteen drops a bomb on MAGA world by announcing a surprise nationwide tour to defend America against \"our wannabe king\" and his \"rogue government.\"\n\nBest of all? The first stop is in Minneapolis.\n\n\"Fans, friends, and good folk from coast to https://t.co/XgdSjwLvFJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 205,
+          "like_count": 4352,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 1358
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2012-10-13T17:12:40.000Z",
+        "description": "#1 Democratic organization on social media. NY Times says we helped defeat Trump in 2020. Follow us on Facebook, Tik-Tok, IG & Tribel: https://t.co/RvkKYTKXE3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3gjUkli",
+                "end": 158,
+                "expanded_url": "http://bit.ly/3gjUkli",
+                "start": 135,
+                "url": "https://t.co/RvkKYTKXE3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/OccupyDemocrats",
+                "end": 23,
+                "expanded_url": "http://facebook.com/OccupyDemocrats",
+                "start": 0,
+                "url": "https://t.co/DD4R7PNc6Y"
+              }
+            ]
+          }
+        },
+        "id": "878284831",
+        "location": "United States",
+        "name": "Occupy Democrats",
+        "pinned_tweet_id": "2023464091873116516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1570121084476788736/2x2_g5bP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727510,
+          "following_count": 20272,
+          "like_count": 55366,
+          "listed_count": 3467,
+          "media_count": 8985,
+          "tweet_count": 121082
+        },
+        "url": "https://t.co/DD4R7PNc6Y",
+        "username": "OccupyDemocrats",
+        "verified": true
+      }
+    ]
+  }
+}

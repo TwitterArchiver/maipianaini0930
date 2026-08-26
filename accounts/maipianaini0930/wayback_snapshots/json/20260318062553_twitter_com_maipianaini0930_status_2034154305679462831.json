@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034140323606368491",
+    "created_at": "2026-03-18T06:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T07:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034154305679462831"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818861490558189570",
+          "start": 0,
+          "username": "gogatsu_yuki5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034154305679462831",
+    "in_reply_to_user_id": "1818861490558189570",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034154195369267224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gogatsu_yuki5 そういうことなんです"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034140323606368491",
+        "created_at": "2026-03-18T06:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034154305679462831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818861490558189570",
+              "start": 0,
+              "username": "gogatsu_yuki5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034154305679462831",
+        "in_reply_to_user_id": "1818861490558189570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034154195369267224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gogatsu_yuki5 そういうことなんです"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818861490558189570",
+        "conversation_id": "2034140323606368491",
+        "created_at": "2026-03-18T06:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T07:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034154195369267224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034154195369267224",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034153752303964505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 我感觉自己几乎每次都穿这条裤子。 我每次拍TikTok视频也都穿这条裤子。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 236,
+          "like_count": 6102,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2109
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T04:09:36.000Z",
+        "description": "毎日お疲れ様です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/gogatsu_yuki05…",
+                "end": 23,
+                "expanded_url": "https://note.com/gogatsu_yuki0512",
+                "start": 0,
+                "url": "https://t.co/cwXgBCbJdu"
+              }
+            ]
+          }
+        },
+        "id": "1818861490558189570",
+        "name": "ごがつのゆき",
+        "pinned_tweet_id": "1818933121066422562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017253648854835200/l8j0RSBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 204,
+          "like_count": 184840,
+          "listed_count": 12,
+          "media_count": 169,
+          "tweet_count": 4650
+        },
+        "url": "https://t.co/cwXgBCbJdu",
+        "username": "gogatsu_yuki5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2023249866789667256",
+    "created_at": "2026-02-16T05:12:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T06:12:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023264167709528133"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1513444882865856516",
+          "start": 0,
+          "username": "thorino10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023264167709528133",
+    "in_reply_to_user_id": "1513444882865856516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023249866789667256",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thorino10 别给自己喂屎啊求求了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2023249866789667256",
+        "created_at": "2026-02-16T05:12:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T06:12:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023264167709528133"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1513444882865856516",
+              "start": 0,
+              "username": "thorino10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023264167709528133",
+        "in_reply_to_user_id": "1513444882865856516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023249866789667256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thorino10 别给自己喂屎啊求求了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513444882865856516",
+        "conversation_id": "2023249866789667256",
+        "created_at": "2026-02-16T04:15:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:15:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023249866789667256"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023249866789667256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 169,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "诶，还是以前的晚会小品好看，赵本山不上春晚其实就暗示能搬上台面的语言范围又被人为地收紧了一步，然而人的思想是无法完全被一种意识形态所统治及禁锢的。我会看今年的春晚且要是拉胯我还是会狠狠吐槽的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 202,
+          "like_count": 4240,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1333
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:12:57.000Z",
+        "description": "你从不道别，你闷着头往前走，顺手接过命运递到你手上的东西，不管它是什么。",
+        "id": "1513444882865856516",
+        "name": "日内瓦十六夜",
+        "pinned_tweet_id": "1920530931422724192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356427384721408/9V-JtoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6356,
+          "following_count": 437,
+          "like_count": 8996,
+          "listed_count": 19,
+          "media_count": 267,
+          "tweet_count": 3265
+        },
+        "username": "thorino10",
+        "verified": false
+      }
+    ]
+  }
+}

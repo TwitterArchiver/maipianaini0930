@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079239652557688832",
+        "3_2079239652545060864",
+        "3_2079239652607922178",
+        "3_2079239652591144964"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079108365708644398",
+    "created_at": "2026-07-20T16:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T17:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079239678398755316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "bp01110526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/R4WJzn8jIA",
+          "end": 86,
+          "expanded_url": "https://x.com/maipianaini0930/status/2079239678398755316/video/1",
+          "media_key": "13_2079239652557688832",
+          "start": 63,
+          "url": "https://t.co/R4WJzn8jIA"
+        },
+        {
+          "display_url": "pic.x.com/R4WJzn8jIA",
+          "end": 86,
+          "expanded_url": "https://x.com/maipianaini0930/status/2079239678398755316/video/1",
+          "media_key": "3_2079239652545060864",
+          "start": 63,
+          "url": "https://t.co/R4WJzn8jIA"
+        },
+        {
+          "display_url": "pic.x.com/R4WJzn8jIA",
+          "end": 86,
+          "expanded_url": "https://x.com/maipianaini0930/status/2079239678398755316/video/1",
+          "media_key": "3_2079239652607922178",
+          "start": 63,
+          "url": "https://t.co/R4WJzn8jIA"
+        },
+        {
+          "display_url": "pic.x.com/R4WJzn8jIA",
+          "end": 86,
+          "expanded_url": "https://x.com/maipianaini0930/status/2079239678398755316/video/1",
+          "media_key": "3_2079239652591144964",
+          "start": 63,
+          "url": "https://t.co/R4WJzn8jIA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079239678398755316",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079234722975424900",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bp01110526 跟朋友自驾滑过一次 当时也没请教练 感觉跟骑自行车差不多摔几跤就会了 但也不是陡坡 总之好想天天滑😺 https://t.co/R4WJzn8jIA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4645,
+        "height": 720,
+        "media_key": "13_2079239652557688832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079239652557688832/img/C9uxdksXccqmbeux.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079239652557688832/vid/avc1/480x270/ziIG0IDUcPp0HMEY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079239652557688832/vid/avc1/640x360/apLwi55mzP46p-iH.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079239652557688832/vid/avc1/1280x720/N5NJKau9lp6uQEcP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079239652557688832/pl/bYBzJJewSegpcMfW.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2079239652545060864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrxcpza4AAHw-l.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2079239652607922178",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrxcqCaEAI_9kW.jpg",
+        "width": 4032
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2079239652591144964",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrxcp-aEAQpjAg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079239652557688832",
+            "3_2079239652545060864",
+            "3_2079239652607922178",
+            "3_2079239652591144964"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079108365708644398",
+        "created_at": "2026-07-20T16:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T17:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079239678398755316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "bp01110526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/R4WJzn8jIA",
+              "end": 86,
+              "expanded_url": "https://x.com/maipianaini0930/status/2079239678398755316/video/1",
+              "media_key": "13_2079239652557688832",
+              "start": 63,
+              "url": "https://t.co/R4WJzn8jIA"
+            },
+            {
+              "display_url": "pic.x.com/R4WJzn8jIA",
+              "end": 86,
+              "expanded_url": "https://x.com/maipianaini0930/status/2079239678398755316/video/1",
+              "media_key": "3_2079239652545060864",
+              "start": 63,
+              "url": "https://t.co/R4WJzn8jIA"
+            },
+            {
+              "display_url": "pic.x.com/R4WJzn8jIA",
+              "end": 86,
+              "expanded_url": "https://x.com/maipianaini0930/status/2079239678398755316/video/1",
+              "media_key": "3_2079239652607922178",
+              "start": 63,
+              "url": "https://t.co/R4WJzn8jIA"
+            },
+            {
+              "display_url": "pic.x.com/R4WJzn8jIA",
+              "end": 86,
+              "expanded_url": "https://x.com/maipianaini0930/status/2079239678398755316/video/1",
+              "media_key": "3_2079239652591144964",
+              "start": 63,
+              "url": "https://t.co/R4WJzn8jIA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079239678398755316",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079234722975424900",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bp01110526 跟朋友自驾滑过一次 当时也没请教练 感觉跟骑自行车差不多摔几跤就会了 但也不是陡坡 总之好想天天滑😺 https://t.co/R4WJzn8jIA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "2079108365708644398",
+        "created_at": "2026-07-20T15:59:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T16:59:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079234722975424900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079234722975424900",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079108365708644398",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 滑雪好啊滑雪好啊、双板⛷️特别好玩、就是注意安全、国内人多基数大、鱼雷多更得小心\n滑前多看看事故案例、学好主动摔很重要（唠叨ing"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 299,
+          "like_count": 11168,
+          "listed_count": 1,
+          "media_count": 741,
+          "tweet_count": 4929
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "🚪\n99 纯绿\n199半绿",
+        "id": "1859117911119720448",
+        "location": "日本 東京",
+        "name": "bp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 87,
+          "like_count": 6910,
+          "listed_count": 2,
+          "media_count": 276,
+          "tweet_count": 3909
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false
+      }
+    ]
+  }
+}

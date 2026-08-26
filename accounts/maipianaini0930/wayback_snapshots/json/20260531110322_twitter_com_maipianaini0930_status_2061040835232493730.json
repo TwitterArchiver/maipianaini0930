@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060798130543575045"
+      ],
+      "media_source_tweet_id": [
+        "2060798138491793461"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2061040835232493730",
+    "created_at": "2026-05-31T11:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T12:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061040835232493730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1473241393321627649",
+          "start": 3,
+          "username": "Kwain_kwain_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hKCIJOhGvQ",
+          "end": 87,
+          "expanded_url": "https://x.com/Kwain_kwain_/status/2060798138491793461/photo/1",
+          "media_key": "3_2060798130543575045",
+          "start": 64,
+          "url": "https://t.co/hKCIJOhGvQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061040835232493730",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060798138491793461",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kwain_kwain_: Qui veut prendre le lsd six seven avec moi….. https://t.co/hKCIJOhGvQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 798,
+        "media_key": "3_2060798130543575045",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJls-yzWwAUjsL4.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060798130543575045"
+          ],
+          "media_source_tweet_id": [
+            "2060798138491793461"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2061040835232493730",
+        "created_at": "2026-05-31T11:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T12:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061040835232493730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1473241393321627649",
+              "start": 3,
+              "username": "Kwain_kwain_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKCIJOhGvQ",
+              "end": 87,
+              "expanded_url": "https://x.com/Kwain_kwain_/status/2060798138491793461/photo/1",
+              "media_key": "3_2060798130543575045",
+              "start": 64,
+              "url": "https://t.co/hKCIJOhGvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061040835232493730",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060798138491793461",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kwain_kwain_: Qui veut prendre le lsd six seven avec moi….. https://t.co/hKCIJOhGvQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060798130543575045"
+          ]
+        },
+        "author_id": "1473241393321627649",
+        "conversation_id": "2060798138491793461",
+        "created_at": "2026-05-30T18:58:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:58:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060798138491793461"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKCIJOhGvQ",
+              "end": 69,
+              "expanded_url": "https://x.com/Kwain_kwain_/status/2060798138491793461/photo/1",
+              "media_key": "3_2060798130543575045",
+              "start": 46,
+              "url": "https://t.co/hKCIJOhGvQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060798138491793461",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4000,
+          "like_count": 247,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "Qui veut prendre le lsd six seven avec moi….. https://t.co/hKCIJOhGvQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 290,
+          "like_count": 9885,
+          "listed_count": 2,
+          "media_count": 633,
+          "tweet_count": 4167
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-21T10:38:21.000Z",
+        "description": "theyfab hate acount\nemo travelo cannibale",
+        "id": "1473241393321627649",
+        "location": "Lille, france ",
+        "name": "andréa",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055659306763051008/RIUXsDF7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 70,
+          "like_count": 2307,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 406
+        },
+        "username": "Kwain_kwain_",
+        "verified": false
+      }
+    ]
+  }
+}

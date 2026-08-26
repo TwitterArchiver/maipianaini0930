@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2001656607466492193",
+    "created_at": "2025-12-18T14:11:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-18T15:11:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2001656607466492193"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2001656607466492193",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我现在特别觉得一群人o多了开始哭开始互倒苦水讲裤裆里谈恋爱那点事很矫情，我也不觉得过量用药是很可取的，即使我有非常严重的酒精成瘾问题以及暴力倾向"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2001656607466492193",
+        "created_at": "2025-12-18T14:11:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-18T15:11:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001656607466492193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2001656607466492193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我现在特别觉得一群人o多了开始哭开始互倒苦水讲裤裆里谈恋爱那点事很矫情，我也不觉得过量用药是很可取的，即使我有非常严重的酒精成瘾问题以及暴力倾向"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "热河南路",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 180,
+          "like_count": 2049,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 680
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

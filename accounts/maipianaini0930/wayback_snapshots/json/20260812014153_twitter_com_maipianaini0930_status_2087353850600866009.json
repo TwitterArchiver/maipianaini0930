@@ -1,0 +1,426 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087109216146448384",
+        "3_2087109222203011072",
+        "3_2087109234169372672",
+        "3_2087109242134409217"
+      ],
+      "media_source_tweet_id": [
+        "2087109248656543857",
+        "2087109248656543857",
+        "2087109248656543857",
+        "2087109248656543857"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2087353850600866009",
+    "created_at": "2026-08-12T01:41:53.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T02:41:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087353850600866009"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "550195449",
+          "start": 3,
+          "username": "RemiTakara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nKlbyQZ2rY",
+          "end": 66,
+          "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+          "media_key": "3_2087109216146448384",
+          "start": 43,
+          "url": "https://t.co/nKlbyQZ2rY"
+        },
+        {
+          "display_url": "pic.x.com/nKlbyQZ2rY",
+          "end": 66,
+          "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+          "media_key": "3_2087109222203011072",
+          "start": 43,
+          "url": "https://t.co/nKlbyQZ2rY"
+        },
+        {
+          "display_url": "pic.x.com/nKlbyQZ2rY",
+          "end": 66,
+          "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+          "media_key": "3_2087109234169372672",
+          "start": 43,
+          "url": "https://t.co/nKlbyQZ2rY"
+        },
+        {
+          "display_url": "pic.x.com/nKlbyQZ2rY",
+          "end": 66,
+          "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+          "media_key": "3_2087109242134409217",
+          "start": 43,
+          "url": "https://t.co/nKlbyQZ2rY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087353850600866009",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2087109216146448384"
+      },
+      {
+        "media_key": "3_2087109222203011072"
+      },
+      {
+        "media_key": "3_2087109234169372672"
+      },
+      {
+        "media_key": "3_2087109242134409217"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 38
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087109248656543857",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RemiTakara: 今月に入ってから何かと忙しく頭パッカーンしてました。 https://t.co/nKlbyQZ2rY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 731,
+        "media_key": "3_2087109216146448384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbmxivaYAAeO6s.jpg",
+        "width": 735
+      },
+      {
+        "height": 901,
+        "media_key": "3_2087109222203011072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbmx5TaMAAvpfm.jpg",
+        "width": 735
+      },
+      {
+        "height": 874,
+        "media_key": "3_2087109234169372672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbmyl4aYAAz6Cq.jpg",
+        "width": 736
+      },
+      {
+        "height": 613,
+        "media_key": "3_2087109242134409217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbmzDjbMAE_jEC.jpg",
+        "width": 506
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087109216146448384",
+            "3_2087109222203011072",
+            "3_2087109234169372672",
+            "3_2087109242134409217"
+          ]
+        },
+        "author_id": "550195449",
+        "conversation_id": "2087109248656543857",
+        "created_at": "2026-08-11T09:29:56.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087109248656543857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKlbyQZ2rY",
+              "end": 50,
+              "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+              "media_key": "3_2087109216146448384",
+              "start": 27,
+              "url": "https://t.co/nKlbyQZ2rY"
+            },
+            {
+              "display_url": "pic.x.com/nKlbyQZ2rY",
+              "end": 50,
+              "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+              "media_key": "3_2087109222203011072",
+              "start": 27,
+              "url": "https://t.co/nKlbyQZ2rY"
+            },
+            {
+              "display_url": "pic.x.com/nKlbyQZ2rY",
+              "end": 50,
+              "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+              "media_key": "3_2087109234169372672",
+              "start": 27,
+              "url": "https://t.co/nKlbyQZ2rY"
+            },
+            {
+              "display_url": "pic.x.com/nKlbyQZ2rY",
+              "end": 50,
+              "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+              "media_key": "3_2087109242134409217",
+              "start": 27,
+              "url": "https://t.co/nKlbyQZ2rY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087109248656543857",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087109216146448384"
+          },
+          {
+            "media_key": "3_2087109222203011072"
+          },
+          {
+            "media_key": "3_2087109234169372672"
+          },
+          {
+            "media_key": "3_2087109242134409217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 7693,
+          "like_count": 295,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "今月に入ってから何かと忙しく頭パッカーンしてました。 https://t.co/nKlbyQZ2rY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087109216146448384",
+            "3_2087109222203011072",
+            "3_2087109234169372672",
+            "3_2087109242134409217"
+          ],
+          "media_source_tweet_id": [
+            "2087109248656543857",
+            "2087109248656543857",
+            "2087109248656543857",
+            "2087109248656543857"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2087353850600866009",
+        "created_at": "2026-08-12T01:41:53.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T02:41:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087353850600866009"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "550195449",
+              "start": 3,
+              "username": "RemiTakara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nKlbyQZ2rY",
+              "end": 66,
+              "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+              "media_key": "3_2087109216146448384",
+              "start": 43,
+              "url": "https://t.co/nKlbyQZ2rY"
+            },
+            {
+              "display_url": "pic.x.com/nKlbyQZ2rY",
+              "end": 66,
+              "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+              "media_key": "3_2087109222203011072",
+              "start": 43,
+              "url": "https://t.co/nKlbyQZ2rY"
+            },
+            {
+              "display_url": "pic.x.com/nKlbyQZ2rY",
+              "end": 66,
+              "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+              "media_key": "3_2087109234169372672",
+              "start": 43,
+              "url": "https://t.co/nKlbyQZ2rY"
+            },
+            {
+              "display_url": "pic.x.com/nKlbyQZ2rY",
+              "end": 66,
+              "expanded_url": "https://x.com/RemiTakara/status/2087109248656543857/photo/1",
+              "media_key": "3_2087109242134409217",
+              "start": 43,
+              "url": "https://t.co/nKlbyQZ2rY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087353850600866009",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2087109216146448384"
+          },
+          {
+            "media_key": "3_2087109222203011072"
+          },
+          {
+            "media_key": "3_2087109234169372672"
+          },
+          {
+            "media_key": "3_2087109242134409217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 38
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087109248656543857",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RemiTakara: 今月に入ってから何かと忙しく頭パッカーンしてました。 https://t.co/nKlbyQZ2rY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2087353850600866009",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1783418005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 301,
+          "like_count": 11432,
+          "listed_count": 1,
+          "media_count": 777,
+          "tweet_count": 5230
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-10T13:31:54.000Z",
+        "description": "油絵描いてます。19世紀末から20世紀初頭のアールヌーボーな色気のある女性に憧れています。手帖代わりに気になった作家や作品の情報を投稿してます。ワインとウィスキーが好きです。",
+        "id": "550195449",
+        "is_identity_verified": false,
+        "location": "大草原の小さな家",
+        "most_recent_tweet_id": "2087109248656543857",
+        "name": "えれのあ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/550195449/1783773432",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045540864689381376/G7dR6qCs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1774,
+          "following_count": 1186,
+          "like_count": 18533,
+          "listed_count": 39,
+          "media_count": 653,
+          "tweet_count": 2745
+        },
+        "url": "",
+        "username": "RemiTakara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

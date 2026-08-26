@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "1999623509090451793",
+    "created_at": "2025-12-12T23:32:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T00:32:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999623509090451793"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 62,
+          "normalized_text": "The Velvet Underground",
+          "probability": 0.5041,
+          "start": 41,
+          "type": "Other"
+        },
+        {
+          "end": 129,
+          "normalized_text": "The Myddle Class",
+          "probability": 0.9099,
+          "start": 114,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1316590884",
+          "start": 3,
+          "username": "60sPsychJukebox"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999623509090451793",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 65
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999129500538360278",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @60sPsychJukebox: December 11th 1965, The Velvet Underground play their first show: opening for a group called The Myddle Class in the a…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 485,
+        "media_key": "3_1999129305331245057",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G75VguhXoAEPpJX.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1999623509090451793",
+        "created_at": "2025-12-12T23:32:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:32:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999623509090451793"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "The Velvet Underground",
+              "probability": 0.5041,
+              "start": 41,
+              "type": "Other"
+            },
+            {
+              "end": 129,
+              "normalized_text": "The Myddle Class",
+              "probability": 0.9099,
+              "start": 114,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1316590884",
+              "start": 3,
+              "username": "60sPsychJukebox"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999623509090451793",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 65
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999129500538360278",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @60sPsychJukebox: December 11th 1965, The Velvet Underground play their first show: opening for a group called The Myddle Class in the a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999129305331245057"
+          ]
+        },
+        "author_id": "1316590884",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "New Jersey",
+              "id": "1004451994877157376",
+              "name": "New Jersey"
+            }
+          }
+        ],
+        "conversation_id": "1999129500538360278",
+        "created_at": "2025-12-11T14:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T15:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999129500538360278"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "The Velvet Underground",
+              "probability": 0.4997,
+              "start": 20,
+              "type": "Organization"
+            },
+            {
+              "end": 108,
+              "normalized_text": "The Myddle Class",
+              "probability": 0.8249,
+              "start": 93,
+              "type": "Other"
+            },
+            {
+              "end": 148,
+              "normalized_text": "Summit High School",
+              "probability": 0.3819,
+              "start": 131,
+              "type": "Organization"
+            },
+            {
+              "end": 162,
+              "normalized_text": "New Jersey",
+              "probability": 0.8537,
+              "start": 153,
+              "type": "Place"
+            },
+            {
+              "end": 208,
+              "normalized_text": "There She Goes Again",
+              "probability": 0.9751,
+              "start": 189,
+              "type": "Other"
+            },
+            {
+              "end": 218,
+              "normalized_text": "Heroin",
+              "probability": 0.9482,
+              "start": 213,
+              "type": "Other"
+            },
+            {
+              "end": 238,
+              "normalized_text": "Venus In Furs",
+              "probability": 0.9641,
+              "start": 226,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P4pVVkNtlt",
+              "end": 299,
+              "expanded_url": "https://x.com/60sPsychJukebox/status/1999129500538360278/photo/1",
+              "media_key": "3_1999129305331245057",
+              "start": 276,
+              "url": "https://t.co/P4pVVkNtlt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999129500538360278",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 6271,
+          "like_count": 334,
+          "quote_count": 4,
+          "reply_count": 7,
+          "retweet_count": 65
+        },
+        "reply_settings": "everyone",
+        "text": "December 11th 1965, The Velvet Underground play their first show: opening for a group called The Myddle Class in the auditorium of Summit High School in New Jersey. They play three songs: \"There She Goes Again,\" \"Heroin\" and \"Venus In Furs.\" The band's fee this night: $80.00 https://t.co/P4pVVkNtlt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 169,
+          "like_count": 1825,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 598
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2013-03-30T15:02:47.000Z",
+        "description": "I'm Kevin Anthony, your 1960's Music History Maven, Posting the \"I never knew that\" facts about the groups and artists you listened to growing up!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "psychedelicjukebox.com",
+                "end": 23,
+                "expanded_url": "https://www.psychedelicjukebox.com/",
+                "start": 0,
+                "url": "https://t.co/PQ3p4hOm8y"
+              }
+            ]
+          }
+        },
+        "id": "1316590884",
+        "location": "Apex, NC",
+        "name": "Psychedelic Jukebox",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990427632014381056/2sq_nc-P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23383,
+          "following_count": 19784,
+          "like_count": 107287,
+          "listed_count": 204,
+          "media_count": 19024,
+          "tweet_count": 149403
+        },
+        "url": "https://t.co/PQ3p4hOm8y",
+        "username": "60sPsychJukebox",
+        "verified": true
+      }
+    ]
+  }
+}

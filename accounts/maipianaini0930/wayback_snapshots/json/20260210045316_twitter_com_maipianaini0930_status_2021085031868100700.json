@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10049126174",
+          "name": "犯罪症候群"
+        }
+      }
+    ],
+    "conversation_id": "2021083653623955835",
+    "created_at": "2026-02-10T04:53:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T05:53:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021085031868100700"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021085031868100700",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021084193871233424",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "感觉我这种人就是激情犯罪症候群，生活失控，极度自厌、厌世，又觉得死亡不配过早发生在自己身上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10049126174",
+              "name": "犯罪症候群"
+            }
+          }
+        ],
+        "conversation_id": "2021083653623955835",
+        "created_at": "2026-02-10T04:53:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T05:53:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021085031868100700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021085031868100700",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021084193871233424",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "感觉我这种人就是激情犯罪症候群，生活失控，极度自厌、厌世，又觉得死亡不配过早发生在自己身上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021083653623955835",
+        "created_at": "2026-02-10T04:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T05:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021084193871233424"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021084193871233424",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021083653623955835",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "围绕我所遭受的所有不平等与厌恶对待都与地域有关，我恨某个特定地区的人，这种情节就像某些民族讨厌犹太人一样，但我又及其分裂，认为不该这样去想，我要疯了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 217,
+          "like_count": 3893,
+          "listed_count": 0,
+          "media_count": 189,
+          "tweet_count": 1228
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037636727138095369",
+    "created_at": "2026-03-28T03:24:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T04:24:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037732448222797846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777236168503074816",
+          "start": 0,
+          "username": "Gloria080605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037732448222797846",
+    "in_reply_to_user_id": "1777236168503074816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037636727138095369",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gloria080605 一斤保证睡得着"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037636727138095369",
+        "created_at": "2026-03-28T03:24:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T04:24:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037732448222797846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777236168503074816",
+              "start": 0,
+              "username": "Gloria080605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037732448222797846",
+        "in_reply_to_user_id": "1777236168503074816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037636727138095369",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gloria080605 一斤保证睡得着"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777236168503074816",
+        "conversation_id": "2037636727138095369",
+        "created_at": "2026-03-27T21:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T22:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037636727138095369"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037636727138095369",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我马上喝了半斤伏特加，还是睡不着，快困死了，来个人掐死我好不"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 251,
+          "like_count": 6912,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 2553
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T07:25:07.000Z",
+        "description": "",
+        "id": "1777236168503074816",
+        "name": "对不起，婊子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037161736911163392/047Npayz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 55,
+          "like_count": 240,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 85
+        },
+        "username": "Gloria080605",
+        "verified": false
+      }
+    ]
+  }
+}

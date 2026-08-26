@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2077768133209899276",
+    "created_at": "2026-07-17T01:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077931782788493621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1619739297518862336",
+          "start": 0,
+          "username": "seki808808"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077931782788493621",
+    "in_reply_to_user_id": "1619739297518862336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077893169308729390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seki808808 豪😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2077768133209899276",
+        "created_at": "2026-07-17T01:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077931782788493621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1619739297518862336",
+              "start": 0,
+              "username": "seki808808"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077931782788493621",
+        "in_reply_to_user_id": "1619739297518862336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077893169308729390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seki808808 豪😈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619739297518862336",
+        "conversation_id": "2077768133209899276",
+        "created_at": "2026-07-16T23:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T00:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077893169308729390"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077893169308729390",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077768133209899276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 不管的，让你按一下收银机上那个20的按钮就可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n来视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 296,
+          "like_count": 11011,
+          "listed_count": 1,
+          "media_count": 732,
+          "tweet_count": 4811
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-29T16:48:45.000Z",
+        "description": "",
+        "id": "1619739297518862336",
+        "name": "808",
+        "pinned_tweet_id": "2033592078828191948",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886457724575322112/3b_FbZrh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 1228,
+          "like_count": 12840,
+          "listed_count": 3,
+          "media_count": 98,
+          "tweet_count": 519
+        },
+        "url": "",
+        "username": "seki808808",
+        "verified": false
+      }
+    ]
+  }
+}

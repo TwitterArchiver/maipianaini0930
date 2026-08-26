@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2057876487555129379",
+    "created_at": "2026-05-23T06:44:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T07:44:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058076617118007493"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2016028559228469252",
+          "start": 0,
+          "username": "Alvvaysioffy1"
+        },
+        {
+          "end": 27,
+          "id": "1425156089918541825",
+          "start": 15,
+          "username": "aaa42816431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058076617118007493",
+    "in_reply_to_user_id": "2016028559228469252",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058033574549631074",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alvvaysioffy1 @aaa42816431 我想抽希望（hope）、hi-lite、蓝和平帮我带一条吧！铁罐和平、黄和平、峰🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2057876487555129379",
+        "created_at": "2026-05-23T06:44:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T07:44:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058076617118007493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2016028559228469252",
+              "start": 0,
+              "username": "Alvvaysioffy1"
+            },
+            {
+              "end": 27,
+              "id": "1425156089918541825",
+              "start": 15,
+              "username": "aaa42816431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058076617118007493",
+        "in_reply_to_user_id": "2016028559228469252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058033574549631074",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alvvaysioffy1 @aaa42816431 我想抽希望（hope）、hi-lite、蓝和平帮我带一条吧！铁罐和平、黄和平、峰🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016028559228469252",
+        "conversation_id": "2057876487555129379",
+        "created_at": "2026-05-23T03:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T04:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058033574549631074"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425156089918541825",
+              "start": 0,
+              "username": "aaa42816431"
+            },
+            {
+              "end": 29,
+              "id": "1987138845058736133",
+              "start": 13,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058033574549631074",
+        "in_reply_to_user_id": "1425156089918541825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057925888071831656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaa42816431 @maipianaini0930 猎鹿人可以可以"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 288,
+          "like_count": 9695,
+          "listed_count": 2,
+          "media_count": 614,
+          "tweet_count": 4027
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-27T06:03:52.000Z",
+        "description": "不线下。看成分互fo👯‍♂️\n有些关注没有消息提示 所以优先回fo有互动的\n智商很低所以任何攻击都无效 认真你就输了",
+        "id": "2016028559228469252",
+        "name": "小春",
+        "pinned_tweet_id": "2057808094403629122",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053156716355969024/hMvJDb2r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 81,
+          "like_count": 511,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 394
+        },
+        "username": "Alvvaysioffy1",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-10T18:04:34.000Z",
+        "description": "",
+        "id": "1425156089918541825",
+        "name": "愛止痛消炎藥",
+        "pinned_tweet_id": "2033193926237282367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872285759019098112/mju8N4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 39,
+          "like_count": 346,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 87
+        },
+        "username": "aaa42816431",
+        "verified": false
+      }
+    ]
+  }
+}

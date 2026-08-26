@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2064049792746189155",
+    "created_at": "2026-06-08T18:26:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T19:26:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064051468454490192"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064051468454490192",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064049792746189155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "immediately把我踹了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2064049792746189155",
+        "created_at": "2026-06-08T18:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064051468454490192"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064051468454490192",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064049792746189155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "immediately把我踹了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2064049792746189155",
+        "created_at": "2026-06-08T18:19:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T19:19:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064049792746189155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064049792746189155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我前几天进某群推特上我最讨厌的人的直播间(毫不夸张地说就是我心中最觉得恶心和市侩的大人)当时我锁着推所以他们看不到我发那些什么毒品啊偷东西的帖子(现在想想如果没锁就好了)看见我简介挂了一个🈲🇮🇱的标签 immediately 那个人我还跟他因为支那棒子称呼的事对过线"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 311,
+          "like_count": 10180,
+          "listed_count": 2,
+          "media_count": 656,
+          "tweet_count": 4388
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

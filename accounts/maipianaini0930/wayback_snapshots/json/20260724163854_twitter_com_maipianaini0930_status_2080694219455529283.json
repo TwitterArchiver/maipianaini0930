@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2080694219455529283",
+    "created_at": "2026-07-24T16:38:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:38:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080694219455529283"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2080692747003199932",
+          "start": 42,
+          "url": "https://t.co/jS0ti4ElQ1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080694219455529283",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080692747003199932",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也许这是食道癌或口腔癌易发人群的特征 但换个思路想想 确诊那天估计我都死掉好几年了 https://t.co/jS0ti4ElQ1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2080694219455529283",
+        "created_at": "2026-07-24T16:38:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:38:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080694219455529283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2080692747003199932",
+              "start": 42,
+              "url": "https://t.co/jS0ti4ElQ1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080694219455529283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080692747003199932",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也许这是食道癌或口腔癌易发人群的特征 但换个思路想想 确诊那天估计我都死掉好几年了 https://t.co/jS0ti4ElQ1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2080692747003199932",
+        "created_at": "2026-07-24T16:33:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080692747003199932"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080692747003199932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉那些一天能抽两三包烟的老烟枪是真牛逼 虽然我差不多正常三天两包烟 最多是两天三包 但抽到一天一包我咽喉和嗓子就开始受不了了 要不停咯痰咳来咳去哼哼地清嗓子 还会干呕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2079927002224836795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 308,
+          "like_count": 11374,
+          "listed_count": 1,
+          "media_count": 754,
+          "tweet_count": 5055
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2029789555801608216",
+    "created_at": "2026-03-06T05:27:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T06:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029790970032836846"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1657345207",
+          "start": 0,
+          "username": "intanssafitri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029790970032836846",
+    "in_reply_to_user_id": "1657345207",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029790713001750644",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@intanssafitri 谁让我跟父母待在一起会焦虑，一个月前又失恋了呢🙂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2029789555801608216",
+        "created_at": "2026-03-06T05:27:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029790970032836846"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1657345207",
+              "start": 0,
+              "username": "intanssafitri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029790970032836846",
+        "in_reply_to_user_id": "1657345207",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029790713001750644",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@intanssafitri 谁让我跟父母待在一起会焦虑，一个月前又失恋了呢🙂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1657345207",
+        "conversation_id": "2029789555801608216",
+        "created_at": "2026-03-06T05:26:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:26:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029790713001750644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029790713001750644",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029789555801608216",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 说走就走感觉好潇洒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 230,
+          "like_count": 5466,
+          "listed_count": 0,
+          "media_count": 280,
+          "tweet_count": 1766
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2013-08-09T09:10:23.000Z",
+        "description": "(－＂－怒)",
+        "id": "1657345207",
+        "location": "普鲁士",
+        "name": "Gardenia_33",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004401189350526978/pQPklOLu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 60,
+          "like_count": 871,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 712
+        },
+        "username": "intanssafitri",
+        "verified": false
+      }
+    ]
+  }
+}

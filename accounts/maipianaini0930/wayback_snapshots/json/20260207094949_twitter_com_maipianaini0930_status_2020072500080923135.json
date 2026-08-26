@@ -1,0 +1,544 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2018810555935670272"
+      ],
+      "media_source_tweet_id": [
+        "2018810637347082440"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "id": "1507006661860335623",
+          "name": "Charlotte Gainsbourg"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Celebrities",
+          "id": "1095352268046495745",
+          "name": "Celebrities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303714393855672327",
+          "name": "Hollywood actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303715075421646849",
+          "name": "Actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1507002084926771206",
+          "name": "French actors"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1507006661860335623",
+          "name": "Charlotte Gainsbourg"
+        }
+      }
+    ],
+    "conversation_id": "2020072500080923135",
+    "created_at": "2026-02-07T09:49:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T10:49:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020072500080923135"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 36,
+          "normalized_text": "Charlotte Gainsbourg",
+          "probability": 0.9702,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 77,
+          "normalized_text": "Antichrist",
+          "probability": 0.9558,
+          "start": 68,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1648695354437541889",
+          "start": 3,
+          "username": "Shottarthur"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6EUosOrUcR",
+          "end": 110,
+          "expanded_url": "https://x.com/Shottarthur/status/2018810637347082440/video/1",
+          "media_key": "13_2018810555935670272",
+          "start": 87,
+          "url": "https://t.co/6EUosOrUcR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020072500080923135",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 573
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018810637347082440",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Shottarthur: Charlotte Gainsbourg in an interview for the film 'Antichrist', 2009. https://t.co/6EUosOrUcR"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 82666,
+        "height": 348,
+        "media_key": "13_2018810555935670272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2018810555935670272/img/6R5kvmbjeiANUwbO.jpg",
+        "public_metrics": {
+          "view_count": 187722
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018810555935670272/vid/avc1/446x270/1TLxPBb1CCxMFaGK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2018810555935670272/vid/avc1/576x348/1vaM8XYEZEgpa6pr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2018810555935670272/pl/kYeUunKF19p6uWpJ.m3u8?v=d17"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018810555935670272"
+          ],
+          "media_source_tweet_id": [
+            "2018810637347082440"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1507006661860335623",
+              "name": "Charlotte Gainsbourg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Celebrities",
+              "id": "1095352268046495745",
+              "name": "Celebrities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714393855672327",
+              "name": "Hollywood actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1507002084926771206",
+              "name": "French actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1507006661860335623",
+              "name": "Charlotte Gainsbourg"
+            }
+          }
+        ],
+        "conversation_id": "2020072500080923135",
+        "created_at": "2026-02-07T09:49:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T10:49:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020072500080923135"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "Charlotte Gainsbourg",
+              "probability": 0.9702,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "Antichrist",
+              "probability": 0.9558,
+              "start": 68,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1648695354437541889",
+              "start": 3,
+              "username": "Shottarthur"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6EUosOrUcR",
+              "end": 110,
+              "expanded_url": "https://x.com/Shottarthur/status/2018810637347082440/video/1",
+              "media_key": "13_2018810555935670272",
+              "start": 87,
+              "url": "https://t.co/6EUosOrUcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020072500080923135",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 573
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018810637347082440",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Shottarthur: Charlotte Gainsbourg in an interview for the film 'Antichrist', 2009. https://t.co/6EUosOrUcR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2018810555935670272"
+          ]
+        },
+        "author_id": "1648695354437541889",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1507006661860335623",
+              "name": "Charlotte Gainsbourg"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Celebrities",
+              "id": "1095352268046495745",
+              "name": "Celebrities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714393855672327",
+              "name": "Hollywood actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303715075421646849",
+              "name": "Actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1507002084926771206",
+              "name": "French actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1507006661860335623",
+              "name": "Charlotte Gainsbourg"
+            }
+          }
+        ],
+        "conversation_id": "2018810637347082440",
+        "created_at": "2026-02-03T22:15:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T23:15:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018810637347082440"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Charlotte Gainsbourg",
+              "probability": 0.9771,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Antichrist",
+              "probability": 0.9583,
+              "start": 51,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6EUosOrUcR",
+              "end": 93,
+              "expanded_url": "https://x.com/Shottarthur/status/2018810637347082440/video/1",
+              "media_key": "13_2018810555935670272",
+              "start": 70,
+              "url": "https://t.co/6EUosOrUcR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018810637347082440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1367,
+          "impression_count": 542390,
+          "like_count": 3806,
+          "quote_count": 70,
+          "reply_count": 7,
+          "retweet_count": 573
+        },
+        "reply_settings": "everyone",
+        "text": "Charlotte Gainsbourg in an interview for the film 'Antichrist', 2009. https://t.co/6EUosOrUcR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2019095214569451732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 216,
+          "like_count": 3822,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1208
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-19T14:29:50.000Z",
+        "description": "مُترجمُ وكاتبُ في منصة «ميم الإبداعية» @cinemameem",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 39,
+                "username": "cinemameem"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/ByArthurFleck1…",
+                "end": 23,
+                "expanded_url": "https://t.me/ByArthurFleck111",
+                "start": 0,
+                "url": "https://t.co/Xfl4ZQ7PRz"
+              }
+            ]
+          }
+        },
+        "id": "1648695354437541889",
+        "location": "العتمة",
+        "name": "Arthur",
+        "pinned_tweet_id": "1941546658166362303",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1737919381974192128/11srOhq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10287,
+          "following_count": 200,
+          "like_count": 54063,
+          "listed_count": 28,
+          "media_count": 2186,
+          "tweet_count": 7016
+        },
+        "url": "https://t.co/Xfl4ZQ7PRz",
+        "username": "Shottarthur",
+        "verified": false
+      }
+    ]
+  }
+}

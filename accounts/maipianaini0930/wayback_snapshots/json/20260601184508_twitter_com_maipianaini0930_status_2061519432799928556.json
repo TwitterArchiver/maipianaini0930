@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2061481761281020258",
+    "created_at": "2026-06-01T18:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T19:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061519432799928556"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1511888651474464772",
+          "start": 0,
+          "username": "raven_pluto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061519432799928556",
+    "in_reply_to_user_id": "1511888651474464772",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061517944606064897",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@raven_pluto okay"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2061481761281020258",
+        "created_at": "2026-06-01T18:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061519432799928556"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1511888651474464772",
+              "start": 0,
+              "username": "raven_pluto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061519432799928556",
+        "in_reply_to_user_id": "1511888651474464772",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061517944606064897",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@raven_pluto okay"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1511888651474464772",
+        "conversation_id": "2061481761281020258",
+        "created_at": "2026-06-01T18:39:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T19:39:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061517944606064897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061517944606064897",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061481761281020258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 老大可以互关吗！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 413,
+          "following_count": 292,
+          "like_count": 9986,
+          "listed_count": 2,
+          "media_count": 641,
+          "tweet_count": 4258
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-07T02:08:54.000Z",
+        "description": "She/Them ||| 中文/ENG ||| 08 ||| u can call me Pluto ||| 用中文吐黑泥碎碎念中 ⚠️od 自伤 血腥注意⚠️ ||Joy Division/New Order Addicted ||| F1 fan who love all of the 20 drivers",
+        "id": "1511888651474464772",
+        "name": "我怎么学得这么坏",
+        "pinned_tweet_id": "2060032617995501942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995294551981039616/nSShX5bl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 190,
+          "like_count": 2138,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 1202
+        },
+        "username": "raven_pluto",
+        "verified": false
+      }
+    ]
+  }
+}

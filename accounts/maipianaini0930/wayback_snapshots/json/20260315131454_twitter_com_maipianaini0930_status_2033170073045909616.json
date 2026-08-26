@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2033170073045909616",
+    "created_at": "2026-03-15T13:14:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T14:14:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033170073045909616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "麦片’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1AGRn…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1AGRnalolPNGl",
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 麦片’s Space",
+          "unwound_url": "https://twitter.com/i/spaces/1AGRnalolPNGl/peek",
+          "url": "https://t.co/FP3qrBJ3y7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033170073045909616",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/FP3qrBJ3y7"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2033170073045909616",
+        "created_at": "2026-03-15T13:14:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T14:14:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033170073045909616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "麦片’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1AGRn…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1AGRnalolPNGl",
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 麦片’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1AGRnalolPNGl/peek",
+              "url": "https://t.co/FP3qrBJ3y7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033170073045909616",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/FP3qrBJ3y7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 234,
+          "like_count": 5824,
+          "listed_count": 0,
+          "media_count": 323,
+          "tweet_count": 1993
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

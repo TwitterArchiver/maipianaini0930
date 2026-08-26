@@ -1,0 +1,324 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2022492214329479168"
+      ],
+      "media_source_tweet_id": [
+        "2023277411530616873"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2024739341847966206",
+    "created_at": "2026-02-20T06:54:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:54:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024739341847966206"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1720152282",
+          "start": 3,
+          "username": "ultras_antifaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Kd0dvvAYlY",
+          "end": 118,
+          "expanded_url": "https://x.com/ultras_antifaa/status/2023277411530616873/video/1",
+          "media_key": "13_2022492214329479168",
+          "start": 95,
+          "url": "https://t.co/Kd0dvvAYlY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024739341847966206",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023277411530616873",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ultras_antifaa: Music and resistance. An unforgettable, incredible video even years later. https://t.co/Kd0dvvAYlY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 38054,
+        "height": 720,
+        "media_key": "13_2022492214329479168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022492214329479168/img/NPAONJTLN4E8HkKH.jpg",
+        "public_metrics": {
+          "view_count": 2172
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022492214329479168/vid/avc1/320x320/YnR8Ya3Q6rTtBO9k.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022492214329479168/vid/avc1/540x540/poXrSHP8YDJ6Ivdh.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022492214329479168/vid/avc1/720x720/AENlYqCkbe7PnD9I.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022492214329479168/pl/SAURDJ-hjfKrt2sE.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022492214329479168"
+          ],
+          "media_source_tweet_id": [
+            "2023277411530616873"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2024739341847966206",
+        "created_at": "2026-02-20T06:54:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:54:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024739341847966206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1720152282",
+              "start": 3,
+              "username": "ultras_antifaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd0dvvAYlY",
+              "end": 118,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2023277411530616873/video/1",
+              "media_key": "13_2022492214329479168",
+              "start": 95,
+              "url": "https://t.co/Kd0dvvAYlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024739341847966206",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023277411530616873",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ultras_antifaa: Music and resistance. An unforgettable, incredible video even years later. https://t.co/Kd0dvvAYlY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022492214329479168"
+          ]
+        },
+        "author_id": "1720152282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2023277411530616873",
+        "created_at": "2026-02-16T06:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T07:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023277411530616873"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Kd0dvvAYlY",
+              "end": 98,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2023277411530616873/video/1",
+              "media_key": "13_2022492214329479168",
+              "start": 75,
+              "url": "https://t.co/Kd0dvvAYlY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023277411530616873",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3964,
+          "like_count": 120,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "Music and resistance. An unforgettable, incredible video even years later. https://t.co/Kd0dvvAYlY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 204,
+          "like_count": 4408,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1380
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-01T20:45:02.000Z",
+        "description": "An international Antifa collective sharing news, photos, and sports from different countries. Message us to join our matchday activities.\nOther: @internaciultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "internaciultra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "antifaultras.etsy.com",
+                "end": 23,
+                "expanded_url": "https://antifaultras.etsy.com",
+                "start": 0,
+                "url": "https://t.co/ddEJJRNuUg"
+              }
+            ]
+          }
+        },
+        "id": "1720152282",
+        "name": "Antifa_Ultras",
+        "pinned_tweet_id": "2024590313059168596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952318050063052800/nOPRDmI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231724,
+          "following_count": 1,
+          "like_count": 515,
+          "listed_count": 1012,
+          "media_count": 51028,
+          "tweet_count": 57091
+        },
+        "url": "https://t.co/ddEJJRNuUg",
+        "username": "ultras_antifaa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2059659412382642195",
+    "created_at": "2026-05-27T15:46:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T16:46:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059662592310927837"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059662592310927837",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059659412382642195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我祈求了结果，有些人坚决不上诉也是在祈求结果。结果变成了有关刀具和喷射轨迹的琐碎辩论。我只是在祈求结果"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059659412382642195",
+        "created_at": "2026-05-27T15:46:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:46:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059662592310927837"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059662592310927837",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059659412382642195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我祈求了结果，有些人坚决不上诉也是在祈求结果。结果变成了有关刀具和喷射轨迹的琐碎辩论。我只是在祈求结果"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059659412382642195",
+        "created_at": "2026-05-27T15:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T16:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059659412382642195"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059659412382642195",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我等待死刑，而不是他等待我。这有点像那个经典的老子不能像儿子的例子。中文迷人的地方是他的长难句与主谓宾的顺序。确切来说我才是等待死刑的人，至少注射器推进肌肉的场景在我脑子里闪了半秒，我凝视血液，这时他就在高悬飘渺的楼阁向我睥睨挤眉弄眼。我之所以如此笃定，因为在这宗有点喜剧的杀人案"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 385,
+          "following_count": 286,
+          "like_count": 9772,
+          "listed_count": 2,
+          "media_count": 624,
+          "tweet_count": 4099
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

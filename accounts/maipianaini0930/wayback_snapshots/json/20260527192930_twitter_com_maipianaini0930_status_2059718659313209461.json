@@ -1,0 +1,141 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2059717470081126549",
+    "created_at": "2026-05-27T19:29:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T20:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059718659313209461"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059718659313209461",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059717470081126549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果看见我的讣告能让你们有种“这个混蛋死了”轻描淡写地满足感，你们有十足的理由恨我，我也觉得。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059717470081126549",
+        "created_at": "2026-05-27T19:29:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059718659313209461"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059718659313209461",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059717470081126549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果看见我的讣告能让你们有种“这个混蛋死了”轻描淡写地满足感，你们有十足的理由恨我，我也觉得。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059717470081126549",
+        "created_at": "2026-05-27T19:24:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T20:24:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059717470081126549"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059717470081126549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我为自己所有因为酒后施暴、躁狂发病伤害过的人忏悔、道歉\n\n对不起"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 288,
+          "like_count": 9776,
+          "listed_count": 2,
+          "media_count": 624,
+          "tweet_count": 4102
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2031004890034769920",
+        "3_2031004300479168512"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2031005357871595788",
+    "created_at": "2026-03-09T13:53:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T14:53:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031005357871595788"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mwYwAyaU5t",
+          "end": 30,
+          "expanded_url": "https://x.com/maipianaini0930/status/2031005357871595788/video/1",
+          "media_key": "13_2031004890034769920",
+          "start": 7,
+          "url": "https://t.co/mwYwAyaU5t"
+        },
+        {
+          "display_url": "pic.x.com/mwYwAyaU5t",
+          "end": 30,
+          "expanded_url": "https://x.com/maipianaini0930/status/2031005357871595788/video/1",
+          "media_key": "3_2031004300479168512",
+          "start": 7,
+          "url": "https://t.co/mwYwAyaU5t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031005357871595788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "潮酷，很潮酷 https://t.co/mwYwAyaU5t"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14033,
+        "height": 720,
+        "media_key": "13_2031004890034769920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031004890034769920/img/1wV6aMWE7nqK3iyy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031004890034769920/vid/avc1/404x270/bxAcC-Lf2252DE7P.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031004890034769920/vid/avc1/540x360/AXxlRKWEn-YVOPcw.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031004890034769920/vid/avc1/1082x720/LNFRJuuLsbznV0NO.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031004890034769920/pl/gN8lvpaW5qKhAZ45.m3u8"
+          }
+        ],
+        "width": 1082
+      },
+      {
+        "height": 682,
+        "media_key": "3_2031004300479168512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC-TpotaAAAFNiz.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031004890034769920",
+            "3_2031004300479168512"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2031005357871595788",
+        "created_at": "2026-03-09T13:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T14:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031005357871595788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwYwAyaU5t",
+              "end": 30,
+              "expanded_url": "https://x.com/maipianaini0930/status/2031005357871595788/video/1",
+              "media_key": "13_2031004890034769920",
+              "start": 7,
+              "url": "https://t.co/mwYwAyaU5t"
+            },
+            {
+              "display_url": "pic.x.com/mwYwAyaU5t",
+              "end": 30,
+              "expanded_url": "https://x.com/maipianaini0930/status/2031005357871595788/video/1",
+              "media_key": "3_2031004300479168512",
+              "start": 7,
+              "url": "https://t.co/mwYwAyaU5t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031005357871595788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "潮酷，很潮酷 https://t.co/mwYwAyaU5t"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 222,
+          "like_count": 5750,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 1877
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

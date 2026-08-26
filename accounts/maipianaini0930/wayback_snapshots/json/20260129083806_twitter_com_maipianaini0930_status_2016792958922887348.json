@@ -1,0 +1,105 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2016792958922887348",
+    "created_at": "2026-01-29T08:38:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-29T09:38:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2016792958922887348"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2016792958922887348",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "再也不去药房买药了，早上睁眼左眼奇痒无比，睡裤都没换就去买左氧氟沙星，一盒特么42，感觉被坑惨了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2016792958922887348",
+        "created_at": "2026-01-29T08:38:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T09:38:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016792958922887348"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2016792958922887348",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "再也不去药房买药了，早上睁眼左眼奇痒无比，睡裤都没换就去买左氧氟沙星，一盒特么42，感觉被坑惨了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013475639219585024/EhafFf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 211,
+          "like_count": 3520,
+          "listed_count": 0,
+          "media_count": 175,
+          "tweet_count": 1077
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

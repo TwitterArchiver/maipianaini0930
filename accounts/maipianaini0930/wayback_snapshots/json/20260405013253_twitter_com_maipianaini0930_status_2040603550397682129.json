@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040556981640102256",
+    "created_at": "2026-04-05T01:32:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T02:32:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040603550397682129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1777236168503074816",
+          "start": 0,
+          "username": "Gloria080605"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040603550397682129",
+    "in_reply_to_user_id": "1777236168503074816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040598875103510872",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gloria080605 谢谢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040556981640102256",
+        "created_at": "2026-04-05T01:32:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:32:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040603550397682129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1777236168503074816",
+              "start": 0,
+              "username": "Gloria080605"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040603550397682129",
+        "in_reply_to_user_id": "1777236168503074816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040598875103510872",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gloria080605 谢谢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1777236168503074816",
+        "conversation_id": "2040556981640102256",
+        "created_at": "2026-04-05T01:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T02:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040598875103510872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040598875103510872",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040556981640102256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 好萌"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 253,
+          "like_count": 7629,
+          "listed_count": 1,
+          "media_count": 446,
+          "tweet_count": 2926
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-08T07:25:07.000Z",
+        "description": "",
+        "id": "1777236168503074816",
+        "name": "对不起，婊子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037161736911163392/047Npayz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 53,
+          "like_count": 250,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 98
+        },
+        "username": "Gloria080605",
+        "verified": false
+      }
+    ]
+  }
+}

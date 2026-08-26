@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1867463740959924224"
+      ],
+      "media_source_tweet_id": [
+        "1867463743686553993"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "1999657048309670064",
+    "created_at": "2025-12-13T01:46:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T02:46:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999657048309670064"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 29,
+          "normalized_text": "ACAB",
+          "probability": 0.4834,
+          "start": 26,
+          "type": "Other"
+        },
+        {
+          "end": 51,
+          "normalized_text": "ACAB",
+          "probability": 0.434,
+          "start": 48,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 46,
+          "start": 35,
+          "tag": "antireport"
+        },
+        {
+          "end": 52,
+          "start": 47,
+          "tag": "ACAB"
+        },
+        {
+          "end": 67,
+          "start": 53,
+          "tag": "fuckthepolice"
+        },
+        {
+          "end": 87,
+          "start": 68,
+          "tag": "allcopsarebastards"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3196456301",
+          "start": 3,
+          "username": "Core_99k"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uqIf1AMcUJ",
+          "end": 111,
+          "expanded_url": "https://x.com/Core_99k/status/1867463743686553993/photo/1",
+          "media_key": "3_1867463740959924224",
+          "start": 88,
+          "url": "https://t.co/uqIf1AMcUJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999657048309670064",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867463743686553993",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Core_99k: 13/12\nHappy ACAB Day\n#antireport #ACAB #fuckthepolice #allcopsarebastards https://t.co/uqIf1AMcUJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 522,
+        "media_key": "3_1867463740959924224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GeqQYM7WoAAGRX4.jpg",
+        "width": 526
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867463740959924224"
+          ],
+          "media_source_tweet_id": [
+            "1867463743686553993"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "1999657048309670064",
+        "created_at": "2025-12-13T01:46:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T02:46:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999657048309670064"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 29,
+              "normalized_text": "ACAB",
+              "probability": 0.4834,
+              "start": 26,
+              "type": "Other"
+            },
+            {
+              "end": 51,
+              "normalized_text": "ACAB",
+              "probability": 0.434,
+              "start": 48,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 46,
+              "start": 35,
+              "tag": "antireport"
+            },
+            {
+              "end": 52,
+              "start": 47,
+              "tag": "ACAB"
+            },
+            {
+              "end": 67,
+              "start": 53,
+              "tag": "fuckthepolice"
+            },
+            {
+              "end": 87,
+              "start": 68,
+              "tag": "allcopsarebastards"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3196456301",
+              "start": 3,
+              "username": "Core_99k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqIf1AMcUJ",
+              "end": 111,
+              "expanded_url": "https://x.com/Core_99k/status/1867463743686553993/photo/1",
+              "media_key": "3_1867463740959924224",
+              "start": 88,
+              "url": "https://t.co/uqIf1AMcUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999657048309670064",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867463743686553993",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Core_99k: 13/12\nHappy ACAB Day\n#antireport #ACAB #fuckthepolice #allcopsarebastards https://t.co/uqIf1AMcUJ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1867463740959924224"
+          ]
+        },
+        "author_id": "3196456301",
+        "conversation_id": "1867463743686553993",
+        "created_at": "2024-12-13T06:57:06.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T07:57:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867463743686553993"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 15,
+              "normalized_text": "ACAB",
+              "probability": 0.5689,
+              "start": 12,
+              "type": "Other"
+            },
+            {
+              "end": 37,
+              "normalized_text": "ACAB",
+              "probability": 0.3946,
+              "start": 34,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 21,
+              "tag": "antireport"
+            },
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "ACAB"
+            },
+            {
+              "end": 53,
+              "start": 39,
+              "tag": "fuckthepolice"
+            },
+            {
+              "end": 73,
+              "start": 54,
+              "tag": "allcopsarebastards"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqIf1AMcUJ",
+              "end": 97,
+              "expanded_url": "https://x.com/Core_99k/status/1867463743686553993/photo/1",
+              "media_key": "3_1867463740959924224",
+              "start": 74,
+              "url": "https://t.co/uqIf1AMcUJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867463743686553993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1126,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "13/12\nHappy ACAB Day\n#antireport #ACAB #fuckthepolice #allcopsarebastards https://t.co/uqIf1AMcUJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 171,
+          "like_count": 1827,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 602
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2015-04-23T01:21:54.000Z",
+        "description": "Γεννήθηκα, δεν έχω πεθάνει ακόμα.",
+        "id": "3196456301",
+        "location": "Rubacava",
+        "name": "NinetyNine-k",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/591052513580843008/-bRpN7VM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 401,
+          "like_count": 43696,
+          "listed_count": 0,
+          "media_count": 589,
+          "tweet_count": 12846
+        },
+        "username": "Core_99k",
+        "verified": false
+      }
+    ]
+  }
+}

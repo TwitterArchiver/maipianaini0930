@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079116110654500864"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2078818782043361427",
+    "created_at": "2026-07-20T08:08:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T09:08:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079116117864546344"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1744316513291747328",
+          "start": 0,
+          "username": "shuifenziya"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gD7h6ewdVV",
+          "end": 36,
+          "expanded_url": "https://x.com/maipianaini0930/status/2079116117864546344/photo/1",
+          "media_key": "3_2079116110654500864",
+          "start": 13,
+          "url": "https://t.co/gD7h6ewdVV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079116117864546344",
+    "in_reply_to_user_id": "1744316513291747328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079114376930562104",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuifenziya https://t.co/gD7h6ewdVV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1160,
+        "media_key": "3_2079116110654500864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNqBFkZacAARA6M.jpg",
+        "width": 1996
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079116110654500864"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2078818782043361427",
+        "created_at": "2026-07-20T08:08:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:08:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079116117864546344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1744316513291747328",
+              "start": 0,
+              "username": "shuifenziya"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gD7h6ewdVV",
+              "end": 36,
+              "expanded_url": "https://x.com/maipianaini0930/status/2079116117864546344/photo/1",
+              "media_key": "3_2079116110654500864",
+              "start": 13,
+              "url": "https://t.co/gD7h6ewdVV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079116117864546344",
+        "in_reply_to_user_id": "1744316513291747328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079114376930562104",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuifenziya https://t.co/gD7h6ewdVV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1744316513291747328",
+        "conversation_id": "2078818782043361427",
+        "created_at": "2026-07-20T08:01:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T09:01:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079114376930562104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079114376930562104",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079107581591839062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 地球不爆炸，床我都不下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 301,
+          "like_count": 11143,
+          "listed_count": 1,
+          "media_count": 740,
+          "tweet_count": 4924
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-08T11:14:12.000Z",
+        "description": "/167cm60kg/坐标广东/负能/不鉴证/小鸟游六花单推\n永远的好闺蜜：@VGesKsn\n姐姐：@WeiHan58673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 38,
+                "username": "VGesKsn"
+              },
+              {
+                "end": 62,
+                "start": 50,
+                "username": "WeiHan58673"
+              }
+            ]
+          }
+        },
+        "id": "1744316513291747328",
+        "location": "我在二次元",
+        "name": "忧郁の水分子🍥［😈版］",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990791671798509572/InGBy1sr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1682,
+          "following_count": 992,
+          "like_count": 40405,
+          "listed_count": 5,
+          "media_count": 389,
+          "tweet_count": 2641
+        },
+        "url": "",
+        "username": "shuifenziya",
+        "verified": false
+      }
+    ]
+  }
+}

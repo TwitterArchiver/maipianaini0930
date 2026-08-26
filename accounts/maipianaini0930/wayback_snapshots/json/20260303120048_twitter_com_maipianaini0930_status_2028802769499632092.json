@@ -1,0 +1,559 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1923812212407197696"
+      ],
+      "media_source_tweet_id": [
+        "1923812227108266206"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Iggy Pop",
+          "id": "821811086944931841",
+          "name": "Iggy Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Iggy Pop",
+          "id": "821811086944931841",
+          "name": "Iggy Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Iggy Pop",
+          "id": "821811086944931841",
+          "name": "Iggy Pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      }
+    ],
+    "conversation_id": "2028802769499632092",
+    "created_at": "2026-03-03T12:00:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T13:00:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028802769499632092"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Iggy Pop",
+          "probability": 0.5062,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3226727230",
+          "start": 3,
+          "username": "BillPourquoimec"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ppq8lBcCa3",
+          "end": 53,
+          "expanded_url": "https://x.com/BillPourquoimec/status/1923812227108266206/photo/1",
+          "media_key": "3_1923812212407197696",
+          "start": 30,
+          "url": "https://t.co/Ppq8lBcCa3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028802769499632092",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923812227108266206",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BillPourquoimec: Iggy Pop https://t.co/Ppq8lBcCa3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_1923812212407197696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrLBA68W4AANZ6I.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923812212407197696"
+          ],
+          "media_source_tweet_id": [
+            "1923812227108266206"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Iggy Pop",
+              "id": "821811086944931841",
+              "name": "Iggy Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Iggy Pop",
+              "id": "821811086944931841",
+              "name": "Iggy Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Iggy Pop",
+              "id": "821811086944931841",
+              "name": "Iggy Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2028802769499632092",
+        "created_at": "2026-03-03T12:00:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T13:00:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028802769499632092"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Iggy Pop",
+              "probability": 0.5062,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3226727230",
+              "start": 3,
+              "username": "BillPourquoimec"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ppq8lBcCa3",
+              "end": 53,
+              "expanded_url": "https://x.com/BillPourquoimec/status/1923812227108266206/photo/1",
+              "media_key": "3_1923812212407197696",
+              "start": 30,
+              "url": "https://t.co/Ppq8lBcCa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028802769499632092",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923812227108266206",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BillPourquoimec: Iggy Pop https://t.co/Ppq8lBcCa3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1923812212407197696"
+          ]
+        },
+        "author_id": "3226727230",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Iggy Pop",
+              "id": "821811086944931841",
+              "name": "Iggy Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Iggy Pop",
+              "id": "821811086944931841",
+              "name": "Iggy Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Iggy Pop",
+              "id": "821811086944931841",
+              "name": "Iggy Pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "1923812227108266206",
+        "created_at": "2025-05-17T18:45:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-17T19:45:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923812227108266206"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Iggy Pop",
+              "probability": 0.5432,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ppq8lBcCa3",
+              "end": 32,
+              "expanded_url": "https://x.com/BillPourquoimec/status/1923812227108266206/photo/1",
+              "media_key": "3_1923812212407197696",
+              "start": 9,
+              "url": "https://t.co/Ppq8lBcCa3"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0ce089d404806ea6"
+        },
+        "id": "1923812227108266206",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4283,
+          "like_count": 155,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Iggy Pop https://t.co/Ppq8lBcCa3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 225,
+          "like_count": 5283,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1708
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2015-05-01T18:58:19.000Z",
+        "description": "animal de nuit au sang chaud, né sous le signe du désespoir un matin d'hiver.\n 💙🤍",
+        "id": "3226727230",
+        "location": "Villefargeau Auxerre, France",
+        "name": "Bill Pourquoimec",
+        "pinned_tweet_id": "1793153879997141328",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549649980285227008/Io1oYt5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18012,
+          "following_count": 1631,
+          "like_count": 58545,
+          "listed_count": 96,
+          "media_count": 9761,
+          "tweet_count": 16280
+        },
+        "username": "BillPourquoimec",
+        "verified": false
+      }
+    ]
+  }
+}

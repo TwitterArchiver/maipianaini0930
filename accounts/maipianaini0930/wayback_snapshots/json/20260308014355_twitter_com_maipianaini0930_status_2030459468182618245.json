@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030335736608616448",
+        "3_2030335736604508160",
+        "3_2030335736583442433",
+        "3_2030336040586616832"
+      ],
+      "media_source_tweet_id": [
+        "2030336088397500474",
+        "2030336088397500474",
+        "2030336088397500474",
+        "2030336088397500474"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2030459468182618245",
+    "created_at": "2026-03-08T01:43:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T02:43:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030459468182618245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1260251393027452929",
+          "start": 3,
+          "username": "Dee_Floki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HlLc7YHOSc",
+          "end": 58,
+          "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+          "media_key": "3_2030335736608616448",
+          "start": 35,
+          "url": "https://t.co/HlLc7YHOSc"
+        },
+        {
+          "display_url": "pic.x.com/HlLc7YHOSc",
+          "end": 58,
+          "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+          "media_key": "3_2030335736604508160",
+          "start": 35,
+          "url": "https://t.co/HlLc7YHOSc"
+        },
+        {
+          "display_url": "pic.x.com/HlLc7YHOSc",
+          "end": 58,
+          "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+          "media_key": "3_2030335736583442433",
+          "start": 35,
+          "url": "https://t.co/HlLc7YHOSc"
+        },
+        {
+          "display_url": "pic.x.com/HlLc7YHOSc",
+          "end": 58,
+          "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+          "media_key": "3_2030336040586616832",
+          "start": 35,
+          "url": "https://t.co/HlLc7YHOSc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030459468182618245",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 117
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030336088397500474",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dee_Floki: Brutalism in Taiwan https://t.co/HlLc7YHOSc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2030335736608616448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0zmGNWcAA7t7M.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2030335736604508160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0zmGMXwAACyyf.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2030335736583442433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0zmGHWUAEwzgc.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2030336040586616832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0z3ynWoAASUY7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030335736608616448",
+            "3_2030335736604508160",
+            "3_2030335736583442433",
+            "3_2030336040586616832"
+          ],
+          "media_source_tweet_id": [
+            "2030336088397500474",
+            "2030336088397500474",
+            "2030336088397500474",
+            "2030336088397500474"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2030459468182618245",
+        "created_at": "2026-03-08T01:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T02:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030459468182618245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1260251393027452929",
+              "start": 3,
+              "username": "Dee_Floki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlLc7YHOSc",
+              "end": 58,
+              "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+              "media_key": "3_2030335736608616448",
+              "start": 35,
+              "url": "https://t.co/HlLc7YHOSc"
+            },
+            {
+              "display_url": "pic.x.com/HlLc7YHOSc",
+              "end": 58,
+              "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+              "media_key": "3_2030335736604508160",
+              "start": 35,
+              "url": "https://t.co/HlLc7YHOSc"
+            },
+            {
+              "display_url": "pic.x.com/HlLc7YHOSc",
+              "end": 58,
+              "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+              "media_key": "3_2030335736583442433",
+              "start": 35,
+              "url": "https://t.co/HlLc7YHOSc"
+            },
+            {
+              "display_url": "pic.x.com/HlLc7YHOSc",
+              "end": 58,
+              "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+              "media_key": "3_2030336040586616832",
+              "start": 35,
+              "url": "https://t.co/HlLc7YHOSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030459468182618245",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 117
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030336088397500474",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dee_Floki: Brutalism in Taiwan https://t.co/HlLc7YHOSc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030335736608616448",
+            "3_2030335736604508160",
+            "3_2030335736583442433",
+            "3_2030336040586616832"
+          ]
+        },
+        "author_id": "1260251393027452929",
+        "conversation_id": "2030336088397500474",
+        "created_at": "2026-03-07T17:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T18:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030336088397500474"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HlLc7YHOSc",
+              "end": 43,
+              "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+              "media_key": "3_2030335736608616448",
+              "start": 20,
+              "url": "https://t.co/HlLc7YHOSc"
+            },
+            {
+              "display_url": "pic.x.com/HlLc7YHOSc",
+              "end": 43,
+              "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+              "media_key": "3_2030335736604508160",
+              "start": 20,
+              "url": "https://t.co/HlLc7YHOSc"
+            },
+            {
+              "display_url": "pic.x.com/HlLc7YHOSc",
+              "end": 43,
+              "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+              "media_key": "3_2030335736583442433",
+              "start": 20,
+              "url": "https://t.co/HlLc7YHOSc"
+            },
+            {
+              "display_url": "pic.x.com/HlLc7YHOSc",
+              "end": 43,
+              "expanded_url": "https://x.com/Dee_Floki/status/2030336088397500474/photo/1",
+              "media_key": "3_2030336040586616832",
+              "start": 20,
+              "url": "https://t.co/HlLc7YHOSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030336088397500474",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 161,
+          "impression_count": 28819,
+          "like_count": 1454,
+          "quote_count": 11,
+          "reply_count": 1,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "Brutalism in Taiwan https://t.co/HlLc7YHOSc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 214,
+          "like_count": 5582,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 1785
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-12T16:52:18.000Z",
+        "description": "༎ຶGraduate Architect ༎ຶ 🕸️ ༎ຶArtist ༎ຶ 天女 ༎ຶ ✞Gamer 𖥻𓃠Cat mom ༎ຶAutos ༎ຶOtaku𖠋 ༎ຶ@Deefloki 𖥻𓊑Stylist 𖥻Black ༎ຶ 3.27.26 ༎ຶ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 81,
+                "username": "Deefloki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/dee_floki",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/dee_floki",
+                "start": 0,
+                "url": "https://t.co/ep6OAxDlbM"
+              }
+            ]
+          }
+        },
+        "id": "1260251393027452929",
+        "location": "❝In your head❞ ",
+        "name": "Fľøkï",
+        "pinned_tweet_id": "1974018244139688236",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849358220847894528/wFHHQ2LP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27834,
+          "following_count": 5073,
+          "like_count": 55498,
+          "listed_count": 77,
+          "media_count": 2534,
+          "tweet_count": 44588
+        },
+        "url": "https://t.co/ep6OAxDlbM",
+        "username": "Dee_Floki",
+        "verified": true
+      }
+    ]
+  }
+}

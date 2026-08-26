@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079849208169873462",
+    "created_at": "2026-07-22T10:08:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T11:08:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079871129544806675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035873731441307648",
+          "start": 0,
+          "username": "Kirakirapicboss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079871129544806675",
+    "in_reply_to_user_id": "2035873731441307648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079849208169873462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakirapicboss 你咋了 吞药被送医了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079849208169873462",
+        "created_at": "2026-07-22T10:08:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:08:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079871129544806675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035873731441307648",
+              "start": 0,
+              "username": "Kirakirapicboss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079871129544806675",
+        "in_reply_to_user_id": "2035873731441307648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079849208169873462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakirapicboss 你咋了 吞药被送医了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035873731441307648",
+        "conversation_id": "2079849208169873462",
+        "created_at": "2026-07-22T08:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079849208169873462"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079849208169873462",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然这个账号也没有用多久，但是还是决定毕业了，和大家一起玩的时光很快乐。在医院的时候想了很多，每一秒都觉得可能要死了，一想到死却还是害怕了。\n我还是决定脱离这个满是药物和疤痕血液的圈子，我想活着了。\nさよなら。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 302,
+          "like_count": 11249,
+          "listed_count": 1,
+          "media_count": 748,
+          "tweet_count": 4977
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:28:02.000Z",
+        "description": "ο(=·ω＜=)☆kira",
+        "id": "2035873731441307648",
+        "name": "MafiAnBOSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072217723225206784/a3DQBXAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 85,
+          "like_count": 608,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 379
+        },
+        "url": "",
+        "username": "Kirakirapicboss",
+        "verified": false
+      }
+    ]
+  }
+}

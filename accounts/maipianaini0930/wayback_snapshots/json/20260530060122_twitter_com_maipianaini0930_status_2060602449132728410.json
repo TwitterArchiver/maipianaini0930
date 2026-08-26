@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2060602449132728410",
+    "created_at": "2026-05-30T06:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T07:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060602449132728410"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/x0yabun/status…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/x0yabun/status/2060357452751667296",
+          "start": 11,
+          "url": "https://t.co/OaGQ80iAd7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060602449132728410",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060357452751667296",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "妈了个逼的真想剁了你 https://t.co/OaGQ80iAd7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2060357316927455235",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJfcEEHWgAMdQ4p.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2060602449132728410",
+        "created_at": "2026-05-30T06:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060602449132728410"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/x0yabun/status…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/x0yabun/status/2060357452751667296",
+              "start": 11,
+              "url": "https://t.co/OaGQ80iAd7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060602449132728410",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060357452751667296",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "妈了个逼的真想剁了你 https://t.co/OaGQ80iAd7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060357316927455235"
+          ]
+        },
+        "author_id": "1468450634185781253",
+        "conversation_id": "2060357452751667296",
+        "created_at": "2026-05-29T13:47:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:47:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060357318651384192",
+          "2060357452751667296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0wctKbPyT4",
+              "end": 156,
+              "expanded_url": "https://x.com/x0yabun/status/2060357452751667296/photo/1",
+              "media_key": "3_2060357316927455235",
+              "start": 133,
+              "url": "https://t.co/0wctKbPyT4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060357452751667296",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 934,
+          "impression_count": 1354580,
+          "like_count": 14650,
+          "quote_count": 157,
+          "reply_count": 437,
+          "retweet_count": 636
+        },
+        "reply_settings": "everyone",
+        "text": "Bought this brick of cocaine 1.5y ago for $16000\n\nNow it’s worth $33000\n\nLike 2x on a brick lol, collectors bull market not stopping https://t.co/0wctKbPyT4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱🇷🇺",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 291,
+          "like_count": 9842,
+          "listed_count": 2,
+          "media_count": 632,
+          "tweet_count": 4145
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-08T05:21:43.000Z",
+        "description": "just a trading guy and liquidity provider with a unique focus on technology and collaborative problem solving",
+        "id": "1468450634185781253",
+        "location": "LatAm",
+        "name": "0ya ✞",
+        "pinned_tweet_id": "2051121968942862529",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029356523030237184/KBxR5DNM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4214,
+          "following_count": 2885,
+          "like_count": 55133,
+          "listed_count": 54,
+          "media_count": 5096,
+          "tweet_count": 41777
+        },
+        "username": "x0yabun",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2036463516723691925",
+    "created_at": "2026-03-24T15:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T16:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036463516723691925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1934613003695181824",
+          "start": 3,
+          "username": "Bechir_Edd"
+        },
+        {
+          "end": 32,
+          "id": "1238452916660269056",
+          "start": 16,
+          "username": "nerossa19171107"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036463516723691925",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036460221229305878",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bechir_Edd: @nerossa19171107 死在學歷貶值成為社會現實但是沒有成為社會共識的前夜 只能說他死的剛剛好（笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2036463516723691925",
+        "created_at": "2026-03-24T15:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036463516723691925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1934613003695181824",
+              "start": 3,
+              "username": "Bechir_Edd"
+            },
+            {
+              "end": 32,
+              "id": "1238452916660269056",
+              "start": 16,
+              "username": "nerossa19171107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036463516723691925",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036460221229305878",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bechir_Edd: @nerossa19171107 死在學歷貶值成為社會現實但是沒有成為社會共識的前夜 只能說他死的剛剛好（笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934613003695181824",
+        "conversation_id": "2036446307364073656",
+        "created_at": "2026-03-24T15:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T16:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036460221229305878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1238452916660269056",
+              "start": 0,
+              "username": "nerossa19171107"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036460221229305878",
+        "in_reply_to_user_id": "1238452916660269056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036446307364073656",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nerossa19171107 死在學歷貶值成為社會現實但是沒有成為社會共識的前夜 只能說他死的剛剛好（笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 247,
+          "like_count": 6599,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 2422
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T14:04:49.000Z",
+        "description": "馬列毛主義者 | 歷史唯物論| 業餘符號觀察員\n\n有啲人困喺黑格爾式觀念辯證，講到離地；用概念代替現實分析，講到底只係「哲學cosplay」。\n我就簡單啲：睇現實、睇矛盾、睇鬥爭；有立場，唔上頭，唔對線。",
+        "id": "1934613003695181824",
+        "name": "Marginal__麥爵",
+        "pinned_tweet_id": "2029214860287082511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030299836277526529/Bbx08DjR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 121,
+          "following_count": 908,
+          "like_count": 595,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 596
+        },
+        "username": "Bechir_Edd",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-13T13:12:50.000Z",
+        "description": "Fiamme dalla rosa. 玫瑰的火焰。｜ Vae victis！ ｜ mia amore- @hongjunlv ｜ 里账   @elyse200010",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 52,
+                "username": "hongjunlv"
+              },
+              {
+                "end": 82,
+                "start": 70,
+                "username": "elyse200010"
+              }
+            ]
+          }
+        },
+        "id": "1238452916660269056",
+        "location": "Turin, Piedmont",
+        "name": "Nerossa",
+        "pinned_tweet_id": "1977588542080794954",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1632901489114116096/8GO7_9SU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1632,
+          "following_count": 1308,
+          "like_count": 20893,
+          "listed_count": 8,
+          "media_count": 692,
+          "tweet_count": 20170
+        },
+        "username": "nerossa19171107",
+        "verified": false
+      }
+    ]
+  }
+}

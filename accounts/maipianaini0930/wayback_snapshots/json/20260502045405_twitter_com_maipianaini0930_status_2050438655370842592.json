@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2050209398610661772",
+    "created_at": "2026-05-02T04:54:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T05:54:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050438655370842592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1813111782577471488",
+          "start": 0,
+          "username": "painismybesf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050438655370842592",
+    "in_reply_to_user_id": "1813111782577471488",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050209398610661772",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@painismybesf 偷的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050209390712799232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPOlBCbQAAkVDh.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2050209398610661772",
+        "created_at": "2026-05-02T04:54:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T05:54:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050438655370842592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1813111782577471488",
+              "start": 0,
+              "username": "painismybesf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050438655370842592",
+        "in_reply_to_user_id": "1813111782577471488",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050209398610661772",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@painismybesf 偷的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050209390712799232"
+          ]
+        },
+        "author_id": "1813111782577471488",
+        "conversation_id": "2050209398610661772",
+        "created_at": "2026-05-01T13:43:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T14:43:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050209398610661772"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "kleptotwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ln23tlJVd8",
+              "end": 34,
+              "expanded_url": "https://x.com/painismybesf/status/2050209398610661772/photo/1",
+              "media_key": "3_2050209390712799232",
+              "start": 11,
+              "url": "https://t.co/Ln23tlJVd8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050209398610661772",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 54,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#kleptotwt https://t.co/Ln23tlJVd8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 336,
+          "following_count": 269,
+          "like_count": 9019,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 3471
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-16T07:22:01.000Z",
+        "description": "你好",
+        "id": "1813111782577471488",
+        "name": "创伤",
+        "pinned_tweet_id": "1917146035715268882",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1874321196705341444/3aWEGw6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 149,
+          "like_count": 1488,
+          "listed_count": 3,
+          "media_count": 397,
+          "tweet_count": 2692
+        },
+        "username": "painismybesf",
+        "verified": false
+      }
+    ]
+  }
+}

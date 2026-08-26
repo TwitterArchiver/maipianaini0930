@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034256343029395456"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034257508202938495",
+    "created_at": "2026-03-18T13:15:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T14:15:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034257508202938495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EJzuxBjKcJ",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2034257508202938495/video/1",
+          "media_key": "13_2034256343029395456",
+          "start": 0,
+          "url": "https://t.co/EJzuxBjKcJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034257508202938495",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/EJzuxBjKcJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 31770,
+        "height": 1280,
+        "media_key": "13_2034256343029395456",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034256343029395456/img/E0iQPxeuimFbXaFR.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034256343029395456/vid/avc1/320x568/TUcMjtv8FJLj3r5w.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034256343029395456/vid/avc1/480x852/-Z_OQ5CBhxZYdXaC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034256343029395456/vid/avc1/720x1280/CrNQrutOLHbFAnAz.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034256343029395456/pl/BKsO12ZrR40KdeDg.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034256343029395456"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034257508202938495",
+        "created_at": "2026-03-18T13:15:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:15:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034257508202938495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EJzuxBjKcJ",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2034257508202938495/video/1",
+              "media_key": "13_2034256343029395456",
+              "start": 0,
+              "url": "https://t.co/EJzuxBjKcJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034257508202938495",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/EJzuxBjKcJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 236,
+          "like_count": 6125,
+          "listed_count": 0,
+          "media_count": 348,
+          "tweet_count": 2139
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

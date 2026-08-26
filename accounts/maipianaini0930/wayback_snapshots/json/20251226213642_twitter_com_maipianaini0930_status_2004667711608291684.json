@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2004667711608291684",
+    "created_at": "2025-12-26T21:36:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T22:36:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004667711608291684"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 123,
+          "normalized_text": "Athens",
+          "probability": 0.9625,
+          "start": 118,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1132946492799430656",
+          "start": 3,
+          "username": "GraffitiRadical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004667711608291684",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 151
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004372535547514991",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GraffitiRadical: “Merry Crisis and a Happy New Fear” is a slogan that appeared  for the first time as graffiti in Athens during the Dec…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 332,
+        "media_key": "3_2004372533085458432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9D2MwAb0AA_UGE.jpg",
+        "width": 500
+      },
+      {
+        "height": 380,
+        "media_key": "3_2004372533496500231",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9D2Mxib0AcVcV4.jpg",
+        "width": 604
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2004667711608291684",
+        "created_at": "2025-12-26T21:36:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T22:36:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004667711608291684"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 123,
+              "normalized_text": "Athens",
+              "probability": 0.9625,
+              "start": 118,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1132946492799430656",
+              "start": 3,
+              "username": "GraffitiRadical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004667711608291684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004372535547514991",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GraffitiRadical: “Merry Crisis and a Happy New Fear” is a slogan that appeared  for the first time as graffiti in Athens during the Dec…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004372533085458432",
+            "3_2004372533496500231"
+          ]
+        },
+        "author_id": "1132946492799430656",
+        "conversation_id": "2004372535547514991",
+        "created_at": "2025-12-26T02:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T03:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004372535547514991"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZxEyZe3Kuu",
+              "end": 169,
+              "expanded_url": "https://x.com/GraffitiRadical/status/2004372535547514991/photo/1",
+              "media_key": "3_2004372533085458432",
+              "start": 146,
+              "url": "https://t.co/ZxEyZe3Kuu"
+            },
+            {
+              "display_url": "pic.x.com/ZxEyZe3Kuu",
+              "end": 169,
+              "expanded_url": "https://x.com/GraffitiRadical/status/2004372535547514991/photo/1",
+              "media_key": "3_2004372533496500231",
+              "start": 146,
+              "url": "https://t.co/ZxEyZe3Kuu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004372535547514991",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 15115,
+          "like_count": 503,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "“Merry Crisis and a Happy New Fear” is a slogan that appeared  for the first time as graffiti in Athens during the December 2008 Revolt in Greece https://t.co/ZxEyZe3Kuu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 192,
+          "like_count": 2266,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 804
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-27T09:47:47.000Z",
+        "description": "Just sharing pics of anti-capitalist, anti-authoritarian and anti-colonial graffiti, stickers and streetart seen around the world.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Radicalgraffiti",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Radicalgraffiti",
+                "start": 0,
+                "url": "https://t.co/PmQl6GHCON"
+              }
+            ]
+          }
+        },
+        "id": "1132946492799430656",
+        "location": "Worldwide",
+        "name": "Radical Graffiti",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1254848519698935811/BquGTke2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131746,
+          "following_count": 1051,
+          "like_count": 60271,
+          "listed_count": 380,
+          "media_count": 8055,
+          "tweet_count": 19509
+        },
+        "url": "https://t.co/PmQl6GHCON",
+        "username": "GraffitiRadical",
+        "verified": false
+      }
+    ]
+  }
+}

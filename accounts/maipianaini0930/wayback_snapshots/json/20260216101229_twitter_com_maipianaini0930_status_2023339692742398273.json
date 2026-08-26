@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2023319474389299600",
+    "created_at": "2026-02-16T10:12:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T11:12:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023339692742398273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "953248183118807042",
+          "start": 0,
+          "username": "allhellshiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023339692742398273",
+    "in_reply_to_user_id": "953248183118807042",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023319474389299600",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allhellshiki 😮"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2023319421566193664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBRGSz2aEAA5qMF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2023319474389299600",
+        "created_at": "2026-02-16T10:12:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T11:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023339692742398273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "953248183118807042",
+              "start": 0,
+              "username": "allhellshiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023339692742398273",
+        "in_reply_to_user_id": "953248183118807042",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023319474389299600",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allhellshiki 😮"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023319421566193664"
+          ]
+        },
+        "author_id": "953248183118807042",
+        "conversation_id": "2023319474389299600",
+        "created_at": "2026-02-16T08:52:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T09:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023319474389299600"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4fnZKCCpdf",
+              "end": 38,
+              "expanded_url": "https://x.com/allhellshiki/status/2023319474389299600/photo/1",
+              "media_key": "3_2023319421566193664",
+              "start": 15,
+              "url": "https://t.co/4fnZKCCpdf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023319474389299600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "翻旧书柜发现了个重量级的…… https://t.co/4fnZKCCpdf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 202,
+          "like_count": 4249,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1337
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-16T12:50:52.000Z",
+        "description": "里号@ryougishiki2333",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 2,
+                "username": "ryougishiki2333"
+              }
+            ]
+          }
+        },
+        "id": "953248183118807042",
+        "name": "Vivi",
+        "pinned_tweet_id": "1995731622499352984",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881019331452235776/NfvkNTRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6736,
+          "following_count": 2113,
+          "like_count": 43549,
+          "listed_count": 16,
+          "media_count": 1704,
+          "tweet_count": 19289
+        },
+        "username": "allhellshiki",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2037884374302208000"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037884393340174486",
+    "created_at": "2026-03-28T13:27:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T14:27:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037884393340174486"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/EeDk0tbaIq",
+          "end": 39,
+          "expanded_url": "https://x.com/maipianaini0930/status/2037884393340174486/photo/1",
+          "media_key": "3_2037884374302208000",
+          "start": 16,
+          "url": "https://t.co/EeDk0tbaIq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037884393340174486",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "吐了好多...呕吐物睡觉。。。 https://t.co/EeDk0tbaIq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3520,
+        "media_key": "3_2037884374302208000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgFCo-aMAALGNK.jpg",
+        "width": 1980
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037884374302208000"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037884393340174486",
+        "created_at": "2026-03-28T13:27:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:27:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037884393340174486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EeDk0tbaIq",
+              "end": 39,
+              "expanded_url": "https://x.com/maipianaini0930/status/2037884393340174486/photo/1",
+              "media_key": "3_2037884374302208000",
+              "start": 16,
+              "url": "https://t.co/EeDk0tbaIq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037884393340174486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "吐了好多...呕吐物睡觉。。。 https://t.co/EeDk0tbaIq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 251,
+          "like_count": 7001,
+          "listed_count": 0,
+          "media_count": 425,
+          "tweet_count": 2606
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2045510242922909838",
+    "created_at": "2026-04-18T15:42:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:42:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045528462514085953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1744744430219771904",
+          "start": 0,
+          "username": "allrockmusic"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045528462514085953",
+    "in_reply_to_user_id": "1744744430219771904",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045510242922909838",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@allrockmusic vertigo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2045510239114481664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGMcuZLX0AAWTik.jpg",
+        "width": 1157
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2045510242922909838",
+        "created_at": "2026-04-18T15:42:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T16:42:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045528462514085953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1744744430219771904",
+              "start": 0,
+              "username": "allrockmusic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045528462514085953",
+        "in_reply_to_user_id": "1744744430219771904",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045510242922909838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@allrockmusic vertigo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045510239114481664"
+          ]
+        },
+        "author_id": "1744744430219771904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "U2",
+              "id": "871826121192464384",
+              "name": "U2"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "U2",
+              "id": "871826121192464384",
+              "name": "U2"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "U2",
+              "id": "871826121192464384",
+              "name": "U2"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Soft Rock",
+              "id": "1156962764948008960",
+              "name": "Soft rock"
+            }
+          }
+        ],
+        "conversation_id": "2045510242922909838",
+        "created_at": "2026-04-18T14:30:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T15:30:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045510242922909838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MwTDR58oIT",
+              "end": 57,
+              "expanded_url": "https://x.com/allrockmusic/status/2045510242922909838/photo/1",
+              "media_key": "3_2045510239114481664",
+              "start": 34,
+              "url": "https://t.co/MwTDR58oIT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045510242922909838",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1994,
+          "like_count": 30,
+          "quote_count": 2,
+          "reply_count": 69,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "What’s your favourite song by U2? https://t.co/MwTDR58oIT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2043643748257788371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 264,
+          "like_count": 8334,
+          "listed_count": 1,
+          "media_count": 507,
+          "tweet_count": 3207
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-09T15:34:41.000Z",
+        "description": "It’s All Rock Music.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/allrockmusic/a…",
+                "end": 23,
+                "expanded_url": "https://x.com/allrockmusic/articles",
+                "start": 0,
+                "url": "https://t.co/S4o2s0VtZ9"
+              }
+            ]
+          }
+        },
+        "id": "1744744430219771904",
+        "name": "All Rock Music",
+        "pinned_tweet_id": "2044531125452738855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016701580905754624/yvFd0qHV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43322,
+          "following_count": 1756,
+          "like_count": 8204,
+          "listed_count": 101,
+          "media_count": 2289,
+          "tweet_count": 6250
+        },
+        "url": "https://t.co/S4o2s0VtZ9",
+        "username": "allrockmusic",
+        "verified": true
+      }
+    ]
+  }
+}

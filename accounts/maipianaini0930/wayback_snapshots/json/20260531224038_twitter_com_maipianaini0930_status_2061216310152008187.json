@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2055283810950852664",
+    "created_at": "2026-05-31T22:40:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T23:40:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061216310152008187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1754376895045804032",
+          "start": 0,
+          "username": "zyzitong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061216310152008187",
+    "in_reply_to_user_id": "1754376895045804032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061175953343291841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zyzitong 邦尼兔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2055283810950852664",
+        "created_at": "2026-05-31T22:40:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T23:40:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061216310152008187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1754376895045804032",
+              "start": 0,
+              "username": "zyzitong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061216310152008187",
+        "in_reply_to_user_id": "1754376895045804032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061175953343291841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zyzitong 邦尼兔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754376895045804032",
+        "conversation_id": "2055283810950852664",
+        "created_at": "2026-05-31T20:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T21:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061175953343291841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061175953343291841",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055283810950852664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 姐姐有靠谱大麻渠道嘛我真的想试试🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 294,
+          "like_count": 9928,
+          "listed_count": 2,
+          "media_count": 638,
+          "tweet_count": 4191
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-05T05:30:32.000Z",
+        "description": "",
+        "id": "1754376895045804032",
+        "name": "？！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034029012071419904/uMF_ObUj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 44,
+          "like_count": 515,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "zyzitong",
+        "verified": false
+      }
+    ]
+  }
+}

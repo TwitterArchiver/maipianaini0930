@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2045124460114825428",
+    "created_at": "2026-04-17T13:00:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T14:00:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045125250724331913"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045125250724331913",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045124460114825428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "尤其是被父母强制送精神病院里出来以后经常做很多不考虑的事情，每天都在酗酒，醉醺醺的，目前的打算就只在没有明文规定和禁止的范围鬼迷心窍的打打主意，好多东西我还没享受呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2045124460114825428",
+        "created_at": "2026-04-17T13:00:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T14:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045125250724331913"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045125250724331913",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045124460114825428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尤其是被父母强制送精神病院里出来以后经常做很多不考虑的事情，每天都在酗酒，醉醺醺的，目前的打算就只在没有明文规定和禁止的范围鬼迷心窍的打打主意，好多东西我还没享受呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2045124460114825428",
+        "created_at": "2026-04-17T12:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T13:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045124460114825428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2040347467515121924",
+              "start": 71,
+              "url": "https://t.co/7P0ArnjAKQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045124460114825428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040347467515121924",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然疫情结束我重办了护照，但我不想再冒着随时被条子抄家围捕的风险干能拿块钱的黑产了。所以本质上我十分珍视生命，也十分怕死，所以快点给我打钱吧 https://t.co/7P0ArnjAKQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2043643748257788371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 264,
+          "like_count": 8274,
+          "listed_count": 1,
+          "media_count": 491,
+          "tweet_count": 3165
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "1998127737735930092",
+    "created_at": "2025-12-08T20:29:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T21:29:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1998127737735930092"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tenkijp_jishin…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/tenkijp_jishin/status/1998034092047340029",
+          "start": 11,
+          "url": "https://t.co/JPJfRDhEwZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998127737735930092",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998034092047340029",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "皆さんお気をつけて😿 https://t.co/JPJfRDhEwZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1998127737735930092",
+        "created_at": "2025-12-08T20:29:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T21:29:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998127737735930092"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tenkijp_jishin…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/tenkijp_jishin/status/1998034092047340029",
+              "start": 11,
+              "url": "https://t.co/JPJfRDhEwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998127737735930092",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998034092047340029",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "皆さんお気をつけて😿 https://t.co/JPJfRDhEwZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "599969854",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "気象庁によれば、地震がありました。",
+              "id": "1374413205275996170",
+              "name": "地震のニュース（テスト）"
+            }
+          }
+        ],
+        "conversation_id": "1998034092047340029",
+        "created_at": "2025-12-08T14:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T15:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998034092047340029"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "青森県",
+              "probability": 0.9153,
+              "start": 10,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "jishin"
+            }
+          ],
+          "urls": [
+            {
+              "description": "地震発生時刻：2025年12月08日 23時15分頃 最大震度：6強 今後の情報に注意してください。",
+              "display_url": "earthquake.tenki.jp/bousai/earthqu…",
+              "end": 73,
+              "expanded_url": "https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/08/2025-12-08-23-15-19.html",
+              "images": [
+                {
+                  "height": 520,
+                  "url": "https://pbs.twimg.com/news_img/1998034139648548865/jBiiegyw?format=jpg&name=orig",
+                  "width": 692
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1998034139648548865/jBiiegyw?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 50,
+              "status": 200,
+              "title": "地震情報 12月08日 23時15分頃発生 最大震度：6強 - tenki.jp",
+              "unwound_url": "https://earthquake.tenki.jp/bousai/earthquake/detail/2025/12/08/2025-12-08-23-15-19.html",
+              "url": "https://t.co/RN7Irp9SJJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998034092047340029",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 571539,
+          "like_count": 2782,
+          "quote_count": 243,
+          "reply_count": 37,
+          "retweet_count": 2695
+        },
+        "reply_settings": "everyone",
+        "text": "8日23時15分頃、青森県などで最大震度6強を観測する地震がありました。今後の情報にご注意下さい。 https://t.co/RN7Irp9SJJ #jishin"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 170,
+          "like_count": 1674,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 557
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-05T09:19:53.000Z",
+        "description": "日本気象協会tenki.jpの公式アカウント\n地震情報を速報でお伝えします。\nPC：http://t.co/PymoP2yoF1\nスマホ：http://t.co/MDL5S19ixF",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tenki.jp/bousai/earthqu…",
+                "end": 64,
+                "expanded_url": "http://www.tenki.jp/bousai/earthquake/",
+                "start": 42,
+                "url": "http://t.co/PymoP2yoF1"
+              },
+              {
+                "display_url": "tenki.jp/lite/bousai/ea…",
+                "end": 91,
+                "expanded_url": "http://www.tenki.jp/lite/bousai/earthquake/",
+                "start": 69,
+                "url": "http://t.co/MDL5S19ixF"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tenki.jp/bousai/earthqu…",
+                "end": 22,
+                "expanded_url": "http://www.tenki.jp/bousai/earthquake/",
+                "start": 0,
+                "url": "http://t.co/82IKicrHss"
+              }
+            ]
+          }
+        },
+        "id": "599969854",
+        "name": "tenki.jp地震情報",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/489964377273933825/ZP2ATLMQ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1989633,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 30450,
+          "media_count": 2,
+          "tweet_count": 31702
+        },
+        "url": "http://t.co/82IKicrHss",
+        "username": "tenkijp_jishin",
+        "verified": true
+      }
+    ]
+  }
+}

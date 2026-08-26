@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081903965416079360"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2081899801646637477",
+    "created_at": "2026-07-28T00:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T01:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081903979982975442"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/z7wAUwmaoR",
+          "end": 42,
+          "expanded_url": "https://x.com/maipianaini0930/status/2081903979982975442/photo/1",
+          "media_key": "3_2081903965416079360",
+          "start": 19,
+          "url": "https://t.co/z7wAUwmaoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081903979982975442",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081899801646637477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "一块大玻璃直接割肉里去了 还有碎玻璃 https://t.co/z7wAUwmaoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2081903965416079360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORooEsaQAAixi9.jpg",
+        "width": 3024
+      },
+      {
+        "height": 1856,
+        "media_key": "3_2081899782940049409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORk0nwawAEQ7Or.jpg",
+        "width": 1504
+      },
+      {
+        "height": 1522,
+        "media_key": "3_2081899782940020736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HORk0nwaUAAJtej.jpg",
+        "width": 1935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081903965416079360"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081899801646637477",
+        "created_at": "2026-07-28T00:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T01:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081903979982975442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z7wAUwmaoR",
+              "end": 42,
+              "expanded_url": "https://x.com/maipianaini0930/status/2081903979982975442/photo/1",
+              "media_key": "3_2081903965416079360",
+              "start": 19,
+              "url": "https://t.co/z7wAUwmaoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081903979982975442",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081899801646637477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "一块大玻璃直接割肉里去了 还有碎玻璃 https://t.co/z7wAUwmaoR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081899782940049409",
+            "3_2081899782940020736"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2081899801646637477",
+        "created_at": "2026-07-28T00:29:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T01:29:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081899801646637477"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ISMLq6vHC6",
+              "end": 44,
+              "expanded_url": "https://x.com/maipianaini0930/status/2081899801646637477/photo/1",
+              "media_key": "3_2081899782940049409",
+              "start": 21,
+              "url": "https://t.co/ISMLq6vHC6"
+            },
+            {
+              "display_url": "pic.x.com/ISMLq6vHC6",
+              "end": 44,
+              "expanded_url": "https://x.com/maipianaini0930/status/2081899801646637477/photo/1",
+              "media_key": "3_2081899782940020736",
+              "start": 21,
+              "url": "https://t.co/ISMLq6vHC6"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2081675133706715228",
+              "start": 45,
+              "url": "https://t.co/sUbJc45cb0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081899801646637477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081675133706715228",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "害怕有碎玻璃，我昨天还拿镊子简单清了下创 https://t.co/ISMLq6vHC6 https://t.co/sUbJc45cb0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 306,
+          "like_count": 11356,
+          "listed_count": 1,
+          "media_count": 763,
+          "tweet_count": 5101
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

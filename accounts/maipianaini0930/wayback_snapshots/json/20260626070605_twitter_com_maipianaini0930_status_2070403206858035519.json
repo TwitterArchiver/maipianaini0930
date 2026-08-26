@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2070132548395803131",
+    "created_at": "2026-06-26T07:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T08:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070403206858035519"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820838373512359936",
+          "start": 0,
+          "username": "youyou_726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070403206858035519",
+    "in_reply_to_user_id": "1820838373512359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070132548395803131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyou_726 你应该说：你这逼嘴天天闲不住蛋疼到处喷粪乱问是怎么弄的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070132535477297152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLqWkq8aYAA0v4B.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2070132548395803131",
+        "created_at": "2026-06-26T07:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T08:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070403206858035519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820838373512359936",
+              "start": 0,
+              "username": "youyou_726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070403206858035519",
+        "in_reply_to_user_id": "1820838373512359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070132548395803131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyou_726 你应该说：你这逼嘴天天闲不住蛋疼到处喷粪乱问是怎么弄的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070132535477297152"
+          ]
+        },
+        "author_id": "1820838373512359936",
+        "conversation_id": "2070132548395803131",
+        "created_at": "2026-06-25T13:10:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:10:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070132548395803131"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A0sOTpOayZ",
+              "end": 55,
+              "expanded_url": "https://x.com/youyou_726/status/2070132548395803131/photo/1",
+              "media_key": "3_2070132535477297152",
+              "start": 32,
+              "url": "https://t.co/A0sOTpOayZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070132548395803131",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 1714,
+          "like_count": 194,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "尝试穿短袖出门 不出所料的 被人问了\n问我怎么弄的 我…嗯啊啊 https://t.co/A0sOTpOayZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 301,
+          "like_count": 10608,
+          "listed_count": 1,
+          "media_count": 689,
+          "tweet_count": 4601
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:04:47.000Z",
+        "description": "🚪88  我很温良找我玩",
+        "id": "1820838373512359936",
+        "name": "悠悠",
+        "pinned_tweet_id": "2007054246567629132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918287850472341504/Q3vixHP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4023,
+          "following_count": 122,
+          "like_count": 1588,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 1903
+        },
+        "url": "",
+        "username": "youyou_726",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046039058078707712",
+        "3_2046039058095464448"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2046039449730199859",
+    "created_at": "2026-04-20T01:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046039449730199859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/pZjPJSjBOy",
+          "end": 31,
+          "expanded_url": "https://x.com/maipianaini0930/status/2046039449730199859/photo/1",
+          "media_key": "3_2046039058078707712",
+          "start": 8,
+          "url": "https://t.co/pZjPJSjBOy"
+        },
+        {
+          "display_url": "pic.x.com/pZjPJSjBOy",
+          "end": 31,
+          "expanded_url": "https://x.com/maipianaini0930/status/2046039449730199859/photo/1",
+          "media_key": "3_2046039058095464448",
+          "start": 8,
+          "url": "https://t.co/pZjPJSjBOy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046039449730199859",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我讨厌这类测试 https://t.co/pZjPJSjBOy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2046039058078707712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGT9rtVbMAAH1w7.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_2046039058095464448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGT9rtZa4AAtMk5.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046039058078707712",
+            "3_2046039058095464448"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2046039449730199859",
+        "created_at": "2026-04-20T01:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046039449730199859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pZjPJSjBOy",
+              "end": 31,
+              "expanded_url": "https://x.com/maipianaini0930/status/2046039449730199859/photo/1",
+              "media_key": "3_2046039058078707712",
+              "start": 8,
+              "url": "https://t.co/pZjPJSjBOy"
+            },
+            {
+              "display_url": "pic.x.com/pZjPJSjBOy",
+              "end": 31,
+              "expanded_url": "https://x.com/maipianaini0930/status/2046039449730199859/photo/1",
+              "media_key": "3_2046039058095464448",
+              "start": 8,
+              "url": "https://t.co/pZjPJSjBOy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046039449730199859",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我讨厌这类测试 https://t.co/pZjPJSjBOy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 266,
+          "like_count": 8371,
+          "listed_count": 1,
+          "media_count": 516,
+          "tweet_count": 3252
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

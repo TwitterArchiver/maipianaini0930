@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2011886534736363520"
+      ],
+      "media_source_tweet_id": [
+        "2011886544735650209"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2012066305600577652",
+    "created_at": "2026-01-16T07:36:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T08:36:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012066305600577652"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1429055428374130693",
+          "start": 3,
+          "username": "Gamer94469"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SfMdwyupXq",
+          "end": 75,
+          "expanded_url": "https://x.com/Gamer94469/status/2011886544735650209/photo/1",
+          "media_key": "3_2011886534736363520",
+          "start": 52,
+          "url": "https://t.co/SfMdwyupXq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012066305600577652",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011886544735650209",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Gamer94469: 其实把现实中的共产主义的残忍类比为纳粹，你就会发现锤子镰刀的符号骚多了 https://t.co/SfMdwyupXq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2011886534736363520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-uoJNdaQAAESDk.jpg",
+        "width": 730
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011886534736363520"
+          ],
+          "media_source_tweet_id": [
+            "2011886544735650209"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2012066305600577652",
+        "created_at": "2026-01-16T07:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T08:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012066305600577652"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1429055428374130693",
+              "start": 3,
+              "username": "Gamer94469"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SfMdwyupXq",
+              "end": 75,
+              "expanded_url": "https://x.com/Gamer94469/status/2011886544735650209/photo/1",
+              "media_key": "3_2011886534736363520",
+              "start": 52,
+              "url": "https://t.co/SfMdwyupXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012066305600577652",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011886544735650209",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Gamer94469: 其实把现实中的共产主义的残忍类比为纳粹，你就会发现锤子镰刀的符号骚多了 https://t.co/SfMdwyupXq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2011886534736363520"
+          ]
+        },
+        "author_id": "1429055428374130693",
+        "conversation_id": "2011886544735650209",
+        "created_at": "2026-01-15T19:41:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T20:41:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011886544735650209"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SfMdwyupXq",
+              "end": 59,
+              "expanded_url": "https://x.com/Gamer94469/status/2011886544735650209/photo/1",
+              "media_key": "3_2011886534736363520",
+              "start": 36,
+              "url": "https://t.co/SfMdwyupXq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011886544735650209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 137,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实把现实中的共产主义的残忍类比为纳粹，你就会发现锤子镰刀的符号骚多了 https://t.co/SfMdwyupXq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006274810918363138/El07gvs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 196,
+          "like_count": 2978,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 981
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-21T12:19:04.000Z",
+        "description": "即刻绞杀即刻刎颈",
+        "id": "1429055428374130693",
+        "name": "圣洁斯坦剋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011740847382151172/-xLG22_O_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 624,
+          "following_count": 252,
+          "like_count": 20669,
+          "listed_count": 1,
+          "media_count": 535,
+          "tweet_count": 5029
+        },
+        "username": "Gamer94469",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2055689767329939904",
+    "created_at": "2026-05-16T16:40:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:40:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055689767329939904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1987138845058736133",
+          "start": 3,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055689767329939904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041876332104315205",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maipianaini0930: 普通的燥热，热浪均匀卷过它每条杂乱的背荫的巷子和垃圾，漏液为墙角树了座墓碑。柳树和梧桐轰炸机般朝行人倾泻絮炸弹。上午和凌晨，电车和油车，装戴起那慵懒、麻木或愤怒目光面具，好戏上演了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2055689767329939904",
+        "created_at": "2026-05-16T16:40:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:40:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055689767329939904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1987138845058736133",
+              "start": 3,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055689767329939904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041876332104315205",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maipianaini0930: 普通的燥热，热浪均匀卷过它每条杂乱的背荫的巷子和垃圾，漏液为墙角树了座墓碑。柳树和梧桐轰炸机般朝行人倾泻絮炸弹。上午和凌晨，电车和油车，装戴起那慵懒、麻木或愤怒目光面具，好戏上演了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2041876332104315205",
+        "created_at": "2026-04-08T13:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T14:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041876332104315205"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041876332104315205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 250,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "普通的燥热，热浪均匀卷过它每条杂乱的背荫的巷子和垃圾，漏液为墙角树了座墓碑。柳树和梧桐轰炸机般朝行人倾泻絮炸弹。上午和凌晨，电车和油车，装戴起那慵懒、麻木或愤怒目光面具，好戏上演了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 283,
+          "like_count": 9435,
+          "listed_count": 2,
+          "media_count": 601,
+          "tweet_count": 3872
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

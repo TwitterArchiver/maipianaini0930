@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2033211624212046155",
+    "created_at": "2026-03-16T02:22:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T03:22:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033368313317978488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933563089106083840",
+          "start": 0,
+          "username": "AyanoAsahina"
+        },
+        {
+          "end": 27,
+          "id": "1893148438239522816",
+          "start": 14,
+          "username": "Ave_Nagasaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033368313317978488",
+    "in_reply_to_user_id": "933563089106083840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033211624212046155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AyanoAsahina @Ave_Nagasaki 投降枪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2033211618373537792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdrMcpaEAAkhVX.jpg",
+        "width": 2688
+      },
+      {
+        "height": 2448,
+        "media_key": "3_2033211618407178240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDdrMcxbYAAoJ8g.jpg",
+        "width": 1836
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2033211624212046155",
+        "created_at": "2026-03-16T02:22:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033368313317978488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933563089106083840",
+              "start": 0,
+              "username": "AyanoAsahina"
+            },
+            {
+              "end": 27,
+              "id": "1893148438239522816",
+              "start": 14,
+              "username": "Ave_Nagasaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033368313317978488",
+        "in_reply_to_user_id": "933563089106083840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033211624212046155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AyanoAsahina @Ave_Nagasaki 投降枪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2033211618373537792",
+            "3_2033211618407178240"
+          ]
+        },
+        "author_id": "933563089106083840",
+        "conversation_id": "2033211624212046155",
+        "created_at": "2026-03-15T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033211624212046155"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "1893148438239522816",
+              "start": 21,
+              "username": "Ave_Nagasaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bkPDYXOCuW",
+              "end": 75,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2033211624212046155/photo/1",
+              "media_key": "3_2033211618373537792",
+              "start": 52,
+              "url": "https://t.co/bkPDYXOCuW"
+            },
+            {
+              "display_url": "pic.x.com/bkPDYXOCuW",
+              "end": 75,
+              "expanded_url": "https://x.com/AyanoAsahina/status/2033211624212046155/photo/1",
+              "media_key": "3_2033211618407178240",
+              "start": 52,
+              "url": "https://t.co/bkPDYXOCuW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033211624212046155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5526,
+          "like_count": 195,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "今天去了神奇的地方，看到了很多稀罕货😍感谢@Ave_Nagasaki 提供地址。\n真是老鼠进米缸啊😋😋 https://t.co/bkPDYXOCuW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 235,
+          "like_count": 5876,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 2005
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2017-11-23T05:09:20.000Z",
+        "description": "30♂男的！//日常推//看女装直接去亮点//都内一般会社員//120% sub//169cm 50-60Kg//不扩列//莫谈国事//提问箱📦在下面",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ayanoasah1na",
+                "end": 23,
+                "expanded_url": "http://ngl.link/ayanoasah1na",
+                "start": 0,
+                "url": "https://t.co/VACXZCUkde"
+              }
+            ]
+          }
+        },
+        "id": "933563089106083840",
+        "location": "Chiyoda-ku, Tokyo",
+        "name": "塩化Ayano",
+        "pinned_tweet_id": "2030143800707104768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016479022633439232/mzjkFGNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8928,
+          "following_count": 566,
+          "like_count": 3626,
+          "listed_count": 39,
+          "media_count": 156,
+          "tweet_count": 3591
+        },
+        "url": "https://t.co/VACXZCUkde",
+        "username": "AyanoAsahina",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-22T03:59:03.000Z",
+        "description": "love @lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1893148438239522816",
+        "location": "暗黙のTOKYO HARBOUR",
+        "name": "大博打思惑師",
+        "pinned_tweet_id": "1934670312270123485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031879075443421184/x24V0LBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 207,
+          "like_count": 9335,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 4795
+        },
+        "username": "Ave_Nagasaki",
+        "verified": false
+      }
+    ]
+  }
+}

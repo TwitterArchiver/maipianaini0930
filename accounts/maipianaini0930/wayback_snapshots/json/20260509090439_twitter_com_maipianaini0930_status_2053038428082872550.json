@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2053038250818965504",
+        "3_2053038250819022848",
+        "3_2053038250827362304",
+        "3_2053038250877661184"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2053035429553905708",
+    "created_at": "2026-05-09T09:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T10:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053038428082872550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902891477556137987",
+          "start": 0,
+          "username": "chisetu_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/XtxGtzixcV",
+          "end": 120,
+          "expanded_url": "https://x.com/maipianaini0930/status/2053038428082872550/photo/1",
+          "media_key": "3_2053038250818965504",
+          "start": 97,
+          "url": "https://t.co/XtxGtzixcV"
+        },
+        {
+          "display_url": "pic.x.com/XtxGtzixcV",
+          "end": 120,
+          "expanded_url": "https://x.com/maipianaini0930/status/2053038428082872550/photo/1",
+          "media_key": "3_2053038250819022848",
+          "start": 97,
+          "url": "https://t.co/XtxGtzixcV"
+        },
+        {
+          "display_url": "pic.x.com/XtxGtzixcV",
+          "end": 120,
+          "expanded_url": "https://x.com/maipianaini0930/status/2053038428082872550/photo/1",
+          "media_key": "3_2053038250827362304",
+          "start": 97,
+          "url": "https://t.co/XtxGtzixcV"
+        },
+        {
+          "display_url": "pic.x.com/XtxGtzixcV",
+          "end": 120,
+          "expanded_url": "https://x.com/maipianaini0930/status/2053038428082872550/photo/1",
+          "media_key": "3_2053038250877661184",
+          "start": 97,
+          "url": "https://t.co/XtxGtzixcV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053038428082872550",
+    "in_reply_to_user_id": "1902891477556137987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053035903875207519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chisetu_ 一个很有趣的商店，无法概括，因为它真的啥都卖。。。\n\n因为吃了普瑞巴林，我觉得自己是整个书店最莫名其妙、最不安，又觉得这种情绪不久就会发生很多窃喜而不得不捂着嘴咯咯偷笑的人 https://t.co/XtxGtzixcV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2053038250818965504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3baWJakAAjnaY.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2053038250819022848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3baWJbcAAVhDg.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2053038250827362304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3baWLasAA_Y7_.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3386,
+        "media_key": "3_2053038250877661184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HH3baWXaMAAtuam.jpg",
+        "width": 3023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2053038250818965504",
+            "3_2053038250819022848",
+            "3_2053038250827362304",
+            "3_2053038250877661184"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2053035429553905708",
+        "created_at": "2026-05-09T09:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T10:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053038428082872550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902891477556137987",
+              "start": 0,
+              "username": "chisetu_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XtxGtzixcV",
+              "end": 120,
+              "expanded_url": "https://x.com/maipianaini0930/status/2053038428082872550/photo/1",
+              "media_key": "3_2053038250818965504",
+              "start": 97,
+              "url": "https://t.co/XtxGtzixcV"
+            },
+            {
+              "display_url": "pic.x.com/XtxGtzixcV",
+              "end": 120,
+              "expanded_url": "https://x.com/maipianaini0930/status/2053038428082872550/photo/1",
+              "media_key": "3_2053038250819022848",
+              "start": 97,
+              "url": "https://t.co/XtxGtzixcV"
+            },
+            {
+              "display_url": "pic.x.com/XtxGtzixcV",
+              "end": 120,
+              "expanded_url": "https://x.com/maipianaini0930/status/2053038428082872550/photo/1",
+              "media_key": "3_2053038250827362304",
+              "start": 97,
+              "url": "https://t.co/XtxGtzixcV"
+            },
+            {
+              "display_url": "pic.x.com/XtxGtzixcV",
+              "end": 120,
+              "expanded_url": "https://x.com/maipianaini0930/status/2053038428082872550/photo/1",
+              "media_key": "3_2053038250877661184",
+              "start": 97,
+              "url": "https://t.co/XtxGtzixcV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053038428082872550",
+        "in_reply_to_user_id": "1902891477556137987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053035903875207519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chisetu_ 一个很有趣的商店，无法概括，因为它真的啥都卖。。。\n\n因为吃了普瑞巴林，我觉得自己是整个书店最莫名其妙、最不安，又觉得这种情绪不久就会发生很多窃喜而不得不捂着嘴咯咯偷笑的人 https://t.co/XtxGtzixcV"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902891477556137987",
+        "conversation_id": "2053035429553905708",
+        "created_at": "2026-05-09T08:54:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T09:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053035903875207519"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053035903875207519",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053035429553905708",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 わぁ…どこで手に入れたんだ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 278,
+          "like_count": 9219,
+          "listed_count": 2,
+          "media_count": 586,
+          "tweet_count": 3672
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:14:26.000Z",
+        "description": "うるさい人で\n大日本スクワット教教徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chisetu_",
+                "end": 23,
+                "expanded_url": "https://lit.link/chisetu_",
+                "start": 0,
+                "url": "https://t.co/yUFz5Xi359"
+              }
+            ]
+          }
+        },
+        "id": "1902891477556137987",
+        "location": "イカ焼きの中",
+        "name": "稚夢",
+        "pinned_tweet_id": "2048998861679829198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013818920797642789/cFRna2WX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 130,
+          "like_count": 45172,
+          "listed_count": 0,
+          "media_count": 2459,
+          "tweet_count": 24005
+        },
+        "url": "https://t.co/yUFz5Xi359",
+        "username": "chisetu_",
+        "verified": false
+      }
+    ]
+  }
+}

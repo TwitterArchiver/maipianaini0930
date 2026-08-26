@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2033488717630107915",
+    "created_at": "2026-03-16T10:21:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T11:21:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033488717630107915"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fatusagirabbit…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/fatusagirabbit/status/2033233789862707560",
+          "start": 13,
+          "url": "https://t.co/dYURZQPvmj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033488717630107915",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033233789862707560",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我以为最后火车突然脱轨了 https://t.co/dYURZQPvmj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11885,
+        "height": 576,
+        "media_key": "13_2033233740026060800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033233740026060800/img/qSKs6fm2sHkiecwP.jpg",
+        "public_metrics": {
+          "view_count": 188098
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033233740026060800/vid/avc1/320x320/97sUB67NBkugIK26.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033233740026060800/vid/avc1/576x576/UpPf2XACsSazK6xX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033233740026060800/pl/bYXSFvlh2edZqGAw.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2033488717630107915",
+        "created_at": "2026-03-16T10:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T11:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033488717630107915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fatusagirabbit…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/fatusagirabbit/status/2033233789862707560",
+              "start": 13,
+              "url": "https://t.co/dYURZQPvmj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033488717630107915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033233789862707560",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我以为最后火车突然脱轨了 https://t.co/dYURZQPvmj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033233740026060800"
+          ]
+        },
+        "author_id": "1902858563715993604",
+        "conversation_id": "2033233789862707560",
+        "created_at": "2026-03-15T17:28:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T18:28:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033233789862707560"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Uy358HzbjT",
+              "end": 23,
+              "expanded_url": "https://x.com/FatUsagiRabbit/status/2033233789862707560/video/1",
+              "media_key": "13_2033233740026060800",
+              "start": 0,
+              "url": "https://t.co/Uy358HzbjT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033233789862707560",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1174,
+          "impression_count": 643181,
+          "like_count": 7702,
+          "quote_count": 91,
+          "reply_count": 29,
+          "retweet_count": 1239
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/Uy358HzbjT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "本账号为大陆酒鬼收容所\n高价回收过期啤酒、酒瓶子、易拉罐、烟头",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 236,
+          "like_count": 5954,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 2053
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T23:03:35.000Z",
+        "description": "usagi a goat",
+        "id": "1902858563715993604",
+        "name": "Fat Usagi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986087146365599744/lWkmmyez_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10132,
+          "following_count": 37,
+          "like_count": 12278,
+          "listed_count": 3,
+          "media_count": 443,
+          "tweet_count": 1344
+        },
+        "username": "FatUsagiRabbit",
+        "verified": false
+      }
+    ]
+  }
+}

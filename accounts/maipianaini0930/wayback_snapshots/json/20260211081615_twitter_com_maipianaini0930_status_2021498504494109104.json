@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2021496884133757128",
+    "created_at": "2026-02-11T08:16:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T09:16:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021498504494109104"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2021498504494109104",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021496884133757128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以后遇见谁都会让我想起这段经历"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2021496867264323584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3MsL_a4AAtJa9.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021496884133757128",
+        "created_at": "2026-02-11T08:16:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:16:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021498504494109104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021498504494109104",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021496884133757128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以后遇见谁都会让我想起这段经历"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021496867264323584"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021496884133757128",
+        "created_at": "2026-02-11T08:09:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T09:09:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021496884133757128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtZmbazAck",
+              "end": 144,
+              "expanded_url": "https://x.com/maipianaini0930/status/2021496884133757128/photo/1",
+              "media_key": "3_2021496867264323584",
+              "start": 121,
+              "url": "https://t.co/jtZmbazAck"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021496884133757128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "见面后我们就开始同居，这段关系只维持了45天。第四天我失眠了，阳台外天刚刚破晓。现在我住在她曾经居住过的房子，她遛我出去玩的时候到现在夜里喝醉我如何宝荣一样抱着毯子嚎啕大哭的时候，我也不知道自己究竟写了什么，毫无逻辑的句子，我正发抖地打出来 https://t.co/jtZmbazAck"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 218,
+          "like_count": 3907,
+          "listed_count": 0,
+          "media_count": 193,
+          "tweet_count": 1248
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

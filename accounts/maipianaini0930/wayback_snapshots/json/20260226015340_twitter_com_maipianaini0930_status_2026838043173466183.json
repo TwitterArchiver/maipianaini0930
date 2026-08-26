@@ -1,0 +1,126 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026838035992854528",
+        "3_2026838035992817665"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2026838043173466183",
+    "created_at": "2026-02-26T01:53:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T02:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026838043173466183"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/jz1r1km24g",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2026838043173466183/photo/1",
+          "media_key": "3_2026838035992854528",
+          "start": 0,
+          "url": "https://t.co/jz1r1km24g"
+        },
+        {
+          "display_url": "pic.x.com/jz1r1km24g",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2026838043173466183/photo/1",
+          "media_key": "3_2026838035992817665",
+          "start": 0,
+          "url": "https://t.co/jz1r1km24g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026838043173466183",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/jz1r1km24g"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2026838043173466183].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2026838043173466183",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2026838043173466183"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 454,
+        "media_key": "3_2026838035992854528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDGdICawAAYTST.jpg",
+        "width": 454
+      },
+      {
+        "height": 495,
+        "media_key": "3_2026838035992817665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCDGdICaMAEjJoU.jpg",
+        "width": 495
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 212,
+          "like_count": 4895,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 1542
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

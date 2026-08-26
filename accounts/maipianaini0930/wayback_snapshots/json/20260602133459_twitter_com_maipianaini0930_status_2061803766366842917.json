@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2061474860459852014",
+    "created_at": "2026-06-02T13:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-02T14:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061803766366842917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1708493840477458432",
+          "start": 0,
+          "username": "gCdQqjm35088619"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061803766366842917",
+    "in_reply_to_user_id": "1708493840477458432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061779748830015774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gCdQqjm35088619 我在1701和上海modern sky被骂过...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2061474860459852014",
+        "created_at": "2026-06-02T13:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T14:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061803766366842917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1708493840477458432",
+              "start": 0,
+              "username": "gCdQqjm35088619"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061803766366842917",
+        "in_reply_to_user_id": "1708493840477458432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061779748830015774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gCdQqjm35088619 我在1701和上海modern sky被骂过...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1708493840477458432",
+        "conversation_id": "2061474860459852014",
+        "created_at": "2026-06-02T11:59:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-02T12:59:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061779748830015774"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061779748830015774",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061474860459852014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 livehouse会好点吧 磕大了直接搭别人肩一起蹦蹦跳跳的都没人反感"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 297,
+          "like_count": 9987,
+          "listed_count": 2,
+          "media_count": 643,
+          "tweet_count": 4270
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-01T14:47:38.000Z",
+        "description": "",
+        "id": "1708493840477458432",
+        "name": "電気サーカス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004188978749345792/74sAh7CM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 112,
+          "like_count": 642,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 401
+        },
+        "username": "gCdQqjm35088619",
+        "verified": false
+      }
+    ]
+  }
+}

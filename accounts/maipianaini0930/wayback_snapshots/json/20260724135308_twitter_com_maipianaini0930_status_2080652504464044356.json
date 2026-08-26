@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2080652504464044356",
+    "created_at": "2026-07-24T13:53:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T14:53:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080652504464044356"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2014539916085235712",
+          "start": 3,
+          "username": "Oscitantgimp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080652504464044356",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 300
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080208738578051122",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Oscitantgimp: Someone said I should do a pusher cosplay. But I have a GP7 gas mask and his is an Kyng(?) model. Too inaccurate. Argh. h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1441,
+        "media_key": "3_2080208734039715840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5i0nsaMAAYOfR.jpg",
+        "width": 1170
+      },
+      {
+        "height": 672,
+        "media_key": "3_2080208734048145408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5i0nua0AAEf7d.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2080652504464044356",
+        "created_at": "2026-07-24T13:53:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:53:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080652504464044356"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2014539916085235712",
+              "start": 3,
+              "username": "Oscitantgimp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080652504464044356",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 300
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080208738578051122",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Oscitantgimp: Someone said I should do a pusher cosplay. But I have a GP7 gas mask and his is an Kyng(?) model. Too inaccurate. Argh. h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080208734039715840",
+            "3_2080208734048145408"
+          ]
+        },
+        "author_id": "2014539916085235712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2080208738578051122",
+        "created_at": "2026-07-23T08:29:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T09:29:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080208738578051122"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TerKtuZEIM",
+              "end": 143,
+              "expanded_url": "https://x.com/Oscitantgimp/status/2080208738578051122/photo/1",
+              "media_key": "3_2080208734039715840",
+              "start": 120,
+              "url": "https://t.co/TerKtuZEIM"
+            },
+            {
+              "display_url": "pic.x.com/TerKtuZEIM",
+              "end": 143,
+              "expanded_url": "https://x.com/Oscitantgimp/status/2080208738578051122/photo/1",
+              "media_key": "3_2080208734048145408",
+              "start": 120,
+              "url": "https://t.co/TerKtuZEIM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080208738578051122",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1415,
+          "impression_count": 84935,
+          "like_count": 6952,
+          "quote_count": 15,
+          "reply_count": 24,
+          "retweet_count": 300
+        },
+        "reply_settings": "everyone",
+        "text": "Someone said I should do a pusher cosplay. But I have a GP7 gas mask and his is an Kyng(?) model. Too inaccurate. Argh. https://t.co/TerKtuZEIM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2079927002224836795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 309,
+          "like_count": 11367,
+          "listed_count": 1,
+          "media_count": 754,
+          "tweet_count": 5046
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T03:25:39.000Z",
+        "description": "I’m 21+ MDNI • Guy He/him  • Multifandom Hell • This jit cracks serial offenders.\nThis is the bad place.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "whosretty.straw.page",
+                "end": 23,
+                "expanded_url": "https://whosretty.straw.page",
+                "start": 0,
+                "url": "https://t.co/nvyy9nF4Zk"
+              }
+            ]
+          }
+        },
+        "id": "2014539916085235712",
+        "location": "The basement",
+        "name": "OscitantGimp",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068961763174072320/eIAy7379_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 56,
+          "like_count": 3318,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 222
+        },
+        "url": "https://t.co/nvyy9nF4Zk",
+        "username": "Oscitantgimp",
+        "verified": false
+      }
+    ]
+  }
+}

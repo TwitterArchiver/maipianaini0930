@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028369813878591856",
+    "created_at": "2026-03-02T09:20:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T10:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028399996077580487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1213412688790843397",
+          "start": 0,
+          "username": "AkiratheShining"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028399996077580487",
+    "in_reply_to_user_id": "1213412688790843397",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028390620293923225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkiratheShining 来"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028369813878591856",
+        "created_at": "2026-03-02T09:20:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T10:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028399996077580487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1213412688790843397",
+              "start": 0,
+              "username": "AkiratheShining"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028399996077580487",
+        "in_reply_to_user_id": "1213412688790843397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028390620293923225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkiratheShining 来"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1213412688790843397",
+        "conversation_id": "2028369813878591856",
+        "created_at": "2026-03-02T08:43:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T09:43:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028390620293923225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028390620293923225",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028369813878591856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 好向往啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 221,
+          "like_count": 5226,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 1663
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-04T10:51:51.000Z",
+        "description": "可以叫我阿闪",
+        "id": "1213412688790843397",
+        "location": "精神病院",
+        "name": "闪光阿基拉",
+        "pinned_tweet_id": "1862137696195670378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004690944407560193/Ca_8FnUB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4569,
+          "following_count": 209,
+          "like_count": 5022,
+          "listed_count": 8,
+          "media_count": 512,
+          "tweet_count": 7904
+        },
+        "username": "AkiratheShining",
+        "verified": false
+      }
+    ]
+  }
+}

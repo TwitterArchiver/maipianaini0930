@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2023719880659517623",
+    "created_at": "2026-03-29T03:30:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T04:30:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038096512941797536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1881699417532809216",
+          "start": 0,
+          "username": "bubb1es_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038096512941797536",
+    "in_reply_to_user_id": "1881699417532809216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028955218617221459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bubb1es_1 傻逼"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2023719880659517623",
+        "created_at": "2026-03-29T03:30:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T04:30:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038096512941797536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1881699417532809216",
+              "start": 0,
+              "username": "bubb1es_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038096512941797536",
+        "in_reply_to_user_id": "1881699417532809216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028955218617221459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bubb1es_1 傻逼"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1881699417532809216",
+        "conversation_id": "2023719880659517623",
+        "created_at": "2026-03-03T22:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T23:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028955218617221459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028955218617221459",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023719880659517623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 这是在吸毒？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "AAAAA麦片烟酒零售批发",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 251,
+          "like_count": 7020,
+          "listed_count": 0,
+          "media_count": 433,
+          "tweet_count": 2647
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-21T13:44:48.000Z",
+        "description": "",
+        "id": "1881699417532809216",
+        "location": "四川成都",
+        "name": "bubles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885609690257899520/WwBBR3dr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 10,
+          "like_count": 48,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 149
+        },
+        "username": "bubb1es_1",
+        "verified": false
+      }
+    ]
+  }
+}

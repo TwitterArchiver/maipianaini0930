@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2061087192525705495",
+    "created_at": "2026-05-31T18:14:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T19:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061149399330574740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1861020311187251200",
+          "start": 0,
+          "username": "qing9673q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061149399330574740",
+    "in_reply_to_user_id": "1861020311187251200",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061149068160836006",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qing9673q 都在图上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2061087192525705495",
+        "created_at": "2026-05-31T18:14:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061149399330574740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1861020311187251200",
+              "start": 0,
+              "username": "qing9673q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061149399330574740",
+        "in_reply_to_user_id": "1861020311187251200",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061149068160836006",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qing9673q 都在图上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861020311187251200",
+        "conversation_id": "2061087192525705495",
+        "created_at": "2026-05-31T18:13:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T19:13:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061149068160836006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061149068160836006",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061087192525705495",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 放什么？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 294,
+          "like_count": 9929,
+          "listed_count": 2,
+          "media_count": 638,
+          "tweet_count": 4189
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-25T12:13:23.000Z",
+        "description": "qing",
+        "id": "1861020311187251200",
+        "location": "稻妻",
+        "name": "情",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061147642273665024/0ICy8aY6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 163,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 13
+        },
+        "username": "qing9673q",
+        "verified": false
+      }
+    ]
+  }
+}

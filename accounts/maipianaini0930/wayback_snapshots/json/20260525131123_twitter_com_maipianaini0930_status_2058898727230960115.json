@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058446557968523264",
+        "3_2058446558597623808",
+        "3_2058446562523537408",
+        "3_2058446562267709440"
+      ],
+      "media_source_tweet_id": [
+        "2058446578134786508",
+        "2058446578134786508",
+        "2058446578134786508",
+        "2058446578134786508"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2058898727230960115",
+    "created_at": "2026-05-25T13:11:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T14:11:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058898727230960115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1408857974886522883",
+          "start": 3,
+          "username": "MalaguetaMiguel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9a4AdViCxa",
+          "end": 66,
+          "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+          "media_key": "3_2058446557968523264",
+          "start": 43,
+          "url": "https://t.co/9a4AdViCxa"
+        },
+        {
+          "display_url": "pic.x.com/9a4AdViCxa",
+          "end": 66,
+          "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+          "media_key": "3_2058446558597623808",
+          "start": 43,
+          "url": "https://t.co/9a4AdViCxa"
+        },
+        {
+          "display_url": "pic.x.com/9a4AdViCxa",
+          "end": 66,
+          "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+          "media_key": "3_2058446562523537408",
+          "start": 43,
+          "url": "https://t.co/9a4AdViCxa"
+        },
+        {
+          "display_url": "pic.x.com/9a4AdViCxa",
+          "end": 66,
+          "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+          "media_key": "3_2058446562267709440",
+          "start": 43,
+          "url": "https://t.co/9a4AdViCxa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058898727230960115",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5737
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058446578134786508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MalaguetaMiguel: \"traduzido do inglês\" https://t.co/9a4AdViCxa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 375,
+        "media_key": "3_2058446557968523264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJESPQTW4AA21bh.jpg",
+        "width": 588
+      },
+      {
+        "height": 463,
+        "media_key": "3_2058446558597623808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJESPSpWMAAumGx.jpg",
+        "width": 662
+      },
+      {
+        "height": 399,
+        "media_key": "3_2058446562523537408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJESPhRW4AA_FTx.jpg",
+        "width": 529
+      },
+      {
+        "height": 683,
+        "media_key": "3_2058446562267709440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJESPgUXQAAin2U.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058446557968523264",
+            "3_2058446558597623808",
+            "3_2058446562523537408",
+            "3_2058446562267709440"
+          ],
+          "media_source_tweet_id": [
+            "2058446578134786508",
+            "2058446578134786508",
+            "2058446578134786508",
+            "2058446578134786508"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2058898727230960115",
+        "created_at": "2026-05-25T13:11:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T14:11:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058898727230960115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1408857974886522883",
+              "start": 3,
+              "username": "MalaguetaMiguel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9a4AdViCxa",
+              "end": 66,
+              "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+              "media_key": "3_2058446557968523264",
+              "start": 43,
+              "url": "https://t.co/9a4AdViCxa"
+            },
+            {
+              "display_url": "pic.x.com/9a4AdViCxa",
+              "end": 66,
+              "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+              "media_key": "3_2058446558597623808",
+              "start": 43,
+              "url": "https://t.co/9a4AdViCxa"
+            },
+            {
+              "display_url": "pic.x.com/9a4AdViCxa",
+              "end": 66,
+              "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+              "media_key": "3_2058446562523537408",
+              "start": 43,
+              "url": "https://t.co/9a4AdViCxa"
+            },
+            {
+              "display_url": "pic.x.com/9a4AdViCxa",
+              "end": 66,
+              "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+              "media_key": "3_2058446562267709440",
+              "start": 43,
+              "url": "https://t.co/9a4AdViCxa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058898727230960115",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5737
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058446578134786508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MalaguetaMiguel: \"traduzido do inglês\" https://t.co/9a4AdViCxa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058446557968523264",
+            "3_2058446558597623808",
+            "3_2058446562523537408",
+            "3_2058446562267709440"
+          ]
+        },
+        "author_id": "1408857974886522883",
+        "conversation_id": "2058446578134786508",
+        "created_at": "2026-05-24T07:14:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T08:14:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058446578134786508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9a4AdViCxa",
+              "end": 45,
+              "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+              "media_key": "3_2058446557968523264",
+              "start": 22,
+              "url": "https://t.co/9a4AdViCxa"
+            },
+            {
+              "display_url": "pic.x.com/9a4AdViCxa",
+              "end": 45,
+              "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+              "media_key": "3_2058446558597623808",
+              "start": 22,
+              "url": "https://t.co/9a4AdViCxa"
+            },
+            {
+              "display_url": "pic.x.com/9a4AdViCxa",
+              "end": 45,
+              "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+              "media_key": "3_2058446562523537408",
+              "start": 22,
+              "url": "https://t.co/9a4AdViCxa"
+            },
+            {
+              "display_url": "pic.x.com/9a4AdViCxa",
+              "end": 45,
+              "expanded_url": "https://x.com/MalaguetaMiguel/status/2058446578134786508/photo/1",
+              "media_key": "3_2058446562267709440",
+              "start": 22,
+              "url": "https://t.co/9a4AdViCxa"
+            },
+            {
+              "display_url": "x.com/tayrilivia/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/tayrilivia/status/1986277546258792475",
+              "start": 46,
+              "url": "https://t.co/ltqcz6xg3m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058446578134786508",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 416,
+          "impression_count": 403514,
+          "like_count": 47855,
+          "quote_count": 9,
+          "reply_count": 53,
+          "retweet_count": 5737
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986277546258792475",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "\"traduzido do inglês\" https://t.co/9a4AdViCxa https://t.co/ltqcz6xg3m"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 285,
+          "like_count": 9737,
+          "listed_count": 2,
+          "media_count": 618,
+          "tweet_count": 4059
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-26T18:41:44.000Z",
+        "description": "22\n//\nFather your honor, may I explain; My brain has claimed it's glory over me.\nㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\nFantasma do @MalaguetaLuis",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 112,
+                "username": "MalaguetaLuis"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ele.dele.com",
+                "end": 23,
+                "expanded_url": "http://ele.dele.com",
+                "start": 0,
+                "url": "https://t.co/juzuwAa8Eb"
+              }
+            ]
+          }
+        },
+        "id": "1408857974886522883",
+        "location": "Tomara que eu morra logo logo.",
+        "name": "Luis Miguel O ÚNICO☭",
+        "pinned_tweet_id": "2056953156794249496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032251525867655169/WXWEUOcx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 781,
+          "like_count": 92568,
+          "listed_count": 1,
+          "media_count": 1462,
+          "tweet_count": 44163
+        },
+        "url": "https://t.co/juzuwAa8Eb",
+        "username": "MalaguetaMiguel",
+        "verified": false
+      }
+    ]
+  }
+}

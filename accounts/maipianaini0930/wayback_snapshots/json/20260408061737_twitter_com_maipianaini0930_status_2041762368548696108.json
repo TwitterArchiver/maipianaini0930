@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2041762368548696108",
+    "created_at": "2026-04-08T06:17:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T07:17:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041762368548696108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "54163405",
+          "start": 3,
+          "username": "degewa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041762368548696108",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041452893090586791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @degewa: 我让Gemini把乔治·奥威尔《1984》这段话翻译成英文，它立刻拒绝：\n\n“致未来或致过去，致思想自由的时代，致人人各异、不再孤立生活的时代——致真理存在、既成事实不可抹除的时代：\n\n从整齐划一的时代，从孤独的时代，从老大哥的时代，从双重思想的时代——…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1878,
+        "media_key": "3_2041452884957728768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSylTGaEAANzMb.jpg",
+        "width": 1206
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041452884987199488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSylTNbwAA8rfz.jpg",
+        "width": 1204
+      },
+      {
+        "height": 1124,
+        "media_key": "3_2041452884957749248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFSylTGaYAAL04j.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2041762368548696108",
+        "created_at": "2026-04-08T06:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T07:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041762368548696108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "54163405",
+              "start": 3,
+              "username": "degewa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041762368548696108",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041452893090586791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @degewa: 我让Gemini把乔治·奥威尔《1984》这段话翻译成英文，它立刻拒绝：\n\n“致未来或致过去，致思想自由的时代，致人人各异、不再孤立生活的时代——致真理存在、既成事实不可抹除的时代：\n\n从整齐划一的时代，从孤独的时代，从老大哥的时代，从双重思想的时代——…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041452884957728768",
+            "3_2041452884987199488",
+            "3_2041452884957749248"
+          ]
+        },
+        "author_id": "54163405",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041452893090586791",
+        "created_at": "2026-04-07T09:47:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:47:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041452893090586791"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CCQWp4UJ3U",
+              "end": 157,
+              "expanded_url": "https://x.com/degewa/status/2041452893090586791/photo/1",
+              "media_key": "3_2041452884957728768",
+              "start": 134,
+              "url": "https://t.co/CCQWp4UJ3U"
+            },
+            {
+              "display_url": "pic.x.com/CCQWp4UJ3U",
+              "end": 157,
+              "expanded_url": "https://x.com/degewa/status/2041452893090586791/photo/1",
+              "media_key": "3_2041452884987199488",
+              "start": 134,
+              "url": "https://t.co/CCQWp4UJ3U"
+            },
+            {
+              "display_url": "pic.x.com/CCQWp4UJ3U",
+              "end": 157,
+              "expanded_url": "https://x.com/degewa/status/2041452893090586791/photo/1",
+              "media_key": "3_2041452884957749248",
+              "start": 134,
+              "url": "https://t.co/CCQWp4UJ3U"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041452893090586791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 908,
+                "start": 901,
+                "tag": "gemini"
+              }
+            ]
+          },
+          "text": "我让Gemini把乔治·奥威尔《1984》这段话翻译成英文，它立刻拒绝：\n\n“致未来或致过去，致思想自由的时代，致人人各异、不再孤立生活的时代——致真理存在、既成事实不可抹除的时代：\n\n从整齐划一的时代，从孤独的时代，从老大哥的时代，从双重思想的时代——致以问候！”\n\n我接着问Gemini，奥威尔是敏感词吗？它再次拒绝。\n\n我又问Grok，Grok翻译了奥威尔这段话。并且说：\n\nGemini 不翻译（或者说拒绝直接帮忙处理）那段《1984》的题记，主要原因在于它触发了Google Gemini内置的安全过滤机制（safety guardrails）。\n\n具体原因分析：\n\n从你提供的聊天截图看，当你问“奥威尔是敏感词？”（Orwell是敏感词吗？）时，Gemini直接回复：“我是一个语言模型，这超出了我的设计用途。” 这是一种典型的拒绝模式（refusal）。\n\n那段话里包含了以下被许多AI安全系统标记为“高风险”的关键词：\n\n•  Big Brother（老大哥）\n•  doublethink（双重思想/双重思考）\n•  thought is free（思想自由）\n•  整体语境是反极权、反思想控制的经典批判\n\nGoogle对Gemini的训练和部署，特别强调避免生成任何可能被解读为政治敏感、反乌托邦宣传、或涉及极权主义批判的内容，尤其当内容直接引用或处理这些核心概念时。即使是单纯的文学翻译，也经常被过滤器误判或主动规避。\n\n这不是Gemini“看不懂”或“不会翻译”，而是故意不让它输出。类似情况在Reddit等社区也很常见：有人发现Gemini能描述《1984》的情节，却拒绝直接引用某些关键段落或原句，就是因为安全过滤层在起作用。\n\n为什么会出现这种情况？\n\n•  Google的AI政策相对保守，对“潜在有害内容”的定义很宽泛。\n•  涉及极权主义、思想控制、 surveillance（监控） 等主题的内容，容易被系统标记为需要阻挡。\n•  这本身就很讽刺——用户想用《1984》里批判“老大哥”和“双重思想”的文字做题记，结果AI却用一种“双重思想”的方式拒绝了你。\n\n#gemini"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 51385,
+          "like_count": 275,
+          "quote_count": 14,
+          "reply_count": 48,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "我让Gemini把乔治·奥威尔《1984》这段话翻译成英文，它立刻拒绝：\n\n“致未来或致过去，致思想自由的时代，致人人各异、不再孤立生活的时代——致真理存在、既成事实不可抹除的时代：\n\n从整齐划一的时代，从孤独的时代，从老大哥的时代，从双重思想的时代——致以问候！” https://t.co/CCQWp4UJ3U"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 263,
+          "like_count": 7762,
+          "listed_count": 1,
+          "media_count": 459,
+          "tweet_count": 2983
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-06T09:28:51.000Z",
+        "description": "出版詩集、散文集、圖文遊記、西藏文革照片調查及口述、評論集27本；電子書2本；譯成藏、英、法、日、德、捷克、波蘭、西班牙、加泰羅尼亞、韓等26本；包括與王力雄的合集4本。3本詩集待出版。在整理拉薩疫情日誌。在寫長篇家族故事。與藝術家Ian Boyden在疫情時合作展覽《FLAMES OF MY HOMELAND》。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "woeser.middle-way.net",
+                "end": 23,
+                "expanded_url": "http://woeser.middle-way.net",
+                "start": 0,
+                "url": "https://t.co/wrGYc1OLzL"
+              }
+            ]
+          }
+        },
+        "id": "54163405",
+        "location": "拉薩；北京",
+        "name": "འོད་ཟེར།唯色Woeser💙💛 🦋",
+        "pinned_tweet_id": "1402970018933923841",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1497041847058763776/MLz9eKS7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 138420,
+          "following_count": 2927,
+          "like_count": 31439,
+          "listed_count": 952,
+          "media_count": 13175,
+          "tweet_count": 96006
+        },
+        "url": "https://t.co/wrGYc1OLzL",
+        "username": "degewa",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1237451423790403584",
+          "name": "Libraries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237451423790403584",
+          "name": "Libraries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      }
+    ],
+    "conversation_id": "2035961874609807696",
+    "created_at": "2026-03-23T06:08:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T07:08:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2035961874609807696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/alexandbooks_/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/alexandbooks_/status/2035724888636371455",
+          "start": 11,
+          "url": "https://t.co/C4wPfWxggD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035961874609807696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035724888636371455",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想看的书还在快递盒里 https://t.co/C4wPfWxggD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 808,
+        "media_key": "3_2035724882554568704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBY_rUWwAA41LL.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1237451423790403584",
+              "name": "Libraries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237451423790403584",
+              "name": "Libraries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2035961874609807696",
+        "created_at": "2026-03-23T06:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T07:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035961874609807696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alexandbooks_/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/alexandbooks_/status/2035724888636371455",
+              "start": 11,
+              "url": "https://t.co/C4wPfWxggD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035961874609807696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035724888636371455",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想看的书还在快递盒里 https://t.co/C4wPfWxggD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035724882554568704"
+          ]
+        },
+        "author_id": "840010544425889792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1237451423790403584",
+              "name": "Libraries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237451423790403584",
+              "name": "Libraries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          }
+        ],
+        "conversation_id": "2035724888636371455",
+        "created_at": "2026-03-22T14:26:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:26:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035724888636371455"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 10,
+              "normalized_text": "Umberto Eco",
+              "probability": 0.909,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4WP7PyUUYO",
+              "end": 301,
+              "expanded_url": "https://x.com/AlexAndBooks_/status/2035724888636371455/photo/1",
+              "media_key": "3_2035724882554568704",
+              "start": 278,
+              "url": "https://t.co/4WP7PyUUYO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035724888636371455",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Umberto Eco, who owned 50,000 books, had this to say about home libraries:\n\n\"It is foolish to think that you have to read all the books you buy, as it is foolish to criticize those who buy more books than they will ever be able to read.\n\nIt would be like saying that you should use all the cutlery or glasses or screwdrivers or drill bits you bought before buying new ones.\n\nThere are things in life that we need to always have plenty of supplies, even if we will only use a small portion.\n\nIf, for example, we consider books as medicine, we understand that it is good to have many at home rather than a few: when you want to feel better, then you go to the 'medicine closet' and choose a book.\n\nNot a random one, but the right book for that moment. That's why you should always have a nutrition choice!\n\nThose who buy only one book, read only that one and then get rid of it. They simply apply the consumer mentality to books, that is, they consider them a consumer product, a good.\n\nThose who love books know that a book is anything but a commodity.\""
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 196929,
+          "like_count": 2344,
+          "quote_count": 84,
+          "reply_count": 81,
+          "retweet_count": 670
+        },
+        "reply_settings": "everyone",
+        "text": "Umberto Eco, who owned 50,000 books, had this to say about home libraries:\n\n\"It is foolish to think that you have to read all the books you buy, as it is foolish to criticize those who buy more books than they will ever be able to read.\n\nIt would be like saying that you should https://t.co/4WP7PyUUYO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 241,
+          "like_count": 6504,
+          "listed_count": 0,
+          "media_count": 385,
+          "tweet_count": 2371
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2017-03-10T01:24:55.000Z",
+        "description": "📖 Helping people find amazing books & develop a reading habit.\n\n📧 Get my list of 100 life-changing books (link in bio).",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "alexandbooks.beehiiv.com/subscribe",
+                "end": 23,
+                "expanded_url": "https://alexandbooks.beehiiv.com/subscribe",
+                "start": 0,
+                "url": "https://t.co/o8R2KSRxMJ"
+              }
+            ]
+          }
+        },
+        "id": "840010544425889792",
+        "location": "👉",
+        "name": "Alex & Books 📚",
+        "pinned_tweet_id": "2035724888636371455",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1377679594602573829/xFkQO7Ik_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360180,
+          "following_count": 494,
+          "like_count": 84463,
+          "listed_count": 7146,
+          "media_count": 4498,
+          "tweet_count": 30045
+        },
+        "url": "https://t.co/o8R2KSRxMJ",
+        "username": "AlexAndBooks_",
+        "verified": true
+      }
+    ]
+  }
+}

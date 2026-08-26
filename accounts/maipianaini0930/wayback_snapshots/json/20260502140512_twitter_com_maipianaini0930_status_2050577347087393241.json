@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2048442501552607275",
+    "created_at": "2026-05-02T14:05:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-02T15:05:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050577347087393241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1891848716023422976",
+          "start": 0,
+          "username": "AORINGO_nemuru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050577347087393241",
+    "in_reply_to_user_id": "1891848716023422976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048442501552607275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AORINGO_nemuru 100站"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048442488822853632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2HlykacAAGwit.jpg",
+        "width": 1536
+      },
+      {
+        "height": 382,
+        "media_key": "3_2048442488818630656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG2HlyjaAAAO2Jn.jpg",
+        "width": 679
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2048442501552607275",
+        "created_at": "2026-05-02T14:05:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T15:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050577347087393241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891848716023422976",
+              "start": 0,
+              "username": "AORINGO_nemuru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050577347087393241",
+        "in_reply_to_user_id": "1891848716023422976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048442501552607275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AORINGO_nemuru 100站"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048442488822853632",
+            "3_2048442488818630656"
+          ]
+        },
+        "author_id": "1891848716023422976",
+        "conversation_id": "2048442501552607275",
+        "created_at": "2026-04-26T16:42:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T17:42:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048442501552607275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TgLABoFojc",
+              "end": 35,
+              "expanded_url": "https://x.com/AORINGO_nemuru/status/2048442501552607275/photo/1",
+              "media_key": "3_2048442488822853632",
+              "start": 12,
+              "url": "https://t.co/TgLABoFojc"
+            },
+            {
+              "display_url": "pic.x.com/TgLABoFojc",
+              "end": 35,
+              "expanded_url": "https://x.com/AORINGO_nemuru/status/2048442501552607275/photo/1",
+              "media_key": "3_2048442488818630656",
+              "start": 12,
+              "url": "https://t.co/TgLABoFojc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048442501552607275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 860,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你换了几站，我继续流浪 https://t.co/TgLABoFojc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 273,
+          "like_count": 9045,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 3475
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-18T13:54:55.000Z",
+        "description": "冰块儿 | 神堕｜欲望,暴力,自由｜神聖かまってちゃん♡｜*裏垢 @uni_wwwww",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 43,
+                "start": 33,
+                "username": "uni_wwwww"
+              }
+            ]
+          }
+        },
+        "id": "1891848716023422976",
+        "location": "🚪50/88/150",
+        "name": "青林檎",
+        "pinned_tweet_id": "2005650298598289578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044971844642775042/k4QuHVS2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 240,
+          "like_count": 12604,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1202
+        },
+        "username": "AORINGO_nemuru",
+        "verified": false
+      }
+    ]
+  }
+}

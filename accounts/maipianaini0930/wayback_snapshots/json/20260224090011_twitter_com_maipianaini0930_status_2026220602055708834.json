@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026219237422076245",
+    "created_at": "2026-02-24T09:00:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T10:00:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026220602055708834"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026220602055708834",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026219697524654300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高中军训的时候，会让所有人每天中午回铺睡一会，因为这个规定我直接一周没洗澡，我只面临两种选择，要么洗的干干净净，要么就不洗。洗的很干净回来又得躺在浸有中午汗渍体油的地方这种感觉躺着也会让我觉得处处受限翻动都变得极其困难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026219237422076245",
+        "created_at": "2026-02-24T09:00:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:00:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026220602055708834"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026220602055708834",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026219697524654300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高中军训的时候，会让所有人每天中午回铺睡一会，因为这个规定我直接一周没洗澡，我只面临两种选择，要么洗的干干净净，要么就不洗。洗的很干净回来又得躺在浸有中午汗渍体油的地方这种感觉躺着也会让我觉得处处受限翻动都变得极其困难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026219237422076245",
+        "created_at": "2026-02-24T08:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T09:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026219697524654300"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026219697524654300",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026219237422076245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "床必须是最干净的地方，只有洗过澡才能待在上面。所以有些不清楚我卫生习惯的人来家里就很自然地坐在我床上，我脑子瞬间就宕机了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 212,
+          "like_count": 4721,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1466
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

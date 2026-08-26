@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2030588724065759629",
+    "created_at": "2026-03-08T10:38:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T11:38:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030593996696002772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1493601466346610712",
+          "start": 0,
+          "username": "basilbakery1127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030593996696002772",
+    "in_reply_to_user_id": "1493601466346610712",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030591616571117956",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@basilbakery1127 ✅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2030588724065759629",
+        "created_at": "2026-03-08T10:38:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:38:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030593996696002772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1493601466346610712",
+              "start": 0,
+              "username": "basilbakery1127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030593996696002772",
+        "in_reply_to_user_id": "1493601466346610712",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030591616571117956",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@basilbakery1127 ✅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493601466346610712",
+        "conversation_id": "2030588724065759629",
+        "created_at": "2026-03-08T10:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T11:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030591616571117956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030591616571117956",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030588724065759629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 生活必需品"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 214,
+          "like_count": 5629,
+          "listed_count": 0,
+          "media_count": 287,
+          "tweet_count": 1802
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-15T15:02:03.000Z",
+        "description": "擁抱重度依賴。 sub/nonbinary",
+        "id": "1493601466346610712",
+        "name": "Yui✝️",
+        "pinned_tweet_id": "2020193312125460877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029175526628433921/3yhM3oDr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 227,
+          "like_count": 1279,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 843
+        },
+        "username": "basilbakery1127",
+        "verified": false
+      }
+    ]
+  }
+}

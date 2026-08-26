@@ -1,0 +1,168 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2036639107099816276",
+    "created_at": "2026-03-25T03:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T04:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036640053942985196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1631887345804013568",
+          "start": 0,
+          "username": "yoru_exe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036640053942985196",
+    "in_reply_to_user_id": "1631887345804013568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036639107099816276",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoru_exe 😼"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2036639107099816276].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2036639107099816276",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2036639107099816276"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2036639107099816276",
+        "created_at": "2026-03-25T03:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T04:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036640053942985196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1631887345804013568",
+              "start": 0,
+              "username": "yoru_exe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036640053942985196",
+        "in_reply_to_user_id": "1631887345804013568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036639107099816276",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoru_exe 😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 286,
+          "following_count": 247,
+          "like_count": 6643,
+          "listed_count": 0,
+          "media_count": 395,
+          "tweet_count": 2428
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T05:21:59.000Z",
+        "description": "雑多垢(個人的な話とか多い)聾唖@obsession_exeのサブ※フォローは自己責任で‼️自分知らんもね\n\n‼️通知オフ推奨‼️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "obsession_exe"
+              }
+            ]
+          }
+        },
+        "id": "1631887345804013568",
+        "name": "エキサイティング寝床命ぴにゃーた",
+        "pinned_tweet_id": "2031268408503972243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031183659580170240/-giCpACv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 63,
+          "like_count": 4128,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2101
+        },
+        "username": "yoru_exe",
+        "verified": false
+      }
+    ]
+  }
+}

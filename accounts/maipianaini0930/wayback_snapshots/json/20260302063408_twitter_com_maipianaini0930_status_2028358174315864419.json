@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028275720074772486",
+    "created_at": "2026-03-02T06:34:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T07:34:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028358174315864419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028358174315864419",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028275720074772486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina 祝好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2028275704023187457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXiAazbgAER-Dj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2028275703779909632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCXiAZ5bYAA9P0x.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028275720074772486",
+        "created_at": "2026-03-02T06:34:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T07:34:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028358174315864419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028358174315864419",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028275720074772486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 祝好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028275704023187457",
+            "3_2028275703779909632"
+          ]
+        },
+        "author_id": "1869440990970556416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2028275720074772486",
+        "created_at": "2026-03-02T01:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028275720074772486"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/elUjBI3aqT",
+              "end": 166,
+              "expanded_url": "https://x.com/SnowfairySerina/status/2028275720074772486/photo/1",
+              "media_key": "3_2028275704023187457",
+              "start": 143,
+              "url": "https://t.co/elUjBI3aqT"
+            },
+            {
+              "display_url": "pic.x.com/elUjBI3aqT",
+              "end": 166,
+              "expanded_url": "https://x.com/SnowfairySerina/status/2028275720074772486/photo/1",
+              "media_key": "3_2028275703779909632",
+              "start": 143,
+              "url": "https://t.co/elUjBI3aqT"
+            },
+            {
+              "display_url": "x.com/SnowfairySerin…",
+              "end": 190,
+              "expanded_url": "https://twitter.com/SnowfairySerina/status/2028261342730412160",
+              "start": 167,
+              "url": "https://t.co/itt56ZKPRp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028275720074772486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1011,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028261342730412160",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们，出发吧。\n二十年前在饭桌边因为吃得慢被打的那个孩子仍然在我心里，她会和我一起前行。\n十年前在课桌旁因为不会习题被撕作业的那个孩子也在我心里，她也会和我同行。\n三年前开始跨的我，两年前为了隐瞒而自断长发的我，一年前搬空家具清除怀疑的我，都和我前行。\n我们没有失败，我们前方是星空。 https://t.co/elUjBI3aqT https://t.co/itt56ZKPRp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 220,
+          "like_count": 5186,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 1648
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "行可行之处，伴旅人之舟。在数字荒原里，种下星空绿洲。//如果你使用我的推文用来佐证你的政治立场或揣测我的政治倾向，你会被立刻屏蔽。不要让政治污染我的海畔小屋。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "location": "摄平星系 清江海畔 古城高川",
+        "name": "⛩️摇光的市隐日记⭐ || 旅者星辰",
+        "pinned_tweet_id": "2028354131963060478",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969068756061323264/fJoUuOUi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 951,
+          "following_count": 1004,
+          "like_count": 3498,
+          "listed_count": 3,
+          "media_count": 598,
+          "tweet_count": 4623
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false
+      }
+    ]
+  }
+}

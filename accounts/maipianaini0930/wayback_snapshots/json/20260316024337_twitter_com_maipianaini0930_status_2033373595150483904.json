@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2033373595150483904",
+    "created_at": "2026-03-16T02:43:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T03:43:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033373595150483904"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1987138845058736133",
+          "start": 3,
+          "username": "maipianaini0930"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033373595150483904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021269182323564848",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maipianaini0930: 跟AI聊了会天，他还是无法让我接受忍受困境、我的政治性抑郁、失志、绝望在今天一齐万马齐喑地奔涌喷泄出来，我难过，自毁犯罪的冲动急不可耐。去朋友那过年很好，但她男朋友在，如果有花不完的钱我会全用来买酒，呆在一个有安全感的地方通宵达旦地醉生…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2033373595150483904",
+        "created_at": "2026-03-16T02:43:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T03:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033373595150483904"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1987138845058736133",
+              "start": 3,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033373595150483904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021269182323564848",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maipianaini0930: 跟AI聊了会天，他还是无法让我接受忍受困境、我的政治性抑郁、失志、绝望在今天一齐万马齐喑地奔涌喷泄出来，我难过，自毁犯罪的冲动急不可耐。去朋友那过年很好，但她男朋友在，如果有花不完的钱我会全用来买酒，呆在一个有安全感的地方通宵达旦地醉生…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021269182323564848",
+        "created_at": "2026-02-10T17:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T18:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021269182323564848"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2021269182323564848",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 392,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "跟AI聊了会天，他还是无法让我接受忍受困境、我的政治性抑郁、失志、绝望在今天一齐万马齐喑地奔涌喷泄出来，我难过，自毁犯罪的冲动急不可耐。去朋友那过年很好，但她男朋友在，如果有花不完的钱我会全用来买酒，呆在一个有安全感的地方通宵达旦地醉生梦死是我目前最渴望的生活"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 235,
+          "like_count": 5886,
+          "listed_count": 0,
+          "media_count": 325,
+          "tweet_count": 2015
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

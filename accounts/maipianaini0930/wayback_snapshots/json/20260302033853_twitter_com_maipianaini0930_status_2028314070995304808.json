@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028041578946711552"
+      ],
+      "media_source_tweet_id": [
+        "2028162349647986839"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "New York City",
+          "id": "907978531350519809",
+          "name": "New York City"
+        }
+      }
+    ],
+    "conversation_id": "2028314070995304808",
+    "created_at": "2026-03-02T03:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T04:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028314070995304808"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 99,
+          "normalized_text": "New York City",
+          "probability": 0.9774,
+          "start": 87,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1720152282",
+          "start": 3,
+          "username": "ultras_antifaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/nqv7ME3y8E",
+          "end": 132,
+          "expanded_url": "https://x.com/ultras_antifaa/status/2028162349647986839/photo/1",
+          "media_key": "3_2028041578946711552",
+          "start": 109,
+          "url": "https://t.co/nqv7ME3y8E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028314070995304808",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 672
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028162349647986839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ultras_antifaa: \"You can't eat money... but you can eat the rich\" \n\nSpotted in the New York City subway. https://t.co/nqv7ME3y8E"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 809,
+        "media_key": "3_2028041578946711552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCUNEi7XUAA6qtp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028041578946711552"
+          ],
+          "media_source_tweet_id": [
+            "2028162349647986839"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "2028314070995304808",
+        "created_at": "2026-03-02T03:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028314070995304808"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 99,
+              "normalized_text": "New York City",
+              "probability": 0.9774,
+              "start": 87,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1720152282",
+              "start": 3,
+              "username": "ultras_antifaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqv7ME3y8E",
+              "end": 132,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2028162349647986839/photo/1",
+              "media_key": "3_2028041578946711552",
+              "start": 109,
+              "url": "https://t.co/nqv7ME3y8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028314070995304808",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 672
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028162349647986839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ultras_antifaa: \"You can't eat money... but you can eat the rich\" \n\nSpotted in the New York City subway. https://t.co/nqv7ME3y8E"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028041578946711552"
+          ]
+        },
+        "author_id": "1720152282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "New York City",
+              "id": "907978531350519809",
+              "name": "New York City"
+            }
+          }
+        ],
+        "conversation_id": "2028162349647986839",
+        "created_at": "2026-03-01T17:36:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-01T18:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028162349647986839"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 79,
+              "normalized_text": "New York City",
+              "probability": 0.9807,
+              "start": 67,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nqv7ME3y8E",
+              "end": 112,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2028162349647986839/photo/1",
+              "media_key": "3_2028041578946711552",
+              "start": 89,
+              "url": "https://t.co/nqv7ME3y8E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028162349647986839",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 86,
+          "impression_count": 35836,
+          "like_count": 7806,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 672
+        },
+        "reply_settings": "everyone",
+        "text": "\"You can't eat money... but you can eat the rich\" \n\nSpotted in the New York City subway. https://t.co/nqv7ME3y8E"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 218,
+          "like_count": 5155,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 1635
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-01T20:45:02.000Z",
+        "description": "An international Antifa collective sharing news, photos, and sports from different countries. Message us to join our matchday activities.\nOther: @internaciultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "internaciultra"
+              }
+            ]
+          }
+        },
+        "id": "1720152282",
+        "name": "Antifa_Ultras",
+        "pinned_tweet_id": "2028110027643609196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952318050063052800/nOPRDmI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239248,
+          "following_count": 1,
+          "like_count": 515,
+          "listed_count": 1047,
+          "media_count": 50644,
+          "tweet_count": 56677
+        },
+        "username": "ultras_antifaa",
+        "verified": true
+      }
+    ]
+  }
+}

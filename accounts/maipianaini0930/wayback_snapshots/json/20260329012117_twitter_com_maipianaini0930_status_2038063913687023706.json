@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037808370640658717",
+    "created_at": "2026-03-29T01:21:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T02:21:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038063913687023706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1516581658115272708",
+          "start": 0,
+          "username": "partialblessing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038063913687023706",
+    "in_reply_to_user_id": "1516581658115272708",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038058347396841874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partialblessing 我还以为是你临时用ai生成的呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037808370640658717",
+        "created_at": "2026-03-29T01:21:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T02:21:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038063913687023706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1516581658115272708",
+              "start": 0,
+              "username": "partialblessing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038063913687023706",
+        "in_reply_to_user_id": "1516581658115272708",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038058347396841874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partialblessing 我还以为是你临时用ai生成的呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1516581658115272708",
+        "conversation_id": "2037808370640658717",
+        "created_at": "2026-03-29T00:59:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:59:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038058347396841874"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038058347396841874",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038055956702196134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 恰巧有这张图啦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 251,
+          "like_count": 7015,
+          "listed_count": 0,
+          "media_count": 431,
+          "tweet_count": 2637
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-20T00:57:13.000Z",
+        "description": "ZH/EN/FY, learning DE/mathematics, want to learn JP/FR/piano.",
+        "id": "1516581658115272708",
+        "location": "Schelling Time",
+        "name": "claude",
+        "pinned_tweet_id": "2027809500716253460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037349713926840320/KO4_SZqN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 1419,
+          "like_count": 28412,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1381
+        },
+        "username": "partialblessing",
+        "verified": false
+      }
+    ]
+  }
+}

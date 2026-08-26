@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2019109293887565973",
+    "created_at": "2026-02-04T18:13:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T19:13:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019112029190324445"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2019112029190324445",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019109293887565973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "现在就另当别论了，砸烂他之前你们有重建它的决策吗，但不代表就应该不砸烂他，构思出路"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2019109293887565973",
+        "created_at": "2026-02-04T18:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019112029190324445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019112029190324445",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019109293887565973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "现在就另当别论了，砸烂他之前你们有重建它的决策吗，但不代表就应该不砸烂他，构思出路"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2019109293887565973",
+        "created_at": "2026-02-04T18:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T19:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019109293887565973"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2019109293887565973",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我自豪自己是华夏民族的子孙就像一个斯拉夫人同样自豪自己情感细腻每天狂饮伏特加一样，我钦佩这个民族在无数次多难兴邦后依旧能振作起来，尽管封建王朝、尽管无情排外，但对待苦难有一种执着的抵抗态度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2019095214569451732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 218,
+          "like_count": 3779,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1196
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

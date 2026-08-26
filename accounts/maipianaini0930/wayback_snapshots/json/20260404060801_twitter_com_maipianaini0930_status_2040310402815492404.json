@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040309044150419753",
+    "created_at": "2026-04-04T06:08:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T07:08:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040310402815492404"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040310402815492404",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040309044150419753",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "让我坐时光机穿越回60年代的美国吧我不要去古巴和苏联东欧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2040309036328124416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFCiQi5bgAAlGb3.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040309044150419753",
+        "created_at": "2026-04-04T06:08:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040310402815492404"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040310402815492404",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040309044150419753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "让我坐时光机穿越回60年代的美国吧我不要去古巴和苏联东欧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040309036328124416"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040309044150419753",
+        "created_at": "2026-04-04T06:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T07:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040309044150419753"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uYC0v9WHFN",
+              "end": 159,
+              "expanded_url": "https://x.com/maipianaini0930/status/2040309044150419753/photo/1",
+              "media_key": "3_2040309036328124416",
+              "start": 136,
+              "url": "https://t.co/uYC0v9WHFN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040309044150419753",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃\n60年前50美分够你吃个加满料的推车热狗（酸菜、黄芥末、面包皮烤的又脆又香）往返地铁去coney island转转\n\n简直不敢想象，我特别怀念二战结束后15到50年那段日子。但当时的人也有属于那一代的烦恼，那就是核战争。但现在又未尝能不担心呢，哈梅内伊和金正恩两个逼 https://t.co/uYC0v9WHFN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "注射死刑",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 251,
+          "like_count": 7531,
+          "listed_count": 0,
+          "media_count": 428,
+          "tweet_count": 2858
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

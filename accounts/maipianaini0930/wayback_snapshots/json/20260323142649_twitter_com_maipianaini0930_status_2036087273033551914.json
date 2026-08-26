@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2035958408596128058",
+    "created_at": "2026-03-23T14:26:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T15:26:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036087273033551914"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1728656771735273472",
+          "start": 0,
+          "username": "amiercreer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036087273033551914",
+    "in_reply_to_user_id": "1728656771735273472",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036087030212366798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amiercreer 因为我看过一部讲汪政权和76号的纪录片所以对这个人印象深"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2035958408596128058",
+        "created_at": "2026-03-23T14:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036087273033551914"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1728656771735273472",
+              "start": 0,
+              "username": "amiercreer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036087273033551914",
+        "in_reply_to_user_id": "1728656771735273472",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036087030212366798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amiercreer 因为我看过一部讲汪政权和76号的纪录片所以对这个人印象深"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1728656771735273472",
+        "conversation_id": "2035958408596128058",
+        "created_at": "2026-03-23T14:25:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T15:25:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036087030212366798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036087030212366798",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035981078348103795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 他在这就是背景板 主要还是看女孩子们的故事"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 241,
+          "like_count": 6531,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 2381
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-26T06:07:58.000Z",
+        "description": "你既怕又何必想，你既想又何必怕@yannan74713我的幕后",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 15,
+                "username": "yannan74713"
+              }
+            ]
+          }
+        },
+        "id": "1728656771735273472",
+        "name": "Hermaphroditus🎀",
+        "pinned_tweet_id": "1765721690301219061",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893501220620509186/59T8Mbft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3775,
+          "following_count": 378,
+          "like_count": 13819,
+          "listed_count": 8,
+          "media_count": 794,
+          "tweet_count": 6172
+        },
+        "username": "amiercreer",
+        "verified": false
+      }
+    ]
+  }
+}

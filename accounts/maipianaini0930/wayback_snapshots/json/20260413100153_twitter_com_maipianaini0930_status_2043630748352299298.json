@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043630740416684032"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2043630748352299298",
+    "created_at": "2026-04-13T10:01:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T11:01:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043630748352299298"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Murderpedia, the free online encyclopedic dictionary of murderers, mass murderers and serial killers.",
+          "display_url": "murderpedia.org",
+          "end": 27,
+          "expanded_url": "https://murderpedia.org/",
+          "start": 4,
+          "status": 200,
+          "title": "Murderpedia, the encyclopedia of murderers",
+          "unwound_url": "https://murderpedia.org/",
+          "url": "https://t.co/02tkzbmzLQ"
+        },
+        {
+          "display_url": "pic.x.com/ADX166aNbt",
+          "end": 51,
+          "expanded_url": "https://x.com/maipianaini0930/status/2043630748352299298/photo/1",
+          "media_key": "3_2043630740416684032",
+          "start": 28,
+          "url": "https://t.co/ADX166aNbt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043630748352299298",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好玩的：https://t.co/02tkzbmzLQ https://t.co/ADX166aNbt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2043630740416684032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFxvVK6a4AAXtln.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043630740416684032"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2043630748352299298",
+        "created_at": "2026-04-13T10:01:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T11:01:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043630748352299298"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Murderpedia, the free online encyclopedic dictionary of murderers, mass murderers and serial killers.",
+              "display_url": "murderpedia.org",
+              "end": 27,
+              "expanded_url": "https://murderpedia.org/",
+              "start": 4,
+              "status": 200,
+              "title": "Murderpedia, the encyclopedia of murderers",
+              "unwound_url": "https://murderpedia.org/",
+              "url": "https://t.co/02tkzbmzLQ"
+            },
+            {
+              "display_url": "pic.x.com/ADX166aNbt",
+              "end": 51,
+              "expanded_url": "https://x.com/maipianaini0930/status/2043630748352299298/photo/1",
+              "media_key": "3_2043630740416684032",
+              "start": 28,
+              "url": "https://t.co/ADX166aNbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043630748352299298",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好玩的：https://t.co/02tkzbmzLQ https://t.co/ADX166aNbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 272,
+          "like_count": 8062,
+          "listed_count": 1,
+          "media_count": 473,
+          "tweet_count": 3079
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2021581724602286183",
+    "created_at": "2026-02-12T08:24:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T09:24:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021862991214621083"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1328537445609172992",
+          "start": 0,
+          "username": "1Fchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021862991214621083",
+    "in_reply_to_user_id": "1328537445609172992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021581724602286183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1Fchan 湖南司法司法系统........不多说"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2021581711558270977",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA4Z2xnbYAEqlAQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021581724602286183",
+        "created_at": "2026-02-12T08:24:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T09:24:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021862991214621083"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1328537445609172992",
+              "start": 0,
+              "username": "1Fchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021862991214621083",
+        "in_reply_to_user_id": "1328537445609172992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021581724602286183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1Fchan 湖南司法司法系统........不多说"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021581711558270977"
+          ]
+        },
+        "author_id": "1328537445609172992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2021581724602286183",
+        "created_at": "2026-02-11T13:46:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T14:46:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021581724602286183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iVaZ6MWkcG",
+              "end": 33,
+              "expanded_url": "https://x.com/1Fchan/status/2021581724602286183/photo/1",
+              "media_key": "3_2021581711558270977",
+              "start": 10,
+              "url": "https://t.co/iVaZ6MWkcG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021581724602286183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 24211,
+          "like_count": 157,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "听说这个是长沙特产 https://t.co/iVaZ6MWkcG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 218,
+          "like_count": 4052,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1282
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-17T03:16:38.000Z",
+        "description": "这里是F酱⭐️｜我永远喜欢西魔幽💜｜有四只耳朵🐱｜NMLG-B｜摄影器材师｜索尼大法好｜欢迎找我聊酒店飞机铁道｜梦想是财务自由",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fchyan",
+                "end": 23,
+                "expanded_url": "https://t.me/fchyan",
+                "start": 0,
+                "url": "https://t.co/RgOsWOv3jo"
+              }
+            ]
+          }
+        },
+        "id": "1328537445609172992",
+        "location": "22°33′32″N, 114°07′40″E",
+        "name": "Fchan",
+        "pinned_tweet_id": "1777335652323045399",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006318913433571328/LgOQdNX9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6221,
+          "following_count": 1069,
+          "like_count": 8859,
+          "listed_count": 10,
+          "media_count": 565,
+          "tweet_count": 4992
+        },
+        "url": "https://t.co/RgOsWOv3jo",
+        "username": "1Fchan",
+        "verified": false
+      }
+    ]
+  }
+}

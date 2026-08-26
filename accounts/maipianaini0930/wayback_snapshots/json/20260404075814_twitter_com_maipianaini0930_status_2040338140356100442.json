@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040338037884985855",
+    "created_at": "2026-04-04T07:58:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T08:58:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040338140356100442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1435955648366219266",
+          "start": 0,
+          "username": "aJ51888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040338140356100442",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040338037884985855",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aJ51888"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2040338028502433792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFC8oHKbwAAeoam.jpg",
+        "width": 750
+      },
+      {
+        "height": 211,
+        "media_key": "3_2040338028439478272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFC8oG7bIAADLyy.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040338037884985855",
+        "created_at": "2026-04-04T07:58:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:58:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040338140356100442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1435955648366219266",
+              "start": 0,
+              "username": "aJ51888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040338140356100442",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040338037884985855",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aJ51888"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040338028502433792",
+            "3_2040338028439478272"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040338037884985855",
+        "created_at": "2026-04-04T07:57:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040338037884985855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0I93y5sE4K",
+              "end": 58,
+              "expanded_url": "https://x.com/maipianaini0930/status/2040338037884985855/photo/1",
+              "media_key": "3_2040338028502433792",
+              "start": 35,
+              "url": "https://t.co/0I93y5sE4K"
+            },
+            {
+              "display_url": "pic.x.com/0I93y5sE4K",
+              "end": 58,
+              "expanded_url": "https://x.com/maipianaini0930/status/2040338037884985855/photo/1",
+              "media_key": "3_2040338028439478272",
+              "start": 35,
+              "url": "https://t.co/0I93y5sE4K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040338037884985855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个傻逼关注完又光速把我取关了\n\n狗日的投资废物，祝你破产去天台排队 https://t.co/0I93y5sE4K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 251,
+          "like_count": 7554,
+          "listed_count": 0,
+          "media_count": 433,
+          "tweet_count": 2879
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-09T13:18:15.000Z",
+        "description": "95后长期价值投资者｜深耕周期，不逐浪潮｜\n\n为众人抱薪者，不可使其冻毙于风雪；\n\n为自由开道者，不可令其困厄于荆棘。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sxytzt.cn",
+                "end": 23,
+                "expanded_url": "http://www.sxytzt.cn/",
+                "start": 0,
+                "url": "https://t.co/f73FP3TUX0"
+              }
+            ]
+          }
+        },
+        "id": "1435955648366219266",
+        "location": "China",
+        "name": "Army互关",
+        "pinned_tweet_id": "1944344135441305783",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016429581893328896/3jItgpvi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 440,
+          "following_count": 780,
+          "like_count": 94,
+          "listed_count": 5,
+          "media_count": 30,
+          "tweet_count": 110
+        },
+        "url": "https://t.co/f73FP3TUX0",
+        "username": "aJ51888",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2000419042616832280",
+    "created_at": "2025-12-15T04:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T05:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000419042616832280"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000419042616832280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我不仇穆很重要的一个原因是清真食品很难找到几道是难吃的：羊杂汤、椒盐牛肉饼、胡辣汤、牛肉锅贴、拉面、各种浇头盖浇饭，量大。我在天津后几天几乎都点胡辣汤喝"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2000419042616832280",
+        "created_at": "2025-12-15T04:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T05:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000419042616832280"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000419042616832280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不仇穆很重要的一个原因是清真食品很难找到几道是难吃的：羊杂汤、椒盐牛肉饼、胡辣汤、牛肉锅贴、拉面、各种浇头盖浇饭，量大。我在天津后几天几乎都点胡辣汤喝"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "热河南路",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 178,
+          "like_count": 1910,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 644
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

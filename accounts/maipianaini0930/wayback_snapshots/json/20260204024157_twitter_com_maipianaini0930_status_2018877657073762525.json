@@ -1,0 +1,352 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2018877657073762525",
+    "created_at": "2026-02-04T02:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T03:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018877657073762525"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "太陽を盗んだ男",
+          "probability": 0.4763,
+          "start": 17,
+          "type": "Other"
+        },
+        {
+          "end": 56,
+          "normalized_text": "マーチンスコセッシ監督",
+          "probability": 0.6,
+          "start": 46,
+          "type": "Person"
+        },
+        {
+          "end": 61,
+          "normalized_text": "沢田研二",
+          "probability": 0.9558,
+          "start": 58,
+          "type": "Person"
+        },
+        {
+          "end": 87,
+          "normalized_text": "長谷川和彦",
+          "probability": 0.9857,
+          "start": 83,
+          "type": "Person"
+        },
+        {
+          "end": 108,
+          "normalized_text": "日本",
+          "probability": 0.6417,
+          "start": 107,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "497219160",
+          "start": 3,
+          "username": "ruhiginoue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018877657073762525",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 507
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018246405853475200",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ruhiginoue: 『太陽を盗んだ男』は『タクシードライバー』の影響が見て判るがマーチンスコセッシ監督は沢田研二の演技を絶賛し特にこの場面が良いと言った。長谷川和彦監督から「彼は俳優もするが本業は歌手で日本のトップスターです」と言われ「歌手なんですか。信じられない。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2018246403366281216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAJAaSXbYAAVIJI.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2018877657073762525",
+        "created_at": "2026-02-04T02:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T03:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018877657073762525"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "太陽を盗んだ男",
+              "probability": 0.4763,
+              "start": 17,
+              "type": "Other"
+            },
+            {
+              "end": 56,
+              "normalized_text": "マーチンスコセッシ監督",
+              "probability": 0.6,
+              "start": 46,
+              "type": "Person"
+            },
+            {
+              "end": 61,
+              "normalized_text": "沢田研二",
+              "probability": 0.9558,
+              "start": 58,
+              "type": "Person"
+            },
+            {
+              "end": 87,
+              "normalized_text": "長谷川和彦",
+              "probability": 0.9857,
+              "start": 83,
+              "type": "Person"
+            },
+            {
+              "end": 108,
+              "normalized_text": "日本",
+              "probability": 0.6417,
+              "start": 107,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "497219160",
+              "start": 3,
+              "username": "ruhiginoue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018877657073762525",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 507
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018246405853475200",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ruhiginoue: 『太陽を盗んだ男』は『タクシードライバー』の影響が見て判るがマーチンスコセッシ監督は沢田研二の演技を絶賛し特にこの場面が良いと言った。長谷川和彦監督から「彼は俳優もするが本業は歌手で日本のトップスターです」と言われ「歌手なんですか。信じられない。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018246403366281216"
+          ]
+        },
+        "author_id": "497219160",
+        "conversation_id": "2018246405853475200",
+        "created_at": "2026-02-02T08:53:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-02T09:53:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018246405853475200"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "太陽を盗んだ男",
+              "probability": 0.5699,
+              "start": 1,
+              "type": "Other"
+            },
+            {
+              "end": 19,
+              "normalized_text": "タクシードライバー",
+              "probability": 0.5651,
+              "start": 11,
+              "type": "Other"
+            },
+            {
+              "end": 40,
+              "normalized_text": "マーチンスコセッシ監督",
+              "probability": 0.6064,
+              "start": 30,
+              "type": "Person"
+            },
+            {
+              "end": 45,
+              "normalized_text": "沢田研二",
+              "probability": 0.955,
+              "start": 42,
+              "type": "Person"
+            },
+            {
+              "end": 71,
+              "normalized_text": "長谷川和彦",
+              "probability": 0.9862,
+              "start": 67,
+              "type": "Person"
+            },
+            {
+              "end": 92,
+              "normalized_text": "日本",
+              "probability": 0.6168,
+              "start": 91,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 133,
+              "tag": "長谷川和彦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/i4a7wk1HzU",
+              "end": 163,
+              "expanded_url": "https://x.com/ruhiginoue/status/2018246405853475200/photo/1",
+              "media_key": "3_2018246403366281216",
+              "start": 140,
+              "url": "https://t.co/i4a7wk1HzU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018246405853475200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 384,
+          "impression_count": 117874,
+          "like_count": 2435,
+          "quote_count": 7,
+          "reply_count": 13,
+          "retweet_count": 507
+        },
+        "reply_settings": "everyone",
+        "text": "『太陽を盗んだ男』は『タクシードライバー』の影響が見て判るがマーチンスコセッシ監督は沢田研二の演技を絶賛し特にこの場面が良いと言った。長谷川和彦監督から「彼は俳優もするが本業は歌手で日本のトップスターです」と言われ「歌手なんですか。信じられない。素晴らしい役者です」#長谷川和彦 https://t.co/i4a7wk1HzU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 213,
+          "like_count": 3664,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1124
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2012-02-19T19:05:02.000Z",
+        "description": "元医療裁判原告。大橋巨泉氏と同じ医者の被害者。それに関する著書は『防衛医大の場合は ドキュメント医療裁判』、他に医療問題で『華麗なる美容外科の恐怖』。映画論（元は本業）『宇宙戦艦ヤマトの時代』など。またメディア論『朝日新聞の逆襲 』がある。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "joesuzuki3.wixsite.com/website",
+                "end": 23,
+                "expanded_url": "https://joesuzuki3.wixsite.com/website",
+                "start": 0,
+                "url": "https://t.co/Gc0ap5MiwX"
+              }
+            ]
+          }
+        },
+        "id": "497219160",
+        "location": "日本 東京",
+        "name": "井上靜　Joe Inoue",
+        "pinned_tweet_id": "1072692207197446144",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/911442303776047105/gnKI5Wuj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1629,
+          "following_count": 10,
+          "like_count": 7340,
+          "listed_count": 68,
+          "media_count": 2646,
+          "tweet_count": 57995
+        },
+        "url": "https://t.co/Gc0ap5MiwX",
+        "username": "ruhiginoue",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040291059167846693",
+    "created_at": "2026-04-04T05:15:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T06:15:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040297137058218345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1513444882865856516",
+          "start": 0,
+          "username": "thorino10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040297137058218345",
+    "in_reply_to_user_id": "1513444882865856516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040291059167846693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thorino10 喜欢大卫鲍伊和吉姆莫里森呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040291059167846693",
+        "created_at": "2026-04-04T05:15:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T06:15:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040297137058218345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1513444882865856516",
+              "start": 0,
+              "username": "thorino10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040297137058218345",
+        "in_reply_to_user_id": "1513444882865856516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040291059167846693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thorino10 喜欢大卫鲍伊和吉姆莫里森呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513444882865856516",
+        "conversation_id": "2040291059167846693",
+        "created_at": "2026-04-04T04:51:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:51:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040291059167846693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040291059167846693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 57,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喜欢谁就会变成谁，统一观察得出，我身边每一个陶喆的狂热歌迷，没有太苦大仇深的，性格也是叽叽喳喳小鸟一样欢腾的，也会有烦恼，但不沉重。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "注射死刑",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 251,
+          "like_count": 7520,
+          "listed_count": 0,
+          "media_count": 427,
+          "tweet_count": 2855
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:12:57.000Z",
+        "description": "你从不道别，你闷着头往前走，顺手接过命运递到你手上的东西，不管它是什么。",
+        "id": "1513444882865856516",
+        "name": "日内瓦十六夜",
+        "pinned_tweet_id": "1920530931422724192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356427384721408/9V-JtoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6595,
+          "following_count": 470,
+          "like_count": 10880,
+          "listed_count": 21,
+          "media_count": 329,
+          "tweet_count": 3973
+        },
+        "username": "thorino10",
+        "verified": false
+      }
+    ]
+  }
+}

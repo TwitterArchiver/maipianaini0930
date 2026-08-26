@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026630047084478539",
+    "created_at": "2026-02-25T14:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T15:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026664806779064552"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818861490558189570",
+          "start": 0,
+          "username": "gogatsu_yuki5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026664806779064552",
+    "in_reply_to_user_id": "1818861490558189570",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026663709305876947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gogatsu_yuki5 🫶🫶🫶希望你幸福"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026630047084478539",
+        "created_at": "2026-02-25T14:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026664806779064552"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818861490558189570",
+              "start": 0,
+              "username": "gogatsu_yuki5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026664806779064552",
+        "in_reply_to_user_id": "1818861490558189570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026663709305876947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gogatsu_yuki5 🫶🫶🫶希望你幸福"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818861490558189570",
+        "conversation_id": "2026630047084478539",
+        "created_at": "2026-02-25T14:20:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T15:20:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026663709305876947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026663709305876947",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026662612243722403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 谢谢，我得到了一个拥抱。这真的很难。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 212,
+          "like_count": 4853,
+          "listed_count": 0,
+          "media_count": 231,
+          "tweet_count": 1531
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T04:09:36.000Z",
+        "description": "毎日お疲れ様です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/gogatsu_yuki05…",
+                "end": 23,
+                "expanded_url": "https://note.com/gogatsu_yuki0512",
+                "start": 0,
+                "url": "https://t.co/cwXgBCbJdu"
+              }
+            ]
+          }
+        },
+        "id": "1818861490558189570",
+        "name": "ごがつのゆき",
+        "pinned_tweet_id": "1818933121066422562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017253648854835200/l8j0RSBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 292,
+          "following_count": 207,
+          "like_count": 173748,
+          "listed_count": 10,
+          "media_count": 442,
+          "tweet_count": 5332
+        },
+        "url": "https://t.co/cwXgBCbJdu",
+        "username": "gogatsu_yuki5",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028547380044566528"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028547386432499928",
+    "created_at": "2026-03-02T19:06:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T20:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028547386432499928"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oZxFiggbrS",
+          "end": 44,
+          "expanded_url": "https://x.com/maipianaini0930/status/2028547386432499928/photo/1",
+          "media_key": "3_2028547380044566528",
+          "start": 21,
+          "url": "https://t.co/oZxFiggbrS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028547386432499928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能说什么，还是要搬到一个四周没人的地方！ https://t.co/oZxFiggbrS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 324,
+        "media_key": "3_2028547380044566528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCbZGC2bEAADjb2.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028547380044566528"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028547386432499928",
+        "created_at": "2026-03-02T19:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T20:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028547386432499928"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZxFiggbrS",
+              "end": 44,
+              "expanded_url": "https://x.com/maipianaini0930/status/2028547386432499928/photo/1",
+              "media_key": "3_2028547380044566528",
+              "start": 21,
+              "url": "https://t.co/oZxFiggbrS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028547386432499928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能说什么，还是要搬到一个四周没人的地方！ https://t.co/oZxFiggbrS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 222,
+          "like_count": 5233,
+          "listed_count": 0,
+          "media_count": 265,
+          "tweet_count": 1678
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

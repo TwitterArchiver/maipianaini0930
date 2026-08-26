@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037391500653576614",
+    "created_at": "2026-03-27T10:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T11:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037481785173639441"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1885186792573591553",
+          "start": 0,
+          "username": "sxpgsing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037481785173639441",
+    "in_reply_to_user_id": "1885186792573591553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037391500653576614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sxpgsing 我一直好奇他在孤独的人是可耻的里面拉小提琴是做做样子的还是真的学了一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037391500653576614",
+        "created_at": "2026-03-27T10:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T11:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037481785173639441"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1885186792573591553",
+              "start": 0,
+              "username": "sxpgsing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037481785173639441",
+        "in_reply_to_user_id": "1885186792573591553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037391500653576614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sxpgsing 我一直好奇他在孤独的人是可耻的里面拉小提琴是做做样子的还是真的学了一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885186792573591553",
+        "conversation_id": "2037391500653576614",
+        "created_at": "2026-03-27T04:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T05:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037391500653576614"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037391500653576614",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 221,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得贾宏声四十多岁自杀还是很有美感啊，美不美其实关键在人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 251,
+          "like_count": 6829,
+          "listed_count": 0,
+          "media_count": 407,
+          "tweet_count": 2506
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T04:42:22.000Z",
+        "description": "而我不再觉得失去是舍不得",
+        "id": "1885186792573591553",
+        "name": "不吃苹果",
+        "pinned_tweet_id": "1902678229540037009",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907021375493349376/N9HnnIht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 107,
+          "like_count": 10917,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 3053
+        },
+        "username": "sxpgsing",
+        "verified": false
+      }
+    ]
+  }
+}

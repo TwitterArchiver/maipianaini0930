@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jim Morrison",
+          "id": "993591887104651264",
+          "name": "Jim Morrison"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Jim Morrison",
+          "id": "993591887104651264",
+          "name": "Jim Morrison"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jim Morrison",
+          "id": "993591887104651264",
+          "name": "Jim Morrison"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      }
+    ],
+    "conversation_id": "2028277598657315034",
+    "created_at": "2026-03-02T01:13:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T02:13:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028277598657315034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1096175703702171649",
+          "start": 3,
+          "username": "JimMorrison"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028277598657315034",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 136
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016904126345494894",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JimMorrison: “I had this magic formula to break into the subconscious. I’d lay there and say over and over...”\n\nWell, you know the rest…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55319,
+        "height": 1920,
+        "media_key": "13_2016903709632897024",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2016903709632897024/img/NrkWRGQH9W4oAfpL.jpg",
+        "public_metrics": {
+          "view_count": 4478
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2016903709632897024/pl/E2oDDMwaOmS8d2gq.m3u8?v=dc0"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016903709632897024/vid/avc1/720x1280/4_VT_QGsPGOe5u2c.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016903709632897024/vid/avc1/480x852/UjS-EmWhtqPGhxHf.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016903709632897024/vid/avc1/1080x1920/J744lqXMRFpsGGwU.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2016903709632897024/vid/avc1/320x568/UQgiRG71d0_8M9wT.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2028277598657315034",
+        "created_at": "2026-03-02T01:13:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T02:13:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028277598657315034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1096175703702171649",
+              "start": 3,
+              "username": "JimMorrison"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028277598657315034",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 136
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016904126345494894",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JimMorrison: “I had this magic formula to break into the subconscious. I’d lay there and say over and over...”\n\nWell, you know the rest…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2016903709632897024"
+          ]
+        },
+        "author_id": "1096175703702171649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2016904126345494894",
+        "created_at": "2026-01-29T15:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-29T16:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2016904126345494894"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 135,
+              "normalized_text": "The End",
+              "probability": 0.9444,
+              "start": 129,
+              "type": "Other"
+            },
+            {
+              "end": 158,
+              "normalized_text": "The Hollywood Bowl",
+              "probability": 0.7536,
+              "start": 141,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zCfZX01DZJ",
+              "end": 192,
+              "expanded_url": "https://x.com/JimMorrison/status/2016904126345494894/video/1",
+              "media_key": "13_2016903709632897024",
+              "start": 169,
+              "url": "https://t.co/zCfZX01DZJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016904126345494894",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 10314,
+          "like_count": 719,
+          "quote_count": 3,
+          "reply_count": 8,
+          "retweet_count": 136
+        },
+        "reply_settings": "everyone",
+        "text": "“I had this magic formula to break into the subconscious. I’d lay there and say over and over...”\n\nWell, you know the rest.\n\n🎥: “The End” at The Hollywood Bowl in 1968. https://t.co/zCfZX01DZJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 216,
+          "like_count": 5098,
+          "listed_count": 0,
+          "media_count": 252,
+          "tweet_count": 1625
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T22:33:48.000Z",
+        "description": "The official profile of James Douglas Morrison. Poet. Writer. Singer. Filmmaker. Legend. #JimMorrison",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 89,
+                "tag": "JimMorrison"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jimmorrison.com",
+                "end": 23,
+                "expanded_url": "http://www.jimmorrison.com/",
+                "start": 0,
+                "url": "https://t.co/o86B0M6yuj"
+              }
+            ]
+          }
+        },
+        "id": "1096175703702171649",
+        "name": "Jim Morrison",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1096215756285431808/jC2oaw16_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50023,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 143,
+          "media_count": 1021,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/o86B0M6yuj",
+        "username": "JimMorrison",
+        "verified": true
+      }
+    ]
+  }
+}

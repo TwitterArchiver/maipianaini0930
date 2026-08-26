@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2021186288326516938",
+    "created_at": "2026-02-12T06:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T07:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021838815762194832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1946986373837373440",
+          "start": 0,
+          "username": "jingjingji91551"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021838815762194832",
+    "in_reply_to_user_id": "1946986373837373440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021744162530635971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jingjingji91551 原来如此"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2021186288326516938",
+        "created_at": "2026-02-12T06:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T07:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021838815762194832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1946986373837373440",
+              "start": 0,
+              "username": "jingjingji91551"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021838815762194832",
+        "in_reply_to_user_id": "1946986373837373440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021744162530635971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jingjingji91551 原来如此"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1946986373837373440",
+        "conversation_id": "2021186288326516938",
+        "created_at": "2026-02-12T00:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T01:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021744162530635971"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021744162530635971",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021678108219519228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 不是的，相比塑料来说，铝管成本更高一点，或许是为了看起来高级，所以采用铝制的包装。但是我感觉铝制的使用感受并不是那么好。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 218,
+          "like_count": 4049,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1281
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-20T17:31:56.000Z",
+        "description": "于是你不停散落，我不停拾获，\n我们在遥远的路上白天黑夜为彼此是艳火。",
+        "id": "1946986373837373440",
+        "location": "幸无能",
+        "name": "呲呲气泡水",
+        "pinned_tweet_id": "2016494740532051972",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020015253925572608/iutWtkix_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 175,
+          "like_count": 17291,
+          "listed_count": 0,
+          "media_count": 142,
+          "tweet_count": 584
+        },
+        "username": "jingjingji91551",
+        "verified": false
+      }
+    ]
+  }
+}

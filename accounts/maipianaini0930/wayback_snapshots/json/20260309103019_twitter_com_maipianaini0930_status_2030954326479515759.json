@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2030948866074485091",
+    "created_at": "2026-03-09T10:30:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T11:30:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030954326479515759"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1538522826826829825",
+          "start": 0,
+          "username": "DorothyL8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030954326479515759",
+    "in_reply_to_user_id": "1538522826826829825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030948866074485091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DorothyL8964 随你啊哥们关我屁事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2030948866074485091",
+        "created_at": "2026-03-09T10:30:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:30:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030954326479515759"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1538522826826829825",
+              "start": 0,
+              "username": "DorothyL8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030954326479515759",
+        "in_reply_to_user_id": "1538522826826829825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030948866074485091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DorothyL8964 随你啊哥们关我屁事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1538522826826829825",
+        "conversation_id": "2030948866074485091",
+        "created_at": "2026-03-09T10:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030948866074485091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2030942225140690949",
+              "start": 57,
+              "url": "https://t.co/WeLp3fAT5I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030948866074485091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 27,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030942225140690949",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好嘞哥我这就去对路边的宝马撒尿、踹开天台的门锁、偷杯子、把朋友家砸得一塌糊涂、夜里用音响大声放性手枪、踢共享单车 https://t.co/WeLp3fAT5I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 222,
+          "like_count": 5742,
+          "listed_count": 0,
+          "media_count": 297,
+          "tweet_count": 1858
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-19T14:03:30.000Z",
+        "description": "中专（护校），云南人，在美帝挣扎求生。 (A man, made from enormous pain, disrespect, rejection, failure and losses; unstoppable, unyielding, offers his life for the call of duty.)",
+        "id": "1538522826826829825",
+        "location": "Mexico ",
+        "name": "Hippocratic Patriotism",
+        "pinned_tweet_id": "1549723342286082051",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1838482594867871744/QccqDUlO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1196,
+          "following_count": 210,
+          "like_count": 38606,
+          "listed_count": 7,
+          "media_count": 3647,
+          "tweet_count": 46798
+        },
+        "username": "DorothyL8964",
+        "verified": true
+      }
+    ]
+  }
+}

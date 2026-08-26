@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2069827516978855936"
+      ],
+      "media_source_tweet_id": [
+        "2069827528777482558"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2070009955462299915",
+    "created_at": "2026-06-25T05:03:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T06:03:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070009955462299915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1618819311505936384",
+          "start": 3,
+          "username": "Iman4ii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iiqo6sGjFg",
+          "end": 36,
+          "expanded_url": "https://x.com/Iman4ii/status/2069827528777482558/photo/1",
+          "media_key": "3_2069827516978855936",
+          "start": 13,
+          "url": "https://t.co/iiqo6sGjFg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070009955462299915",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069827528777482558",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Iman4ii: https://t.co/iiqo6sGjFg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 731,
+        "media_key": "3_2069827516978855936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmBKQfagAAlpvk.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069827516978855936"
+          ],
+          "media_source_tweet_id": [
+            "2069827528777482558"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2070009955462299915",
+        "created_at": "2026-06-25T05:03:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T06:03:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070009955462299915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1618819311505936384",
+              "start": 3,
+              "username": "Iman4ii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiqo6sGjFg",
+              "end": 36,
+              "expanded_url": "https://x.com/Iman4ii/status/2069827528777482558/photo/1",
+              "media_key": "3_2069827516978855936",
+              "start": 13,
+              "url": "https://t.co/iiqo6sGjFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070009955462299915",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069827528777482558",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Iman4ii: https://t.co/iiqo6sGjFg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069827516978855936"
+          ]
+        },
+        "author_id": "1618819311505936384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2069827528777482558",
+        "created_at": "2026-06-24T16:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T17:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069827528777482558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iiqo6sGjFg",
+              "end": 23,
+              "expanded_url": "https://x.com/Iman4ii/status/2069827528777482558/photo/1",
+              "media_key": "3_2069827516978855936",
+              "start": 0,
+              "url": "https://t.co/iiqo6sGjFg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069827528777482558",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 12793,
+          "like_count": 1030,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/iiqo6sGjFg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 301,
+          "like_count": 10581,
+          "listed_count": 1,
+          "media_count": 689,
+          "tweet_count": 4587
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T03:53:09.000Z",
+        "description": "📷",
+        "id": "1618819311505936384",
+        "location": "🌍",
+        "name": "Iman💬",
+        "pinned_tweet_id": "2065774596255809605",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017859980234473472/b8kH6HYB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 25,
+          "like_count": 3078,
+          "listed_count": 5,
+          "media_count": 359,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "Iman4ii",
+        "verified": false
+      }
+    ]
+  }
+}

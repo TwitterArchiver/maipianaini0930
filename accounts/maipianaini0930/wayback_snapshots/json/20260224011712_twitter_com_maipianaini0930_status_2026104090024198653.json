@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2025965242124288247",
+    "created_at": "2026-02-24T01:17:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T02:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026104090024198653"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693124545492983808",
+          "start": 0,
+          "username": "rustInsidee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026104090024198653",
+    "in_reply_to_user_id": "1693124545492983808",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025965242124288247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rustInsidee 好像patti smith"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025965237032337409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2spiiaQAEEWxv.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2025965237024051200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB2spigb0AAxRgl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2025965242124288247",
+        "created_at": "2026-02-24T01:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T02:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026104090024198653"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693124545492983808",
+              "start": 0,
+              "username": "rustInsidee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026104090024198653",
+        "in_reply_to_user_id": "1693124545492983808",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025965242124288247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rustInsidee 好像patti smith"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025965237032337409",
+            "3_2025965237024051200"
+          ]
+        },
+        "author_id": "1693124545492983808",
+        "conversation_id": "2025965242124288247",
+        "created_at": "2026-02-23T16:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T17:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025965242124288247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/prhedPRjVn",
+              "end": 85,
+              "expanded_url": "https://x.com/rustInsidee/status/2025965242124288247/photo/1",
+              "media_key": "3_2025965237032337409",
+              "start": 62,
+              "url": "https://t.co/prhedPRjVn"
+            },
+            {
+              "display_url": "pic.x.com/prhedPRjVn",
+              "end": 85,
+              "expanded_url": "https://x.com/rustInsidee/status/2025965242124288247/photo/1",
+              "media_key": "3_2025965237024051200",
+              "start": 62,
+              "url": "https://t.co/prhedPRjVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025965242124288247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4076,
+          "like_count": 66,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "优衣库竟然出了小脚裤我的teenager病大爆发（指幻想穿紧身牛仔裤搭战损的马丁靴或者匡威）但梨形买牛仔裤是不是他妈的犯法 https://t.co/prhedPRjVn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 211,
+          "like_count": 4680,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1443
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T04:55:41.000Z",
+        "description": "我純潔的一刻勝過你一生的謊言",
+        "id": "1693124545492983808",
+        "name": "她在時間門外",
+        "pinned_tweet_id": "1742580780474478784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004070213848055808/sNu-TCBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7924,
+          "following_count": 398,
+          "like_count": 9965,
+          "listed_count": 20,
+          "media_count": 1729,
+          "tweet_count": 7601
+        },
+        "username": "rustInsidee",
+        "verified": false
+      }
+    ]
+  }
+}

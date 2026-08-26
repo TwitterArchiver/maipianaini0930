@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039321010567315845",
+    "created_at": "2026-04-01T21:36:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T22:36:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039457013382721640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1706651861275824128",
+          "start": 0,
+          "username": "baiyanghjkoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039457013382721640",
+    "in_reply_to_user_id": "1706651861275824128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039364109599453378",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baiyanghjkoo 我亲爱的马桶呀😿😿"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039321010567315845",
+        "created_at": "2026-04-01T21:36:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T22:36:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039457013382721640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1706651861275824128",
+              "start": 0,
+              "username": "baiyanghjkoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039457013382721640",
+        "in_reply_to_user_id": "1706651861275824128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039364109599453378",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baiyanghjkoo 我亲爱的马桶呀😿😿"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1706651861275824128",
+        "conversation_id": "2039321010567315845",
+        "created_at": "2026-04-01T15:27:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T16:27:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039364109599453378"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039364109599453378",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039321010567315845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 马桶啊马桶！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 241,
+          "like_count": 7260,
+          "listed_count": 0,
+          "media_count": 455,
+          "tweet_count": 2750
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-26T12:48:19.000Z",
+        "description": "可以喝凉啤了",
+        "id": "1706651861275824128",
+        "name": "冷山泉水酿造东北大酱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707417736861954048/mA3S7ubs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 767,
+          "like_count": 15801,
+          "listed_count": 0,
+          "media_count": 391,
+          "tweet_count": 4648
+        },
+        "username": "baiyanghjkoo",
+        "verified": false
+      }
+    ]
+  }
+}

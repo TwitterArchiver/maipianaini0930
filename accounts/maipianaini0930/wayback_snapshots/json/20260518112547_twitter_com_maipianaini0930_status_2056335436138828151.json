@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056335396460781568",
+        "3_2056335396452417536"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2056335436138828151",
+    "created_at": "2026-05-18T11:25:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T12:25:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056335436138828151"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/mBoeH7AF1a",
+          "end": 30,
+          "expanded_url": "https://x.com/maipianaini0930/status/2056335436138828151/photo/1",
+          "media_key": "3_2056335396460781568",
+          "start": 7,
+          "url": "https://t.co/mBoeH7AF1a"
+        },
+        {
+          "display_url": "pic.x.com/mBoeH7AF1a",
+          "end": 30,
+          "expanded_url": "https://x.com/maipianaini0930/status/2056335436138828151/photo/1",
+          "media_key": "3_2056335396452417536",
+          "start": 7,
+          "url": "https://t.co/mBoeH7AF1a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056335436138828151",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "宛如阿修罗！ https://t.co/mBoeH7AF1a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2056335396460781568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImSJe0bYAADa8s.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2056335396452417536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HImSJeybwAAcIYS.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056335396460781568",
+            "3_2056335396452417536"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2056335436138828151",
+        "created_at": "2026-05-18T11:25:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T12:25:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056335436138828151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mBoeH7AF1a",
+              "end": 30,
+              "expanded_url": "https://x.com/maipianaini0930/status/2056335436138828151/photo/1",
+              "media_key": "3_2056335396460781568",
+              "start": 7,
+              "url": "https://t.co/mBoeH7AF1a"
+            },
+            {
+              "display_url": "pic.x.com/mBoeH7AF1a",
+              "end": 30,
+              "expanded_url": "https://x.com/maipianaini0930/status/2056335436138828151/photo/1",
+              "media_key": "3_2056335396452417536",
+              "start": 7,
+              "url": "https://t.co/mBoeH7AF1a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056335436138828151",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "宛如阿修罗！ https://t.co/mBoeH7AF1a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 282,
+          "like_count": 9545,
+          "listed_count": 2,
+          "media_count": 606,
+          "tweet_count": 3914
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

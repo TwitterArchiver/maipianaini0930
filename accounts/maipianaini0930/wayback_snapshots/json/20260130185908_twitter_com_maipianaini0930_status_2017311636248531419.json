@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2017062371534029146",
+    "created_at": "2026-01-30T18:59:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-30T19:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017311636248531419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1474091860025122817",
+          "start": 0,
+          "username": "ShitpostGate"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017311636248531419",
+    "in_reply_to_user_id": "1474091860025122817",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017062371534029146",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ShitpostGate except me"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1393,
+        "media_key": "3_2017062361014599680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_4Lh84WAAAGqr4.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2017062371534029146",
+        "created_at": "2026-01-30T18:59:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T19:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017311636248531419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1474091860025122817",
+              "start": 0,
+              "username": "ShitpostGate"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017311636248531419",
+        "in_reply_to_user_id": "1474091860025122817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017062371534029146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ShitpostGate except me"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017062361014599680"
+          ]
+        },
+        "author_id": "1474091860025122817",
+        "conversation_id": "2017062371534029146",
+        "created_at": "2026-01-30T02:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T03:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017062371534029146"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dd0dzqKLaY",
+              "end": 23,
+              "expanded_url": "https://x.com/ShitpostGate/status/2017062371534029146/photo/1",
+              "media_key": "3_2017062361014599680",
+              "start": 0,
+              "url": "https://t.co/dd0dzqKLaY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017062371534029146",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 262,
+          "impression_count": 63540,
+          "like_count": 6433,
+          "quote_count": 19,
+          "reply_count": 63,
+          "retweet_count": 201
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/dd0dzqKLaY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 211,
+          "like_count": 3571,
+          "listed_count": 0,
+          "media_count": 179,
+          "tweet_count": 1103
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-12-23T18:57:58.000Z",
+        "description": "Love $hitposting and posting whatever I want/Satire/memes/some personal stuff I like. Affiliate of @METAPCS",
+        "entities": {
+          "description": {
+            "cashtags": [
+              {
+                "end": 16,
+                "start": 5,
+                "tag": "hitposting"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "METAPCS"
+              }
+            ]
+          }
+        },
+        "id": "1474091860025122817",
+        "location": "Psych ward",
+        "name": "ShitpostGateway",
+        "pinned_tweet_id": "1989805597244756334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1655280202824417287/XGiBiQze_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1593531,
+          "following_count": 2496,
+          "like_count": 3286,
+          "listed_count": 3221,
+          "media_count": 37742,
+          "tweet_count": 52416
+        },
+        "username": "ShitpostGate",
+        "verified": true
+      }
+    ]
+  }
+}

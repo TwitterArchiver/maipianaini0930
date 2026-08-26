@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1999026207648788483"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "1998694188083474779",
+    "created_at": "2025-12-11T07:59:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T08:59:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999026214460420444"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "95207674",
+          "start": 0,
+          "username": "oricon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3wm1aifUuM",
+          "end": 31,
+          "expanded_url": "https://x.com/maipianaini0930/status/1999026214460420444/photo/1",
+          "media_key": "3_1999026207648788483",
+          "start": 8,
+          "url": "https://t.co/3wm1aifUuM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999026214460420444",
+    "in_reply_to_user_id": "95207674",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998694188083474779",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oricon https://t.co/3wm1aifUuM"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_1999026207648788483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G733vpuaMAMSfhZ.jpg",
+        "width": 400
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1998691188304654338",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7zHC9aaMAIOhyl.jpg",
+        "width": 2732
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999026207648788483"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "1998694188083474779",
+        "created_at": "2025-12-11T07:59:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T08:59:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999026214460420444"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "95207674",
+              "start": 0,
+              "username": "oricon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wm1aifUuM",
+              "end": 31,
+              "expanded_url": "https://x.com/maipianaini0930/status/1999026214460420444/photo/1",
+              "media_key": "3_1999026207648788483",
+              "start": 8,
+              "url": "https://t.co/3wm1aifUuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999026214460420444",
+        "in_reply_to_user_id": "95207674",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998694188083474779",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oricon https://t.co/3wm1aifUuM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1998691188304654338"
+          ]
+        },
+        "author_id": "95207674",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Takayuki Yamada (山田孝之)",
+              "id": "844443103104688128",
+              "name": "Takayuki Yamada"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Takayuki Yamada (山田孝之)",
+              "id": "844443103104688128",
+              "name": "Takayuki Yamada"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Takayuki Yamada (山田孝之)",
+              "id": "844443103104688128",
+              "name": "Takayuki Yamada"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303714559518150656",
+              "name": "Japanese actors"
+            }
+          }
+        ],
+        "conversation_id": "1998694188083474779",
+        "created_at": "2025-12-10T10:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T11:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998694188083474779"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "山田孝之",
+              "probability": 0.9782,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 64,
+              "tag": "山田孝之"
+            }
+          ],
+          "urls": [
+            {
+              "description": "ニュース｜　縦型ショートドラマアプリ「タテドラ」では、オリジナルドラマ作品『モテ神様とワタシ』（全15話）の独占配信を、10日からスタートした。山田孝之が、23年留年をしている伝説の高校生「長居龍年（ながい・りゅうねん）」を演じており、このほどインパクト大の写真が解禁となった。　同作は、とにかくモテナイ自分に嫌気がさす日々を送る「茂手鯛子（もて・たいこ）」が、23年留年をしている伝説の高校生「長居龍年」にモテる為、突如現れた「モテ神様」からモテる方法を伝授してもらい、ひたむきにアプローチするラブコメディ。",
+              "display_url": "oricon.co.jp/news/2424019/f…",
+              "end": 62,
+              "expanded_url": "https://www.oricon.co.jp/news/2424019/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003",
+              "images": [
+                {
+                  "height": 420,
+                  "url": "https://pbs.twimg.com/news_img/1998726206221320192/KvarcB06?format=jpg&name=orig",
+                  "width": 800
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1998726206221320192/KvarcB06?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "山田孝之、23年留年“伝説の高校生”演じる　インパクト大の写真解禁",
+              "unwound_url": "https://www.oricon.co.jp/news/2424019/full/?utm_source=Twitter&utm_medium=social&ref_cd=jstw003",
+              "url": "https://t.co/vzscQ26gpz"
+            },
+            {
+              "display_url": "pic.x.com/7c5LeiiP5e",
+              "end": 93,
+              "expanded_url": "https://x.com/oricon/status/1998694188083474779/photo/1",
+              "media_key": "3_1998691188304654338",
+              "start": 70,
+              "url": "https://t.co/7c5LeiiP5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998694188083474779",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3176,
+          "impression_count": 6196313,
+          "like_count": 65340,
+          "quote_count": 1694,
+          "reply_count": 585,
+          "retweet_count": 5332
+        },
+        "reply_settings": "everyone",
+        "text": "山田孝之、23年留年の伝説の高校生\n「長居龍年(ながい りゅうねん)」演じる\nhttps://t.co/vzscQ26gpz\n\n#山田孝之 https://t.co/7c5LeiiP5e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 168,
+          "like_count": 1753,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 580
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-07T14:15:16.000Z",
+        "description": "オリコン【公式】です👑 芸能ニュースやオリコンランキング、音楽、ドラマ、アニメ、お笑い、映画など、最新エンタメ情報を中心に配信👩‍🍳\n\n試写会やイベント、チェキなどプレゼントもチェックしてね⇒ #オリコンプレゼント🎁",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 107,
+                "start": 97,
+                "tag": "オリコンプレゼント"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "oricon.co.jp",
+                "end": 23,
+                "expanded_url": "http://www.oricon.co.jp/",
+                "start": 0,
+                "url": "https://t.co/lP08ujpcGi"
+              }
+            ]
+          }
+        },
+        "id": "95207674",
+        "location": "東京都港区六本木",
+        "name": "オリコンニュース",
+        "pinned_tweet_id": "1998256292889326001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973257109249859584/WFHRjCtC_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1737859,
+          "following_count": 2774,
+          "like_count": 6835,
+          "listed_count": 7531,
+          "media_count": 136494,
+          "tweet_count": 742468
+        },
+        "url": "https://t.co/lP08ujpcGi",
+        "username": "oricon",
+        "verified": true
+      }
+    ]
+  }
+}

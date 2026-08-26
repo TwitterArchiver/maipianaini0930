@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055289120214208512"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2055289157971255702",
+    "created_at": "2026-05-15T14:08:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T15:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055289157971255702"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DInmig3kbU",
+          "end": 43,
+          "expanded_url": "https://x.com/maipianaini0930/status/2055289157971255702/photo/1",
+          "media_key": "3_2055289120214208512",
+          "start": 20,
+          "url": "https://t.co/DInmig3kbU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055289157971255702",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "抽完weed我开始喝魔爪，还是绿的呢😝 https://t.co/DInmig3kbU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2919,
+        "media_key": "3_2055289120214208512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIXakMEX0AAHNFl.jpg",
+        "width": 2746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055289120214208512"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2055289157971255702",
+        "created_at": "2026-05-15T14:08:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T15:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055289157971255702"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DInmig3kbU",
+              "end": 43,
+              "expanded_url": "https://x.com/maipianaini0930/status/2055289157971255702/photo/1",
+              "media_key": "3_2055289120214208512",
+              "start": 20,
+              "url": "https://t.co/DInmig3kbU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055289157971255702",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "抽完weed我开始喝魔爪，还是绿的呢😝 https://t.co/DInmig3kbU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 381,
+          "following_count": 284,
+          "like_count": 9423,
+          "listed_count": 2,
+          "media_count": 599,
+          "tweet_count": 3853
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

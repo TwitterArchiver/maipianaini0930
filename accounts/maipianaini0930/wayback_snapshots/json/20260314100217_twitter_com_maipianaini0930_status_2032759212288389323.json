@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032759206768685058",
+        "3_2032759206768685059"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2032757812053618884",
+    "created_at": "2026-03-14T10:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T11:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032759212288389323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1986685406998659072",
+          "start": 0,
+          "username": "obsession_exe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hQyinITMeU",
+          "end": 75,
+          "expanded_url": "https://x.com/maipianaini0930/status/2032759212288389323/photo/1",
+          "media_key": "3_2032759206768685058",
+          "start": 52,
+          "url": "https://t.co/hQyinITMeU"
+        },
+        {
+          "display_url": "pic.x.com/hQyinITMeU",
+          "end": 75,
+          "expanded_url": "https://x.com/maipianaini0930/status/2032759212288389323/photo/1",
+          "media_key": "3_2032759206768685059",
+          "start": 52,
+          "url": "https://t.co/hQyinITMeU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032759212288389323",
+    "in_reply_to_user_id": "1986685406998659072",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032758112197947567",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@obsession_exe 是雀巢的“milo”饼干，我也不知道为什么想把它放在牛仔裤上拍照.... https://t.co/hQyinITMeU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 800,
+        "media_key": "3_2032759206768685058",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXPuoFaMAId65r.jpg",
+        "width": 800
+      },
+      {
+        "height": 641,
+        "media_key": "3_2032759206768685059",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDXPuoFaMAMDPtI.jpg",
+        "width": 478
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032759206768685058",
+            "3_2032759206768685059"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2032757812053618884",
+        "created_at": "2026-03-14T10:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T11:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032759212288389323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1986685406998659072",
+              "start": 0,
+              "username": "obsession_exe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hQyinITMeU",
+              "end": 75,
+              "expanded_url": "https://x.com/maipianaini0930/status/2032759212288389323/photo/1",
+              "media_key": "3_2032759206768685058",
+              "start": 52,
+              "url": "https://t.co/hQyinITMeU"
+            },
+            {
+              "display_url": "pic.x.com/hQyinITMeU",
+              "end": 75,
+              "expanded_url": "https://x.com/maipianaini0930/status/2032759212288389323/photo/1",
+              "media_key": "3_2032759206768685059",
+              "start": 52,
+              "url": "https://t.co/hQyinITMeU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032759212288389323",
+        "in_reply_to_user_id": "1986685406998659072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032758112197947567",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@obsession_exe 是雀巢的“milo”饼干，我也不知道为什么想把它放在牛仔裤上拍照.... https://t.co/hQyinITMeU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1986685406998659072",
+        "conversation_id": "2032757812053618884",
+        "created_at": "2026-03-14T09:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T10:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032758112197947567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032758112197947567",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032757812053618884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 焼菓子？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 230,
+          "like_count": 5727,
+          "listed_count": 0,
+          "media_count": 318,
+          "tweet_count": 1959
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-07T06:41:36.000Z",
+        "description": "もうなんか病み垢なのかわからん　仲良くさせてもろて\nリプで絡みに行くのが多いかもしれない\n\n雑多サブ→@yoru_exe",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 60,
+                "start": 51,
+                "username": "yoru_exe"
+              }
+            ]
+          }
+        },
+        "id": "1986685406998659072",
+        "location": "フクロウ幸運水供給場",
+        "name": "聾唖",
+        "pinned_tweet_id": "2026897010608198126",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026577142570696704/PVuZnhK1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 198,
+          "following_count": 200,
+          "like_count": 26175,
+          "listed_count": 8,
+          "media_count": 31,
+          "tweet_count": 2927
+        },
+        "username": "obsession_exe",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045475121566220288"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2045475127492800709",
+    "created_at": "2026-04-18T12:10:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T13:10:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045475127492800709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/CekXTShsMQ",
+          "end": 34,
+          "expanded_url": "https://x.com/maipianaini0930/status/2045475127492800709/photo/1",
+          "media_key": "3_2045475121566220288",
+          "start": 11,
+          "url": "https://t.co/CekXTShsMQ"
+        },
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2045473785143496905",
+          "start": 35,
+          "url": "https://t.co/cqVtCRVMpQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045475127492800709",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045473785143496905",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "trans一下就是我 https://t.co/CekXTShsMQ https://t.co/cqVtCRVMpQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1792,
+        "media_key": "3_2045475121566220288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGL8ySHagAAv_Tz.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045475121566220288"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2045475127492800709",
+        "created_at": "2026-04-18T12:10:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:10:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045475127492800709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/CekXTShsMQ",
+              "end": 34,
+              "expanded_url": "https://x.com/maipianaini0930/status/2045475127492800709/photo/1",
+              "media_key": "3_2045475121566220288",
+              "start": 11,
+              "url": "https://t.co/CekXTShsMQ"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2045473785143496905",
+              "start": 35,
+              "url": "https://t.co/cqVtCRVMpQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045475127492800709",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045473785143496905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "trans一下就是我 https://t.co/CekXTShsMQ https://t.co/cqVtCRVMpQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2045473785143496905",
+        "created_at": "2026-04-18T12:05:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T13:05:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045473785143496905"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045473785143496905",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中国如果能玩枪战服，我也不至于窝窝囊囊活到今天"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2043643748257788371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 264,
+          "like_count": 8327,
+          "listed_count": 1,
+          "media_count": 508,
+          "tweet_count": 3200
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

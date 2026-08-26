@@ -1,0 +1,341 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2015319158787907888",
+    "created_at": "2026-01-25T13:40:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T14:40:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015419546694529380"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 41,
+          "normalized_text": "BGM",
+          "probability": 0.7626,
+          "start": 39,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "62664348",
+          "start": 0,
+          "username": "ZuritaCarpio"
+        },
+        {
+          "end": 19,
+          "id": "1720665183188922368",
+          "start": 14,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015419546694529380",
+    "in_reply_to_user_id": "62664348",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015319158787907888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ZuritaCarpio @grok what‘s the name of BGM？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 40636,
+        "height": 1280,
+        "media_key": "7_2015319105172115456",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2015319105172115456/pu/img/z7HvVi3SixgPLmX6.jpg",
+        "public_metrics": {
+          "view_count": 196787
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015319105172115456/pu/vid/avc1/320x568/GrbQOl6KRwo3oRnx.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015319105172115456/pu/vid/avc1/480x852/5Amd5PHimkReDDyD.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2015319105172115456/pu/vid/avc1/720x1280/02cP_q6oU5q5Wuai.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2015319105172115456/pu/pl/u1voWzeh57FmnW_X.m3u8?v=813"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2015319158787907888",
+        "created_at": "2026-01-25T13:40:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:40:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015419546694529380"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "BGM",
+              "probability": 0.7626,
+              "start": 39,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "62664348",
+              "start": 0,
+              "username": "ZuritaCarpio"
+            },
+            {
+              "end": 19,
+              "id": "1720665183188922368",
+              "start": 14,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015419546694529380",
+        "in_reply_to_user_id": "62664348",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015319158787907888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZuritaCarpio @grok what‘s the name of BGM？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2015319105172115456"
+          ]
+        },
+        "author_id": "62664348",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Los Angeles",
+              "id": "856860708847222784",
+              "name": "Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2015319158787907888",
+        "created_at": "2026-01-25T07:01:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:01:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015319158787907888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 14,
+              "start": 3,
+              "tag": "LosAngeles"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/e5lfNT1iz3",
+              "end": 38,
+              "expanded_url": "https://x.com/ZuritaCarpio/status/2015319158787907888/video/1",
+              "media_key": "7_2015319105172115456",
+              "start": 15,
+              "url": "https://t.co/e5lfNT1iz3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015319158787907888",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1097,
+          "impression_count": 295225,
+          "like_count": 27900,
+          "quote_count": 113,
+          "reply_count": 98,
+          "retweet_count": 6987
+        },
+        "reply_settings": "everyone",
+        "text": "En #LosAngeles https://t.co/e5lfNT1iz3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013475639219585024/EhafFf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 207,
+          "like_count": 3410,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1044
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-04T00:16:23.000Z",
+        "description": "Hasta cuando bromeo digo la verdad... y no es ningún chiste: Groucho Marx",
+        "id": "62664348",
+        "name": "ZuritaCarpio",
+        "pinned_tweet_id": "2000655943219216457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014147252093059072/q0CbfRio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95260,
+          "following_count": 27260,
+          "like_count": 421332,
+          "listed_count": 264,
+          "media_count": 51600,
+          "tweet_count": 268416
+        },
+        "username": "ZuritaCarpio",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7659024,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 5902,
+          "media_count": 7901698,
+          "tweet_count": 94872484
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

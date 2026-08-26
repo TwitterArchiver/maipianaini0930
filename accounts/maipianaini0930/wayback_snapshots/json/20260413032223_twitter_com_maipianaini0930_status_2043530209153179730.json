@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2043519676026855893",
+    "created_at": "2026-04-13T03:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043530209153179730"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1953045479018905605",
+          "start": 0,
+          "username": "Amaranta0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043530209153179730",
+    "in_reply_to_user_id": "1953045479018905605",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043528298421178560",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amaranta0000 好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2043519676026855893",
+        "created_at": "2026-04-13T03:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043530209153179730"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1953045479018905605",
+              "start": 0,
+              "username": "Amaranta0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043530209153179730",
+        "in_reply_to_user_id": "1953045479018905605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043528298421178560",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amaranta0000 好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953045479018905605",
+        "conversation_id": "2043519676026855893",
+        "created_at": "2026-04-13T03:14:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:14:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043528298421178560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043528298421178560",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043519676026855893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 好可爱 抓到法死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 269,
+          "like_count": 8038,
+          "listed_count": 1,
+          "media_count": 469,
+          "tweet_count": 3062
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-06T10:48:31.000Z",
+        "description": "直到死神大發慈悲將我從塵世間解放",
+        "id": "1953045479018905605",
+        "name": "艾咪修",
+        "pinned_tweet_id": "2030551504051155313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024091332558585856/7vra-1FK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 40,
+          "like_count": 2811,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 1563
+        },
+        "username": "Amaranta0000",
+        "verified": false
+      }
+    ]
+  }
+}

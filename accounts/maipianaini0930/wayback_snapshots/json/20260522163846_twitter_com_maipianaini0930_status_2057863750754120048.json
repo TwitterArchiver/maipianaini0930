@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2057500230145507635",
+    "created_at": "2026-05-22T16:38:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T17:38:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057863750754120048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1425628260784869376",
+          "start": 0,
+          "username": "td0VUxLaom82jvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057863750754120048",
+    "in_reply_to_user_id": "1425628260784869376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057761542087827870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@td0VUxLaom82jvm 别怕，他只是个灯"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2057500230145507635",
+        "created_at": "2026-05-22T16:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T17:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057863750754120048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1425628260784869376",
+              "start": 0,
+              "username": "td0VUxLaom82jvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057863750754120048",
+        "in_reply_to_user_id": "1425628260784869376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057761542087827870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@td0VUxLaom82jvm 别怕，他只是个灯"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425628260784869376",
+        "conversation_id": "2057500230145507635",
+        "created_at": "2026-05-22T09:52:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T10:52:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057761542087827870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057761542087827870",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057500230145507635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 我害怕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 288,
+          "like_count": 9689,
+          "listed_count": 2,
+          "media_count": 614,
+          "tweet_count": 4015
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-12T01:20:47.000Z",
+        "description": "",
+        "id": "1425628260784869376",
+        "name": "精神分子",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051467482540687361/oCsYDVtS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 30,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 12
+        },
+        "username": "td0VUxLaom82jvm",
+        "verified": false
+      }
+    ]
+  }
+}

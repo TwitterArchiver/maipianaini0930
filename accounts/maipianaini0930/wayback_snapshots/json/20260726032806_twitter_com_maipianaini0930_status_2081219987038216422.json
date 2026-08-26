@@ -1,0 +1,432 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Wengui Guo",
+          "id": "1140684969297076226",
+          "name": "Wengui Guo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Wengui Guo",
+          "id": "1140684969297076226",
+          "name": "Wengui Guo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Wengui Guo",
+          "id": "1140684969297076226",
+          "name": "Wengui Guo"
+        }
+      }
+    ],
+    "conversation_id": "2081219987038216422",
+    "created_at": "2026-07-26T03:28:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:28:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081219987038216422"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/huanghebian/st…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/huanghebian/status/2080376662643146846",
+          "start": 33,
+          "url": "https://t.co/fESOBmcEHa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081219987038216422",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080376662643146846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好歹蒙个面 后面一人一把ak端着吧\n东突现在让我觉得比轮子还抽象 https://t.co/fESOBmcEHa"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 107800,
+        "height": 720,
+        "media_key": "7_1864482076894081024",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1864482076894081024/pu/img/Zp2ewMA-ok_Zy_9K.jpg",
+        "public_metrics": {
+          "view_count": 380688
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864482076894081024/pu/vid/avc1/360x270/uxlecgU5TNyK45Eq.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864482076894081024/pu/vid/avc1/480x360/lZyFG1MEtsqNpYna.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1864482076894081024/pu/vid/avc1/960x720/qz3Nu1jbe_l_KEPX.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1864482076894081024/pu/pl/wvjLxjFjxGfsIyOM.m3u8?tag=12&v=26e"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          }
+        ],
+        "conversation_id": "2081219987038216422",
+        "created_at": "2026-07-26T03:28:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:28:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081219987038216422"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huanghebian/st…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/huanghebian/status/2080376662643146846",
+              "start": 33,
+              "url": "https://t.co/fESOBmcEHa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081219987038216422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080376662643146846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好歹蒙个面 后面一人一把ak端着吧\n东突现在让我觉得比轮子还抽象 https://t.co/fESOBmcEHa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1864482076894081024"
+          ],
+          "media_source_tweet_id": [
+            "1864482120116359390"
+          ]
+        },
+        "author_id": "857371396002922496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          }
+        ],
+        "conversation_id": "2080376662643146846",
+        "created_at": "2026-07-23T19:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T20:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080376662643146846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gnvpGFqV57",
+              "end": 36,
+              "expanded_url": "https://x.com/wakeup_arrow/status/1864482120116359390/video/1",
+              "media_key": "7_1864482076894081024",
+              "start": 13,
+              "url": "https://t.co/gnvpGFqV57"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080376662643146846",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 291,
+          "impression_count": 144782,
+          "like_count": 617,
+          "quote_count": 4,
+          "reply_count": 191,
+          "retweet_count": 41
+        },
+        "reply_settings": "everyone",
+        "text": "郭文贵吓坏了的一段视频。 https://t.co/gnvpGFqV57"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2079927002224836795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081027650659954688/u1Y49R96_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 306,
+          "like_count": 11338,
+          "listed_count": 1,
+          "media_count": 757,
+          "tweet_count": 5077
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-26T23:10:44.000Z",
+        "description": "旅加独立中文媒体人，成立17年的加拿大价值守护者联盟创办人。联系邮箱：huanghebian2005@hotmail.com 曾自封灭爆组组长联合全球＂三百壮士＂与郭文贵缠斗9年（2017 ～2026）主持油管＂今日戏郭秀＂5000余期，2026年4月郭骗子量刑宣判入监后将功成躺平继续闲扯！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCJxWc…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCJxWcxd-TB4lYVir6rFsOHg?view_as=subscriber",
+                "start": 0,
+                "url": "https://t.co/9FIjieStyt"
+              }
+            ]
+          }
+        },
+        "id": "857371396002922496",
+        "location": "Vancouver, British Columbia",
+        "name": "黄河边",
+        "pinned_tweet_id": "2040823417759560071",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/857373070520066048/ipAZARVA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66730,
+          "following_count": 1563,
+          "like_count": 9121,
+          "listed_count": 281,
+          "media_count": 9681,
+          "tweet_count": 44784
+        },
+        "url": "https://t.co/9FIjieStyt",
+        "username": "huanghebian",
+        "verified": true
+      }
+    ]
+  }
+}

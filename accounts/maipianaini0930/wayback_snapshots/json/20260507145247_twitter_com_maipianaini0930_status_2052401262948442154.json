@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2052019045638234510",
+    "created_at": "2026-05-07T14:52:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T15:52:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052401262948442154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1916779760824557568",
+          "start": 0,
+          "username": "HysteriaAndLove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052401262948442154",
+    "in_reply_to_user_id": "1916779760824557568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052380588414513434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HysteriaAndLove 连个酒类超市都没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2052019045638234510",
+        "created_at": "2026-05-07T14:52:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T15:52:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052401262948442154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1916779760824557568",
+              "start": 0,
+              "username": "HysteriaAndLove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052401262948442154",
+        "in_reply_to_user_id": "1916779760824557568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052380588414513434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HysteriaAndLove 连个酒类超市都没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916779760824557568",
+        "conversation_id": "2052019045638234510",
+        "created_at": "2026-05-07T13:30:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T14:30:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052380588414513434"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052380588414513434",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052019045638234510",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 南京就是很烂的城市 死气沉沉的垃圾堆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 276,
+          "like_count": 9202,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 3654
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T09:02:11.000Z",
+        "description": "都去死都去死都去死",
+        "id": "1916779760824557568",
+        "location": "裹尸袋里",
+        "name": "⸸​⛧Nana⛧⸸",
+        "pinned_tweet_id": "2049050637820936616",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048601957359890432/BEzYF_xy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 112,
+          "like_count": 3198,
+          "listed_count": 0,
+          "media_count": 150,
+          "tweet_count": 3428
+        },
+        "username": "HysteriaAndLove",
+        "verified": false
+      }
+    ]
+  }
+}

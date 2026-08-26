@@ -1,0 +1,574 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086892091611684864"
+      ],
+      "media_source_tweet_id": [
+        "2086892095785099434"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "With Glastonbury Festival being cancelled this year, fans are coming together to celebrate the 50th festival from home. Check out iconic performances from the past via @bbcglasto on @bbciplayer & @bbcsounds. And sample the full experience & areas of the festival that make it so special via @glastonbury. ",
+          "id": "1275175024895221760",
+          "name": "Relive the best of Glastonbury festival"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Music fesitvals and concerts, like Lollapalooza or a Marian Hill Concert",
+          "id": "114",
+          "name": "Concert"
+        },
+        "entity": {
+          "description": "With Glastonbury Festival being cancelled this year, fans are coming together to celebrate the 50th festival from home. Check out iconic performances from the past via @bbcglasto on @bbciplayer & @bbcsounds. And sample the full experience & areas of the festival that make it so special via @glastonbury. ",
+          "id": "1275175024895221760",
+          "name": "Relive the best of Glastonbury festival"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music Festivals",
+          "id": "1100438906279911426",
+          "name": "Music festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1286400936550608896",
+          "name": "Music events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407694085326966787",
+          "name": "Glastonbury Festival"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2087133976683229324",
+    "created_at": "2026-08-11T11:08:11.000Z",
+    "display_text_range": [
+      0,
+      115
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T12:08:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087133976683229324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3226727230",
+          "start": 3,
+          "username": "BillPourquoimec"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UidHl0p5wN",
+          "end": 115,
+          "expanded_url": "https://x.com/BillPourquoimec/status/2086892095785099434/photo/1",
+          "media_key": "3_2086892091611684864",
+          "start": 92,
+          "url": "https://t.co/UidHl0p5wN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087133976683229324",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2086892091611684864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 11
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086892095785099434",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BillPourquoimec: Priests mingle with hippies at the 1971 Glastonbury Festival, England. https://t.co/UidHl0p5wN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_2086892091611684864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYhTO0WIAAubC-.jpg",
+        "width": 1116
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086892091611684864"
+          ]
+        },
+        "author_id": "3226727230",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "With Glastonbury Festival being cancelled this year, fans are coming together to celebrate the 50th festival from home. Check out iconic performances from the past via @bbcglasto on @bbciplayer & @bbcsounds. And sample the full experience & areas of the festival that make it so special via @glastonbury. ",
+              "id": "1275175024895221760",
+              "name": "Relive the best of Glastonbury festival"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Music fesitvals and concerts, like Lollapalooza or a Marian Hill Concert",
+              "id": "114",
+              "name": "Concert"
+            },
+            "entity": {
+              "description": "With Glastonbury Festival being cancelled this year, fans are coming together to celebrate the 50th festival from home. Check out iconic performances from the past via @bbcglasto on @bbciplayer & @bbcsounds. And sample the full experience & areas of the festival that make it so special via @glastonbury. ",
+              "id": "1275175024895221760",
+              "name": "Relive the best of Glastonbury festival"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music Festivals",
+              "id": "1100438906279911426",
+              "name": "Music festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407694085326966787",
+              "name": "Glastonbury Festival"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2086892095785099434",
+        "created_at": "2026-08-10T19:07:02.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T20:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086892095785099434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UidHl0p5wN",
+              "end": 94,
+              "expanded_url": "https://x.com/BillPourquoimec/status/2086892095785099434/photo/1",
+              "media_key": "3_2086892091611684864",
+              "start": 71,
+              "url": "https://t.co/UidHl0p5wN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086892095785099434",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086892091611684864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1110,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "Priests mingle with hippies at the 1971 Glastonbury Festival, England. https://t.co/UidHl0p5wN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086892091611684864"
+          ],
+          "media_source_tweet_id": [
+            "2086892095785099434"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "With Glastonbury Festival being cancelled this year, fans are coming together to celebrate the 50th festival from home. Check out iconic performances from the past via @bbcglasto on @bbciplayer & @bbcsounds. And sample the full experience & areas of the festival that make it so special via @glastonbury. ",
+              "id": "1275175024895221760",
+              "name": "Relive the best of Glastonbury festival"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Music fesitvals and concerts, like Lollapalooza or a Marian Hill Concert",
+              "id": "114",
+              "name": "Concert"
+            },
+            "entity": {
+              "description": "With Glastonbury Festival being cancelled this year, fans are coming together to celebrate the 50th festival from home. Check out iconic performances from the past via @bbcglasto on @bbciplayer & @bbcsounds. And sample the full experience & areas of the festival that make it so special via @glastonbury. ",
+              "id": "1275175024895221760",
+              "name": "Relive the best of Glastonbury festival"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music Festivals",
+              "id": "1100438906279911426",
+              "name": "Music festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1286400936550608896",
+              "name": "Music events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407694085326966787",
+              "name": "Glastonbury Festival"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2087133976683229324",
+        "created_at": "2026-08-11T11:08:11.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T12:08:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087133976683229324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3226727230",
+              "start": 3,
+              "username": "BillPourquoimec"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UidHl0p5wN",
+              "end": 115,
+              "expanded_url": "https://x.com/BillPourquoimec/status/2086892095785099434/photo/1",
+              "media_key": "3_2086892091611684864",
+              "start": 92,
+              "url": "https://t.co/UidHl0p5wN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087133976683229324",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086892091611684864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086892095785099434",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BillPourquoimec: Priests mingle with hippies at the 1971 Glastonbury Festival, England. https://t.co/UidHl0p5wN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2087133976683229324",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1783418005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 300,
+          "like_count": 11379,
+          "listed_count": 1,
+          "media_count": 777,
+          "tweet_count": 5216
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-01T18:58:19.000Z",
+        "description": "animal de nuit au sang chaud, né sous le signe du désespoir un matin d'hiver.\n 💙🤍",
+        "id": "3226727230",
+        "is_identity_verified": false,
+        "location": "Villefargeau Auxerre, France",
+        "most_recent_tweet_id": "2087067309990961461",
+        "name": "Bill Pourquoimec",
+        "pinned_tweet_id": "1793153879997141328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3226727230/1663823719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549649980285227008/Io1oYt5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18656,
+          "following_count": 1623,
+          "like_count": 61188,
+          "listed_count": 101,
+          "media_count": 10076,
+          "tweet_count": 16693
+        },
+        "url": "",
+        "username": "BillPourquoimec",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

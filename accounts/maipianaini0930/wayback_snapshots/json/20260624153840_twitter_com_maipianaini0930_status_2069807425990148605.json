@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2069807330380927353",
+    "created_at": "2026-06-24T15:38:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T16:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069807425990148605"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2069807425990148605",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069807330380927353",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "即使人群中有和我怀着类似仇恨、能成为挚友的人。但我一点也不后悔撞死他们，我也很清楚自己的结局，很多看似无可理喻的事确实是在一瞬间决定的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2069807330380927353",
+        "created_at": "2026-06-24T15:38:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069807425990148605"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069807425990148605",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069807330380927353",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "即使人群中有和我怀着类似仇恨、能成为挚友的人。但我一点也不后悔撞死他们，我也很清楚自己的结局，很多看似无可理喻的事确实是在一瞬间决定的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2069807330380927353",
+        "created_at": "2026-06-24T15:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T16:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069807330380927353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069807330380927353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "推特是我比较真实的一面，但也不完全是，因为有些内心深处最隐秘的东西平时不会显露出来，或者说根本想不起来。但只要随便一个契机它便毫不留情地暴露在众人面前。比如第一次用lsd我想到了之前看过的几个美国死刑犯还有dylann roof，我跟sp上认识的美国朋友说我没准哪天突然就决定开车撞人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 304,
+          "like_count": 10575,
+          "listed_count": 1,
+          "media_count": 687,
+          "tweet_count": 4584
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

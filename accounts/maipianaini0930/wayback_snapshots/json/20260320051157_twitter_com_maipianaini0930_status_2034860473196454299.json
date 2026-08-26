@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2034860292447109120",
+        "3_2034860292438728709"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034850537083167206",
+    "created_at": "2026-03-20T05:11:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T06:11:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034860473196454299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1818861490558189570",
+          "start": 0,
+          "username": "gogatsu_yuki5"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HVyhBASe2s",
+          "end": 38,
+          "expanded_url": "https://x.com/maipianaini0930/status/2034860473196454299/video/1",
+          "media_key": "13_2034860292447109120",
+          "start": 15,
+          "url": "https://t.co/HVyhBASe2s"
+        },
+        {
+          "display_url": "pic.x.com/HVyhBASe2s",
+          "end": 38,
+          "expanded_url": "https://x.com/maipianaini0930/status/2034860473196454299/video/1",
+          "media_key": "3_2034860292438728709",
+          "start": 15,
+          "url": "https://t.co/HVyhBASe2s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034860473196454299",
+    "in_reply_to_user_id": "1818861490558189570",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034850537083167206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gogatsu_yuki5 https://t.co/HVyhBASe2s"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16158,
+        "height": 720,
+        "media_key": "13_2034860292447109120",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034860292447109120/img/vlKkCQBLiz7JCDyo.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034860292447109120/vid/avc1/480x270/-f6rggWljAcG1Jte.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034860292447109120/vid/avc1/640x360/Sjw8dsZV5MZbEb1E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034860292447109120/vid/avc1/1280x720/zV57un_p1bvu6sHB.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034860292447109120/pl/MxRV1RutFt6H2_1y.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2034860292438728709",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD1Gp6JboAUIiM8.jpg",
+        "width": 3024
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2034850531362185216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD09xvTboAA-gbF.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034860292447109120",
+            "3_2034860292438728709"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034850537083167206",
+        "created_at": "2026-03-20T05:11:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T06:11:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034860473196454299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1818861490558189570",
+              "start": 0,
+              "username": "gogatsu_yuki5"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HVyhBASe2s",
+              "end": 38,
+              "expanded_url": "https://x.com/maipianaini0930/status/2034860473196454299/video/1",
+              "media_key": "13_2034860292447109120",
+              "start": 15,
+              "url": "https://t.co/HVyhBASe2s"
+            },
+            {
+              "display_url": "pic.x.com/HVyhBASe2s",
+              "end": 38,
+              "expanded_url": "https://x.com/maipianaini0930/status/2034860473196454299/video/1",
+              "media_key": "3_2034860292438728709",
+              "start": 15,
+              "url": "https://t.co/HVyhBASe2s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034860473196454299",
+        "in_reply_to_user_id": "1818861490558189570",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034850537083167206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gogatsu_yuki5 https://t.co/HVyhBASe2s"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034850531362185216"
+          ]
+        },
+        "author_id": "1818861490558189570",
+        "conversation_id": "2034850537083167206",
+        "created_at": "2026-03-20T04:32:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T05:32:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034850537083167206"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aHfvbrpIWs",
+              "end": 28,
+              "expanded_url": "https://x.com/gogatsu_yuki5/status/2034850537083167206/photo/1",
+              "media_key": "3_2034850531362185216",
+              "start": 5,
+              "url": "https://t.co/aHfvbrpIWs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034850537083167206",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何マジで https://t.co/aHfvbrpIWs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 238,
+          "like_count": 6258,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 2274
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-01T04:09:36.000Z",
+        "description": "毎日お疲れ様です。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/gogatsu_yuki05…",
+                "end": 23,
+                "expanded_url": "https://note.com/gogatsu_yuki0512",
+                "start": 0,
+                "url": "https://t.co/cwXgBCbJdu"
+              }
+            ]
+          }
+        },
+        "id": "1818861490558189570",
+        "name": "ごがつのゆき",
+        "pinned_tweet_id": "1818933121066422562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017253648854835200/l8j0RSBP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 206,
+          "like_count": 186322,
+          "listed_count": 12,
+          "media_count": 171,
+          "tweet_count": 4692
+        },
+        "url": "https://t.co/cwXgBCbJdu",
+        "username": "gogatsu_yuki5",
+        "verified": false
+      }
+    ]
+  }
+}

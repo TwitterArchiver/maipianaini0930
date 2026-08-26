@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2047791323294400898",
+    "created_at": "2026-04-25T19:31:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T20:31:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048122821671551128"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1646301619435237376",
+          "start": 0,
+          "username": "Mnherarin"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048122821671551128",
+    "in_reply_to_user_id": "1646301619435237376",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048122369361793253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mnherarin 这是什么？有点看不懂\n但是我确实喝腻了中国市面上大部分啤酒，我想尝尝一些不知名小牌子的酒，只有当地人知道并且饮用"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_2048122364802551808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGxkcHqW0AAjQIj.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2047791323294400898",
+        "created_at": "2026-04-25T19:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T20:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048122821671551128"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1646301619435237376",
+              "start": 0,
+              "username": "Mnherarin"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048122821671551128",
+        "in_reply_to_user_id": "1646301619435237376",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048122369361793253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mnherarin 这是什么？有点看不懂\n但是我确实喝腻了中国市面上大部分啤酒，我想尝尝一些不知名小牌子的酒，只有当地人知道并且饮用"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048122364802551808"
+          ]
+        },
+        "author_id": "1646301619435237376",
+        "conversation_id": "2047791323294400898",
+        "created_at": "2026-04-25T19:29:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T20:29:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048122369361793253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/NxQ8teyjH5",
+              "end": 52,
+              "expanded_url": "https://x.com/Mnherarin/status/2048122369361793253/photo/1",
+              "media_key": "3_2048122364802551808",
+              "start": 29,
+              "url": "https://t.co/NxQ8teyjH5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048122369361793253",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048120289712816606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 看起来，它的确卖得不错 https://t.co/NxQ8teyjH5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 286,
+          "like_count": 8822,
+          "listed_count": 1,
+          "media_count": 538,
+          "tweet_count": 3414
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T23:58:19.000Z",
+        "description": "むしろ家にいて大麻を吸っていたい !! Yamikawaii 20y IDC www 4:20 🎀 ゆにぴ🦄🩷🎀SCCP!🦅 猫とエッチアニメが大好きです❤️‍🩹 🧠 tw im pervert ‼️ SH/DRUGS🩸🎀 br 📍@virtualshoujo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 116,
+                "username": "virtualshoujo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mnherarin.straw.page",
+                "end": 23,
+                "expanded_url": "http://mnherarin.straw.page",
+                "start": 0,
+                "url": "https://t.co/B6MDKqbNwh"
+              }
+            ]
+          }
+        },
+        "id": "1646301619435237376",
+        "location": " online 🟢",
+        "name": "🎀メンヘラ 🎀 i ❤︎⁠ SH",
+        "pinned_tweet_id": "1926123097549103278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030215477335633920/-GgYCxi-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 462,
+          "like_count": 18616,
+          "listed_count": 2,
+          "media_count": 799,
+          "tweet_count": 6121
+        },
+        "url": "https://t.co/B6MDKqbNwh",
+        "username": "Mnherarin",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2057872090406191460",
+    "created_at": "2026-05-23T14:58:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:58:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058200797046087870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2046465181090304000",
+          "start": 0,
+          "username": "James313745"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058200797046087870",
+    "in_reply_to_user_id": "2046465181090304000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058157042792083548",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@James313745 你妈死了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2057872090406191460",
+        "created_at": "2026-05-23T14:58:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:58:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058200797046087870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2046465181090304000",
+              "start": 0,
+              "username": "James313745"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058200797046087870",
+        "in_reply_to_user_id": "2046465181090304000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058157042792083548",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@James313745 你妈死了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2046465181090304000",
+        "conversation_id": "2057872090406191460",
+        "created_at": "2026-05-23T12:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058157042792083548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058157042792083548",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057873185522282958",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 🙏\n\n😘\n\n💯\n\n​​­ 😆🥰💕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 285,
+          "like_count": 9704,
+          "listed_count": 2,
+          "media_count": 615,
+          "tweet_count": 4034
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-21T05:44:56.000Z",
+        "description": "想找我的宝宝点这里✈;https://t.co/tG7jVpcnOi 安全靠谱",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/linlin801",
+                "end": 34,
+                "expanded_url": "http://t.me/linlin801",
+                "start": 11,
+                "url": "https://t.co/tG7jVpcnOi"
+              }
+            ]
+          }
+        },
+        "id": "2046465181090304000",
+        "name": "玥瑶~🌸同城上门",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058157051101036544/gqhqSAFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 286
+        },
+        "username": "James313745",
+        "verified": false
+      }
+    ]
+  }
+}

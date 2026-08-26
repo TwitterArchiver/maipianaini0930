@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028376564275306496"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028376572567367907",
+    "created_at": "2026-03-02T07:47:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T08:47:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028376572567367907"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/W26S9p9Pej",
+          "end": 55,
+          "expanded_url": "https://x.com/maipianaini0930/status/2028376572567367907/photo/1",
+          "media_key": "3_2028376564275306496",
+          "start": 32,
+          "url": "https://t.co/W26S9p9Pej"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028376572567367907",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个真的看一次笑一次，尤其配上那种千禧年左右小学课本的插图画风 https://t.co/W26S9p9Pej"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2028376564275306496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCY9vQhbYAAFSAK.jpg",
+        "width": 430
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028376564275306496"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028376572567367907",
+        "created_at": "2026-03-02T07:47:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T08:47:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028376572567367907"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/W26S9p9Pej",
+              "end": 55,
+              "expanded_url": "https://x.com/maipianaini0930/status/2028376572567367907/photo/1",
+              "media_key": "3_2028376564275306496",
+              "start": 32,
+              "url": "https://t.co/W26S9p9Pej"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028376572567367907",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个真的看一次笑一次，尤其配上那种千禧年左右小学课本的插图画风 https://t.co/W26S9p9Pej"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 221,
+          "like_count": 5219,
+          "listed_count": 0,
+          "media_count": 260,
+          "tweet_count": 1659
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

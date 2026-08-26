@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2013232515075485696"
+      ],
+      "media_source_tweet_id": [
+        "2013232518653247530"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2013559476192764351",
+    "created_at": "2026-01-20T10:29:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T11:29:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013559476192764351"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "957638065278930945",
+          "start": 3,
+          "username": "rocknrollscars"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IFdiOIVzJs",
+          "end": 43,
+          "expanded_url": "https://x.com/rocknrollscars/status/2013232518653247530/photo/1",
+          "media_key": "3_2013232515075485696",
+          "start": 20,
+          "url": "https://t.co/IFdiOIVzJs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013559476192764351",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 288
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013232518653247530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rocknrollscars: https://t.co/IFdiOIVzJs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 827,
+        "media_key": "3_2013232515075485696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_BwTk9XMAAXSua.jpg",
+        "width": 550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013232515075485696"
+          ],
+          "media_source_tweet_id": [
+            "2013232518653247530"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2013559476192764351",
+        "created_at": "2026-01-20T10:29:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T11:29:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013559476192764351"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "957638065278930945",
+              "start": 3,
+              "username": "rocknrollscars"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IFdiOIVzJs",
+              "end": 43,
+              "expanded_url": "https://x.com/rocknrollscars/status/2013232518653247530/photo/1",
+              "media_key": "3_2013232515075485696",
+              "start": 20,
+              "url": "https://t.co/IFdiOIVzJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013559476192764351",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 288
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013232518653247530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rocknrollscars: https://t.co/IFdiOIVzJs"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013232515075485696"
+          ]
+        },
+        "author_id": "957638065278930945",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2013232518653247530",
+        "created_at": "2026-01-19T12:50:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T13:50:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013232518653247530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IFdiOIVzJs",
+              "end": 23,
+              "expanded_url": "https://x.com/rocknrollscars/status/2013232518653247530/photo/1",
+              "media_key": "3_2013232515075485696",
+              "start": 0,
+              "url": "https://t.co/IFdiOIVzJs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013232518653247530",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 22346,
+          "like_count": 1647,
+          "quote_count": 3,
+          "reply_count": 9,
+          "retweet_count": 288
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IFdiOIVzJs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013475639219585024/EhafFf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 195,
+          "like_count": 3184,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1016
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-28T15:34:41.000Z",
+        "description": "𝗞𝗡𝗢𝗕𝗛𝗘𝗔𝗗",
+        "id": "957638065278930945",
+        "name": "𝗚𝗘𝗡𝗘𝗥𝗔𝗧𝗜𝗢𝗡 𝗢𝗙 𝗦𝗖𝗔𝗥𝗦",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1813313406826369024/aduOSHVk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71637,
+          "following_count": 0,
+          "like_count": 46824,
+          "listed_count": 180,
+          "media_count": 8560,
+          "tweet_count": 10306
+        },
+        "username": "rocknrollscars",
+        "verified": false
+      }
+    ]
+  }
+}

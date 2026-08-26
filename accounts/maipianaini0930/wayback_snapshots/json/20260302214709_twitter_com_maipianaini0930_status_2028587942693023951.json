@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2028587936518938624"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1169275072206389248",
+          "name": "Baidu"
+        }
+      }
+    ],
+    "conversation_id": "2028587942693023951",
+    "created_at": "2026-03-02T21:47:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T22:47:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028587942693023951"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZQUz1I6f0p",
+          "end": 43,
+          "expanded_url": "https://x.com/maipianaini0930/status/2028587942693023951/photo/1",
+          "media_key": "3_2028587936518938624",
+          "start": 20,
+          "url": "https://t.co/ZQUz1I6f0p"
+        },
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2028586929453986225",
+          "start": 44,
+          "url": "https://t.co/iFb93p4KKa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028587942693023951",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028586929453986225",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "收收味 至少还能让你模糊点离场傻逼玩意 https://t.co/ZQUz1I6f0p https://t.co/iFb93p4KKa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2028587936518938624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCb9-vfaoAAPTLH.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2028587936518938624"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2028587942693023951",
+        "created_at": "2026-03-02T21:47:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:47:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028587942693023951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZQUz1I6f0p",
+              "end": 43,
+              "expanded_url": "https://x.com/maipianaini0930/status/2028587942693023951/photo/1",
+              "media_key": "3_2028587936518938624",
+              "start": 20,
+              "url": "https://t.co/ZQUz1I6f0p"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2028586929453986225",
+              "start": 44,
+              "url": "https://t.co/iFb93p4KKa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028587942693023951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028586929453986225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "收收味 至少还能让你模糊点离场傻逼玩意 https://t.co/ZQUz1I6f0p https://t.co/iFb93p4KKa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "2028586929453986225",
+        "created_at": "2026-03-02T21:43:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028586929453986225"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028586929453986225",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "傅斯年儿子沉迷嬉皮士，暮年给某个大陆的学者写了封信 用歪歪扭扭的汉字落款：傅仁轨，我感觉百度在居心叵测，用通篇浸透着民粹主义和阴阳怪气的文字去定义某个人，不愧是言论收拢地区的一贯做法"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 222,
+          "like_count": 5244,
+          "listed_count": 0,
+          "media_count": 270,
+          "tweet_count": 1694
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

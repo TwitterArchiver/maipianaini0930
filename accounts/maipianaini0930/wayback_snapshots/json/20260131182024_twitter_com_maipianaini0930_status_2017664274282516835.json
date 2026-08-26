@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2017467911200440489",
+    "created_at": "2026-01-31T18:20:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-31T19:20:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2017664274282516835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1961626616502853632",
+          "start": 0,
+          "username": "SamRaj49"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2017664274282516835",
+    "in_reply_to_user_id": "1961626616502853632",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017467911200440489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SamRaj49 that's grapefruit"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2017467895589310466",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_98XK5bEAI0Yyd.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2017467911200440489",
+        "created_at": "2026-01-31T18:20:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T19:20:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017664274282516835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1961626616502853632",
+              "start": 0,
+              "username": "SamRaj49"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017664274282516835",
+        "in_reply_to_user_id": "1961626616502853632",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017467911200440489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SamRaj49 that's grapefruit"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2017467895589310466"
+          ]
+        },
+        "author_id": "1961626616502853632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2017467911200440489",
+        "created_at": "2026-01-31T05:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T06:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017467911200440489"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BxFFDxsJMr",
+              "end": 58,
+              "expanded_url": "https://x.com/SamRaj49/status/2017467911200440489/photo/1",
+              "media_key": "3_2017467895589310466",
+              "start": 35,
+              "url": "https://t.co/BxFFDxsJMr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017467911200440489",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1023,
+          "impression_count": 3620582,
+          "like_count": 2781,
+          "quote_count": 78,
+          "reply_count": 949,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "Okay Girl's, Let's Confused Boys 😉 https://t.co/BxFFDxsJMr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 213,
+          "like_count": 3632,
+          "listed_count": 0,
+          "media_count": 180,
+          "tweet_count": 1109
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-30T03:07:04.000Z",
+        "description": "food lover || Cringe Post|| Humour 😉\nBTW SAMRAJ is My name not my caste . 💝",
+        "id": "1961626616502853632",
+        "name": "Ritik's Samraj",
+        "pinned_tweet_id": "2017467911200440489",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977895504064475136/vY_a7sKP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4676,
+          "following_count": 2514,
+          "like_count": 17224,
+          "listed_count": 2,
+          "media_count": 561,
+          "tweet_count": 12769
+        },
+        "username": "SamRaj49",
+        "verified": true
+      }
+    ]
+  }
+}

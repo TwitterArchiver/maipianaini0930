@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2048006768660500571",
+    "created_at": "2026-04-25T16:17:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T17:17:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048074036333482067"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1800565324263333888",
+          "start": 0,
+          "username": "cunjian11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048074036333482067",
+    "in_reply_to_user_id": "1800565324263333888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048073903793430825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cunjian11 没听懂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2048006768660500571",
+        "created_at": "2026-04-25T16:17:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:17:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048074036333482067"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1800565324263333888",
+              "start": 0,
+              "username": "cunjian11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048074036333482067",
+        "in_reply_to_user_id": "1800565324263333888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048073903793430825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cunjian11 没听懂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800565324263333888",
+        "conversation_id": "2048006768660500571",
+        "created_at": "2026-04-25T16:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T17:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048073903793430825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048073903793430825",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048006768660500571",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 一个平A把大招都干出来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 281,
+          "like_count": 8754,
+          "listed_count": 1,
+          "media_count": 535,
+          "tweet_count": 3395
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T16:26:51.000Z",
+        "description": "等待灾难发生\n🚪52/100/288",
+        "id": "1800565324263333888",
+        "name": "允悲",
+        "pinned_tweet_id": "2046414158711919084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102510798090240/YqfYeeUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 70,
+          "like_count": 192,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 28
+        },
+        "username": "cunjian11",
+        "verified": false
+      }
+    ]
+  }
+}

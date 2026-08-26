@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2014707072386965504"
+      ],
+      "media_source_tweet_id": [
+        "2014836039366455309"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015421654705590464",
+    "created_at": "2026-01-25T13:49:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-25T14:49:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015421654705590464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1720152282",
+          "start": 3,
+          "username": "ultras_antifaa"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/4GiOyVkYxA",
+          "end": 137,
+          "expanded_url": "https://x.com/ultras_antifaa/status/2014836039366455309/video/1",
+          "media_key": "13_2014707072386965504",
+          "start": 114,
+          "url": "https://t.co/4GiOyVkYxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015421654705590464",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 853
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014836039366455309",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ultras_antifaa: What streets and humanity around the world need are sustained uprisings that achieve results. https://t.co/4GiOyVkYxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57306,
+        "height": 720,
+        "media_key": "13_2014707072386965504",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014707072386965504/img/1JMYO5bw0z_UAjia.jpg",
+        "public_metrics": {
+          "view_count": 110772
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014707072386965504/vid/avc1/480x270/40cd5wvacnqidqdF.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014707072386965504/vid/avc1/640x360/8k6zBMFXg_SZrGeY.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014707072386965504/vid/avc1/1280x720/SnB3OjLJU7DKgVou.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014707072386965504/pl/ruzsXYsBySJYvkc5.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014707072386965504"
+          ],
+          "media_source_tweet_id": [
+            "2014836039366455309"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015421654705590464",
+        "created_at": "2026-01-25T13:49:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T14:49:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015421654705590464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1720152282",
+              "start": 3,
+              "username": "ultras_antifaa"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GiOyVkYxA",
+              "end": 137,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2014836039366455309/video/1",
+              "media_key": "13_2014707072386965504",
+              "start": 114,
+              "url": "https://t.co/4GiOyVkYxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015421654705590464",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 853
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014836039366455309",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ultras_antifaa: What streets and humanity around the world need are sustained uprisings that achieve results. https://t.co/4GiOyVkYxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014707072386965504"
+          ]
+        },
+        "author_id": "1720152282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2014836039366455309",
+        "created_at": "2026-01-23T23:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T00:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014836039366455309"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4GiOyVkYxA",
+              "end": 117,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2014836039366455309/video/1",
+              "media_key": "13_2014707072386965504",
+              "start": 94,
+              "url": "https://t.co/4GiOyVkYxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014836039366455309",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 532,
+          "impression_count": 163458,
+          "like_count": 6900,
+          "quote_count": 33,
+          "reply_count": 182,
+          "retweet_count": 853
+        },
+        "reply_settings": "everyone",
+        "text": "What streets and humanity around the world need are sustained uprisings that achieve results. https://t.co/4GiOyVkYxA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013475639219585024/EhafFf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 207,
+          "like_count": 3411,
+          "listed_count": 0,
+          "media_count": 167,
+          "tweet_count": 1045
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-01T20:45:02.000Z",
+        "description": "An international Antifa collective sharing news, photos, and sports from different countries. Message us to join our matchday activities.\nOther: @internaciultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "internaciultra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "antifaultras.etsy.com",
+                "end": 23,
+                "expanded_url": "https://antifaultras.etsy.com",
+                "start": 0,
+                "url": "https://t.co/ddEJJRNuUg"
+              }
+            ]
+          }
+        },
+        "id": "1720152282",
+        "name": "Antifa_Ultras",
+        "pinned_tweet_id": "2010358131088413014",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952318050063052800/nOPRDmI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210796,
+          "following_count": 1,
+          "like_count": 495,
+          "listed_count": 943,
+          "media_count": 48550,
+          "tweet_count": 54209
+        },
+        "url": "https://t.co/ddEJJRNuUg",
+        "username": "ultras_antifaa",
+        "verified": true
+      }
+    ]
+  }
+}

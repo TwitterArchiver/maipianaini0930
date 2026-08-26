@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079832849289818112"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10044977745",
+          "name": "Snapchat"
+        }
+      }
+    ],
+    "conversation_id": "2079797230081572996",
+    "created_at": "2026-07-22T07:36:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:36:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079832856084509115"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1829589054452805632",
+          "start": 0,
+          "username": "wohenhaipaT"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/hKC8Flkt7Y",
+          "end": 60,
+          "expanded_url": "https://x.com/maipianaini0930/status/2079832856084509115/photo/1",
+          "media_key": "3_2079832849289818112",
+          "start": 37,
+          "url": "https://t.co/hKC8Flkt7Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079832856084509115",
+    "in_reply_to_user_id": "1829589054452805632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079827361747685805",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohenhaipaT snapchat发送图片前编辑系统里的打字功能 https://t.co/hKC8Flkt7Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1348,
+        "media_key": "3_2079832849289818112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN0M9P4bsAAYkb7.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079832849289818112"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044977745",
+              "name": "Snapchat"
+            }
+          }
+        ],
+        "conversation_id": "2079797230081572996",
+        "created_at": "2026-07-22T07:36:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:36:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079832856084509115"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1829589054452805632",
+              "start": 0,
+              "username": "wohenhaipaT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hKC8Flkt7Y",
+              "end": 60,
+              "expanded_url": "https://x.com/maipianaini0930/status/2079832856084509115/photo/1",
+              "media_key": "3_2079832849289818112",
+              "start": 37,
+              "url": "https://t.co/hKC8Flkt7Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079832856084509115",
+        "in_reply_to_user_id": "1829589054452805632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079827361747685805",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohenhaipaT snapchat发送图片前编辑系统里的打字功能 https://t.co/hKC8Flkt7Y"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829589054452805632",
+        "conversation_id": "2079797230081572996",
+        "created_at": "2026-07-22T07:14:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079827361747685805"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079827361747685805",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079797230081572996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 这个照片是怎么拍出来的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 302,
+          "like_count": 11250,
+          "listed_count": 1,
+          "media_count": 748,
+          "tweet_count": 4970
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-30T18:36:44.000Z",
+        "description": "ゆかいはん\n🚪128",
+        "id": "1829589054452805632",
+        "name": "Endorphin",
+        "pinned_tweet_id": "2051589369174356109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950767483985817600/VjgGYzNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 779,
+          "following_count": 296,
+          "like_count": 9171,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 5048
+        },
+        "url": "",
+        "username": "wohenhaipaT",
+        "verified": false
+      }
+    ]
+  }
+}

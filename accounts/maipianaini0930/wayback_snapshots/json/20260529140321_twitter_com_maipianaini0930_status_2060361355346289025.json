@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2060359725393547473",
+    "created_at": "2026-05-29T14:03:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060361355346289025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035873731441307648",
+          "start": 0,
+          "username": "Kirakirapicboss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060361355346289025",
+    "in_reply_to_user_id": "2035873731441307648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060360873651347650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakirapicboss 那我还是把刘海贴住吧，对于你，盲人摸象是我的遗憾啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2060359725393547473",
+        "created_at": "2026-05-29T14:03:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060361355346289025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035873731441307648",
+              "start": 0,
+              "username": "Kirakirapicboss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060361355346289025",
+        "in_reply_to_user_id": "2035873731441307648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060360873651347650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakirapicboss 那我还是把刘海贴住吧，对于你，盲人摸象是我的遗憾啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035873731441307648",
+        "conversation_id": "2060359725393547473",
+        "created_at": "2026-05-29T14:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060360873651347650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060360873651347650",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060359725393547473",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 趁你看不见我就狠狠地抱你吧😈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱🇷🇺",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 293,
+          "like_count": 9839,
+          "listed_count": 2,
+          "media_count": 631,
+          "tweet_count": 4128
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:28:02.000Z",
+        "description": "ο(=·ω＜=)☆kira",
+        "id": "2035873731441307648",
+        "name": "MafiAnBOSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035876296455311361/GEemVONV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 68,
+          "like_count": 349,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 185
+        },
+        "username": "Kirakirapicboss",
+        "verified": false
+      }
+    ]
+  }
+}

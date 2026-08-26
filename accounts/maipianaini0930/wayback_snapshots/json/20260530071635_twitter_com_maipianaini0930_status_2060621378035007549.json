@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2060365712854815201",
+    "created_at": "2026-05-30T07:16:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:16:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060621378035007549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035873731441307648",
+          "start": 0,
+          "username": "Kirakirapicboss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060621378035007549",
+    "in_reply_to_user_id": "2035873731441307648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060612874406625632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakirapicboss 全欧美，英国朋克比较出名"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2060365712854815201",
+        "created_at": "2026-05-30T07:16:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:16:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060621378035007549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035873731441307648",
+              "start": 0,
+              "username": "Kirakirapicboss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060621378035007549",
+        "in_reply_to_user_id": "2035873731441307648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060612874406625632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakirapicboss 全欧美，英国朋克比较出名"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035873731441307648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2060365712854815201",
+        "created_at": "2026-05-30T06:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060612874406625632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060612874406625632",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060407325723414664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 一提起嬉皮士我还是第一个想起来滚石乐队的摇滚马戏团和电影《放大》，所以才会写英国，不过这些东西这两个国家都有吧，没有刻意地去分开^_^"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱🇷🇺",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 291,
+          "like_count": 9847,
+          "listed_count": 2,
+          "media_count": 632,
+          "tweet_count": 4143
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:28:02.000Z",
+        "description": "ο(=·ω＜=)☆kira",
+        "id": "2035873731441307648",
+        "name": "MafiAnBOSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035876296455311361/GEemVONV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 69,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 195
+        },
+        "username": "Kirakirapicboss",
+        "verified": false
+      }
+    ]
+  }
+}

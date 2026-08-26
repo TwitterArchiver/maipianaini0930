@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2012585345960054950",
+    "created_at": "2026-01-17T18:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T19:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012585730774872206"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2012585730774872206",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2012585345960054950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "因为我再跟你打视频"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2012585337030057988",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4js23WIAQBqzk.jpg",
+        "width": 750
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2012585337013383168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4js2zXsAAcRhM.jpg",
+        "width": 750
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2012585337042649088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-4js26WQAApAUG.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2012585345960054950",
+        "created_at": "2026-01-17T18:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T19:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012585730774872206"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2012585730774872206",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2012585345960054950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为我再跟你打视频"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2012585337030057988",
+            "3_2012585337013383168",
+            "3_2012585337042649088"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2012585345960054950",
+        "created_at": "2026-01-17T17:58:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T18:58:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012585345960054950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1891848716023422976",
+              "start": 0,
+              "username": "AORINGO_nemuru"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zVZH5dppnH",
+              "end": 39,
+              "expanded_url": "https://x.com/maipianaini0930/status/2012585345960054950/photo/1",
+              "media_key": "3_2012585337030057988",
+              "start": 16,
+              "url": "https://t.co/zVZH5dppnH"
+            },
+            {
+              "display_url": "pic.x.com/zVZH5dppnH",
+              "end": 39,
+              "expanded_url": "https://x.com/maipianaini0930/status/2012585345960054950/photo/1",
+              "media_key": "3_2012585337013383168",
+              "start": 16,
+              "url": "https://t.co/zVZH5dppnH"
+            },
+            {
+              "display_url": "pic.x.com/zVZH5dppnH",
+              "end": 39,
+              "expanded_url": "https://x.com/maipianaini0930/status/2012585345960054950/photo/1",
+              "media_key": "3_2012585337042649088",
+              "start": 16,
+              "url": "https://t.co/zVZH5dppnH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012585345960054950",
+        "in_reply_to_user_id": "1891848716023422976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@AORINGO_nemuru https://t.co/zVZH5dppnH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006274810918363138/El07gvs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 193,
+          "like_count": 3059,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 990
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

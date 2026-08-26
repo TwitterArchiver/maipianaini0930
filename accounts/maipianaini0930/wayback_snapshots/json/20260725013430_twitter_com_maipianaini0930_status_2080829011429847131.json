@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2080697359236059370",
+    "created_at": "2026-07-25T01:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T02:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080829011429847131"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1425156089918541825",
+          "start": 0,
+          "username": "aaa42816431"
+        },
+        {
+          "end": 22,
+          "id": "2057497111718166531",
+          "start": 13,
+          "username": "ovum0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080829011429847131",
+    "in_reply_to_user_id": "1425156089918541825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080736941130277030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaa42816431 @ovum0000 凉的话感觉只咽了块冰块 没抽到什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2080697359236059370",
+        "created_at": "2026-07-25T01:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T02:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080829011429847131"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425156089918541825",
+              "start": 0,
+              "username": "aaa42816431"
+            },
+            {
+              "end": 22,
+              "id": "2057497111718166531",
+              "start": 13,
+              "username": "ovum0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080829011429847131",
+        "in_reply_to_user_id": "1425156089918541825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080736941130277030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaa42816431 @ovum0000 凉的话感觉只咽了块冰块 没抽到什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425156089918541825",
+        "conversation_id": "2080697359236059370",
+        "created_at": "2026-07-24T19:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080736941130277030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            },
+            {
+              "end": 26,
+              "id": "2057497111718166531",
+              "start": 17,
+              "username": "ovum0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080736941130277030",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080704964633198730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 @ovum0000 能凉不能甜"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2079927002224836795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 307,
+          "like_count": 11379,
+          "listed_count": 1,
+          "media_count": 756,
+          "tweet_count": 5063
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-10T18:04:34.000Z",
+        "description": "",
+        "id": "1425156089918541825",
+        "name": "愛止痛消炎藥",
+        "pinned_tweet_id": "2033193926237282367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872285759019098112/mju8N4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 42,
+          "like_count": 356,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 90
+        },
+        "url": "",
+        "username": "aaa42816431",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "",
+        "id": "2057497111718166531",
+        "name": "dihshdhd",
+        "pinned_tweet_id": "2079497772445925444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079939040854564864/WiorxK9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 13,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 32,
+          "tweet_count": 153
+        },
+        "url": "",
+        "username": "ovum0000",
+        "verified": false
+      }
+    ]
+  }
+}

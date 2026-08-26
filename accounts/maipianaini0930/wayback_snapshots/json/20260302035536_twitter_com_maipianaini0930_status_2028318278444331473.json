@@ -1,0 +1,94 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028318278444331473",
+    "created_at": "2026-03-02T03:55:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T04:55:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2028318278444331473"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2028318278444331473",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有很多兔子和松鼠，可惜猎枪在后备箱的夹层里，他懒得去拿于是踩着稀泥散了会步，不时大叫几声，草丛传来动物窸窸窣窣的逃窜声"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028318278444331473",
+        "created_at": "2026-03-02T03:55:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T04:55:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2028318278444331473"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2028318278444331473",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有很多兔子和松鼠，可惜猎枪在后备箱的夹层里，他懒得去拿于是踩着稀泥散了会步，不时大叫几声，草丛传来动物窸窸窣窣的逃窜声"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 218,
+          "like_count": 5156,
+          "listed_count": 0,
+          "media_count": 255,
+          "tweet_count": 1638
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

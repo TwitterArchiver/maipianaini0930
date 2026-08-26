@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2066098327880605746",
+    "created_at": "2026-06-14T10:00:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T11:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066098327880605746"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1549875407922401281",
+          "start": 3,
+          "username": "Xiao_357"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066098327880605746",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066062093745315893",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiao_357: 就是有歧视，男的留了长发，找工作别人觉得你当力工都不配，直接划掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2066098327880605746",
+        "created_at": "2026-06-14T10:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T11:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066098327880605746"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1549875407922401281",
+              "start": 3,
+              "username": "Xiao_357"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066098327880605746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066062093745315893",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiao_357: 就是有歧视，男的留了长发，找工作别人觉得你当力工都不配，直接划掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549875407922401281",
+        "conversation_id": "2066062093745315893",
+        "created_at": "2026-06-14T07:36:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T08:36:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066062093745315893"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066062093745315893",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 709,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "就是有歧视，男的留了长发，找工作别人觉得你当力工都不配，直接划掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 307,
+          "like_count": 10295,
+          "listed_count": 2,
+          "media_count": 672,
+          "tweet_count": 4494
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-20T21:56:11.000Z",
+        "description": "ISFP｜   ｜🪴🌸 | CN",
+        "id": "1549875407922401281",
+        "location": "Ningbo",
+        "name": "鳉",
+        "pinned_tweet_id": "2062324005160235398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057047696037355520/babpVf0s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1319,
+          "following_count": 461,
+          "like_count": 21128,
+          "listed_count": 8,
+          "media_count": 409,
+          "tweet_count": 3057
+        },
+        "username": "Xiao_357",
+        "verified": false
+      }
+    ]
+  }
+}

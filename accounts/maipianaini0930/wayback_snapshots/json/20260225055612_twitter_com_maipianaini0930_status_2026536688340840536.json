@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026536677477593090"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026286858607685743",
+    "created_at": "2026-02-25T05:56:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-25T06:56:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026536688340840536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1822200301345980416",
+          "start": 0,
+          "username": "shiyaoshiwo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/OJwhMEY8sk",
+          "end": 53,
+          "expanded_url": "https://x.com/maipianaini0930/status/2026536688340840536/photo/1",
+          "media_key": "3_2026536677477593090",
+          "start": 30,
+          "url": "https://t.co/OJwhMEY8sk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026536688340840536",
+    "in_reply_to_user_id": "1822200301345980416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026286858607685743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shiyaoshiwo 这个好使，排队进来直接成羊肉串了 https://t.co/OJwhMEY8sk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2026536677477593090",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB-0XwFaMAILn1y.jpg",
+        "width": 750
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026286854522503168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB7RKJDbgAAnBJk.jpg",
+        "width": 1151
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026536677477593090"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026286858607685743",
+        "created_at": "2026-02-25T05:56:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T06:56:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026536688340840536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1822200301345980416",
+              "start": 0,
+              "username": "shiyaoshiwo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/OJwhMEY8sk",
+              "end": 53,
+              "expanded_url": "https://x.com/maipianaini0930/status/2026536688340840536/photo/1",
+              "media_key": "3_2026536677477593090",
+              "start": 30,
+              "url": "https://t.co/OJwhMEY8sk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026536688340840536",
+        "in_reply_to_user_id": "1822200301345980416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026286858607685743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shiyaoshiwo 这个好使，排队进来直接成羊肉串了 https://t.co/OJwhMEY8sk"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026286854522503168"
+          ]
+        },
+        "author_id": "1822200301345980416",
+        "conversation_id": "2026286858607685743",
+        "created_at": "2026-02-24T13:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026286858607685743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtlkAV5yCh",
+              "end": 53,
+              "expanded_url": "https://x.com/shiyaoshiwo/status/2026286858607685743/photo/1",
+              "media_key": "3_2026286854522503168",
+              "start": 30,
+              "url": "https://t.co/ZtlkAV5yCh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026286858607685743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3981,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "因为害怕出柜后家长找戒网瘾学校，我一弱女子有把菜刀不过分吧 https://t.co/ZtlkAV5yCh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 211,
+          "like_count": 4791,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 1511
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-10T09:16:52.000Z",
+        "description": "emmm，只会宅家打游戏的傻小孩吗，等等好像是我……可以随便被拿捏的屑……大大一只小女孩但是很无力…信息:180/130 /已出柜/爱哭鬼/生日是五月五号！/我爱吃甜品/好想吃汉堡呜呜/不喜欢播音的播音生/我想吃蛋挞X﹏X为什么不放假/我想要安安全全的（持续堆积中的简介）",
+        "id": "1822200301345980416",
+        "location": "桥洞下",
+        "name": "詩瑤🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004450408807485440/Ev5UOKh8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 209,
+          "following_count": 207,
+          "like_count": 98,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 1155
+        },
+        "username": "shiyaoshiwo",
+        "verified": false
+      }
+    ]
+  }
+}

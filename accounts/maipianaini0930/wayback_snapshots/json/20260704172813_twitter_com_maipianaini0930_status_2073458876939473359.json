@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2073458836724449280"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2073458876939473359",
+    "created_at": "2026-07-04T17:28:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:28:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073458876939473359"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 4,
+          "start": 0,
+          "tag": "LSD"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6VZjO6cp1H",
+          "end": 28,
+          "expanded_url": "https://x.com/maipianaini0930/status/2073458876939473359/photo/1",
+          "media_key": "16_2073458836724449280",
+          "start": 5,
+          "url": "https://t.co/6VZjO6cp1H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073458876939473359",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#LSD https://t.co/6VZjO6cp1H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 318,
+        "media_key": "16_2073458836724449280",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HMZn04tbAAAazD-.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HMZn04tbAAAazD-.mp4"
+          }
+        ],
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2073458836724449280"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2073458876939473359",
+        "created_at": "2026-07-04T17:28:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:28:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073458876939473359"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "LSD"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6VZjO6cp1H",
+              "end": 28,
+              "expanded_url": "https://x.com/maipianaini0930/status/2073458876939473359/photo/1",
+              "media_key": "16_2073458836724449280",
+              "start": 5,
+              "url": "https://t.co/6VZjO6cp1H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073458876939473359",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#LSD https://t.co/6VZjO6cp1H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2072502086227669473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 292,
+          "like_count": 10743,
+          "listed_count": 1,
+          "media_count": 702,
+          "tweet_count": 4701
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

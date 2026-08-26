@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2056739858505138313",
+    "created_at": "2026-05-19T15:20:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T16:20:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056756948591366542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        },
+        {
+          "end": 28,
+          "id": "1819916289605095424",
+          "start": 14,
+          "username": "SUMUD19480413"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056756948591366542",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056739858505138313",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit2 @SUMUD19480413 看个乐吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 680,
+        "media_key": "3_2056739854206087168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsCABVXsAA_NUi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1608,
+        "media_key": "3_2056739854201798656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIsCABUWQAAgrCw.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2056739858505138313",
+        "created_at": "2026-05-19T15:20:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T16:20:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056756948591366542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            },
+            {
+              "end": 28,
+              "id": "1819916289605095424",
+              "start": 14,
+              "username": "SUMUD19480413"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056756948591366542",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056739858505138313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 @SUMUD19480413 看个乐吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056739854206087168",
+            "3_2056739854201798656"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2056739858505138313",
+        "created_at": "2026-05-19T14:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T15:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056739858505138313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TjLK0AuIQU",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_digit2/status/2056739858505138313/photo/1",
+              "media_key": "3_2056739854206087168",
+              "start": 142,
+              "url": "https://t.co/TjLK0AuIQU"
+            },
+            {
+              "display_url": "pic.x.com/TjLK0AuIQU",
+              "end": 165,
+              "expanded_url": "https://x.com/amber_digit2/status/2056739858505138313/photo/1",
+              "media_key": "3_2056739854201798656",
+              "start": 142,
+              "url": "https://t.co/TjLK0AuIQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056739858505138313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 58,
+          "impression_count": 10226,
+          "like_count": 329,
+          "quote_count": 13,
+          "reply_count": 17,
+          "retweet_count": 64
+        },
+        "reply_settings": "everyone",
+        "text": "中国最高人民法院近日发布文件，首次将「性取向、性别认同、性别表达」明确纳入歧视的法律保护范围。\n\n「法院对性少数群体的合法权益予以平等保护，包括不得侮辱与诽谤他人性倾向、性别认同与性别表达，不得就业中基于性倾向、性别认同与性别表达的歧视，保护不同性倾向、性别认同与性别表达的学生。」 https://t.co/TjLK0AuIQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 283,
+          "like_count": 9579,
+          "listed_count": 2,
+          "media_count": 607,
+          "tweet_count": 3934
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️ she/her\n❤️ @noaayoyaoaya\n☕️ https://t.co/IMqazegXa6",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "noaayoyaoaya"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 57,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 34,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/channel_amberj…",
+                "end": 23,
+                "expanded_url": "http://t.me/channel_amberjellyfish",
+                "start": 0,
+                "url": "https://t.co/MKSz5n6u3T"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝑎𝑚𝑏𝑒𝑟🪼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056075872252133376/Dq5171H2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1915,
+          "following_count": 342,
+          "like_count": 399,
+          "listed_count": 4,
+          "media_count": 33,
+          "tweet_count": 562
+        },
+        "url": "https://t.co/MKSz5n6u3T",
+        "username": "amber_digit2",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-04T02:00:42.000Z",
+        "description": "For all Oppressed",
+        "id": "1819916289605095424",
+        "location": "Beirut",
+        "name": "N.NF",
+        "pinned_tweet_id": "2034930236195045496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036440969030340609/a-Ah3qLJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 946,
+          "following_count": 3903,
+          "like_count": 23903,
+          "listed_count": 5,
+          "media_count": 540,
+          "tweet_count": 12994
+        },
+        "username": "SUMUD19480413",
+        "verified": false
+      }
+    ]
+  }
+}

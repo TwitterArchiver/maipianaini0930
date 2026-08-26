@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2060387030794682478",
+    "created_at": "2026-05-30T15:51:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:51:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060750911312687451"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1425156089918541825",
+          "start": 0,
+          "username": "aaa42816431"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060750911312687451",
+    "in_reply_to_user_id": "1425156089918541825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060749681655984438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aaa42816431 你想说的或许是巴比妥类吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2060387030794682478",
+        "created_at": "2026-05-30T15:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060750911312687451"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1425156089918541825",
+              "start": 0,
+              "username": "aaa42816431"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060750911312687451",
+        "in_reply_to_user_id": "1425156089918541825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060749681655984438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aaa42816431 你想说的或许是巴比妥类吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1425156089918541825",
+        "conversation_id": "2060387030794682478",
+        "created_at": "2026-05-30T15:46:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060749681655984438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060749681655984438",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060387030794682478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 这药不是被淘汰了吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 291,
+          "like_count": 9875,
+          "listed_count": 2,
+          "media_count": 633,
+          "tweet_count": 4160
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-10T18:04:34.000Z",
+        "description": "",
+        "id": "1425156089918541825",
+        "name": "愛止痛消炎藥",
+        "pinned_tweet_id": "2033193926237282367",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872285759019098112/mju8N4n8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 42,
+          "like_count": 352,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 94
+        },
+        "username": "aaa42816431",
+        "verified": false
+      }
+    ]
+  }
+}

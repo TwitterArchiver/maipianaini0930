@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2026852380336336903"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026850737570136121",
+    "created_at": "2026-02-26T02:50:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T03:50:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026852445859750256"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/WyBSKfmfge",
+          "end": 47,
+          "expanded_url": "https://x.com/maipianaini0930/status/2026852445859750256/video/1",
+          "media_key": "13_2026852380336336903",
+          "start": 24,
+          "url": "https://t.co/WyBSKfmfge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026852445859750256",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026850737570136121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以为我闹着玩不敢放是吗，把那死护士弄死都不过分 https://t.co/WyBSKfmfge"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4166,
+        "height": 1280,
+        "media_key": "13_2026852380336336903",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026852380336336903/img/7v2WeKGlLdv9Z1WM.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026852380336336903/vid/avc1/320x568/8MCRb1uGJQVmN91z.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026852380336336903/vid/avc1/480x852/eB9V4feuN593vVe0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026852380336336903/vid/avc1/720x1280/8CrwOgz9-pcgU-f3.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026852380336336903/pl/EHsbHRJH-YMquvkv.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026852380336336903"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026850737570136121",
+        "created_at": "2026-02-26T02:50:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026852445859750256"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WyBSKfmfge",
+              "end": 47,
+              "expanded_url": "https://x.com/maipianaini0930/status/2026852445859750256/video/1",
+              "media_key": "13_2026852380336336903",
+              "start": 24,
+              "url": "https://t.co/WyBSKfmfge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026852445859750256",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026850737570136121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以为我闹着玩不敢放是吗，把那死护士弄死都不过分 https://t.co/WyBSKfmfge"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026850737570136121",
+        "created_at": "2026-02-26T02:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T03:44:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026850737570136121"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026850737570136121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "往随家仓门口一躺声音开到最大放性手枪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 210,
+          "like_count": 4899,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 1550
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

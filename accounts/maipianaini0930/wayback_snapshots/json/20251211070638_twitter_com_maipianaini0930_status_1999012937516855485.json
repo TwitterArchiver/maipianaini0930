@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1998181510529384448"
+      ],
+      "media_source_tweet_id": [
+        "1998181566632333314"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "1999012937516855485",
+    "created_at": "2025-12-11T07:06:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-11T08:06:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999012937516855485"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1450816521777811456",
+          "start": 3,
+          "username": "_mochiclub_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5Wykh09ai0",
+          "end": 45,
+          "expanded_url": "https://x.com/_mochiclub_/status/1998181566632333314/video/1",
+          "media_key": "13_1998181510529384448",
+          "start": 22,
+          "url": "https://t.co/5Wykh09ai0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999012937516855485",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998181566632333314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_mochiclub_: 畳傷むよ https://t.co/5Wykh09ai0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6990,
+        "height": 720,
+        "media_key": "13_1998181510529384448",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1998181510529384448/img/sQMQO-_6ewcp6UKt.jpg",
+        "public_metrics": {
+          "view_count": 1924
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998181510529384448/vid/avc1/480x270/x1k2aT2ZxlIrj-wY.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998181510529384448/vid/avc1/640x360/7GrKVYmcsXvlxdHd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1998181510529384448/vid/avc1/1280x720/ia0iT_nQh2z0P9OT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1998181510529384448/pl/lz2AR0NkuV4BDIrJ.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998181510529384448"
+          ],
+          "media_source_tweet_id": [
+            "1998181566632333314"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "1999012937516855485",
+        "created_at": "2025-12-11T07:06:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T08:06:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999012937516855485"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1450816521777811456",
+              "start": 3,
+              "username": "_mochiclub_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Wykh09ai0",
+              "end": 45,
+              "expanded_url": "https://x.com/_mochiclub_/status/1998181566632333314/video/1",
+              "media_key": "13_1998181510529384448",
+              "start": 22,
+              "url": "https://t.co/5Wykh09ai0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999012937516855485",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998181566632333314",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_mochiclub_: 畳傷むよ https://t.co/5Wykh09ai0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1998181510529384448"
+          ]
+        },
+        "author_id": "1450816521777811456",
+        "conversation_id": "1998181566632333314",
+        "created_at": "2025-12-09T00:03:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T01:03:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1998181566632333314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Wykh09ai0",
+              "end": 28,
+              "expanded_url": "https://x.com/_mochiclub_/status/1998181566632333314/video/1",
+              "media_key": "13_1998181510529384448",
+              "start": 5,
+              "url": "https://t.co/5Wykh09ai0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998181566632333314",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 4969,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "畳傷むよ https://t.co/5Wykh09ai0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 168,
+          "like_count": 1748,
+          "listed_count": 0,
+          "media_count": 99,
+          "tweet_count": 576
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-20T13:29:57.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mochi._.club",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mochi._.club",
+                "start": 0,
+                "url": "https://t.co/ZAysccuDNW"
+              }
+            ]
+          }
+        },
+        "id": "1450816521777811456",
+        "name": "~",
+        "pinned_tweet_id": "1971017741525197124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834197170339414016/c-08hD6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4930,
+          "following_count": 390,
+          "like_count": 13523,
+          "listed_count": 15,
+          "media_count": 3008,
+          "tweet_count": 12504
+        },
+        "url": "https://t.co/ZAysccuDNW",
+        "username": "_mochiclub_",
+        "verified": false
+      }
+    ]
+  }
+}

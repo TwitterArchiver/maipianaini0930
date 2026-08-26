@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2042197347569197149",
+    "created_at": "2026-04-09T11:06:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T12:06:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042197347569197149"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 28,
+          "start": 20,
+          "tag": "Euskadi"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1720152282",
+          "start": 3,
+          "username": "ultras_antifaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042197347569197149",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042148508514341161",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ultras_antifaa: #Euskadi - Today marks the anniversary of the death of Athletic Club Bilbao’s antifascist supporter Iñigo Cabacas. Caba…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 342,
+        "media_key": "3_2041197076717907968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPJ7TJWMAAq-Lb.png",
+        "width": 610
+      },
+      {
+        "height": 318,
+        "media_key": "3_2041197101837602816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPJ8wuWUAA877b.jpg",
+        "width": 481
+      },
+      {
+        "height": 557,
+        "media_key": "3_2041197140782059520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPJ_BzbkAA2zoK.jpg",
+        "width": 990
+      },
+      {
+        "height": 297,
+        "media_key": "3_2041197241549856768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFPKE5MWIAAPqgx.png",
+        "width": 466
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2042197347569197149",
+        "created_at": "2026-04-09T11:06:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T12:06:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042197347569197149"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 28,
+              "start": 20,
+              "tag": "Euskadi"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1720152282",
+              "start": 3,
+              "username": "ultras_antifaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042197347569197149",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042148508514341161",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ultras_antifaa: #Euskadi - Today marks the anniversary of the death of Athletic Club Bilbao’s antifascist supporter Iñigo Cabacas. Caba…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041197076717907968",
+            "3_2041197101837602816",
+            "3_2041197140782059520",
+            "3_2041197241549856768"
+          ]
+        },
+        "author_id": "1720152282",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10004508201",
+              "name": "UEFA Europa League Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Coverage from the UEFA Europa League, an annual competition for European football clubs.",
+              "id": "10027383833",
+              "name": "UEFA Europa League Football"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029413906",
+              "name": "UEFA Europa League Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226226170298369",
+              "name": "Athletic Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756530479140864",
+              "name": "UEFA Europa League"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756530479140864",
+              "name": "UEFA Europa League"
+            }
+          }
+        ],
+        "conversation_id": "2042148508514341161",
+        "created_at": "2026-04-09T07:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T08:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042148508514341161"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "Euskadi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GNTDwn8vL1",
+              "end": 303,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2042148508514341161/photo/1",
+              "media_key": "3_2041197076717907968",
+              "start": 280,
+              "url": "https://t.co/GNTDwn8vL1"
+            },
+            {
+              "display_url": "pic.x.com/GNTDwn8vL1",
+              "end": 303,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2042148508514341161/photo/1",
+              "media_key": "3_2041197101837602816",
+              "start": 280,
+              "url": "https://t.co/GNTDwn8vL1"
+            },
+            {
+              "display_url": "pic.x.com/GNTDwn8vL1",
+              "end": 303,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2042148508514341161/photo/1",
+              "media_key": "3_2041197140782059520",
+              "start": 280,
+              "url": "https://t.co/GNTDwn8vL1"
+            },
+            {
+              "display_url": "pic.x.com/GNTDwn8vL1",
+              "end": 303,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2042148508514341161/photo/1",
+              "media_key": "3_2041197241549856768",
+              "start": 280,
+              "url": "https://t.co/GNTDwn8vL1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042148508514341161",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 8,
+                "start": 0,
+                "tag": "Euskadi"
+              }
+            ]
+          },
+          "text": "#Euskadi - Today marks the anniversary of the death of Athletic Club Bilbao’s antifascist supporter Iñigo Cabacas. Cabacas was shot in the head and seriously injured during a police attack on fans on April 5, 2012, and died on April 9.\n\nAfter Athletic Bilbao’s UEFA Europa League match against Schalke 04 on April 5, 2012, police opened fire on supporters with rubber bullets. Cabacas was struck in the head, fell into a coma with severe brain damage, and died four days later.\n\nWitnesses stated that there was no serious clash and that police directly fired into the crowd.\n\nYears after the incident, six police officers were put on trial. Only one officer, the operation commander, received a 2-year prison sentence. The others were acquitted. The officer who was sentenced did not serve time in prison.\n\nCabacas became a symbolic figure, especially for Athletic Bilbao supporters and antifascist fan communities in the Basque Country. He is remembered every year, and banners and flags bearing his name and image are always present in the stands of Athletic Bilbao."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 10139,
+          "like_count": 317,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "#Euskadi - Today marks the anniversary of the death of Athletic Club Bilbao’s antifascist supporter Iñigo Cabacas. Cabacas was shot in the head and seriously injured during a police attack on fans on April 5, 2012, and died on April 9.\n\nAfter Athletic Bilbao’s UEFA Europa League https://t.co/GNTDwn8vL1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 263,
+          "like_count": 7844,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 3009
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-01T20:45:02.000Z",
+        "description": "An international Antifa collective sharing news, photos, and sports from different countries. Message us to join our matchday activities.\nOther: @internaciultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "internaciultra"
+              }
+            ]
+          }
+        },
+        "id": "1720152282",
+        "name": "Antifa_Ultras",
+        "pinned_tweet_id": "2041124324191473716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952318050063052800/nOPRDmI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257256,
+          "following_count": 1,
+          "like_count": 511,
+          "listed_count": 1132,
+          "media_count": 53788,
+          "tweet_count": 60245
+        },
+        "username": "ultras_antifaa",
+        "verified": true
+      }
+    ]
+  }
+}

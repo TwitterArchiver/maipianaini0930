@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040072577310445862",
+    "created_at": "2026-04-04T00:05:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T01:05:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040219146529788192"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1749719755119071232",
+          "start": 0,
+          "username": "lan_shang32900"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040219146529788192",
+    "in_reply_to_user_id": "1749719755119071232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040072577310445862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lan_shang32900 乱伦风格"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040072577310445862",
+        "created_at": "2026-04-04T00:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T01:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040219146529788192"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1749719755119071232",
+              "start": 0,
+              "username": "lan_shang32900"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040219146529788192",
+        "in_reply_to_user_id": "1749719755119071232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040072577310445862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lan_shang32900 乱伦风格"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1749719755119071232",
+        "conversation_id": "2040072577310445862",
+        "created_at": "2026-04-03T14:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T15:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040072577310445862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "请来见我 创建的歌单《(ﾐΦ ﻌ Φﾐ)》。更多相关热门精选歌单推荐尽在网易云音乐。",
+              "display_url": "music.163.com/m/playlist?id=…",
+              "end": 61,
+              "expanded_url": "https://music.163.com/m/playlist?id=13767595328&creatorId=3826391713",
+              "images": [
+                {
+                  "height": 3000,
+                  "url": "https://pbs.twimg.com/news_img/2040072580741332993/xWnk3eQc?format=jpg&name=orig",
+                  "width": 3000
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040072580741332993/xWnk3eQc?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 38,
+              "status": 200,
+              "title": "(ﾐΦ ﻌ Φﾐ) - 歌单 - 网易云音乐",
+              "unwound_url": "https://y.music.163.com/m/playlist?id=13767595328&creatorId=3826391713",
+              "url": "https://t.co/jOWTAHwXAa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040072577310445862",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人感觉这个歌单是什么风格\n\n分享歌单: (ﾐΦ ﻌ Φﾐ) 请来见我 https://t.co/jOWTAHwXAa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 251,
+          "like_count": 7499,
+          "listed_count": 0,
+          "media_count": 422,
+          "tweet_count": 2845
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-23T09:04:44.000Z",
+        "description": "🚪128猫分别叫小狗和耗子，鼠叫巧克力和糯米糍",
+        "id": "1749719755119071232",
+        "name": "めふき2.0（低浮上）",
+        "pinned_tweet_id": "1944990268845093312",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907995602966966272/htTqJFBD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 799,
+          "like_count": 41670,
+          "listed_count": 3,
+          "media_count": 761,
+          "tweet_count": 10642
+        },
+        "username": "lan_shang32900",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040556981640102256",
+    "created_at": "2026-04-07T14:56:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T15:56:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041530537941377447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1833844728997244928",
+          "start": 0,
+          "username": "wohenhaosebale"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041530537941377447",
+    "in_reply_to_user_id": "1833844728997244928",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040764838767739030",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wohenhaosebale 喜欢让条纹突兀露出"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040556981640102256",
+        "created_at": "2026-04-07T14:56:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T15:56:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041530537941377447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1833844728997244928",
+              "start": 0,
+              "username": "wohenhaosebale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041530537941377447",
+        "in_reply_to_user_id": "1833844728997244928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040764838767739030",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wohenhaosebale 喜欢让条纹突兀露出"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833844728997244928",
+        "conversation_id": "2040556981640102256",
+        "created_at": "2026-04-05T12:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040764838767739030"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040764838767739030",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 112,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040556981640102256",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 这个穿搭好萌啊..（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 312,
+          "following_count": 264,
+          "like_count": 7726,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 2970
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T12:27:36.000Z",
+        "description": "🚪50纯绿\n我喜欢画画..认识我你将看到我各种消肿诡异创作和莫名其妙的日常…",
+        "id": "1833844728997244928",
+        "location": "利物浦",
+        "name": "悲伤青少女",
+        "pinned_tweet_id": "1968957541943071052",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962011260305989633/DZUTG-Gi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2971,
+          "following_count": 183,
+          "like_count": 1372,
+          "listed_count": 5,
+          "media_count": 382,
+          "tweet_count": 1343
+        },
+        "username": "wohenhaosebale",
+        "verified": false
+      }
+    ]
+  }
+}

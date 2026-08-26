@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2027507502997508425",
+    "created_at": "2026-02-28T00:54:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T01:54:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027547946137632806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1678425548673150976",
+          "start": 0,
+          "username": "nhnhOv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027547946137632806",
+    "in_reply_to_user_id": "1678425548673150976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027535430917456039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhnhOv0 我没有工作能力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2027507502997508425",
+        "created_at": "2026-02-28T00:54:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027547946137632806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1678425548673150976",
+              "start": 0,
+              "username": "nhnhOv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027547946137632806",
+        "in_reply_to_user_id": "1678425548673150976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027535430917456039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhnhOv0 我没有工作能力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678425548673150976",
+        "conversation_id": "2027507502997508425",
+        "created_at": "2026-02-28T00:04:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T01:04:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027535430917456039"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027535430917456039",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027507502997508425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 打点零工试试？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027440475846938629/b3c0ZU-f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210,
+          "following_count": 218,
+          "like_count": 5019,
+          "listed_count": 0,
+          "media_count": 245,
+          "tweet_count": 1608
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T15:26:55.000Z",
+        "description": "强者从不抱怨环境\n但我是神经病",
+        "id": "1678425548673150976",
+        "location": "天堂和地狱之间—人间",
+        "name": ".",
+        "pinned_tweet_id": "2024044450775720264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021975285412089856/8Y4KT05E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 340,
+          "like_count": 5793,
+          "listed_count": 3,
+          "media_count": 99,
+          "tweet_count": 3703
+        },
+        "username": "nhnhOv0",
+        "verified": false
+      }
+    ]
+  }
+}

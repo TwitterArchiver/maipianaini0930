@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039645183202177024"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039645188235350349",
+    "created_at": "2026-04-02T10:04:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T11:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039645188235350349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zZddhPALfz",
+          "end": 50,
+          "expanded_url": "https://x.com/maipianaini0930/status/2039645188235350349/photo/1",
+          "media_key": "3_2039645183202177024",
+          "start": 27,
+          "url": "https://t.co/zZddhPALfz"
+        },
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 74,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2039627347415195789",
+          "start": 51,
+          "url": "https://t.co/UYb4W9UOOX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039645188235350349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039627347415195789",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "吴二棒（vernbaung）给我点了个赞随后关注了我 https://t.co/zZddhPALfz https://t.co/UYb4W9UOOX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 610,
+        "media_key": "3_2039645183202177024",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5GfNSaMAAEvoi.jpg",
+        "width": 749
+      },
+      {
+        "height": 257,
+        "media_key": "3_2039627341367046144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE42QrRbcAAk-Id.jpg",
+        "width": 749
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039645183202177024"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039645188235350349",
+        "created_at": "2026-04-02T10:04:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039645188235350349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zZddhPALfz",
+              "end": 50,
+              "expanded_url": "https://x.com/maipianaini0930/status/2039645188235350349/photo/1",
+              "media_key": "3_2039645183202177024",
+              "start": 27,
+              "url": "https://t.co/zZddhPALfz"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 74,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2039627347415195789",
+              "start": 51,
+              "url": "https://t.co/UYb4W9UOOX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039645188235350349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039627347415195789",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "吴二棒（vernbaung）给我点了个赞随后关注了我 https://t.co/zZddhPALfz https://t.co/UYb4W9UOOX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039627341367046144"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039627347415195789",
+        "created_at": "2026-04-02T08:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039627347415195789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sOckuUdHlS",
+              "end": 44,
+              "expanded_url": "https://x.com/maipianaini0930/status/2039627347415195789/photo/1",
+              "media_key": "3_2039627341367046144",
+              "start": 21,
+              "url": "https://t.co/sOckuUdHlS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039627347415195789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "来自吴二棒（vernbaung）的肯定👍 https://t.co/sOckuUdHlS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 247,
+          "like_count": 7376,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 2750
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

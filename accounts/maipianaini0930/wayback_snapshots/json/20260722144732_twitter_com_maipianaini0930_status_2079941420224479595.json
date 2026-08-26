@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079933309740847554",
+    "created_at": "2026-07-22T14:47:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:47:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079941420224479595"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057497111718166531",
+          "start": 0,
+          "username": "ovum0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079941420224479595",
+    "in_reply_to_user_id": "2057497111718166531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079938257618632940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovum0000 这么一说我突然好想听啊 就听社会心理"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079933309740847554",
+        "created_at": "2026-07-22T14:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079941420224479595"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057497111718166531",
+              "start": 0,
+              "username": "ovum0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079941420224479595",
+        "in_reply_to_user_id": "2057497111718166531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079938257618632940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovum0000 这么一说我突然好想听啊 就听社会心理"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2057497111718166531",
+        "conversation_id": "2079933309740847554",
+        "created_at": "2026-07-22T14:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079938257618632940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079938257618632940",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079933309740847554",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 这个乐队很多歌我也爱听"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2079927002224836795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 302,
+          "like_count": 11259,
+          "listed_count": 1,
+          "media_count": 748,
+          "tweet_count": 4989
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "",
+        "id": "2057497111718166531",
+        "name": "dihshdhd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079939040854564864/WiorxK9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7,
+          "following_count": 10,
+          "like_count": 197,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 76
+        },
+        "url": "",
+        "username": "ovum0000",
+        "verified": false
+      }
+    ]
+  }
+}

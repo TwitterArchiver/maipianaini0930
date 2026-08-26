@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2030889695983669249"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2030889955913048416",
+    "created_at": "2026-03-09T06:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-09T07:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030889955913048416"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/omo9qnrMsD",
+          "end": 39,
+          "expanded_url": "https://x.com/maipianaini0930/status/2030889955913048416/photo/1",
+          "media_key": "3_2030889695983669249",
+          "start": 16,
+          "url": "https://t.co/omo9qnrMsD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030889955913048416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "发完这张图我小红书账号被永封了 https://t.co/omo9qnrMsD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2030889695983669249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC8raxsbkAE5sg2.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030889695983669249"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2030889955913048416",
+        "created_at": "2026-03-09T06:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T07:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030889955913048416"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/omo9qnrMsD",
+              "end": 39,
+              "expanded_url": "https://x.com/maipianaini0930/status/2030889955913048416/photo/1",
+              "media_key": "3_2030889695983669249",
+              "start": 16,
+              "url": "https://t.co/omo9qnrMsD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030889955913048416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发完这张图我小红书账号被永封了 https://t.co/omo9qnrMsD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 220,
+          "like_count": 5712,
+          "listed_count": 0,
+          "media_count": 295,
+          "tweet_count": 1841
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

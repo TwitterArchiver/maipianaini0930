@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2060341354425946314",
+    "created_at": "2026-05-29T14:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060365375989305447"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1762309555386769408",
+          "start": 0,
+          "username": "O_DROP_DEAD_O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060365375989305447",
+    "in_reply_to_user_id": "1762309555386769408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060363104358453419",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O_DROP_DEAD_O 你有酒瘾吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2060341354425946314",
+        "created_at": "2026-05-29T14:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060365375989305447"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1762309555386769408",
+              "start": 0,
+              "username": "O_DROP_DEAD_O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060365375989305447",
+        "in_reply_to_user_id": "1762309555386769408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060363104358453419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O_DROP_DEAD_O 你有酒瘾吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1762309555386769408",
+        "conversation_id": "2060341354425946314",
+        "created_at": "2026-05-29T14:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060363104358453419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060363104358453419",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060341354425946314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 我已经忍耐很久了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱🇷🇺",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 293,
+          "like_count": 9839,
+          "listed_count": 2,
+          "media_count": 631,
+          "tweet_count": 4131
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-27T02:52:13.000Z",
+        "description": "Hope I can drop dead😋\n呼呼呼呼呼biubiubiuboomboomboomdamnyoudeadbitchfuckingdierightmeow!",
+        "id": "1762309555386769408",
+        "name": "Calling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924121102449614848/X2tFTgBV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 575,
+          "like_count": 668,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 1745
+        },
+        "username": "O_DROP_DEAD_O",
+        "verified": false
+      }
+    ]
+  }
+}

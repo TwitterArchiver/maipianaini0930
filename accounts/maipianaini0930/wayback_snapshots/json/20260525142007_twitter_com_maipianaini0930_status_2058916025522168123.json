@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2058752717263364297",
+    "created_at": "2026-05-25T14:20:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T15:20:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058916025522168123"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "739699916",
+          "start": 0,
+          "username": "AlexDanielMoran"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058916025522168123",
+    "in_reply_to_user_id": "739699916",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058839136933409135",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AlexDanielMoran 你可以送我一些吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2058752717263364297",
+        "created_at": "2026-05-25T14:20:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T15:20:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058916025522168123"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "739699916",
+              "start": 0,
+              "username": "AlexDanielMoran"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058916025522168123",
+        "in_reply_to_user_id": "739699916",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058839136933409135",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AlexDanielMoran 你可以送我一些吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "739699916",
+        "conversation_id": "2058752717263364297",
+        "created_at": "2026-05-25T09:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T10:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058839136933409135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058839136933409135",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058752717263364297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 Xans helps keep me calm at work, and improve other aspects of my life significantly, it’s only bad when it becomes an addiction ….you can look up solacepla01 here on x to get some"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 286,
+          "like_count": 9740,
+          "listed_count": 2,
+          "media_count": 619,
+          "tweet_count": 4061
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2012-08-06T02:43:12.000Z",
+        "description": "",
+        "id": "739699916",
+        "location": "Luverne, MN",
+        "name": "Alex Moran",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2484277976/wsuhlnlm77axb718icjv_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 84,
+          "like_count": 129,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 192
+        },
+        "username": "AlexDanielMoran",
+        "verified": false
+      }
+    ]
+  }
+}

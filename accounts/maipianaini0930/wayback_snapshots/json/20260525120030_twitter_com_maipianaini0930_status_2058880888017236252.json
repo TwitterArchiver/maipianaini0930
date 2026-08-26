@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058880878160576512",
+        "3_2058880878160523264"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2058880888017236252",
+    "created_at": "2026-05-25T12:00:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T13:00:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058880888017236252"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 8,
+          "start": 0,
+          "tag": "drugtwt"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zfWlUGl7jj",
+          "end": 40,
+          "expanded_url": "https://x.com/maipianaini0930/status/2058880888017236252/photo/1",
+          "media_key": "3_2058880878160576512",
+          "start": 17,
+          "url": "https://t.co/zfWlUGl7jj"
+        },
+        {
+          "display_url": "pic.x.com/zfWlUGl7jj",
+          "end": 40,
+          "expanded_url": "https://x.com/maipianaini0930/status/2058880888017236252/photo/1",
+          "media_key": "3_2058880878160523264",
+          "start": 17,
+          "url": "https://t.co/zfWlUGl7jj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058880888017236252",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#drugtwt\n 👁️💉💊⚰️ https://t.co/zfWlUGl7jj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 198,
+        "media_key": "3_2058880878160576512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKdQBGbAAAmSy6.jpg",
+        "width": 364
+      },
+      {
+        "height": 221,
+        "media_key": "3_2058880878160523264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJKdQBGaMAASRt_.jpg",
+        "width": 236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058880878160576512",
+            "3_2058880878160523264"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2058880888017236252",
+        "created_at": "2026-05-25T12:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058880888017236252"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "drugtwt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zfWlUGl7jj",
+              "end": 40,
+              "expanded_url": "https://x.com/maipianaini0930/status/2058880888017236252/photo/1",
+              "media_key": "3_2058880878160576512",
+              "start": 17,
+              "url": "https://t.co/zfWlUGl7jj"
+            },
+            {
+              "display_url": "pic.x.com/zfWlUGl7jj",
+              "end": 40,
+              "expanded_url": "https://x.com/maipianaini0930/status/2058880888017236252/photo/1",
+              "media_key": "3_2058880878160523264",
+              "start": 17,
+              "url": "https://t.co/zfWlUGl7jj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058880888017236252",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#drugtwt\n 👁️💉💊⚰️ https://t.co/zfWlUGl7jj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 378,
+          "following_count": 284,
+          "like_count": 9730,
+          "listed_count": 2,
+          "media_count": 618,
+          "tweet_count": 4056
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

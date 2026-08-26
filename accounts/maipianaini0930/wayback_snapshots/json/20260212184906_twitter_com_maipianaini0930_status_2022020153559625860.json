@@ -1,0 +1,170 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2022020153559625860",
+    "created_at": "2026-02-12T18:49:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T19:49:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2022020153559625860"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 95,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2022017191286341975",
+          "start": 72,
+          "url": "https://t.co/yCO1dB71FM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022020153559625860",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022017191286341975",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是一种被背叛的感觉，去年秋天在天津跟两个人挤在床上我度过了较为舒缓的四十天。但我无法要求别人，要求别人会给他人添麻烦，我没有十足的理由这样。 https://t.co/yCO1dB71FM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2022020153559625860",
+        "created_at": "2026-02-12T18:49:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:49:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022020153559625860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 95,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2022017191286341975",
+              "start": 72,
+              "url": "https://t.co/yCO1dB71FM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022020153559625860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022017191286341975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是一种被背叛的感觉，去年秋天在天津跟两个人挤在床上我度过了较为舒缓的四十天。但我无法要求别人，要求别人会给他人添麻烦，我没有十足的理由这样。 https://t.co/yCO1dB71FM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2022017191286341975",
+        "created_at": "2026-02-12T18:37:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022017191286341975"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022017191286341975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能投奔谁，这是一间可以做饭的合租单位。谁孑然一身，我受不了了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 220,
+          "like_count": 4058,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1285
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

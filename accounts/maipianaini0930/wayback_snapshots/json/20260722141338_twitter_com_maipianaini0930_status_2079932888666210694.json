@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079879657915318294",
+    "created_at": "2026-07-22T14:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079932888666210694"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "848780438776709120",
+          "start": 0,
+          "username": "ciguoe_che"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079932888666210694",
+    "in_reply_to_user_id": "848780438776709120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079879657915318294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ciguoe_che 吃完其中一个我就饱了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2079879637799440384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN03gsqakAAdO_g.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079879657915318294",
+        "created_at": "2026-07-22T14:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079932888666210694"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "848780438776709120",
+              "start": 0,
+              "username": "ciguoe_che"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079932888666210694",
+        "in_reply_to_user_id": "848780438776709120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079879657915318294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ciguoe_che 吃完其中一个我就饱了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079879637799440384"
+          ]
+        },
+        "author_id": "848780438776709120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2079879657915318294",
+        "created_at": "2026-07-22T10:42:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T11:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079879657915318294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nMRV1FoPxM",
+              "end": 32,
+              "expanded_url": "https://x.com/ciguoe_che/status/2079879657915318294/photo/1",
+              "media_key": "3_2079879637799440384",
+              "start": 9,
+              "url": "https://t.co/nMRV1FoPxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079879657915318294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 769,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "明天再控制饮食罢 https://t.co/nMRV1FoPxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2079927002224836795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 302,
+          "like_count": 11255,
+          "listed_count": 1,
+          "media_count": 748,
+          "tweet_count": 4986
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2017-04-03T06:13:20.000Z",
+        "description": "，繁忙。觅食记录/",
+        "id": "848780438776709120",
+        "name": "e-hC",
+        "pinned_tweet_id": "1537793606236241920",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067435181972369408/0PT2bYGa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 3132,
+          "like_count": 21333,
+          "listed_count": 7,
+          "media_count": 1262,
+          "tweet_count": 3134
+        },
+        "url": "",
+        "username": "ciguoe_che",
+        "verified": false
+      }
+    ]
+  }
+}

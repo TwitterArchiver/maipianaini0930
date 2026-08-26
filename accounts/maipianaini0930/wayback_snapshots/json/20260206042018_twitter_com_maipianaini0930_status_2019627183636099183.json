@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2019400472935952711",
+    "created_at": "2026-02-06T04:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-06T05:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019627183636099183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1823428965773795329",
+          "start": 0,
+          "username": "mianmianmian0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019627183636099183",
+    "in_reply_to_user_id": "1823428965773795329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019400472935952711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mianmianmian0 心情是，日你马勒戈壁的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 423,
+        "media_key": "3_2019400390186528777",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZZ9KRacAkHe_d.jpg",
+        "width": 1179
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2019400390173990912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAZZ9KObIAA3DXS.jpg",
+        "width": 946
+      },
+      {
+        "duration_ms": 5800,
+        "height": 960,
+        "media_key": "13_2019400386730496001",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2019400386730496001/img/W25PPRbTmrG2apr7.jpg",
+        "public_metrics": {
+          "view_count": 66
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019400386730496001/vid/avc1/320x564/f-Qqkgs62Pvpn957.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019400386730496001/vid/avc1/480x846/C8oK_zWYC6FpgJAJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2019400386730496001/vid/avc1/544x960/2k9k4ul4JOyMlls0.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2019400386730496001/pl/xnsVRR5gnaZrlevS.m3u8"
+          }
+        ],
+        "width": 544
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2019400472935952711",
+        "created_at": "2026-02-06T04:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T05:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019627183636099183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1823428965773795329",
+              "start": 0,
+              "username": "mianmianmian0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019627183636099183",
+        "in_reply_to_user_id": "1823428965773795329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019400472935952711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mianmianmian0 心情是，日你马勒戈壁的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019400390186528777",
+            "3_2019400390173990912",
+            "13_2019400386730496001"
+          ]
+        },
+        "author_id": "1823428965773795329",
+        "conversation_id": "2019400472935952711",
+        "created_at": "2026-02-05T13:19:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T14:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019400472935952711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N28SSAYqez",
+              "end": 33,
+              "expanded_url": "https://x.com/mianmianmian0/status/2019400472935952711/video/1",
+              "media_key": "3_2019400390186528777",
+              "start": 10,
+              "url": "https://t.co/N28SSAYqez"
+            },
+            {
+              "display_url": "pic.x.com/N28SSAYqez",
+              "end": 33,
+              "expanded_url": "https://x.com/mianmianmian0/status/2019400472935952711/video/1",
+              "media_key": "3_2019400390173990912",
+              "start": 10,
+              "url": "https://t.co/N28SSAYqez"
+            },
+            {
+              "display_url": "pic.x.com/N28SSAYqez",
+              "end": 33,
+              "expanded_url": "https://x.com/mianmianmian0/status/2019400472935952711/video/1",
+              "media_key": "13_2019400386730496001",
+              "start": 10,
+              "url": "https://t.co/N28SSAYqez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019400472935952711",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 147,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中推圈天亮了知道不 https://t.co/N28SSAYqez"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2019095214569451732",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 216,
+          "like_count": 3818,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1197
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-13T18:38:48.000Z",
+        "description": "你谁？",
+        "id": "1823428965773795329",
+        "name": "极地春",
+        "pinned_tweet_id": "2015461239250735416",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005008617100247042/o0yvibt0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 159,
+          "like_count": 14297,
+          "listed_count": 1,
+          "media_count": 555,
+          "tweet_count": 8169
+        },
+        "username": "mianmianmian0",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079703083370631169"
+      ],
+      "media_source_tweet_id": [
+        "2079703097979408425"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Ozzy Osbourne",
+          "id": "808386266173607938",
+          "name": "Ozzy Osbourne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Ozzy Osbourne",
+          "id": "808386266173607938",
+          "name": "Ozzy Osbourne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Ozzy Osbourne",
+          "id": "808386266173607938",
+          "name": "Ozzy Osbourne"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Metal",
+          "id": "849684649840214020",
+          "name": "Heavy metal"
+        }
+      }
+    ],
+    "conversation_id": "2079829608384573538",
+    "created_at": "2026-07-22T07:23:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T08:23:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079829608384573538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1523601670080536581",
+          "start": 3,
+          "username": "CoveredGeekly"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ek7nHDOpL8",
+          "end": 89,
+          "expanded_url": "https://x.com/CoveredGeekly/status/2079703097979408425/photo/1",
+          "media_key": "3_2079703083370631169",
+          "start": 66,
+          "url": "https://t.co/Ek7nHDOpL8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079829608384573538",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1244
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079703097979408425",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @CoveredGeekly: Ozzy Osbourne passed away one year ago today 💔 https://t.co/Ek7nHDOpL8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1500,
+        "media_key": "3_2079703083370631169",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNyW74KXUAEXScc.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079703083370631169"
+          ]
+        },
+        "author_id": "1523601670080536581",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          }
+        ],
+        "conversation_id": "2079703097979408425",
+        "created_at": "2026-07-21T23:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T00:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079703097979408425"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ek7nHDOpL8",
+              "end": 70,
+              "expanded_url": "https://x.com/CoveredGeekly/status/2079703097979408425/photo/1",
+              "media_key": "3_2079703083370631169",
+              "start": 47,
+              "url": "https://t.co/Ek7nHDOpL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079703097979408425",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 232,
+          "impression_count": 185022,
+          "like_count": 10407,
+          "quote_count": 170,
+          "reply_count": 96,
+          "retweet_count": 1244
+        },
+        "reply_settings": "everyone",
+        "text": "Ozzy Osbourne passed away one year ago today 💔 https://t.co/Ek7nHDOpL8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079703083370631169"
+          ],
+          "media_source_tweet_id": [
+            "2079703097979408425"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Ozzy Osbourne",
+              "id": "808386266173607938",
+              "name": "Ozzy Osbourne"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          }
+        ],
+        "conversation_id": "2079829608384573538",
+        "created_at": "2026-07-22T07:23:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:23:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079829608384573538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1523601670080536581",
+              "start": 3,
+              "username": "CoveredGeekly"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ek7nHDOpL8",
+              "end": 89,
+              "expanded_url": "https://x.com/CoveredGeekly/status/2079703097979408425/photo/1",
+              "media_key": "3_2079703083370631169",
+              "start": 66,
+              "url": "https://t.co/Ek7nHDOpL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079829608384573538",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1244
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079703097979408425",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @CoveredGeekly: Ozzy Osbourne passed away one year ago today 💔 https://t.co/Ek7nHDOpL8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 302,
+          "like_count": 11250,
+          "listed_count": 1,
+          "media_count": 747,
+          "tweet_count": 4969
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-09T09:52:03.000Z",
+        "description": "If it's geek, it's Covered. Movies, TV and pop culture news daily. Trailers, casting, releases and hidden gems. Stay Covered.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "coveredgeekly.com",
+                "end": 23,
+                "expanded_url": "https://coveredgeekly.com/",
+                "start": 0,
+                "url": "https://t.co/UZUm4YW7fu"
+              }
+            ]
+          }
+        },
+        "id": "1523601670080536581",
+        "location": "Your Screen",
+        "name": "CoveredGeekly",
+        "pinned_tweet_id": "1997759498900132346",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028425635199090688/yQULJNYQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21327,
+          "following_count": 5,
+          "like_count": 1911,
+          "listed_count": 90,
+          "media_count": 5146,
+          "tweet_count": 7154
+        },
+        "url": "https://t.co/UZUm4YW7fu",
+        "username": "CoveredGeekly",
+        "verified": true
+      }
+    ]
+  }
+}

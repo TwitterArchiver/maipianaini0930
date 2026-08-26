@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2038166714731708416",
+        "3_2038166714714914816"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1179068612096561152",
+          "name": "Debbie Harry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1179068612096561152",
+          "name": "Debbie Harry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1179068612096561152",
+          "name": "Debbie Harry"
+        }
+      }
+    ],
+    "conversation_id": "2038166729285869774",
+    "created_at": "2026-03-29T08:09:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T09:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038166729285869774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Yu22JbPQtQ",
+          "end": 49,
+          "expanded_url": "https://x.com/maipianaini0930/status/2038166729285869774/photo/1",
+          "media_key": "3_2038166714731708416",
+          "start": 26,
+          "url": "https://t.co/Yu22JbPQtQ"
+        },
+        {
+          "display_url": "pic.x.com/Yu22JbPQtQ",
+          "end": 49,
+          "expanded_url": "https://x.com/maipianaini0930/status/2038166729285869774/photo/1",
+          "media_key": "3_2038166714714914816",
+          "start": 26,
+          "url": "https://t.co/Yu22JbPQtQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038166729285869774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想和debbie harry结婚但人家现在是老富婆 https://t.co/Yu22JbPQtQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 593,
+        "media_key": "3_2038166714731708416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkF1BCbwAAVQ2J.jpg",
+        "width": 600
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2038166714714914816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkF1A-bgAAKK8_.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038166714731708416",
+            "3_2038166714714914816"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1179068612096561152",
+              "name": "Debbie Harry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1179068612096561152",
+              "name": "Debbie Harry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1179068612096561152",
+              "name": "Debbie Harry"
+            }
+          }
+        ],
+        "conversation_id": "2038166729285869774",
+        "created_at": "2026-03-29T08:09:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038166729285869774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Yu22JbPQtQ",
+              "end": 49,
+              "expanded_url": "https://x.com/maipianaini0930/status/2038166729285869774/photo/1",
+              "media_key": "3_2038166714731708416",
+              "start": 26,
+              "url": "https://t.co/Yu22JbPQtQ"
+            },
+            {
+              "display_url": "pic.x.com/Yu22JbPQtQ",
+              "end": 49,
+              "expanded_url": "https://x.com/maipianaini0930/status/2038166729285869774/photo/1",
+              "media_key": "3_2038166714714914816",
+              "start": 26,
+              "url": "https://t.co/Yu22JbPQtQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038166729285869774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想和debbie harry结婚但人家现在是老富婆 https://t.co/Yu22JbPQtQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "AAAAA麦片烟酒零售批发",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 250,
+          "like_count": 7052,
+          "listed_count": 0,
+          "media_count": 434,
+          "tweet_count": 2657
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

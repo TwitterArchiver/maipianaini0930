@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2036443272281989502",
+    "created_at": "2026-03-24T14:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-24T15:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036456405872550006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1306129238827778048",
+          "start": 0,
+          "username": "YukinonCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036456405872550006",
+    "in_reply_to_user_id": "1306129238827778048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036443272281989502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YukinonCC 错啦，🍾"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2036443263843049480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HELmW-KaIAgboBD.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2036443272281989502",
+        "created_at": "2026-03-24T14:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036456405872550006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1306129238827778048",
+              "start": 0,
+              "username": "YukinonCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036456405872550006",
+        "in_reply_to_user_id": "1306129238827778048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036443272281989502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YukinonCC 错啦，🍾"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036443263843049480"
+          ]
+        },
+        "author_id": "1306129238827778048",
+        "conversation_id": "2036443272281989502",
+        "created_at": "2026-03-24T14:01:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T15:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036443272281989502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hYsXxiIFk",
+              "end": 50,
+              "expanded_url": "https://x.com/YukinonCC/status/2036443272281989502/photo/1",
+              "media_key": "3_2036443263843049480",
+              "start": 27,
+              "url": "https://t.co/9hYsXxiIFk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036443272281989502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 766,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我不喜欢张雪峰全面否定文科专业，但是还是\nＲＩＰ https://t.co/9hYsXxiIFk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 247,
+          "like_count": 6594,
+          "listed_count": 0,
+          "media_count": 393,
+          "tweet_count": 2407
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾",
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2027476509431366074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028812689561227264/jU_j1qDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1402,
+          "following_count": 1113,
+          "like_count": 12299,
+          "listed_count": 1,
+          "media_count": 316,
+          "tweet_count": 2093
+        },
+        "username": "YukinonCC",
+        "verified": true
+      }
+    ]
+  }
+}

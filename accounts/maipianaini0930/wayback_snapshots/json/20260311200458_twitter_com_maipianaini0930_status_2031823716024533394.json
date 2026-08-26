@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2031820218784497764",
+    "created_at": "2026-03-11T20:04:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T21:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031823716024533394"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2031823716024533394",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031820218784497764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "能"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2031820218784497764",
+        "created_at": "2026-03-11T20:04:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T21:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031823716024533394"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031823716024533394",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031820218784497764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "能"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2031820218784497764",
+        "created_at": "2026-03-11T19:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T20:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031820218784497764"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "麦片’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mxPa…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mxPaLdZawgKN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2031820220550299650/HBHRssg6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2031820220550299650/HBHRssg6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 麦片’s Space",
+              "unwound_url": "https://twitter.com/i/spaces/1mxPaLdZawgKN/peek",
+              "url": "https://t.co/6vyx59pg48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031820218784497764",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6vyx59pg48"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 268,
+          "following_count": 228,
+          "like_count": 5874,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 1931
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

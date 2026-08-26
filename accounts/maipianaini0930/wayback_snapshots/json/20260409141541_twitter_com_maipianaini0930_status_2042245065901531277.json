@@ -1,0 +1,116 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2042245065901531277",
+    "created_at": "2026-04-09T14:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T15:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042245065901531277"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "dzen.ru/a/Z7TjNjtjED-b…",
+          "end": 29,
+          "expanded_url": "https://dzen.ru/a/Z7TjNjtjED-beT85?share_to=link",
+          "start": 6,
+          "unwound_url": "https://dzen.ru/a/Z7TjNjtjED-beT85?share_to=link",
+          "url": "https://t.co/LRp9Wmw6aU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042245065901531277",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们看这个\nhttps://t.co/LRp9Wmw6aU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2042245065901531277",
+        "created_at": "2026-04-09T14:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T15:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042245065901531277"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "dzen.ru/a/Z7TjNjtjED-b…",
+              "end": 29,
+              "expanded_url": "https://dzen.ru/a/Z7TjNjtjED-beT85?share_to=link",
+              "start": 6,
+              "unwound_url": "https://dzen.ru/a/Z7TjNjtjED-beT85?share_to=link",
+              "url": "https://t.co/LRp9Wmw6aU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042245065901531277",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们看这个\nhttps://t.co/LRp9Wmw6aU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 262,
+          "like_count": 7857,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 3013
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

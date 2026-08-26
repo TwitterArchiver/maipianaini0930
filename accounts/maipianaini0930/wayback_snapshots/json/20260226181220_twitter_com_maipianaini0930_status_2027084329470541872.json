@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2027006819550548018",
+    "created_at": "2026-02-26T18:12:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T19:12:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027084329470541872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1680183444222119936",
+          "start": 0,
+          "username": "seeyoutoday801"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027084329470541872",
+    "in_reply_to_user_id": "1680183444222119936",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027006819550548018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seeyoutoday801 “走，南台巷，hō酒去”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2027006819550548018",
+        "created_at": "2026-02-26T18:12:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T19:12:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027084329470541872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1680183444222119936",
+              "start": 0,
+              "username": "seeyoutoday801"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027084329470541872",
+        "in_reply_to_user_id": "1680183444222119936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027006819550548018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seeyoutoday801 “走，南台巷，hō酒去”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1680183444222119936",
+        "conversation_id": "2027006819550548018",
+        "created_at": "2026-02-26T13:04:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T14:04:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027006819550548018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027006819550548018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3707,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我互关的宝宝有在江苏的不…以后和我一起玩…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 216,
+          "like_count": 4990,
+          "listed_count": 0,
+          "media_count": 241,
+          "tweet_count": 1581
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-15T11:52:19.000Z",
+        "description": "我拒绝为我所有的行为和言语负责，我一直在放屁。",
+        "id": "1680183444222119936",
+        "location": "你家衣柜里",
+        "name": "尸体派对",
+        "pinned_tweet_id": "1915115207153906028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956691207763144704/aFYaihxA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1598,
+          "following_count": 278,
+          "like_count": 4164,
+          "listed_count": 5,
+          "media_count": 1400,
+          "tweet_count": 4752
+        },
+        "username": "seeyoutoday801",
+        "verified": false
+      }
+    ]
+  }
+}

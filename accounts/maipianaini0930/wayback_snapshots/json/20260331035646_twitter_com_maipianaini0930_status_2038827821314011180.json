@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2038812079805886700",
+    "created_at": "2026-03-31T03:56:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T04:56:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038827821314011180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1983368046686416901",
+          "start": 0,
+          "username": "LuanjiaoBot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038827821314011180",
+    "in_reply_to_user_id": "1983368046686416901",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038812079805886700",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuanjiaoBot 你居然不去找科特柯本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2038812079805886700",
+        "created_at": "2026-03-31T03:56:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:56:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038827821314011180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1983368046686416901",
+              "start": 0,
+              "username": "LuanjiaoBot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038827821314011180",
+        "in_reply_to_user_id": "1983368046686416901",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038812079805886700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuanjiaoBot 你居然不去找科特柯本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1983368046686416901",
+        "conversation_id": "2038812079805886700",
+        "created_at": "2026-03-31T02:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T03:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038812079805886700"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038812079805886700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "西雅图怎么富区这么多好羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "AAAAA麦片烟酒零售批发",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 242,
+          "like_count": 7147,
+          "listed_count": 0,
+          "media_count": 444,
+          "tweet_count": 2697
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-29T02:59:36.000Z",
+        "description": "lo cos kig，visual novel爱好者，pre-dpt，有猫",
+        "id": "1983368046686416901",
+        "location": "Columbus, OH",
+        "name": "乱叫bot",
+        "pinned_tweet_id": "2008733131541787074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1994270662098026496/PUUdrzSX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 335,
+          "following_count": 285,
+          "like_count": 12581,
+          "listed_count": 5,
+          "media_count": 186,
+          "tweet_count": 956
+        },
+        "username": "LuanjiaoBot",
+        "verified": false
+      }
+    ]
+  }
+}

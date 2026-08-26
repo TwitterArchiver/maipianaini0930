@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2036604823047672307",
+    "created_at": "2026-03-27T06:59:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T07:59:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037424282192740393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1916418641102503936",
+          "start": 0,
+          "username": "Moyaor0127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037424282192740393",
+    "in_reply_to_user_id": "1916418641102503936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036604823047672307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Moyaor0127 马卡别让自己太累...."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2036604823047672307",
+        "created_at": "2026-03-27T06:59:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T07:59:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037424282192740393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1916418641102503936",
+              "start": 0,
+              "username": "Moyaor0127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037424282192740393",
+        "in_reply_to_user_id": "1916418641102503936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036604823047672307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moyaor0127 马卡别让自己太累...."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1916418641102503936",
+        "conversation_id": "2036604823047672307",
+        "created_at": "2026-03-25T00:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T01:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036604823047672307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/turingou/statu…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/turingou/status/2036603628627415302",
+              "start": 27,
+              "url": "https://t.co/3EasOHy46F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036604823047672307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036603628627415302",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "忽然想起腰乐队的：奋勇啊然后休息啊，完成你伟大的人生 https://t.co/3EasOHy46F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 252,
+          "like_count": 6793,
+          "listed_count": 0,
+          "media_count": 405,
+          "tweet_count": 2490
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-27T09:06:29.000Z",
+        "description": "喜欢AI、开源、技术。\n我们正处于AI大航海时代！\nPageSpark正在构建中！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wanchun.me",
+                "end": 23,
+                "expanded_url": "http://wanchun.me",
+                "start": 0,
+                "url": "https://t.co/8lnKGIFfef"
+              }
+            ]
+          }
+        },
+        "id": "1916418641102503936",
+        "name": "wanchun.me",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036372534749523968/LsNNE1zZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 171,
+          "like_count": 52,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 78
+        },
+        "url": "https://t.co/8lnKGIFfef",
+        "username": "Moyaor0127",
+        "verified": false
+      }
+    ]
+  }
+}

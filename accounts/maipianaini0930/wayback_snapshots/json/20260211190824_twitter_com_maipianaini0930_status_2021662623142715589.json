@@ -1,0 +1,725 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Kurt Cobain",
+          "id": "993580695736930304",
+          "name": "Kurt Cobain"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Kurt Cobain",
+          "id": "993580695736930304",
+          "name": "Kurt Cobain"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Alternative",
+          "id": "849684194242338816",
+          "name": "Alternative rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Kurt Cobain",
+          "id": "993580695736930304",
+          "name": "Kurt Cobain"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293191811561709575",
+          "name": "Indie & Alternative"
+        }
+      }
+    ],
+    "conversation_id": "2021662623142715589",
+    "created_at": "2026-02-11T19:08:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T20:08:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021662623142715589"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 60,
+          "normalized_text": "ANALYSIS CLAIMS KURT COBAIN",
+          "probability": 0.4623,
+          "start": 34,
+          "type": "Person"
+        },
+        {
+          "end": 73,
+          "normalized_text": "DEATH",
+          "probability": 0.5286,
+          "start": 69,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1319287761048723458",
+          "start": 3,
+          "username": "MarioNawfal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021662623142715589",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4116
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021375175015460956",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MarioNawfal: 🚨🇺🇸 NEW FORENSIC ANALYSIS CLAIMS KURT COBAIN'S 1994 DEATH WAS HOMICIDE, NOT SUICIDE\n\nJust two months into 2026 and here we…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 677,
+        "media_key": "3_2021375145974300674",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1d_E2aAAI5xxX.jpg",
+        "width": 1204
+      },
+      {
+        "height": 689,
+        "media_key": "3_2021374894286544896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1dwbPXoAAlK7r.png",
+        "width": 634
+      },
+      {
+        "height": 539,
+        "media_key": "3_2021374979158441988",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1d1XaaAAQaTSD.png",
+        "width": 634
+      },
+      {
+        "height": 377,
+        "media_key": "3_2021375037928865792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA1d4yWXgAA_yBR.png",
+        "width": 634
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          }
+        ],
+        "conversation_id": "2021662623142715589",
+        "created_at": "2026-02-11T19:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T20:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021662623142715589"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 60,
+              "normalized_text": "ANALYSIS CLAIMS KURT COBAIN",
+              "probability": 0.4623,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 73,
+              "normalized_text": "DEATH",
+              "probability": 0.5286,
+              "start": 69,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1319287761048723458",
+              "start": 3,
+              "username": "MarioNawfal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021662623142715589",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4116
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021375175015460956",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MarioNawfal: 🚨🇺🇸 NEW FORENSIC ANALYSIS CLAIMS KURT COBAIN'S 1994 DEATH WAS HOMICIDE, NOT SUICIDE\n\nJust two months into 2026 and here we…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021375145974300674",
+            "3_2021374894286544896",
+            "3_2021374979158441988",
+            "3_2021375037928865792"
+          ]
+        },
+        "author_id": "1319287761048723458",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Alternative",
+              "id": "849684194242338816",
+              "name": "Alternative rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kurt Cobain",
+              "id": "993580695736930304",
+              "name": "Kurt Cobain"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293191811561709575",
+              "name": "Indie & Alternative"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1307117889183346689",
+              "name": "Pens & stationery"
+            }
+          }
+        ],
+        "conversation_id": "2021375175015460956",
+        "created_at": "2026-02-11T00:06:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T01:06:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021375175015460956"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 43,
+              "normalized_text": "ANALYSIS CLAIMS KURT COBAIN",
+              "probability": 0.6075,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 222,
+              "normalized_text": "International Journal of Forensic Science",
+              "probability": 0.747,
+              "start": 182,
+              "type": "Other"
+            },
+            {
+              "end": 267,
+              "normalized_text": "Cobain",
+              "probability": 0.7603,
+              "start": 262,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sn6rriGUos",
+              "end": 301,
+              "expanded_url": "https://x.com/MarioNawfal/status/2021375175015460956/photo/1",
+              "media_key": "3_2021375145974300674",
+              "start": 278,
+              "url": "https://t.co/sn6rriGUos"
+            },
+            {
+              "display_url": "pic.x.com/sn6rriGUos",
+              "end": 301,
+              "expanded_url": "https://x.com/MarioNawfal/status/2021375175015460956/photo/1",
+              "media_key": "3_2021374894286544896",
+              "start": 278,
+              "url": "https://t.co/sn6rriGUos"
+            },
+            {
+              "display_url": "pic.x.com/sn6rriGUos",
+              "end": 301,
+              "expanded_url": "https://x.com/MarioNawfal/status/2021375175015460956/photo/1",
+              "media_key": "3_2021374979158441988",
+              "start": 278,
+              "url": "https://t.co/sn6rriGUos"
+            },
+            {
+              "display_url": "pic.x.com/sn6rriGUos",
+              "end": 301,
+              "expanded_url": "https://x.com/MarioNawfal/status/2021375175015460956/photo/1",
+              "media_key": "3_2021375037928865792",
+              "start": 278,
+              "url": "https://t.co/sn6rriGUos"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021375175015460956",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨🇺🇸 NEW FORENSIC ANALYSIS CLAIMS KURT COBAIN'S 1994 DEATH WAS HOMICIDE, NOT SUICIDE\n\nJust two months into 2026 and here we are with quite the surprise.\n\nA peer-reviewed paper in the International Journal of Forensic Science is challenging the official ruling on Cobain's death.\n\nForensic specialist Brian Burnett reviewed the autopsy and crime scene evidence. \n\nHis conclusion after three days: \"This is a homicide.\"\n\nThe findings: Organ damage consistent with oxygen deprivation from a heroin overdose, not an instant gunshot death. \n\nUnusually clean hands despite a shotgun blast to the head. \n\nShell casing found in an impossible location. \n\nHeroin kit neatly organized with capped syringes.\n\nBlood on his shirt suggesting the body was moved.\n\nThe suicide note? Researchers say the top portion discusses quitting the band. \n\nThe final four lines appear written in different handwriting.\n\nSeattle PD and the Medical Examiner both declined to reopen the case.\n\nThe researchers aren't demanding arrests. \n\nJust transparency: \"If we're wrong, prove it to us.\"\n\nSource: Daily Mail"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4448,
+          "impression_count": 936631,
+          "like_count": 22897,
+          "quote_count": 447,
+          "reply_count": 453,
+          "retweet_count": 4116
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🇺🇸 NEW FORENSIC ANALYSIS CLAIMS KURT COBAIN'S 1994 DEATH WAS HOMICIDE, NOT SUICIDE\n\nJust two months into 2026 and here we are with quite the surprise.\n\nA peer-reviewed paper in the International Journal of Forensic Science is challenging the official ruling on Cobain's death. https://t.co/sn6rriGUos"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 219,
+          "like_count": 3982,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1279
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-22T14:42:25.000Z",
+        "description": "Largest Show on X | 24x7 News | Investor 700+ Startups | Founder @ibcgroupio , https://t.co/sw7OQ5KOqu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 65,
+                "username": "ibcgroupio"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "attentioncompany.com",
+                "end": 102,
+                "expanded_url": "http://attentioncompany.com",
+                "start": 79,
+                "url": "https://t.co/sw7OQ5KOqu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "roundtable.live",
+                "end": 23,
+                "expanded_url": "https://roundtable.live",
+                "start": 0,
+                "url": "https://t.co/Lru9VAj5xG"
+              }
+            ]
+          }
+        },
+        "id": "1319287761048723458",
+        "name": "Mario Nawfal",
+        "pinned_tweet_id": "2021330848109224288",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938244629071015936/UwtzYY-R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2996733,
+          "following_count": 50341,
+          "like_count": 166282,
+          "listed_count": 10992,
+          "media_count": 156642,
+          "tweet_count": 195449
+        },
+        "url": "https://t.co/Lru9VAj5xG",
+        "username": "MarioNawfal",
+        "verified": true
+      }
+    ]
+  }
+}

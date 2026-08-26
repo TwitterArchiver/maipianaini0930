@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2036830409263345664"
+      ],
+      "media_source_tweet_id": [
+        "2036830425272996156"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037039993911468149",
+    "created_at": "2026-03-26T05:32:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T06:32:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037039993911468149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "186294815",
+          "start": 3,
+          "username": "wogakuzu"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r5fosGVXZN",
+          "end": 89,
+          "expanded_url": "https://x.com/wogakuzu/status/2036830425272996156/photo/1",
+          "media_key": "3_2036830409263345664",
+          "start": 66,
+          "url": "https://t.co/r5fosGVXZN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037039993911468149",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2897
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036830425272996156",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @wogakuzu: 「唇」の字で封をした手紙。大正12年11月。\n\n女学生が遠方に住む友人へ。\n\nなんとはなしに艶かしい。 https://t.co/r5fosGVXZN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036830409263345664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HERGdzPa8AAr-Vu.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036830409263345664"
+          ],
+          "media_source_tweet_id": [
+            "2036830425272996156"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037039993911468149",
+        "created_at": "2026-03-26T05:32:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:32:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037039993911468149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "186294815",
+              "start": 3,
+              "username": "wogakuzu"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5fosGVXZN",
+              "end": 89,
+              "expanded_url": "https://x.com/wogakuzu/status/2036830425272996156/photo/1",
+              "media_key": "3_2036830409263345664",
+              "start": 66,
+              "url": "https://t.co/r5fosGVXZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037039993911468149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2897
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036830425272996156",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @wogakuzu: 「唇」の字で封をした手紙。大正12年11月。\n\n女学生が遠方に住む友人へ。\n\nなんとはなしに艶かしい。 https://t.co/r5fosGVXZN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036830409263345664"
+          ]
+        },
+        "author_id": "186294815",
+        "conversation_id": "2036830425272996156",
+        "created_at": "2026-03-25T15:39:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T16:39:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036830425272996156"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/r5fosGVXZN",
+              "end": 75,
+              "expanded_url": "https://x.com/wogakuzu/status/2036830425272996156/photo/1",
+              "media_key": "3_2036830409263345664",
+              "start": 52,
+              "url": "https://t.co/r5fosGVXZN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036830425272996156",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3386,
+          "impression_count": 1015564,
+          "like_count": 26518,
+          "quote_count": 239,
+          "reply_count": 80,
+          "retweet_count": 2897
+        },
+        "reply_settings": "everyone",
+        "text": "「唇」の字で封をした手紙。大正12年11月。\n\n女学生が遠方に住む友人へ。\n\nなんとはなしに艶かしい。 https://t.co/r5fosGVXZN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 250,
+          "like_count": 6694,
+          "listed_count": 0,
+          "media_count": 397,
+          "tweet_count": 2445
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2010-09-03T02:07:35.000Z",
+        "description": "古い紙と図書館が好きな検索道楽者。心は戦前😵‍💫　1年に一度調べ物漫画を描きます。",
+        "id": "186294815",
+        "location": "大阪市",
+        "name": "ヲガクズ",
+        "pinned_tweet_id": "2015803367365435477",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1295869593437655040/diOHwgNQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2074,
+          "following_count": 1430,
+          "like_count": 151330,
+          "listed_count": 20,
+          "media_count": 6252,
+          "tweet_count": 21848
+        },
+        "username": "wogakuzu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2051881578905895397",
+    "created_at": "2026-05-06T04:42:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T05:42:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051885369185223122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1513444882865856516",
+          "start": 0,
+          "username": "thorino10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051885369185223122",
+    "in_reply_to_user_id": "1513444882865856516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051881578905895397",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thorino10 嚷嚷着“你不干有的是人干”的社达还是死的太少了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2051881578905895397",
+        "created_at": "2026-05-06T04:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051885369185223122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1513444882865856516",
+              "start": 0,
+              "username": "thorino10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051885369185223122",
+        "in_reply_to_user_id": "1513444882865856516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051881578905895397",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thorino10 嚷嚷着“你不干有的是人干”的社达还是死的太少了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513444882865856516",
+        "conversation_id": "2051881578905895397",
+        "created_at": "2026-05-06T04:27:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T05:27:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051881578905895397"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051881578905895397",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给不起工资别开公司Ok？我他妈笑了大小周哪里引过来的啊底薪4k傻逼你怎么还不死呢你说出来不觉得搞笑吗我他妈炸死所有人我他妈捅死人我就翻进写字楼顶层认准董事长办公室进去照胸口狂捅三十刀妈的这逼环境怎么还不游行？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 273,
+          "like_count": 9116,
+          "listed_count": 2,
+          "media_count": 569,
+          "tweet_count": 3557
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:12:57.000Z",
+        "description": "你从不道别，你闷着头往前走，顺手接过命运递到你手上的东西，不管它是什么。",
+        "id": "1513444882865856516",
+        "name": "日内瓦十六夜",
+        "pinned_tweet_id": "1920530931422724192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356427384721408/9V-JtoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6744,
+          "following_count": 507,
+          "like_count": 12465,
+          "listed_count": 21,
+          "media_count": 369,
+          "tweet_count": 4534
+        },
+        "username": "thorino10",
+        "verified": false
+      }
+    ]
+  }
+}

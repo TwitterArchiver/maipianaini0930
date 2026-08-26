@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2091545020700749985",
+    "created_at": "2026-08-24T14:23:50.000Z",
+    "display_text_range": [
+      9,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T15:23:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091894256529293521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1946471478184247297",
+          "start": 0,
+          "username": "zxndkbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091894256529293521",
+    "in_reply_to_user_id": "1946471478184247297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091892602337665292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxndkbb 贼快 有种把所有东西瞬间看淡无欲无求的感觉"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2091892602337665292].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2091892602337665292",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2091892602337665292"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2091545020700749985",
+        "created_at": "2026-08-24T14:23:50.000Z",
+        "display_text_range": [
+          9,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:23:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091894256529293521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1946471478184247297",
+              "start": 0,
+              "username": "zxndkbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091894256529293521",
+        "in_reply_to_user_id": "1946471478184247297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091892602337665292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxndkbb 贼快 有种把所有东西瞬间看淡无欲无求的感觉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2091894256529293521",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1783418005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 293,
+          "like_count": 11524,
+          "listed_count": 0,
+          "media_count": 791,
+          "tweet_count": 5238
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-19T07:25:47.000Z",
+        "description": "我爱你们♡",
+        "id": "1946471478184247297",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2066533754106208465",
+        "name": "Maruko♪",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946471478184247297/1781621516",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066532591923286016/vCfyyfMV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 139,
+          "like_count": 1855,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "zxndkbb",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2027344613871411200"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2027344639502745774",
+    "created_at": "2026-02-27T11:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-27T12:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2027344639502745774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bvFo72yj8Q",
+          "end": 37,
+          "expanded_url": "https://x.com/maipianaini0930/status/2027344639502745774/photo/1",
+          "media_key": "3_2027344613871411200",
+          "start": 14,
+          "url": "https://t.co/bvFo72yj8Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027344639502745774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "刘海修完感觉自己像乌玛瑟曼 https://t.co/bvFo72yj8Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3088,
+        "media_key": "3_2027344613871411200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCKTL1sbYAApCNE.jpg",
+        "width": 2316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2027344613871411200"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2027344639502745774",
+        "created_at": "2026-02-27T11:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-27T12:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027344639502745774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bvFo72yj8Q",
+              "end": 37,
+              "expanded_url": "https://x.com/maipianaini0930/status/2027344639502745774/photo/1",
+              "media_key": "3_2027344613871411200",
+              "start": 14,
+              "url": "https://t.co/bvFo72yj8Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027344639502745774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "刘海修完感觉自己像乌玛瑟曼 https://t.co/bvFo72yj8Q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 217,
+          "like_count": 5009,
+          "listed_count": 0,
+          "media_count": 244,
+          "tweet_count": 1592
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

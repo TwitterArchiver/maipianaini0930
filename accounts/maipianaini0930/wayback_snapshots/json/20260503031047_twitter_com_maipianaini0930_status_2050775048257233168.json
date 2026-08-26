@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050613204875956224"
+      ],
+      "media_source_tweet_id": [
+        "2050613212509528283"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2050775048257233168",
+    "created_at": "2026-05-03T03:10:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T04:10:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050775048257233168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1385206009065394182",
+          "start": 3,
+          "username": "chronic_clinic_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/F0MbEt6Vfp",
+          "end": 44,
+          "expanded_url": "https://x.com/chronic_clinic_/status/2050613212509528283/photo/1",
+          "media_key": "3_2050613204875956224",
+          "start": 21,
+          "url": "https://t.co/F0MbEt6Vfp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050775048257233168",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 20
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050613212509528283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chronic_clinic_: https://t.co/F0MbEt6Vfp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2050613204875956224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHU92GBbUAA99Eu.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050613204875956224"
+          ],
+          "media_source_tweet_id": [
+            "2050613212509528283"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2050775048257233168",
+        "created_at": "2026-05-03T03:10:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T04:10:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050775048257233168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1385206009065394182",
+              "start": 3,
+              "username": "chronic_clinic_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0MbEt6Vfp",
+              "end": 44,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2050613212509528283/photo/1",
+              "media_key": "3_2050613204875956224",
+              "start": 21,
+              "url": "https://t.co/F0MbEt6Vfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050775048257233168",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050613212509528283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chronic_clinic_: https://t.co/F0MbEt6Vfp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050613204875956224"
+          ]
+        },
+        "author_id": "1385206009065394182",
+        "conversation_id": "2050613212509528283",
+        "created_at": "2026-05-02T16:27:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-02T17:27:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050613212509528283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0MbEt6Vfp",
+              "end": 23,
+              "expanded_url": "https://x.com/chronic_clinic_/status/2050613212509528283/photo/1",
+              "media_key": "3_2050613204875956224",
+              "start": 0,
+              "url": "https://t.co/F0MbEt6Vfp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050613212509528283",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2832,
+          "like_count": 127,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/F0MbEt6Vfp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 343,
+          "following_count": 276,
+          "like_count": 9069,
+          "listed_count": 2,
+          "media_count": 553,
+          "tweet_count": 3487
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-22T12:17:17.000Z",
+        "description": "bootleg images",
+        "id": "1385206009065394182",
+        "name": "bootleg_images_bot(twee!:void(0)-+****",
+        "pinned_tweet_id": "1574410887343247361",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1469922937281003522/oM4N6cRO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23553,
+          "following_count": 1,
+          "like_count": 8900,
+          "listed_count": 67,
+          "media_count": 8180,
+          "tweet_count": 8228
+        },
+        "username": "chronic_clinic_",
+        "verified": false
+      }
+    ]
+  }
+}

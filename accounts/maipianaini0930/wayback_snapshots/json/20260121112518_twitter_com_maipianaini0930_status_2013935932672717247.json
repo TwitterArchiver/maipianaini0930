@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2013657505478382013",
+    "created_at": "2026-01-21T11:25:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-21T12:25:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013935932672717247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1745195842921996288",
+          "start": 0,
+          "username": "kakakaknabi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013935932672717247",
+    "in_reply_to_user_id": "1745195842921996288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013657505478382013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kakakaknabi 罗10 健力氏 朝日 喜力 \n我很满足"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2013657495848259585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_Hy0ttWkAE3ZAX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2013657505478382013",
+        "created_at": "2026-01-21T11:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T12:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013935932672717247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1745195842921996288",
+              "start": 0,
+              "username": "kakakaknabi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013935932672717247",
+        "in_reply_to_user_id": "1745195842921996288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013657505478382013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kakakaknabi 罗10 健力氏 朝日 喜力 \n我很满足"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2013657495848259585"
+          ]
+        },
+        "author_id": "1745195842921996288",
+        "conversation_id": "2013657505478382013",
+        "created_at": "2026-01-20T16:58:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T17:58:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013657505478382013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tr1pvwuwLq",
+              "end": 42,
+              "expanded_url": "https://x.com/kakakaknabi/status/2013657505478382013/photo/1",
+              "media_key": "3_2013657495848259585",
+              "start": 19,
+              "url": "https://t.co/tr1pvwuwLq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013657505478382013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "县城逼能外卖喝到这几款酒真的很满意了 https://t.co/tr1pvwuwLq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013475639219585024/EhafFf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 203,
+          "like_count": 3313,
+          "listed_count": 0,
+          "media_count": 165,
+          "tweet_count": 1033
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-10T21:28:21.000Z",
+        "description": "人是复杂我知道，爱是什么我不明白。",
+        "id": "1745195842921996288",
+        "location": "当我们用力刺痛对方",
+        "name": "Ankeryth",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920927206257422337/tk0Oh3kT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 354,
+          "like_count": 1511,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 922
+        },
+        "username": "kakakaknabi",
+        "verified": false
+      }
+    ]
+  }
+}

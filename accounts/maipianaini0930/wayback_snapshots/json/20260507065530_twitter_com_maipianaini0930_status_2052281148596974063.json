@@ -1,0 +1,142 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2052279146253001010",
+    "created_at": "2026-05-07T06:55:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T07:55:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052281148596974063"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2052281148596974063",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052279146253001010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "昨夜用了思诺思和苯乙胺，洗完没弄丢东西"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2052279146253001010",
+        "created_at": "2026-05-07T06:55:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:55:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052281148596974063"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052281148596974063",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052279146253001010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "昨夜用了思诺思和苯乙胺，洗完没弄丢东西"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2052279146253001010",
+        "created_at": "2026-05-07T06:47:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T07:47:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052279146253001010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2052279146253001010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "思诺思促发的梦境体验前所未有，我在泛黄使得看起来伶仃飘摇的仓库搬运装有柴草的木箱，两个监工手持手枪将大门轰得紧闭，说杀了我们几个月可不被人发现，一个盯着朝我摆了下下巴，说我是小孩，滚蛋。在楼梯旁他突然开枪，卡弹了，第二枪又卡弹了，楼梯如在涌入的洪水中塌成废墟"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 278,
+          "like_count": 9182,
+          "listed_count": 2,
+          "media_count": 580,
+          "tweet_count": 3642
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

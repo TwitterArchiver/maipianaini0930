@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041008472259735552"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2041008476932214796",
+    "created_at": "2026-04-06T04:21:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T05:21:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041008476932214796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/9FABGcxenV",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2041008476932214796/photo/1",
+          "media_key": "3_2041008472259735552",
+          "start": 0,
+          "url": "https://t.co/9FABGcxenV"
+        },
+        {
+          "display_url": "x.com/ht_tt0/status/…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/ht_tt0/status/2039650371883372808",
+          "start": 24,
+          "url": "https://t.co/UtdD83hy8v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041008476932214796",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039650371883372808",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/9FABGcxenV https://t.co/UtdD83hy8v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 218,
+        "media_key": "3_2041008472259735552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMeZEyasAAeitH.jpg",
+        "width": 300
+      },
+      {
+        "duration_ms": 62345,
+        "height": 360,
+        "media_key": "7_2039650353143226368",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2039650353143226368/pu/img/hHafVHaWrLOO7od6.jpg",
+        "public_metrics": {
+          "view_count": 1356
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039650353143226368/pu/vid/avc1/360x270/s3Y09fz9I39nBgKc.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2039650353143226368/pu/vid/avc1/480x360/dPNtTeca-I33trQV.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2039650353143226368/pu/pl/Gx19--MD1iEQL3Wt.m3u8?tag=12&v=403"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041008472259735552"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2041008476932214796",
+        "created_at": "2026-04-06T04:21:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:21:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041008476932214796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9FABGcxenV",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2041008476932214796/photo/1",
+              "media_key": "3_2041008472259735552",
+              "start": 0,
+              "url": "https://t.co/9FABGcxenV"
+            },
+            {
+              "display_url": "x.com/ht_tt0/status/…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/ht_tt0/status/2039650371883372808",
+              "start": 24,
+              "url": "https://t.co/UtdD83hy8v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041008476932214796",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039650371883372808",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/9FABGcxenV https://t.co/UtdD83hy8v"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2039650353143226368"
+          ]
+        },
+        "author_id": "1668247737882783745",
+        "conversation_id": "2039650371883372808",
+        "created_at": "2026-04-02T10:25:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T11:25:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039650371883372808"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "パパ戦争行ってくる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xEXz623sJR",
+              "end": 34,
+              "expanded_url": "https://x.com/ht_tt0/status/2039650371883372808/video/1",
+              "media_key": "7_2039650353143226368",
+              "start": 11,
+              "url": "https://t.co/xEXz623sJR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039650371883372808",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 7118,
+          "like_count": 150,
+          "quote_count": 3,
+          "reply_count": 4,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "#パパ戦争行ってくる https://t.co/xEXz623sJR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 265,
+          "like_count": 7695,
+          "listed_count": 1,
+          "media_count": 453,
+          "tweet_count": 2952
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-12T13:25:36.000Z",
+        "description": "hoi4プレイヤー\n趣味垢いろんなことほざく",
+        "id": "1668247737882783745",
+        "name": "前衛ニキ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949470143802949632/HUP9zpbu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4304,
+          "following_count": 1204,
+          "like_count": 23000,
+          "listed_count": 12,
+          "media_count": 4110,
+          "tweet_count": 19656
+        },
+        "username": "ht_tt0",
+        "verified": false
+      }
+    ]
+  }
+}

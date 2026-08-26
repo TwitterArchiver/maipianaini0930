@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Berlin",
+          "id": "855410510082080770",
+          "name": "Berlin"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      }
+    ],
+    "conversation_id": "2022994897738105212",
+    "created_at": "2026-02-15T11:22:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:22:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022994897738105212"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 51,
+          "normalized_text": "Lou Reed",
+          "probability": 0.9257,
+          "start": 44,
+          "type": "Person"
+        },
+        {
+          "end": 62,
+          "normalized_text": "John Cale",
+          "probability": 0.8603,
+          "start": 54,
+          "type": "Person"
+        },
+        {
+          "end": 72,
+          "normalized_text": "Nico",
+          "probability": 0.7652,
+          "start": 69,
+          "type": "Person"
+        },
+        {
+          "end": 92,
+          "normalized_text": "Lou Reed",
+          "probability": 0.8943,
+          "start": 85,
+          "type": "Person"
+        },
+        {
+          "end": 102,
+          "normalized_text": "Berlin",
+          "probability": 0.4331,
+          "start": 97,
+          "type": "Other"
+        },
+        {
+          "end": 128,
+          "normalized_text": "Le Bataclan",
+          "probability": 0.6923,
+          "start": 118,
+          "type": "Place"
+        },
+        {
+          "end": 135,
+          "normalized_text": "Paris",
+          "probability": 0.9128,
+          "start": 131,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "897605631259160577",
+          "start": 3,
+          "username": "synekura_audio"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022994897738105212",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 235
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022775820633158023",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @synekura_audio: My favorite love song \n\nLou Reed, John Cale, and Nico performing Lou Reed's 'Berlin', live at the Le Bataclan, Paris, 1…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 177401,
+        "height": 480,
+        "media_key": "7_2022775778921082880",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2022775778921082880/pu/img/frprAirZmkNQmnK_.jpg",
+        "public_metrics": {
+          "view_count": 12948
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022775778921082880/pu/vid/avc1/320x320/qxxtY7IA1QjP96-B.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2022775778921082880/pu/vid/avc1/480x480/pQT_Gx2ORDIVbGdN.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2022775778921082880/pu/pl/gm1cE0QwuEPLFWYc.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2022994897738105212",
+        "created_at": "2026-02-15T11:22:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022994897738105212"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 51,
+              "normalized_text": "Lou Reed",
+              "probability": 0.9257,
+              "start": 44,
+              "type": "Person"
+            },
+            {
+              "end": 62,
+              "normalized_text": "John Cale",
+              "probability": 0.8603,
+              "start": 54,
+              "type": "Person"
+            },
+            {
+              "end": 72,
+              "normalized_text": "Nico",
+              "probability": 0.7652,
+              "start": 69,
+              "type": "Person"
+            },
+            {
+              "end": 92,
+              "normalized_text": "Lou Reed",
+              "probability": 0.8943,
+              "start": 85,
+              "type": "Person"
+            },
+            {
+              "end": 102,
+              "normalized_text": "Berlin",
+              "probability": 0.4331,
+              "start": 97,
+              "type": "Other"
+            },
+            {
+              "end": 128,
+              "normalized_text": "Le Bataclan",
+              "probability": 0.6923,
+              "start": 118,
+              "type": "Place"
+            },
+            {
+              "end": 135,
+              "normalized_text": "Paris",
+              "probability": 0.9128,
+              "start": 131,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "897605631259160577",
+              "start": 3,
+              "username": "synekura_audio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022994897738105212",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 235
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022775820633158023",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @synekura_audio: My favorite love song \n\nLou Reed, John Cale, and Nico performing Lou Reed's 'Berlin', live at the Le Bataclan, Paris, 1…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2022775778921082880"
+          ]
+        },
+        "author_id": "897605631259160577",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Berlin",
+              "id": "855410510082080770",
+              "name": "Berlin"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "2022775820633158023",
+        "created_at": "2026-02-14T20:51:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T21:51:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022775820633158023"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "Lou Reed",
+              "probability": 0.9387,
+              "start": 24,
+              "type": "Person"
+            },
+            {
+              "end": 42,
+              "normalized_text": "John Cale",
+              "probability": 0.8976,
+              "start": 34,
+              "type": "Person"
+            },
+            {
+              "end": 52,
+              "normalized_text": "Nico",
+              "probability": 0.8102,
+              "start": 49,
+              "type": "Person"
+            },
+            {
+              "end": 72,
+              "normalized_text": "Lou Reed",
+              "probability": 0.9319,
+              "start": 65,
+              "type": "Person"
+            },
+            {
+              "end": 82,
+              "normalized_text": "Berlin",
+              "probability": 0.5778,
+              "start": 77,
+              "type": "Other"
+            },
+            {
+              "end": 108,
+              "normalized_text": "Le Bataclan",
+              "probability": 0.7246,
+              "start": 98,
+              "type": "Place"
+            },
+            {
+              "end": 115,
+              "normalized_text": "Paris",
+              "probability": 0.9366,
+              "start": 111,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/z2JAHKmmJN",
+              "end": 146,
+              "expanded_url": "https://x.com/synekura_audio/status/2022775820633158023/video/1",
+              "media_key": "7_2022775778921082880",
+              "start": 123,
+              "url": "https://t.co/z2JAHKmmJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022775820633158023",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 29626,
+          "like_count": 1124,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 235
+        },
+        "reply_settings": "everyone",
+        "text": "My favorite love song \n\nLou Reed, John Cale, and Nico performing Lou Reed's 'Berlin', live at the Le Bataclan, Paris, 1972 https://t.co/z2JAHKmmJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 203,
+          "like_count": 4183,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1309
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-15T23:47:14.000Z",
+        "description": "I move objects and words to other places. For a small fee, I can weigh or draw your voice.",
+        "id": "897605631259160577",
+        "location": "Licheń, Poland",
+        "name": "Synekura Audio",
+        "pinned_tweet_id": "1157047086149451778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/905455959648165888/_gLAHlqm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22388,
+          "following_count": 9142,
+          "like_count": 681441,
+          "listed_count": 108,
+          "media_count": 16217,
+          "tweet_count": 143120
+        },
+        "username": "synekura_audio",
+        "verified": true
+      }
+    ]
+  }
+}

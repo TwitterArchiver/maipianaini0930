@@ -1,0 +1,709 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jim Morrison",
+          "id": "993591887104651264",
+          "name": "Jim Morrison"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Jim Morrison",
+          "id": "993591887104651264",
+          "name": "Jim Morrison"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jim Morrison",
+          "id": "993591887104651264",
+          "name": "Jim Morrison"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      }
+    ],
+    "conversation_id": "2028711861760475164",
+    "created_at": "2026-03-03T05:59:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-03T06:59:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028711861760475164"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 71,
+          "normalized_text": "JimMorrisonPoetry",
+          "probability": 0.7826,
+          "start": 55,
+          "type": "Person"
+        },
+        {
+          "end": 95,
+          "normalized_text": "PRAYER",
+          "probability": 0.4849,
+          "start": 90,
+          "type": "Other"
+        },
+        {
+          "end": 111,
+          "normalized_text": "Jim",
+          "probability": 0.6906,
+          "start": 109,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 54,
+          "tag": "JimMorrisonPoetry"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1096175703702171649",
+          "start": 3,
+          "username": "JimMorrison"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028711861760475164",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2014010907018354930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JimMorrison: Life is full of ANGELS AND SAILORS.\n\n#JimMorrisonPoetry from AN AMERICAN PRAYER.\n\nListen to Jim recite the poem with music…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24100,
+        "height": 1920,
+        "media_key": "13_2014010778173530117",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2014010778173530117/img/GCpPlgfEuS0Xzo6S.jpg",
+        "public_metrics": {
+          "view_count": 1209
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014010778173530117/vid/avc1/1080x1920/71sdXTbsYdQw8hUx.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014010778173530117/vid/avc1/320x568/bOf5qmN8fImjb1PY.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014010778173530117/vid/avc1/480x852/zw3vzu8i5p5tsWNz.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2014010778173530117/vid/avc1/720x1280/l86DE9NSQgqHr6I1.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2014010778173530117/pl/1XD-haBh6dbOhpws.m3u8?v=dd6"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2028711861760475164",
+        "created_at": "2026-03-03T05:59:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-03T06:59:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028711861760475164"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 71,
+              "normalized_text": "JimMorrisonPoetry",
+              "probability": 0.7826,
+              "start": 55,
+              "type": "Person"
+            },
+            {
+              "end": 95,
+              "normalized_text": "PRAYER",
+              "probability": 0.4849,
+              "start": 90,
+              "type": "Other"
+            },
+            {
+              "end": 111,
+              "normalized_text": "Jim",
+              "probability": 0.6906,
+              "start": 109,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 54,
+              "tag": "JimMorrisonPoetry"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1096175703702171649",
+              "start": 3,
+              "username": "JimMorrison"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028711861760475164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2014010907018354930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JimMorrison: Life is full of ANGELS AND SAILORS.\n\n#JimMorrisonPoetry from AN AMERICAN PRAYER.\n\nListen to Jim recite the poem with music…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2014010778173530117"
+          ]
+        },
+        "author_id": "1096175703702171649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046131477",
+              "name": "Getty Images"
+            }
+          }
+        ],
+        "conversation_id": "2014010907018354930",
+        "created_at": "2026-01-21T16:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-21T17:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2014010907018354930"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 54,
+              "normalized_text": "JimMorrisonPoetry",
+              "probability": 0.6386,
+              "start": 38,
+              "type": "Person"
+            },
+            {
+              "end": 78,
+              "normalized_text": "AMERICAN PRAYER",
+              "probability": 0.6144,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 94,
+              "normalized_text": "Jim",
+              "probability": 0.561,
+              "start": 92,
+              "type": "Person"
+            },
+            {
+              "end": 136,
+              "normalized_text": "John",
+              "probability": 0.6298,
+              "start": 133,
+              "type": "Person"
+            },
+            {
+              "end": 143,
+              "normalized_text": "Robby",
+              "probability": 0.4689,
+              "start": 139,
+              "type": "Person"
+            },
+            {
+              "end": 152,
+              "normalized_text": "Ray",
+              "probability": 0.452,
+              "start": 150,
+              "type": "Person"
+            },
+            {
+              "end": 215,
+              "normalized_text": "Getty Images",
+              "probability": 0.4891,
+              "start": 204,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 37,
+              "tag": "JimMorrisonPoetry"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Powered by found.ee",
+              "display_url": "found.ee/AmericanPrayer…",
+              "end": 183,
+              "expanded_url": "https://found.ee/AmericanPrayerListen",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/2014010952417501189/nQ0VVzKF?format=jpg&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2014010952417501189/nQ0VVzKF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 160,
+              "status": 200,
+              "title": "Jim Morrison & The Doors",
+              "unwound_url": "https://found.ee/AmericanPrayerListen",
+              "url": "https://t.co/cIB3IVy7Wg"
+            },
+            {
+              "display_url": "pic.x.com/SjHX4GRkzT",
+              "end": 241,
+              "expanded_url": "https://x.com/JimMorrison/status/2014010907018354930/video/1",
+              "media_key": "13_2014010778173530117",
+              "start": 218,
+              "url": "https://t.co/SjHX4GRkzT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2014010907018354930",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 3304,
+          "like_count": 215,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "Life is full of ANGELS AND SAILORS.\n\n#JimMorrisonPoetry from AN AMERICAN PRAYER.\n\nListen to Jim recite the poem with music backed by John, Robby, and Ray here: https://t.co/cIB3IVy7Wg\n\nPhotos courtesy of Getty Images. https://t.co/SjHX4GRkzT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 224,
+          "like_count": 5261,
+          "listed_count": 0,
+          "media_count": 271,
+          "tweet_count": 1700
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T22:33:48.000Z",
+        "description": "The official profile of James Douglas Morrison. Poet. Writer. Singer. Filmmaker. Legend. #JimMorrison",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 89,
+                "tag": "JimMorrison"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jimmorrison.com",
+                "end": 23,
+                "expanded_url": "http://www.jimmorrison.com/",
+                "start": 0,
+                "url": "https://t.co/o86B0M6yuj"
+              }
+            ]
+          }
+        },
+        "id": "1096175703702171649",
+        "name": "Jim Morrison",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1096215756285431808/jC2oaw16_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50017,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 143,
+          "media_count": 1021,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/o86B0M6yuj",
+        "username": "JimMorrison",
+        "verified": true
+      }
+    ]
+  }
+}

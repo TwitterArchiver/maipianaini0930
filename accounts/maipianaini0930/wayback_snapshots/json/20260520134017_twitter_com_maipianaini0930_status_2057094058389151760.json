@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2057035039570038886",
+    "created_at": "2026-05-20T13:40:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:40:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057094058389151760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1662293107738640384",
+          "start": 0,
+          "username": "SHUGE0731"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057094058389151760",
+    "in_reply_to_user_id": "1662293107738640384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057035039570038886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SHUGE0731 衣服有链接吗！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2057035028635545600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwOdbxbcAAiNhU.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2057035028547403776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwOdbcagAAmE6k.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057035028543254528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwOdbbbMAACeLD.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2057035028551569409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIwOdbdaEAEhkJ7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2057035039570038886",
+        "created_at": "2026-05-20T13:40:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:40:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057094058389151760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1662293107738640384",
+              "start": 0,
+              "username": "SHUGE0731"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057094058389151760",
+        "in_reply_to_user_id": "1662293107738640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057035039570038886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SHUGE0731 衣服有链接吗！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057035028635545600",
+            "3_2057035028547403776",
+            "3_2057035028543254528",
+            "3_2057035028551569409"
+          ]
+        },
+        "author_id": "1662293107738640384",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057035039570038886",
+        "created_at": "2026-05-20T09:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T10:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057035039570038886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g3yFzCpbTJ",
+              "end": 35,
+              "expanded_url": "https://x.com/SHUGE0731/status/2057035039570038886/photo/1",
+              "media_key": "3_2057035028635545600",
+              "start": 12,
+              "url": "https://t.co/g3yFzCpbTJ"
+            },
+            {
+              "display_url": "pic.x.com/g3yFzCpbTJ",
+              "end": 35,
+              "expanded_url": "https://x.com/SHUGE0731/status/2057035039570038886/photo/1",
+              "media_key": "3_2057035028547403776",
+              "start": 12,
+              "url": "https://t.co/g3yFzCpbTJ"
+            },
+            {
+              "display_url": "pic.x.com/g3yFzCpbTJ",
+              "end": 35,
+              "expanded_url": "https://x.com/SHUGE0731/status/2057035039570038886/photo/1",
+              "media_key": "3_2057035028543254528",
+              "start": 12,
+              "url": "https://t.co/g3yFzCpbTJ"
+            },
+            {
+              "display_url": "pic.x.com/g3yFzCpbTJ",
+              "end": 35,
+              "expanded_url": "https://x.com/SHUGE0731/status/2057035039570038886/photo/1",
+              "media_key": "3_2057035028551569409",
+              "start": 12,
+              "url": "https://t.co/g3yFzCpbTJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057035039570038886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 386,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸟人过节belike： https://t.co/g3yFzCpbTJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 286,
+          "like_count": 9616,
+          "listed_count": 2,
+          "media_count": 609,
+          "tweet_count": 3971
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-27T03:02:29.000Z",
+        "description": "苦しい😣 | ⚠️负面内容&日常全是废话｜可以叫我洋流&Asuka｜鹦鹉叫uno｜请跟我聊天｜超级社恐但是谢谢你们｜欢迎眼熟互fo｜🚪20 ｜ lover & master @Dorcus10031",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 87,
+                "username": "Dorcus10031"
+              }
+            ]
+          }
+        },
+        "id": "1662293107738640384",
+        "location": "马孔多",
+        "name": "Stargazer 8964",
+        "pinned_tweet_id": "2033146101042413609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761971923423256577/b3pIeFC0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 1116,
+          "like_count": 29007,
+          "listed_count": 4,
+          "media_count": 672,
+          "tweet_count": 9935
+        },
+        "username": "SHUGE0731",
+        "verified": false
+      }
+    ]
+  }
+}

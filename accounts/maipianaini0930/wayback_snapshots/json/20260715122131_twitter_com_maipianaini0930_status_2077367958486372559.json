@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2077275409411092681",
+    "created_at": "2026-07-15T12:21:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T13:21:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077367958486372559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1407556919712096257",
+          "start": 0,
+          "username": "Escapist_1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077367958486372559",
+    "in_reply_to_user_id": "1407556919712096257",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077275409411092681",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Escapist_1 mr mojo risin～～～～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077275378125869056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP281XbkAApFNI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077275376099934208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP28t0aQAAZuT-.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077275378100621312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP281RaUAAq6Fz.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2077275376095739904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNP28tzaQAAq4D-.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2077275409411092681",
+        "created_at": "2026-07-15T12:21:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T13:21:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077367958486372559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1407556919712096257",
+              "start": 0,
+              "username": "Escapist_1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077367958486372559",
+        "in_reply_to_user_id": "1407556919712096257",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077275409411092681",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Escapist_1 mr mojo risin～～～～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077275378125869056",
+            "3_2077275376099934208",
+            "3_2077275378100621312",
+            "3_2077275376095739904"
+          ]
+        },
+        "author_id": "1407556919712096257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2077275409411092681",
+        "created_at": "2026-07-15T06:13:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:13:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077275409411092681"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DF4XveKigw",
+              "end": 143,
+              "expanded_url": "https://x.com/Escapist_1/status/2077275409411092681/photo/1",
+              "media_key": "3_2077275378125869056",
+              "start": 120,
+              "url": "https://t.co/DF4XveKigw"
+            },
+            {
+              "display_url": "pic.x.com/DF4XveKigw",
+              "end": 143,
+              "expanded_url": "https://x.com/Escapist_1/status/2077275409411092681/photo/1",
+              "media_key": "3_2077275376099934208",
+              "start": 120,
+              "url": "https://t.co/DF4XveKigw"
+            },
+            {
+              "display_url": "pic.x.com/DF4XveKigw",
+              "end": 143,
+              "expanded_url": "https://x.com/Escapist_1/status/2077275409411092681/photo/1",
+              "media_key": "3_2077275378100621312",
+              "start": 120,
+              "url": "https://t.co/DF4XveKigw"
+            },
+            {
+              "display_url": "pic.x.com/DF4XveKigw",
+              "end": 143,
+              "expanded_url": "https://x.com/Escapist_1/status/2077275409411092681/photo/1",
+              "media_key": "3_2077275376095739904",
+              "start": 120,
+              "url": "https://t.co/DF4XveKigw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077275409411092681",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这是Jim Morrison生前最喜欢的酒吧之一，他之前住的旅馆就在附近，我能想象得到他经常从旅馆步行四五分钟来这个小酒馆喝酒\n\n点了一杯他生前最爱的酒，感觉很恍惚，他对我的影响太大太大了，他是我摇滚启蒙与精神图腾里的最重要的角色没有之一\n\n在我的青少年时期，我会惊叹于地球的另一端有这样一个和我如此相似的人，我们都爱尼采我们都爱兰波我们都深爱着威廉布莱克，我们都自封酒神我们都爱做着那些狂热混乱的事情，严重的自毁倾向快把我们的生活毁了但同时又乐此不疲的给与我们希望，我们都想弑父娶母\n\n看见吧台他的座位牌子，我哭得好伤心，我只是感受到一种巨大的、近乎神圣的恍惚，我看见他就坐在座位上。\n\n他死后依旧影响了很多很多人，用他的诗和火焰点燃一代又一代迷失的灵魂。这也是我想要做的，我想给这个世界留下些什么"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2068,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是Jim Morrison生前最喜欢的酒吧之一，他之前住的旅馆就在附近，我能想象得到他经常从旅馆步行四五分钟来这个小酒馆喝酒\n\n点了一杯他生前最爱的酒，感觉很恍惚，他对我的影响太大太大了，他是我摇滚启蒙与精神图腾里的最重要的角色没有之一 https://t.co/DF4XveKigw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n来视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 297,
+          "like_count": 10964,
+          "listed_count": 1,
+          "media_count": 726,
+          "tweet_count": 4779
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-23T04:31:55.000Z",
+        "description": "随便发点什么 #人类观察研究 想拍点纪录片",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 7,
+                "tag": "人类观察研究"
+              }
+            ]
+          }
+        },
+        "id": "1407556919712096257",
+        "location": "HD 140283恒星",
+        "name": "Escapist",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985567912334409731/Hx4R_X4Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42889,
+          "following_count": 1609,
+          "like_count": 4940,
+          "listed_count": 211,
+          "media_count": 439,
+          "tweet_count": 5759
+        },
+        "url": "",
+        "username": "Escapist_1",
+        "verified": false
+      }
+    ]
+  }
+}

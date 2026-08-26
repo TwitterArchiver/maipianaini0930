@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079594085300764672"
+      ],
+      "media_source_tweet_id": [
+        "2079594170013167783"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079772947607367878",
+    "created_at": "2026-07-22T03:38:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T04:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079772947607367878"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1364949275847897093",
+          "start": 3,
+          "username": "mo_ma_ma_ma"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/bSe3NCibNg",
+          "end": 40,
+          "expanded_url": "https://x.com/mo_ma_ma_ma/status/2079594170013167783/photo/1",
+          "media_key": "3_2079594085300764672",
+          "start": 17,
+          "url": "https://t.co/bSe3NCibNg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079772947607367878",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 281
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079594170013167783",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mo_ma_ma_ma: https://t.co/bSe3NCibNg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2875,
+        "media_key": "3_2079594085300764672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNwzzWtbAAAK4sW.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079594085300764672"
+          ]
+        },
+        "author_id": "1364949275847897093",
+        "conversation_id": "2079594170013167783",
+        "created_at": "2026-07-21T15:47:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T16:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079594170013167783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSe3NCibNg",
+              "end": 23,
+              "expanded_url": "https://x.com/mo_ma_ma_ma/status/2079594170013167783/photo/1",
+              "media_key": "3_2079594085300764672",
+              "start": 0,
+              "url": "https://t.co/bSe3NCibNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079594170013167783",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 660,
+          "impression_count": 31791,
+          "like_count": 4233,
+          "quote_count": 5,
+          "reply_count": 2,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/bSe3NCibNg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079594085300764672"
+          ],
+          "media_source_tweet_id": [
+            "2079594170013167783"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079772947607367878",
+        "created_at": "2026-07-22T03:38:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T04:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079772947607367878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1364949275847897093",
+              "start": 3,
+              "username": "mo_ma_ma_ma"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bSe3NCibNg",
+              "end": 40,
+              "expanded_url": "https://x.com/mo_ma_ma_ma/status/2079594170013167783/photo/1",
+              "media_key": "3_2079594085300764672",
+              "start": 17,
+              "url": "https://t.co/bSe3NCibNg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079772947607367878",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 281
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079594170013167783",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mo_ma_ma_ma: https://t.co/bSe3NCibNg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 302,
+          "like_count": 11242,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 4966
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-25T14:45:01.000Z",
+        "description": "もましまに相当します",
+        "id": "1364949275847897093",
+        "name": "準もましま",
+        "pinned_tweet_id": "2059564417063551451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684604420296998912/QnDir1_Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1624,
+          "following_count": 172,
+          "like_count": 8291,
+          "listed_count": 12,
+          "media_count": 612,
+          "tweet_count": 9990
+        },
+        "url": "",
+        "username": "mo_ma_ma_ma",
+        "verified": false
+      }
+    ]
+  }
+}

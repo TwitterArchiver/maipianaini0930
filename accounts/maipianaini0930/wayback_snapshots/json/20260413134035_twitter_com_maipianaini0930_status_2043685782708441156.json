@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043659579540774913"
+      ],
+      "media_source_tweet_id": [
+        "2043659757148622918"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2043685782708441156",
+    "created_at": "2026-04-13T13:40:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T14:40:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043685782708441156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1426513039419867139",
+          "start": 3,
+          "username": "loveliescrushi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eSBy8y7Xvc",
+          "end": 67,
+          "expanded_url": "https://x.com/loveliescrushi/status/2043659757148622918/photo/1",
+          "media_key": "3_2043659579540774913",
+          "start": 44,
+          "url": "https://t.co/eSBy8y7Xvc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043685782708441156",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043659757148622918",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @loveliescrushi: 邀请大家关注我新的诗歌公众号，搜褴褛天使就好。 https://t.co/eSBy8y7Xvc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043659579540774913",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFyJj1BaIAEdj2d.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043659579540774913"
+          ],
+          "media_source_tweet_id": [
+            "2043659757148622918"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2043685782708441156",
+        "created_at": "2026-04-13T13:40:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T14:40:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043685782708441156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1426513039419867139",
+              "start": 3,
+              "username": "loveliescrushi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSBy8y7Xvc",
+              "end": 67,
+              "expanded_url": "https://x.com/loveliescrushi/status/2043659757148622918/photo/1",
+              "media_key": "3_2043659579540774913",
+              "start": 44,
+              "url": "https://t.co/eSBy8y7Xvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043685782708441156",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043659757148622918",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @loveliescrushi: 邀请大家关注我新的诗歌公众号，搜褴褛天使就好。 https://t.co/eSBy8y7Xvc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043659579540774913"
+          ]
+        },
+        "author_id": "1426513039419867139",
+        "conversation_id": "2043659757148622918",
+        "created_at": "2026-04-13T11:57:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T12:57:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043659757148622918"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eSBy8y7Xvc",
+              "end": 47,
+              "expanded_url": "https://x.com/loveliescrushi/status/2043659757148622918/photo/1",
+              "media_key": "3_2043659579540774913",
+              "start": 24,
+              "url": "https://t.co/eSBy8y7Xvc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043659757148622918",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "邀请大家关注我新的诗歌公众号，搜褴褛天使就好。 https://t.co/eSBy8y7Xvc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2043643748257788371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 274,
+          "like_count": 8110,
+          "listed_count": 1,
+          "media_count": 476,
+          "tweet_count": 3096
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T11:56:38.000Z",
+        "description": "歌词本",
+        "id": "1426513039419867139",
+        "location": "LakeCityQuietPills",
+        "name": "萨拉热窝的Haerin和Hanni",
+        "pinned_tweet_id": "1924808064638844970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977809874609487872/9rPezylN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 255,
+          "following_count": 565,
+          "like_count": 13624,
+          "listed_count": 5,
+          "media_count": 256,
+          "tweet_count": 3679
+        },
+        "username": "loveliescrushi",
+        "verified": false
+      }
+    ]
+  }
+}

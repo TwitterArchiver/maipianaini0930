@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "1999563916448317588",
+    "created_at": "2025-12-12T23:34:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-13T00:34:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1999623849449783428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1294616815880945664",
+          "start": 0,
+          "username": "30parupu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999623849449783428",
+    "in_reply_to_user_id": "1294616815880945664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999563916448317588",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@30parupu 这不是你的错，无需道歉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1999563908143841280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7_gx8KbAAAH_tK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1999563916448317588",
+        "created_at": "2025-12-12T23:34:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T00:34:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999623849449783428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1294616815880945664",
+              "start": 0,
+              "username": "30parupu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999623849449783428",
+        "in_reply_to_user_id": "1294616815880945664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999563916448317588",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@30parupu 这不是你的错，无需道歉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999563908143841280"
+          ]
+        },
+        "author_id": "1294616815880945664",
+        "conversation_id": "1999563916448317588",
+        "created_at": "2025-12-12T19:36:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T20:36:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999563916448317588"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UxkShQh9eY",
+              "end": 107,
+              "expanded_url": "https://x.com/30parupu/status/1999563916448317588/photo/1",
+              "media_key": "3_1999563908143841280",
+              "start": 84,
+              "url": "https://t.co/UxkShQh9eY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999563916448317588",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7373,
+          "like_count": 194,
+          "quote_count": 4,
+          "reply_count": 91,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "今天是南京大屠杀纪念日，我们再次致歉。我们将奋斗努力找出原因并再发防止。我们都期待你们继续支持我们的日本。再次向你们致歉。如果你们愿意，欢迎来旅遊。☺️✨🇯🇵🤝🇨🇳✨ https://t.co/UxkShQh9eY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 169,
+          "like_count": 1825,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 599
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-15T12:48:03.000Z",
+        "description": "37歳。🇯🇵普通の日本人。東京生まれ、多摩地域在住✨🐸東京都立府中西高等学校卒業→ローソン深夜バイト→倉庫（京浜港）→郵便（10年）→スーパーの夜間配送・センターの倉庫作業。障碍者手帳持ってます😰💦バカなのに中国語勉強してます🍬🍬🍬趣味はギャルゲーとスロット。『完全無課金』",
+        "id": "1294616815880945664",
+        "location": "東京",
+        "name": "梅虎🌸中国語勉強中🇯🇵🇨🇳✨",
+        "pinned_tweet_id": "1999563916448317588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1555838082099732480/eW5fr9ec_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17987,
+          "following_count": 2525,
+          "like_count": 45335,
+          "listed_count": 60,
+          "media_count": 2158,
+          "tweet_count": 13401
+        },
+        "username": "30parupu",
+        "verified": false
+      }
+    ]
+  }
+}

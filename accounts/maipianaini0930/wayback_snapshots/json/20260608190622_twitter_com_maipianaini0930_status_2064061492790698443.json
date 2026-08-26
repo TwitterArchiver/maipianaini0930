@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2064034449239785699",
+    "created_at": "2026-06-08T19:06:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T20:06:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064061492790698443"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693124545492983808",
+          "start": 0,
+          "username": "rustInsidee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064061492790698443",
+    "in_reply_to_user_id": "1693124545492983808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064034449239785699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rustInsidee 我还上学的时候历史老师讲过往届一个上港大的学生19年上街然后被开除学籍了（当时我正好给全班大放厥词科普完64）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064034449239785699].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064034449239785699",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064034449239785699"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2064034449239785699",
+        "created_at": "2026-06-08T19:06:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T20:06:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064061492790698443"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693124545492983808",
+              "start": 0,
+              "username": "rustInsidee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064061492790698443",
+        "in_reply_to_user_id": "1693124545492983808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064034449239785699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rustInsidee 我还上学的时候历史老师讲过往届一个上港大的学生19年上街然后被开除学籍了（当时我正好给全班大放厥词科普完64）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 311,
+          "like_count": 10183,
+          "listed_count": 2,
+          "media_count": 656,
+          "tweet_count": 4391
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T04:55:41.000Z",
+        "description": "我純潔的一刻勝過你一生的謊言",
+        "id": "1693124545492983808",
+        "name": "她在時間門外",
+        "pinned_tweet_id": "1742580780474478784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004070213848055808/sNu-TCBp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 8283,
+          "following_count": 438,
+          "like_count": 11152,
+          "listed_count": 21,
+          "media_count": 1919,
+          "tweet_count": 8582
+        },
+        "username": "rustInsidee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2091502951013785725",
+    "created_at": "2026-08-23T15:35:35.000Z",
+    "display_text_range": [
+      11,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T16:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091549925150687664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1691933896559214593",
+          "start": 0,
+          "username": "demo37237"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091549925150687664",
+    "in_reply_to_user_id": "1691933896559214593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091502951013785725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@demo37237 虽然不太清楚具体的流派和分类 但我记得二战前苏联的结构主义构图就很类似下方列举的例子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2091502951013785725",
+        "created_at": "2026-08-23T15:35:35.000Z",
+        "display_text_range": [
+          11,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T16:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091549925150687664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1691933896559214593",
+              "start": 0,
+              "username": "demo37237"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091549925150687664",
+        "in_reply_to_user_id": "1691933896559214593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091502951013785725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@demo37237 虽然不太清楚具体的流派和分类 但我记得二战前苏联的结构主义构图就很类似下方列举的例子了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691933896559214593",
+        "conversation_id": "2091502951013785725",
+        "created_at": "2026-08-23T12:28:56.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:28:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091502951013785725"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/__fanqie__/sta…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/__fanqie__/status/2091454921166192751",
+              "start": 45,
+              "url": "https://t.co/tgvBNWj4kn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091502951013785725",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 223,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091454921166192751",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "做這個meme的人把自己可憐的審美和認知傳播給了全部人，又沒有審美觀又沒有正確的歷史觀念 https://t.co/tgvBNWj4kn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2091549925150687664",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1783418005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 291,
+          "like_count": 11495,
+          "listed_count": 0,
+          "media_count": 786,
+          "tweet_count": 5222
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-16T22:04:38.000Z",
+        "description": "fxxk everyone I hate everyone Everyone should be killed",
+        "id": "1691933896559214593",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091543339036524655",
+        "name": "一切只為暗無天日",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691933896559214593/1786038147",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088505254434533376/buIJX3Er_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 207,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 96,
+          "tweet_count": 853
+        },
+        "url": "",
+        "username": "demo37237",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

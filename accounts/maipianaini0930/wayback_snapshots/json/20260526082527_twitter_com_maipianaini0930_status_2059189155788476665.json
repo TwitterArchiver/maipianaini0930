@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2059189155788476665",
+    "created_at": "2026-05-26T08:25:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:25:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059189155788476665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fanjfao/status…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/fanjfao/status/2058978624028500180",
+          "start": 6,
+          "url": "https://t.co/fPFvFQ0G2o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059189155788476665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058978624028500180",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你给我寄？ https://t.co/fPFvFQ0G2o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059189155788476665",
+        "created_at": "2026-05-26T08:25:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:25:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059189155788476665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fanjfao/status…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/fanjfao/status/2058978624028500180",
+              "start": 6,
+              "url": "https://t.co/fPFvFQ0G2o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059189155788476665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058978624028500180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你给我寄？ https://t.co/fPFvFQ0G2o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2056015134812946432",
+        "conversation_id": "2058943299432644757",
+        "created_at": "2026-05-25T18:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T19:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058978624028500180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058978624028500180",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058943299432644757",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 吸点麻子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 281,
+          "like_count": 9747,
+          "listed_count": 2,
+          "media_count": 620,
+          "tweet_count": 4076
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-17T14:14:10.000Z",
+        "description": "",
+        "id": "2056015134812946432",
+        "name": "Fan",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 3,
+          "like_count": 39,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 19
+        },
+        "username": "Fanjfao",
+        "verified": false
+      }
+    ]
+  }
+}

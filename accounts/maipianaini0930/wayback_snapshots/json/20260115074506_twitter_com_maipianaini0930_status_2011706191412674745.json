@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2011402818880704532",
+    "created_at": "2026-01-15T07:45:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-15T08:45:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2011706191412674745"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1404062958586576898",
+          "start": 0,
+          "username": "ytlsy_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2011706191412674745",
+    "in_reply_to_user_id": "1404062958586576898",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011402818880704532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ytlsy_ 我们的live太温良含蓄了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2011402818880704532",
+        "created_at": "2026-01-15T07:45:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T08:45:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2011706191412674745"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1404062958586576898",
+              "start": 0,
+              "username": "ytlsy_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011706191412674745",
+        "in_reply_to_user_id": "1404062958586576898",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011402818880704532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ytlsy_ 我们的live太温良含蓄了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1404062958586576898",
+        "conversation_id": "2011402818880704532",
+        "created_at": "2026-01-14T11:39:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-14T12:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011402818880704532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2011402818880704532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每次到欧美乐队的现场都被观众吓死"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006274810918363138/El07gvs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 193,
+          "like_count": 2960,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 973
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-13T13:07:58.000Z",
+        "description": "世のエスエムプレイを終わらせる為に現れた、純真なる天使。",
+        "id": "1404062958586576898",
+        "location": "ベルセウスの空",
+        "name": "Aいいねーtreema",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005657380747702272/jNLzUejz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 1291,
+          "like_count": 14553,
+          "listed_count": 3,
+          "media_count": 288,
+          "tweet_count": 2741
+        },
+        "username": "ytlsy_",
+        "verified": false
+      }
+    ]
+  }
+}

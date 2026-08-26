@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2045462110331904131",
+    "created_at": "2026-04-18T11:21:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T12:21:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045462748067409940"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1902891477556137987",
+          "start": 0,
+          "username": "chisetu_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045462748067409940",
+    "in_reply_to_user_id": "1902891477556137987",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045462110331904131",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chisetu_ 发一张你的照片给我看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2045462110331904131",
+        "created_at": "2026-04-18T11:21:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:21:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045462748067409940"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1902891477556137987",
+              "start": 0,
+              "username": "chisetu_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045462748067409940",
+        "in_reply_to_user_id": "1902891477556137987",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045462110331904131",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chisetu_ 发一张你的照片给我看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1902891477556137987",
+        "conversation_id": "2045462110331904131",
+        "created_at": "2026-04-18T11:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045462110331904131"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045462110331904131",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "はーやだやだ。嫌いな奴全員殺して二度と行かない山奥に捨てて、好きな奴全員殺して冷蔵庫に詰めたい"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2043643748257788371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 264,
+          "like_count": 8319,
+          "listed_count": 1,
+          "media_count": 507,
+          "tweet_count": 3194
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-21T01:14:26.000Z",
+        "description": "うるさい人で\n\n大日本スクワット教教徒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/chisetu_",
+                "end": 23,
+                "expanded_url": "https://lit.link/chisetu_",
+                "start": 0,
+                "url": "https://t.co/yUFz5Xi359"
+              }
+            ]
+          }
+        },
+        "id": "1902891477556137987",
+        "location": "イカ焼きの中",
+        "name": "稚夢",
+        "pinned_tweet_id": "2042102980028330370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013818920797642789/cFRna2WX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 116,
+          "like_count": 37682,
+          "listed_count": 0,
+          "media_count": 2365,
+          "tweet_count": 22673
+        },
+        "url": "https://t.co/yUFz5Xi359",
+        "username": "chisetu_",
+        "verified": false
+      }
+    ]
+  }
+}

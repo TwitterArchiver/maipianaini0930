@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2048329096892174494",
+    "created_at": "2026-04-26T09:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T10:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048330600449552644"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2048330600449552644",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048329096892174494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然现在已经困扰不到我了，但有其他症状例如囤积（各种票据：电影票，结完账的账单，凡是我认为有纪念意义的东西都舍不得扔、酒瓶子，烟盒）\n\n还有对卫生标准的苛求，达不到就彻底摆烂：不洗澡不换衣服不洗手垃圾不扔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2048329096892174494",
+        "created_at": "2026-04-26T09:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048330600449552644"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048330600449552644",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048329096892174494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然现在已经困扰不到我了，但有其他症状例如囤积（各种票据：电影票，结完账的账单，凡是我认为有纪念意义的东西都舍不得扔、酒瓶子，烟盒）\n\n还有对卫生标准的苛求，达不到就彻底摆烂：不洗澡不换衣服不洗手垃圾不扔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2048329096892174494",
+        "created_at": "2026-04-26T09:11:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T10:11:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048329096892174494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0twt012/status…",
+              "end": 75,
+              "expanded_url": "https://twitter.com/0twt012/status/2048144150378508414",
+              "start": 52,
+              "url": "https://t.co/aQ8I5sZCmW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048329096892174494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048144150378508414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bullshit，强迫倾向在我幼儿园的时候就出现了，我必须用固定的餐具吃饭，如果不是我就会惊恐然后拒食 https://t.co/aQ8I5sZCmW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 287,
+          "like_count": 8940,
+          "listed_count": 1,
+          "media_count": 544,
+          "tweet_count": 3446
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

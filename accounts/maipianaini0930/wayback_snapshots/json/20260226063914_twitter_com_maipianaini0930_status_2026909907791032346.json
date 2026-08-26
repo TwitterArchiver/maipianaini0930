@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026907346396655799",
+    "created_at": "2026-02-26T06:39:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T07:39:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026909907791032346"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2026909907791032346",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026908693988782338",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下面该说我是为何被送进去的，是一次冲动的极端体验：我吞了一些苯海索和普瑞巴林，然后喝朗姆酒。我只记得自己突然变得很惊恐，觉得很多警察在追我，我只换了一只鞋便冲了出去。后来据说我打了车，在第二天下午就被送进去了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026907346396655799",
+        "created_at": "2026-02-26T06:39:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:39:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026909907791032346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026909907791032346",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026908693988782338",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下面该说我是为何被送进去的，是一次冲动的极端体验：我吞了一些苯海索和普瑞巴林，然后喝朗姆酒。我只记得自己突然变得很惊恐，觉得很多警察在追我，我只换了一只鞋便冲了出去。后来据说我打了车，在第二天下午就被送进去了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026907346396655799",
+        "created_at": "2026-02-26T06:34:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T07:34:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026908693988782338"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026908693988782338",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026907346396655799",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有一个长得高高瘦瘦的coser，他因为想出门去见女友被家人拒绝后摔门而去，在一条小巷里徒手打翻了四个辅警，条子认为他暴力倾向严重所以控制住他以后是被铐着送进随家仓的。有一个长睫毛高山根的体育生，身材修长；一个我认为很轻浮的人，一个住院全程没去洗澡的编程男"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 211,
+          "like_count": 4926,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1566
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

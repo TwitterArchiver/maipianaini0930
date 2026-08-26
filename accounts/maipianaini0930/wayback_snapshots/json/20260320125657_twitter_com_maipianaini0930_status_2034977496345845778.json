@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034956036814381354",
+    "created_at": "2026-03-20T12:56:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T13:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034977496345845778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1426513039419867139",
+          "start": 0,
+          "username": "loveliescrushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034977496345845778",
+    "in_reply_to_user_id": "1426513039419867139",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034956036814381354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveliescrushi 一个鬼窟"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034956036814381354",
+        "created_at": "2026-03-20T12:56:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T13:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034977496345845778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1426513039419867139",
+              "start": 0,
+              "username": "loveliescrushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034977496345845778",
+        "in_reply_to_user_id": "1426513039419867139",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034956036814381354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveliescrushi 一个鬼窟"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1426513039419867139",
+        "conversation_id": "2034956036814381354",
+        "created_at": "2026-03-20T11:31:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T12:31:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034956036814381354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2034956036814381354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不要进南京脑科医院"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 240,
+          "like_count": 6348,
+          "listed_count": 0,
+          "media_count": 376,
+          "tweet_count": 2329
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-08-14T11:56:38.000Z",
+        "description": "歌词本",
+        "id": "1426513039419867139",
+        "location": "LakeCityQuietPills",
+        "name": "萨拉热窝的Haerin和Hanni",
+        "pinned_tweet_id": "1924808064638844970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977809874609487872/9rPezylN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 562,
+          "like_count": 13706,
+          "listed_count": 5,
+          "media_count": 254,
+          "tweet_count": 3651
+        },
+        "username": "loveliescrushi",
+        "verified": false
+      }
+    ]
+  }
+}

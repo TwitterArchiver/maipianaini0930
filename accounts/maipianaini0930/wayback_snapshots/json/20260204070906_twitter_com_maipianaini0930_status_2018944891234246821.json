@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2018869130930409777",
+    "created_at": "2026-02-04T07:09:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T08:09:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018944891234246821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1345332631429287936",
+          "start": 0,
+          "username": "omo0903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018944891234246821",
+    "in_reply_to_user_id": "1345332631429287936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018869130930409777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@omo0903 确实，切换梯子的节点还会变着说不同的语言"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2018869128841551873",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAR2xriaYAEBKpC.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2018869130930409777",
+        "created_at": "2026-02-04T07:09:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T08:09:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018944891234246821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1345332631429287936",
+              "start": 0,
+              "username": "omo0903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018944891234246821",
+        "in_reply_to_user_id": "1345332631429287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018869130930409777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@omo0903 确实，切换梯子的节点还会变着说不同的语言"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018869128841551873"
+          ]
+        },
+        "author_id": "1345332631429287936",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "1288826829634035714",
+              "name": "Backstage"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040276669",
+              "name": "Spotify"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196457934370172928",
+              "name": "Music industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405172481590140933",
+              "name": "Music streaming service"
+            }
+          }
+        ],
+        "conversation_id": "2018869130930409777",
+        "created_at": "2026-02-04T02:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T03:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018869130930409777"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KZSGwSdnFl",
+              "end": 98,
+              "expanded_url": "https://x.com/omo0903/status/2018869130930409777/photo/1",
+              "media_key": "3_2018869128841551873",
+              "start": 75,
+              "url": "https://t.co/KZSGwSdnFl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018869130930409777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "幹你娘spotify真的爛死了，音樂一直給我放不認識的藝人就算了，還要聽30秒不能略過的廣告\n狗才用spotify，我要回去聽我的yt music了 https://t.co/KZSGwSdnFl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 216,
+          "like_count": 3740,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1149
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-02T11:34:37.000Z",
+        "description": "可以叫我歐姆\n重鬱/中焦/ADD/解離/恐慌/自殺未遂\n宣傳下Be real （可以知道我每天在幹嘛）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bere.al/omo0903",
+                "end": 23,
+                "expanded_url": "http://bere.al/omo0903",
+                "start": 0,
+                "url": "https://t.co/QHNnczRWpU"
+              }
+            ]
+          }
+        },
+        "id": "1345332631429287936",
+        "location": "Taipei City, Taiwan",
+        "name": "？（回推ver.)",
+        "pinned_tweet_id": "1971149103989137451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007741363388121088/9Nm0AvLK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 936,
+          "like_count": 58537,
+          "listed_count": 7,
+          "media_count": 647,
+          "tweet_count": 3006
+        },
+        "url": "https://t.co/QHNnczRWpU",
+        "username": "omo0903",
+        "verified": false
+      }
+    ]
+  }
+}

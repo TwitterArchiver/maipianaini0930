@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2048691752647983211",
+    "created_at": "2026-04-27T13:11:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:11:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048751908417151335"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1981638054688501760",
+          "start": 0,
+          "username": "ashasw114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048751908417151335",
+    "in_reply_to_user_id": "1981638054688501760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048691752647983211",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw114514 能刷到风魔刀真是猎了大奇了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18148,
+        "height": 956,
+        "media_key": "7_2048691718653194240",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2048691718653194240/pu/img/kiCrx5sKN19iU2jp.jpg",
+        "public_metrics": {
+          "view_count": 362
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048691718653194240/pu/vid/avc1/320x566/L7rZxpjLQkCtNZWJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048691718653194240/pu/vid/avc1/480x848/C-yWsfHvqdxxmm0j.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2048691718653194240/pu/vid/avc1/540x956/aqL5dY5XZ-k2T4HA.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2048691718653194240/pu/pl/HgkcIYOs6_Tco5nl.m3u8"
+          }
+        ],
+        "width": 540
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2048691752647983211",
+        "created_at": "2026-04-27T13:11:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:11:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048751908417151335"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1981638054688501760",
+              "start": 0,
+              "username": "ashasw114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048751908417151335",
+        "in_reply_to_user_id": "1981638054688501760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048691752647983211",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw114514 能刷到风魔刀真是猎了大奇了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2048691718653194240"
+          ]
+        },
+        "author_id": "1981638054688501760",
+        "conversation_id": "2048691752647983211",
+        "created_at": "2026-04-27T09:12:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048691752647983211"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hdUbynAgB8",
+              "end": 23,
+              "expanded_url": "https://x.com/ashasw114514/status/2048691752647983211/video/1",
+              "media_key": "7_2048691718653194240",
+              "start": 0,
+              "url": "https://t.co/hdUbynAgB8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048691752647983211",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 965,
+          "like_count": 19,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/hdUbynAgB8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 329,
+          "following_count": 286,
+          "like_count": 8965,
+          "listed_count": 1,
+          "media_count": 542,
+          "tweet_count": 3424
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-24T08:25:16.000Z",
+        "description": "性少数友好  粉区退散 后现代黑话定型文享受者  此账号一切仇恨言论都是troll  账号存在搬运内容请注意  查成分互fo🚪52 妈妈 @maopao_hfqy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 69,
+                "username": "maopao_hfqy"
+              }
+            ]
+          }
+        },
+        "id": "1981638054688501760",
+        "location": "Toronto, Ontario",
+        "name": "搞耍潮爹",
+        "pinned_tweet_id": "2047635999803809809",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042630733886558212/PjNOs5t0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2219,
+          "following_count": 2139,
+          "like_count": 5804,
+          "listed_count": 6,
+          "media_count": 371,
+          "tweet_count": 3383
+        },
+        "username": "ashasw114514",
+        "verified": true
+      }
+    ]
+  }
+}

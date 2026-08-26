@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2025844205764145283",
+    "created_at": "2026-02-24T02:15:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T03:15:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026118802728239546"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1597427191272603648",
+          "start": 0,
+          "username": "gherojamslava"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026118802728239546",
+    "in_reply_to_user_id": "1597427191272603648",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025844205764145283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gherojamslava 白肚子胖嘟"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2025844163120664577",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0-iHEbEAEQ4U4.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1544,
+        "media_key": "3_2025844187246272514",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB0-jg8aoAI7Ou_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2025844205764145283",
+        "created_at": "2026-02-24T02:15:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:15:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026118802728239546"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1597427191272603648",
+              "start": 0,
+              "username": "gherojamslava"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026118802728239546",
+        "in_reply_to_user_id": "1597427191272603648",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025844205764145283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gherojamslava 白肚子胖嘟"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025844163120664577",
+            "3_2025844187246272514"
+          ]
+        },
+        "author_id": "1597427191272603648",
+        "conversation_id": "2025844205764145283",
+        "created_at": "2026-02-23T08:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T09:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025844205764145283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A2d8LULTOM",
+              "end": 41,
+              "expanded_url": "https://x.com/gherojamslava/status/2025844205764145283/photo/1",
+              "media_key": "3_2025844163120664577",
+              "start": 18,
+              "url": "https://t.co/A2d8LULTOM"
+            },
+            {
+              "display_url": "pic.x.com/A2d8LULTOM",
+              "end": 41,
+              "expanded_url": "https://x.com/gherojamslava/status/2025844205764145283/photo/1",
+              "media_key": "3_2025844187246272514",
+              "start": 18,
+              "url": "https://t.co/A2d8LULTOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025844205764145283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 878,
+          "like_count": 28,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个叫那个什么什么斑鸠来着的好像？ https://t.co/A2d8LULTOM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 211,
+          "like_count": 4687,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1445
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-29T03:08:35.000Z",
+        "description": "语言学爱好者|极左分子|语言权利|革命则自由，自由则多元\n*personnellement, je déteste la langue anglaise",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/sgnikukukyrysk…",
+                "end": 23,
+                "expanded_url": "https://t.me/sgnikukukyrysket",
+                "start": 0,
+                "url": "https://t.co/s7NyjdQM0o"
+              }
+            ]
+          }
+        },
+        "id": "1597427191272603648",
+        "location": "TERRA",
+        "name": "ΣωΑΠλα |そあぷら゚|SoAPla|ሶአፕለ|소압라|सोअप्ल",
+        "pinned_tweet_id": "1852634948232220674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1855112448778682368/uKGJ3wMd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2030,
+          "following_count": 931,
+          "like_count": 159472,
+          "listed_count": 14,
+          "media_count": 793,
+          "tweet_count": 29509
+        },
+        "url": "https://t.co/s7NyjdQM0o",
+        "username": "gherojamslava",
+        "verified": false
+      }
+    ]
+  }
+}

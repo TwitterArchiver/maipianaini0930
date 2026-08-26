@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2051943676008681931",
+    "created_at": "2026-05-06T08:34:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:34:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051943676008681931"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 161,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2051936476360061145",
+          "start": 138,
+          "url": "https://t.co/kPyvnJv6kq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051943676008681931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051936476360061145",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去年12月份的时候在朋友那住了40来天回去，身上只剩9块钱了，用手机里仅有的8块钱买了碗馄饨还得悄咪咪把一元硬币摸回去......但我死要面子就是不在主页挂收款码乞讨。一个朋友转给我150元我用这笔钱更另一个人去溧阳投奔她前妻，在那我邂逅了一段感情.....不过很快就结束了 https://t.co/kPyvnJv6kq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2051943676008681931",
+        "created_at": "2026-05-06T08:34:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:34:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051943676008681931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 161,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2051936476360061145",
+              "start": 138,
+              "url": "https://t.co/kPyvnJv6kq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051943676008681931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051936476360061145",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去年12月份的时候在朋友那住了40来天回去，身上只剩9块钱了，用手机里仅有的8块钱买了碗馄饨还得悄咪咪把一元硬币摸回去......但我死要面子就是不在主页挂收款码乞讨。一个朋友转给我150元我用这笔钱更另一个人去溧阳投奔她前妻，在那我邂逅了一段感情.....不过很快就结束了 https://t.co/kPyvnJv6kq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2051936476360061145",
+        "created_at": "2026-05-06T08:05:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:05:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051936476360061145"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051936476360061145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我他妈差点在南京和溧阳自杀，现在想觉得好火啊，一肚子气"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 274,
+          "like_count": 9158,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 3591
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

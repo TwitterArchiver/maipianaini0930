@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Vaping",
+          "id": "1047109035600764929",
+          "name": "Vaping"
+        }
+      }
+    ],
+    "conversation_id": "2065162792618144025",
+    "created_at": "2026-06-11T20:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T21:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065162792618144025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fathermckennaa…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/fathermckennaa/status/2065077593305649337",
+          "start": 37,
+          "url": "https://t.co/1wNUBlmNho"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065162792618144025",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065077593305649337",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Can you smuggle some to country here https://t.co/1wNUBlmNho"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 259,
+        "media_key": "3_2064988277267169280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhP5bvbAAAdn1k.jpg",
+        "width": 194
+      },
+      {
+        "height": 596,
+        "media_key": "3_2064988277246222336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhP5bqbYAAbCar.jpg",
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2065162792618144025",
+        "created_at": "2026-06-11T20:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T21:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065162792618144025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fathermckennaa…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/fathermckennaa/status/2065077593305649337",
+              "start": 37,
+              "url": "https://t.co/1wNUBlmNho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065162792618144025",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065077593305649337",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Can you smuggle some to country here https://t.co/1wNUBlmNho"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064988277267169280",
+            "3_2064988277246222336"
+          ]
+        },
+        "author_id": "948773565687566336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Vaping",
+              "id": "1047109035600764929",
+              "name": "Vaping"
+            }
+          }
+        ],
+        "conversation_id": "2065077593305649337",
+        "created_at": "2026-06-11T14:24:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:24:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065077593305649337"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wSIWT5IweW",
+              "end": 220,
+              "expanded_url": "https://x.com/FatherMcKennaa/status/2065077593305649337/photo/1",
+              "media_key": "3_2064988277267169280",
+              "start": 197,
+              "url": "https://t.co/wSIWT5IweW"
+            },
+            {
+              "display_url": "pic.x.com/wSIWT5IweW",
+              "end": 220,
+              "expanded_url": "https://x.com/FatherMcKennaa/status/2065077593305649337/photo/1",
+              "media_key": "3_2064988277246222336",
+              "start": 197,
+              "url": "https://t.co/wSIWT5IweW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065077593305649337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 869,
+          "impression_count": 463894,
+          "like_count": 2274,
+          "quote_count": 22,
+          "reply_count": 55,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "A vape ends the most painful condition known to man.\n\nThey call them suicide headaches. One hit of DMT — 3mg, not even enough to get you high — kills an attack in seconds.\n\nIt's a felony to carry. https://t.co/wSIWT5IweW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 430,
+          "following_count": 309,
+          "like_count": 10229,
+          "listed_count": 2,
+          "media_count": 668,
+          "tweet_count": 4454
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2018-01-04T04:30:20.000Z",
+        "description": "9 years microdosing. 4 fire seasons.  I built the psychedelic field guide that should have existed a decade ago.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "stealingfire.live",
+                "end": 23,
+                "expanded_url": "http://stealingfire.live",
+                "start": 0,
+                "url": "https://t.co/4LqG9tvVKU"
+              }
+            ]
+          }
+        },
+        "id": "948773565687566336",
+        "location": "Oregon, USA",
+        "name": "Taylor Sterling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990477405136564224/ANf6w83g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52146,
+          "following_count": 1073,
+          "like_count": 54062,
+          "listed_count": 245,
+          "media_count": 1139,
+          "tweet_count": 6328
+        },
+        "url": "https://t.co/4LqG9tvVKU",
+        "username": "FatherMcKennaa",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026219237422076245",
+    "created_at": "2026-02-24T10:03:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:03:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026236467081875776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1513444882865856516",
+          "start": 0,
+          "username": "thorino10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026236467081875776",
+    "in_reply_to_user_id": "1513444882865856516",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026228405788975523",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@thorino10 可能是1️⃣ 3️⃣吧，确实有被过度干预侵入的经历，所以我很不喜欢别人不告知为我做决定或者不停来看我在干什么"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026219237422076245",
+        "created_at": "2026-02-24T10:03:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:03:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026236467081875776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1513444882865856516",
+              "start": 0,
+              "username": "thorino10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026236467081875776",
+        "in_reply_to_user_id": "1513444882865856516",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026228405788975523",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thorino10 可能是1️⃣ 3️⃣吧，确实有被过度干预侵入的经历，所以我很不喜欢别人不告知为我做决定或者不停来看我在干什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513444882865856516",
+        "conversation_id": "2026219237422076245",
+        "created_at": "2026-02-24T09:31:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T10:31:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026228405788975523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026228405788975523",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026219697524654300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 可能是强迫性洁癖，我也有类似的感觉，所以找了找原因：一它是对自我边界（即自留地）的一种守护，大概曾有被过度侵入或消耗的创伤；二它是内心不安和防御的外显，觉得不干净＝生病＝危险；三它是一种失控的补救，对环境的掌控感可以暂时掩盖内心的失控恐惧，所以我一觉得不对就给家大扫除然后洗澡。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 212,
+          "like_count": 4722,
+          "listed_count": 0,
+          "media_count": 221,
+          "tweet_count": 1476
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:12:57.000Z",
+        "description": "你从不道别，你闷着头往前走，顺手接过命运递到你手上的东西，不管它是什么。",
+        "id": "1513444882865856516",
+        "name": "日内瓦十六夜",
+        "pinned_tweet_id": "1920530931422724192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356427384721408/9V-JtoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6416,
+          "following_count": 445,
+          "like_count": 9322,
+          "listed_count": 19,
+          "media_count": 279,
+          "tweet_count": 3369
+        },
+        "username": "thorino10",
+        "verified": false
+      }
+    ]
+  }
+}

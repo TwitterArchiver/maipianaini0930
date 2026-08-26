@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2016223385672622194",
+    "created_at": "2026-01-27T18:54:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-27T19:54:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2016223385672622194"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 38,
+          "normalized_text": "Weimar",
+          "probability": 0.8756,
+          "start": 33,
+          "type": "Place"
+        },
+        {
+          "end": 50,
+          "normalized_text": "Germany",
+          "probability": 0.9506,
+          "start": 44,
+          "type": "Place"
+        },
+        {
+          "end": 80,
+          "normalized_text": "cocaine",
+          "probability": 0.4966,
+          "start": 74,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "19370504",
+          "start": 3,
+          "username": "AJA_Cortes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2016223385672622194",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 49
+    },
+    "referenced_tweets": [
+      {
+        "id": "1503556874880405504",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AJA_Cortes: Been researching Weimar era Germany, \n\nI had no idea, but cocaine was entirely legal up with prescription during the 1920s…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 380,
+        "media_key": "3_1503556837353955333",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FN20-jYXoAUnOc2.jpg",
+        "width": 277
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2016223385672622194",
+        "created_at": "2026-01-27T18:54:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-27T19:54:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2016223385672622194"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 38,
+              "normalized_text": "Weimar",
+              "probability": 0.8756,
+              "start": 33,
+              "type": "Place"
+            },
+            {
+              "end": 50,
+              "normalized_text": "Germany",
+              "probability": 0.9506,
+              "start": 44,
+              "type": "Place"
+            },
+            {
+              "end": 80,
+              "normalized_text": "cocaine",
+              "probability": 0.4966,
+              "start": 74,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "19370504",
+              "start": 3,
+              "username": "AJA_Cortes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2016223385672622194",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 49
+        },
+        "referenced_tweets": [
+          {
+            "id": "1503556874880405504",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AJA_Cortes: Been researching Weimar era Germany, \n\nI had no idea, but cocaine was entirely legal up with prescription during the 1920s…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1503556837353955333"
+          ]
+        },
+        "author_id": "19370504",
+        "conversation_id": "1503556874880405504",
+        "created_at": "2022-03-15T02:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2022-03-15T02:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1503556874880405504"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Weimar",
+              "probability": 0.8771,
+              "start": 17,
+              "type": "Place"
+            },
+            {
+              "end": 34,
+              "normalized_text": "Germany",
+              "probability": 0.9582,
+              "start": 28,
+              "type": "Place"
+            },
+            {
+              "end": 64,
+              "normalized_text": "cocaine",
+              "probability": 0.5289,
+              "start": 58,
+              "type": "Other"
+            },
+            {
+              "end": 168,
+              "normalized_text": "Berlin",
+              "probability": 0.5227,
+              "start": 163,
+              "type": "Place"
+            },
+            {
+              "end": 197,
+              "normalized_text": "Powder City",
+              "probability": 0.4616,
+              "start": 187,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UJHUxPSdAx",
+              "end": 289,
+              "expanded_url": "https://x.com/AJA_Cortes/status/1503556874880405504/photo/1",
+              "media_key": "3_1503556837353955333",
+              "start": 266,
+              "url": "https://t.co/UJHUxPSdAx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1503556874880405504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 0,
+          "like_count": 419,
+          "quote_count": 6,
+          "reply_count": 39,
+          "retweet_count": 49
+        },
+        "reply_settings": "everyone",
+        "text": "Been researching Weimar era Germany, \n\nI had no idea, but cocaine was entirely legal up with prescription during the 1920s\nThe German market consumed it like mad, Berlin was known as the Powder City\n\nIt was the drug of choice for nightclubs, sex parlors, and orgies https://t.co/UJHUxPSdAx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013475639219585024/EhafFf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 210,
+          "like_count": 3501,
+          "listed_count": 0,
+          "media_count": 173,
+          "tweet_count": 1066
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2009-01-22T23:50:48.000Z",
+        "description": "American Industrialist. Broscientist.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ajac.co",
+                "end": 23,
+                "expanded_url": "https://ajac.co",
+                "start": 0,
+                "url": "https://t.co/9HZPtTfMqe"
+              }
+            ]
+          }
+        },
+        "id": "19370504",
+        "location": "American Shenzen",
+        "name": "AJAC",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869925879998291968/09n_xa_0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237341,
+          "following_count": 1841,
+          "like_count": 349447,
+          "listed_count": 2725,
+          "media_count": 7252,
+          "tweet_count": 107900
+        },
+        "url": "https://t.co/9HZPtTfMqe",
+        "username": "AJA_Cortes",
+        "verified": true
+      }
+    ]
+  }
+}

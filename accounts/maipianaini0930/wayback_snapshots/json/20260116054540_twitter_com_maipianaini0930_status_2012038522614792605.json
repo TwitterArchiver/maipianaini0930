@@ -1,0 +1,647 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Jim Morrison",
+          "id": "993591887104651264",
+          "name": "Jim Morrison"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "description": "Jim Morrison",
+          "id": "993591887104651264",
+          "name": "Jim Morrison"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Jim Morrison",
+          "id": "993591887104651264",
+          "name": "Jim Morrison"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Classic Rock",
+          "id": "1108100469778345984",
+          "name": "Classic rock"
+        }
+      }
+    ],
+    "conversation_id": "2012038522614792605",
+    "created_at": "2026-01-16T05:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-16T06:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2012038522614792605"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "Jim",
+          "probability": 0.5932,
+          "start": 17,
+          "type": "Person"
+        },
+        {
+          "end": 94,
+          "normalized_text": "Saratoga Performing Arts Center",
+          "probability": 0.617,
+          "start": 64,
+          "type": "Other"
+        },
+        {
+          "end": 122,
+          "normalized_text": "Jim",
+          "probability": 0.5709,
+          "start": 120,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1096175703702171649",
+          "start": 3,
+          "username": "JimMorrison"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012038522614792605",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2011830743090004290",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JimMorrison: Jim, letting off some steam.\n\nBackstage at the Saratoga Performing Arts Center on September 1st, 1968, Jim improvised the…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27515,
+        "height": 1920,
+        "media_key": "13_2011798128043966468",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2011798128043966468/img/SNpvfW571Cq4wL0v.jpg",
+        "public_metrics": {
+          "view_count": 2147
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011798128043966468/vid/avc1/720x1280/X3rKgWoeYwfRIcRh.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011798128043966468/vid/avc1/480x852/ztcen98UB8-1FGCY.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011798128043966468/vid/avc1/1080x1920/va0WHyLWKW44ZHwf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2011798128043966468/pl/frTToCOsU1ROrdnW.m3u8?v=543"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2011798128043966468/vid/avc1/320x568/hAZvlgTndM-_CsRs.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2012038522614792605",
+        "created_at": "2026-01-16T05:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-16T06:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2012038522614792605"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "Jim",
+              "probability": 0.5932,
+              "start": 17,
+              "type": "Person"
+            },
+            {
+              "end": 94,
+              "normalized_text": "Saratoga Performing Arts Center",
+              "probability": 0.617,
+              "start": 64,
+              "type": "Other"
+            },
+            {
+              "end": 122,
+              "normalized_text": "Jim",
+              "probability": 0.5709,
+              "start": 120,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1096175703702171649",
+              "start": 3,
+              "username": "JimMorrison"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012038522614792605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2011830743090004290",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JimMorrison: Jim, letting off some steam.\n\nBackstage at the Saratoga Performing Arts Center on September 1st, 1968, Jim improvised the…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2011798128043966468"
+          ]
+        },
+        "author_id": "1096175703702171649",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Jim Morrison",
+              "id": "993591887104651264",
+              "name": "Jim Morrison"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          }
+        ],
+        "conversation_id": "2011830743090004290",
+        "created_at": "2026-01-15T16:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-15T17:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2011830743090004290"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 2,
+              "normalized_text": "Jim",
+              "probability": 0.6103,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 77,
+              "normalized_text": "Saratoga Performing Arts Center",
+              "probability": 0.6135,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 105,
+              "normalized_text": "Jim",
+              "probability": 0.7612,
+              "start": 103,
+              "type": "Person"
+            },
+            {
+              "end": 153,
+              "normalized_text": "Friedrich Nietzsche",
+              "probability": 0.8869,
+              "start": 135,
+              "type": "Person"
+            },
+            {
+              "end": 169,
+              "normalized_text": "JimMorrison",
+              "probability": 0.8254,
+              "start": 159,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 170,
+              "start": 158,
+              "tag": "JimMorrison"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fbgCSFVtYg",
+              "end": 194,
+              "expanded_url": "https://x.com/JimMorrison/status/2011830743090004290/video/1",
+              "media_key": "13_2011798128043966468",
+              "start": 171,
+              "url": "https://t.co/fbgCSFVtYg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2011830743090004290",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4134,
+          "like_count": 244,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "Jim, letting off some steam.\n\nBackstage at the Saratoga Performing Arts Center on September 1st, 1968, Jim improvised the poem “Ode to Friedrich Nietzsche.”\n\n#JimMorrison https://t.co/fbgCSFVtYg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006274810918363138/El07gvs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 196,
+          "like_count": 2963,
+          "listed_count": 0,
+          "media_count": 156,
+          "tweet_count": 980
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2019-02-14T22:33:48.000Z",
+        "description": "The official profile of James Douglas Morrison. Poet. Writer. Singer. Filmmaker. Legend. #JimMorrison",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 89,
+                "tag": "JimMorrison"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jimmorrison.com",
+                "end": 23,
+                "expanded_url": "http://www.jimmorrison.com/",
+                "start": 0,
+                "url": "https://t.co/o86B0M6yuj"
+              }
+            ]
+          }
+        },
+        "id": "1096175703702171649",
+        "name": "Jim Morrison",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1096215756285431808/jC2oaw16_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49530,
+          "following_count": 3,
+          "like_count": 5,
+          "listed_count": 141,
+          "media_count": 997,
+          "tweet_count": 1162
+        },
+        "url": "https://t.co/o86B0M6yuj",
+        "username": "JimMorrison",
+        "verified": true
+      }
+    ]
+  }
+}

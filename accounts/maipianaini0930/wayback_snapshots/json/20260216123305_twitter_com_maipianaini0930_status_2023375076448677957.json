@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2023365893355696370",
+    "created_at": "2026-02-16T12:33:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T13:33:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023375076448677957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1820838373512359936",
+          "start": 0,
+          "username": "youyou_726"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023375076448677957",
+    "in_reply_to_user_id": "1820838373512359936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023365893355696370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@youyou_726 同乐，悠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2023365893355696370",
+        "created_at": "2026-02-16T12:33:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T13:33:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023375076448677957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1820838373512359936",
+              "start": 0,
+              "username": "youyou_726"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023375076448677957",
+        "in_reply_to_user_id": "1820838373512359936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023365893355696370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@youyou_726 同乐，悠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1820838373512359936",
+        "conversation_id": "2023365893355696370",
+        "created_at": "2026-02-16T11:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T12:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023365893355696370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2023365893355696370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "除夕快乐呀大家"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 202,
+          "like_count": 4250,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1338
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-06T15:04:47.000Z",
+        "description": "🚪88  我很温良找我玩",
+        "id": "1820838373512359936",
+        "name": "悠悠",
+        "pinned_tweet_id": "2007054246567629132",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918287850472341504/Q3vixHP7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4214,
+          "following_count": 122,
+          "like_count": 1601,
+          "listed_count": 6,
+          "media_count": 124,
+          "tweet_count": 1732
+        },
+        "username": "youyou_726",
+        "verified": false
+      }
+    ]
+  }
+}

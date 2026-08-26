@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2069437972756464057",
+    "created_at": "2026-06-24T03:48:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T04:48:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069628643874349565"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1800565324263333888",
+          "start": 0,
+          "username": "cunjian11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069628643874349565",
+    "in_reply_to_user_id": "1800565324263333888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069579591736504709",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cunjian11 不至于不至于"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2069437972756464057",
+        "created_at": "2026-06-24T03:48:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:48:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069628643874349565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1800565324263333888",
+              "start": 0,
+              "username": "cunjian11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069628643874349565",
+        "in_reply_to_user_id": "1800565324263333888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069579591736504709",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cunjian11 不至于不至于"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1800565324263333888",
+        "conversation_id": "2069437972756464057",
+        "created_at": "2026-06-24T00:33:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T01:33:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069579591736504709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069579591736504709",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069437972756464057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 家财万贯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 306,
+          "like_count": 10556,
+          "listed_count": 1,
+          "media_count": 686,
+          "tweet_count": 4571
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-11T16:26:51.000Z",
+        "description": "等待灾难发生",
+        "id": "1800565324263333888",
+        "name": "允悲",
+        "pinned_tweet_id": "2046414158711919084",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044102510798090240/YqfYeeUr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 76,
+          "like_count": 269,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 72
+        },
+        "url": "",
+        "username": "cunjian11",
+        "verified": false
+      }
+    ]
+  }
+}

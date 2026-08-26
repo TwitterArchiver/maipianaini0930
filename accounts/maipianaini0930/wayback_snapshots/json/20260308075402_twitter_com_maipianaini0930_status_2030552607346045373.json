@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2030310491458035888",
+    "created_at": "2026-03-08T07:54:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T08:54:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030552607346045373"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1514278065022509056",
+          "start": 0,
+          "username": "bbrty_c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030552607346045373",
+    "in_reply_to_user_id": "1514278065022509056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030310491458035888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bbrty_c 像一颗鹅卵石"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030310487465091072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC0coZ0bYAAtVFf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2030310491458035888",
+        "created_at": "2026-03-08T07:54:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T08:54:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030552607346045373"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1514278065022509056",
+              "start": 0,
+              "username": "bbrty_c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030552607346045373",
+        "in_reply_to_user_id": "1514278065022509056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030310491458035888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbrty_c 像一颗鹅卵石"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030310487465091072"
+          ]
+        },
+        "author_id": "1514278065022509056",
+        "conversation_id": "2030310491458035888",
+        "created_at": "2026-03-07T15:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T16:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030310491458035888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KV49caF4rO",
+              "end": 138,
+              "expanded_url": "https://x.com/bbrty_c/status/2030310491458035888/photo/1",
+              "media_key": "3_2030310487465091072",
+              "start": 115,
+              "url": "https://t.co/KV49caF4rO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030310491458035888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2231,
+          "like_count": 183,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "芬迪是辗转了三手到我家，算我0元购的小猫，所以我并不知道芬迪的具体生日，只能大概知道在5月头他到我家的时候大概两三个月，于是我决定他作为妇女爱宠3月8日就是他的生日，所以祝芬迪小宝8岁生日快乐🎂\n惟愿孩儿愚且鲁，无灾无难到公卿😧 https://t.co/KV49caF4rO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 214,
+          "like_count": 5625,
+          "listed_count": 0,
+          "media_count": 284,
+          "tweet_count": 1793
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-13T16:23:32.000Z",
+        "description": "网络话唠，每天小嘴叭叭没完，喜欢香港，喜欢粤语歌，其实好听的歌都喜欢，但是好听的歌是一件很主观的事情。理论上的美食家，烹饪水平不稳定。粉红直接B，不爱网络吵架，爹味留言随机B。🌈friendly",
+        "id": "1514278065022509056",
+        "name": "贝贝糖（人间观察中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006238395174141952/OeiWiAo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 325,
+          "like_count": 8895,
+          "listed_count": 2,
+          "media_count": 776,
+          "tweet_count": 10105
+        },
+        "username": "bbrty_c",
+        "verified": false
+      }
+    ]
+  }
+}

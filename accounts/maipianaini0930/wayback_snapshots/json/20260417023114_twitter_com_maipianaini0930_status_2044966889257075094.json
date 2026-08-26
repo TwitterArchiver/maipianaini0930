@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044812720868835328"
+      ],
+      "media_source_tweet_id": [
+        "2044812782860702164"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2044966889257075094",
+    "created_at": "2026-04-17T02:31:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T03:31:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044966889257075094"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1216355834726363136",
+          "start": 3,
+          "username": "Schnitzel63"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/fixbEN1HvO",
+          "end": 75,
+          "expanded_url": "https://x.com/Schnitzel63/status/2044812782860702164/video/1",
+          "media_key": "7_2044812720868835328",
+          "start": 52,
+          "url": "https://t.co/fixbEN1HvO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044966889257075094",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 268
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044812782860702164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Schnitzel63: Sid Vicious  - Take a chance on me https://t.co/fixbEN1HvO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 127859,
+        "height": 360,
+        "media_key": "7_2044812720868835328",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044812720868835328/pu/img/FFYW7xuGRJWWGaAR.jpg",
+        "public_metrics": {
+          "view_count": 71253
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044812720868835328/pu/vid/avc1/360x270/OI959k-Nb1diWRYH.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044812720868835328/pu/vid/avc1/480x360/TQc1Cy22H-r68VRs.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044812720868835328/pu/pl/KnyNESYwDLMYa5qq.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044812720868835328"
+          ],
+          "media_source_tweet_id": [
+            "2044812782860702164"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2044966889257075094",
+        "created_at": "2026-04-17T02:31:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T03:31:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044966889257075094"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1216355834726363136",
+              "start": 3,
+              "username": "Schnitzel63"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fixbEN1HvO",
+              "end": 75,
+              "expanded_url": "https://x.com/Schnitzel63/status/2044812782860702164/video/1",
+              "media_key": "7_2044812720868835328",
+              "start": 52,
+              "url": "https://t.co/fixbEN1HvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044966889257075094",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 268
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044812782860702164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Schnitzel63: Sid Vicious  - Take a chance on me https://t.co/fixbEN1HvO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044812720868835328"
+          ]
+        },
+        "author_id": "1216355834726363136",
+        "conversation_id": "2044812782860702164",
+        "created_at": "2026-04-16T16:18:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T17:18:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044812782860702164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fixbEN1HvO",
+              "end": 58,
+              "expanded_url": "https://x.com/Schnitzel63/status/2044812782860702164/video/1",
+              "media_key": "7_2044812720868835328",
+              "start": 35,
+              "url": "https://t.co/fixbEN1HvO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044812782860702164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 609,
+          "impression_count": 157040,
+          "like_count": 2323,
+          "quote_count": 30,
+          "reply_count": 47,
+          "retweet_count": 268
+        },
+        "reply_settings": "everyone",
+        "text": "Sid Vicious  - Take a chance on me https://t.co/fixbEN1HvO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2043643748257788371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042507935562268673/lzSzazIQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 263,
+          "like_count": 8211,
+          "listed_count": 1,
+          "media_count": 483,
+          "tweet_count": 3127
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-12T13:46:58.000Z",
+        "description": "Punk Rock veteran since late 70's.",
+        "id": "1216355834726363136",
+        "location": "Dortmund, Germany",
+        "name": "Schnitzel",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1216427332518469632/ymhmvuIl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47706,
+          "following_count": 1633,
+          "like_count": 65605,
+          "listed_count": 171,
+          "media_count": 16540,
+          "tweet_count": 36411
+        },
+        "username": "Schnitzel63",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039255144148455487",
+    "created_at": "2026-04-01T08:14:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T09:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039255144148455487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1722014154322575360",
+          "start": 3,
+          "username": "BasilTheGreat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039255144148455487",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10682
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038970830806208797",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BasilTheGreat: 🚨🇮🇪 BREAKING: An armed group declaring themselves as the 'NEW REPUBLICAN MOVEMENT' have issued a WARNING to Irish Politi…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 55217,
+        "height": 364,
+        "media_key": "13_2038970203355443200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2038970203355443200/img/QeFCsl3N0iPw645V.jpg",
+        "public_metrics": {
+          "view_count": 2355793
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038970203355443200/vid/avc1/474x270/-1IJ--5bvsiGBO8u.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2038970203355443200/vid/avc1/640x364/8lAOG87oS60deUWc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2038970203355443200/pl/0KWn4iF-AMUcJqYv.m3u8?v=4b3"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039255144148455487",
+        "created_at": "2026-04-01T08:14:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T09:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039255144148455487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1722014154322575360",
+              "start": 3,
+              "username": "BasilTheGreat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039255144148455487",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10682
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038970830806208797",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BasilTheGreat: 🚨🇮🇪 BREAKING: An armed group declaring themselves as the 'NEW REPUBLICAN MOVEMENT' have issued a WARNING to Irish Politi…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2038970203355443200"
+          ]
+        },
+        "author_id": "1722014154322575360",
+        "conversation_id": "2038970830806208797",
+        "created_at": "2026-03-31T13:25:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:25:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038970830806208797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ODvCOtYATh",
+              "end": 299,
+              "expanded_url": "https://x.com/BasilTheGreat/status/2038970830806208797/video/1",
+              "media_key": "13_2038970203355443200",
+              "start": 276,
+              "url": "https://t.co/ODvCOtYATh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038970830806208797",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨🇮🇪 BREAKING: An armed group declaring themselves as the 'NEW REPUBLICAN MOVEMENT' have issued a WARNING to Irish Politicians\n\n\"You have FLOODED our communities with MILITARY AGE MEN\"\n\n\"We will not sit back and watch our culture and religion DESTROYED by the people we put in power\"\n\nThings are only going to get worse"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5698,
+          "impression_count": 5256470,
+          "like_count": 70278,
+          "quote_count": 1228,
+          "reply_count": 3621,
+          "retweet_count": 10682
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🇮🇪 BREAKING: An armed group declaring themselves as the 'NEW REPUBLICAN MOVEMENT' have issued a WARNING to Irish Politicians\n\n\"You have FLOODED our communities with MILITARY AGE MEN\"\n\n\"We will not sit back and watch our culture and religion DESTROYED by the people we put in https://t.co/ODvCOtYATh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 241,
+          "like_count": 7250,
+          "listed_count": 0,
+          "media_count": 451,
+          "tweet_count": 2738
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T22:12:31.000Z",
+        "description": "--//-- Restore Britain --//--\n\nDM for submissions/credit/deletion",
+        "id": "1722014154322575360",
+        "name": "Basil the Great",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870853024798715904/f7G0cKa9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300133,
+          "following_count": 4976,
+          "like_count": 108311,
+          "listed_count": 935,
+          "media_count": 25773,
+          "tweet_count": 63516
+        },
+        "username": "BasilTheGreat",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040334481559855256",
+    "created_at": "2026-04-04T08:01:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T09:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040339003191476234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770978896457998336",
+          "start": 0,
+          "username": "gloodybore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040339003191476234",
+    "in_reply_to_user_id": "1770978896457998336",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040338506451431817",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gloodybore wow!u can show of now bro"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040334481559855256",
+        "created_at": "2026-04-04T08:01:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T09:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040339003191476234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770978896457998336",
+              "start": 0,
+              "username": "gloodybore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040339003191476234",
+        "in_reply_to_user_id": "1770978896457998336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040338506451431817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gloodybore wow!u can show of now bro"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1770978896457998336",
+        "conversation_id": "2040334481559855256",
+        "created_at": "2026-04-04T07:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T08:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040338506451431817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040338506451431817",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040338298821124190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 yeah he died on my birthday"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 251,
+          "like_count": 7555,
+          "listed_count": 0,
+          "media_count": 433,
+          "tweet_count": 2881
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-22T01:01:05.000Z",
+        "description": "Stupid emoviolence fuck | Read strawpage before following | My name is Janaan | DMs open",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "breakcorebloodparty.straw.page",
+                "end": 23,
+                "expanded_url": "https://breakcorebloodparty.straw.page/",
+                "start": 0,
+                "url": "https://t.co/IntEG2GQRj"
+              }
+            ]
+          }
+        },
+        "id": "1770978896457998336",
+        "location": "im a girl",
+        "name": "disgusting insomniac",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033388872114065408/Rdis_eK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 599,
+          "like_count": 34906,
+          "listed_count": 8,
+          "media_count": 1359,
+          "tweet_count": 22191
+        },
+        "url": "https://t.co/IntEG2GQRj",
+        "username": "gloodybore",
+        "verified": false
+      }
+    ]
+  }
+}

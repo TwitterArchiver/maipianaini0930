@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2018598105890111707",
+    "created_at": "2026-02-04T11:36:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T12:36:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019012218147504329"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1949596745056538624",
+          "start": 0,
+          "username": "ruter_eva"
+        },
+        {
+          "end": 23,
+          "id": "2017666574917025792",
+          "start": 11,
+          "username": "takapidayo_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019012218147504329",
+    "in_reply_to_user_id": "1949596745056538624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019003907050258541",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruter_eva @takapidayo_ 规则就是用来打破的，我不觉得这种毫无意义的规则值得遵守，清教徒式的规则🖕🏻🤓🖕🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2018598105890111707",
+        "created_at": "2026-02-04T11:36:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:36:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019012218147504329"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1949596745056538624",
+              "start": 0,
+              "username": "ruter_eva"
+            },
+            {
+              "end": 23,
+              "id": "2017666574917025792",
+              "start": 11,
+              "username": "takapidayo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019012218147504329",
+        "in_reply_to_user_id": "1949596745056538624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019003907050258541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruter_eva @takapidayo_ 规则就是用来打破的，我不觉得这种毫无意义的规则值得遵守，清教徒式的规则🖕🏻🤓🖕🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1949596745056538624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2018598105890111707",
+        "created_at": "2026-02-04T11:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T12:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019003907050258541"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 31,
+              "normalized_text": "日本",
+              "probability": 0.7534,
+              "start": 30,
+              "type": "Place"
+            },
+            {
+              "end": 35,
+              "normalized_text": "日本",
+              "probability": 0.7266,
+              "start": 34,
+              "type": "Place"
+            },
+            {
+              "end": 85,
+              "normalized_text": "日本",
+              "probability": 0.6908,
+              "start": 84,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            },
+            {
+              "end": 29,
+              "id": "2017666574917025792",
+              "start": 17,
+              "username": "takapidayo_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019003907050258541",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018999500267041081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 @takapidayo_ 日本には日本のルールや規則があるのよ\nおわかり？\n\nルールや規則を破りSNSにUPするという愚行\nそれが今の日本でどれだけのリスクなのかわからないのは危機管理能力がないに等しいだろ\n同じ事例も多くて学習能力もないって言ってるの\n🖕←おまえからやってきたからお返しな"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 217,
+          "like_count": 3779,
+          "listed_count": 0,
+          "media_count": 183,
+          "tweet_count": 1163
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-27T22:25:13.000Z",
+        "description": "",
+        "id": "1949596745056538624",
+        "name": "ルター",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000934248174510084/6Ok3S6PY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 46,
+          "like_count": 753,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 993
+        },
+        "username": "ruter_eva",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-31T18:29:41.000Z",
+        "description": "@108takapi_new のサブアカウント！いじめ問題・迷惑行為など取り上げます。いじめ暴行撲滅！迷惑行為撲滅！リークや情報提供はDMまで！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "108takapi_new"
+              }
+            ]
+          }
+        },
+        "id": "2017666574917025792",
+        "location": "海外スイス🇨🇭",
+        "name": "たかぴと申します",
+        "pinned_tweet_id": "2017849054617866248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018520536469716992/bYyNDvIA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 736,
+          "following_count": 123,
+          "like_count": 163,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 125
+        },
+        "username": "takapidayo_",
+        "verified": true
+      }
+    ]
+  }
+}

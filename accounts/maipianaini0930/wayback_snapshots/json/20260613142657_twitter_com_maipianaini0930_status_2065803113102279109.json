@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2065799028470923737",
+    "created_at": "2026-06-13T14:26:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T15:26:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065803113102279109"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2065803113102279109",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065801969076420723",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下次我要参考赫胥黎那样录音，把场景和想到的东西全说出来，因为不论打字还是握笔都比较困难，往往是多段事物同时出现"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2065799028470923737",
+        "created_at": "2026-06-13T14:26:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065803113102279109"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065803113102279109",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065801969076420723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下次我要参考赫胥黎那样录音，把场景和想到的东西全说出来，因为不论打字还是握笔都比较困难，往往是多段事物同时出现"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2065799028470923737",
+        "created_at": "2026-06-13T14:22:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T15:22:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065801969076420723"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065801969076420723",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065799028470923737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "后半段就很诡异，怕黑暗的楼道把我吸走所以不敢出去抽烟又乐呵呵的咯咯笑；觉得在玩捉迷藏大赛干什么都会放低动静，但去哪都要开灯又随手关掉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 301,
+          "like_count": 10247,
+          "listed_count": 2,
+          "media_count": 670,
+          "tweet_count": 4469
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

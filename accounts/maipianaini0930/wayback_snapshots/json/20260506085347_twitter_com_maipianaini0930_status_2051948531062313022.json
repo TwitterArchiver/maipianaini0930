@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2051948531062313022",
+    "created_at": "2026-05-06T08:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T09:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051948531062313022"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2051948531062313022",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我必须审慎考虑戒酒的事情了，目前的情况就是逢喝必醉，逢醉必闹。酒精让我失去了友谊、钱、还有健康；主要我觉得喝酒越发没意思了，除了短暂逃避一下我还可以尝尝不同牌子的酒味道有啥区别，但都被我尝差不多了。我决定立刻开始戒酒"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2051948531062313022",
+        "created_at": "2026-05-06T08:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T09:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051948531062313022"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051948531062313022",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我必须审慎考虑戒酒的事情了，目前的情况就是逢喝必醉，逢醉必闹。酒精让我失去了友谊、钱、还有健康；主要我觉得喝酒越发没意思了，除了短暂逃避一下我还可以尝尝不同牌子的酒味道有啥区别，但都被我尝差不多了。我决定立刻开始戒酒"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 353,
+          "following_count": 274,
+          "like_count": 9158,
+          "listed_count": 2,
+          "media_count": 571,
+          "tweet_count": 3592
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

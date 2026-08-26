@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2025269468906356837",
+    "created_at": "2026-02-21T18:00:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T19:00:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025269468906356837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1907823563979313152",
+          "start": 3,
+          "username": "Ellaquieresalir"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025269468906356837",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025225630439059709",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ellaquieresalir: 微博上有个很喜欢的博主，不管炸过几个帐号都会关注她。我印象最深刻的就是上海封城时她半夜翻墙骑单车溜圈然后再翻墙回去。\n有酒有烟有朋友和姘头，有喜欢的工作且成绩斐然。头脑性感表达尖锐。湿漉漉的像一条深绿色的蟒蛇，吐着蛇信说着欲望。很迷人很…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2025269468906356837",
+        "created_at": "2026-02-21T18:00:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T19:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025269468906356837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1907823563979313152",
+              "start": 3,
+              "username": "Ellaquieresalir"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025269468906356837",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025225630439059709",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ellaquieresalir: 微博上有个很喜欢的博主，不管炸过几个帐号都会关注她。我印象最深刻的就是上海封城时她半夜翻墙骑单车溜圈然后再翻墙回去。\n有酒有烟有朋友和姘头，有喜欢的工作且成绩斐然。头脑性感表达尖锐。湿漉漉的像一条深绿色的蟒蛇，吐着蛇信说着欲望。很迷人很…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907823563979313152",
+        "conversation_id": "2025225630439059709",
+        "created_at": "2026-02-21T15:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025225630439059709"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2025225630439059709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 8031,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "微博上有个很喜欢的博主，不管炸过几个帐号都会关注她。我印象最深刻的就是上海封城时她半夜翻墙骑单车溜圈然后再翻墙回去。\n有酒有烟有朋友和姘头，有喜欢的工作且成绩斐然。头脑性感表达尖锐。湿漉漉的像一条深绿色的蟒蛇，吐着蛇信说着欲望。很迷人很危险，\n曾经翻她的微博以为我未来也会这样。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 209,
+          "like_count": 4574,
+          "listed_count": 0,
+          "media_count": 212,
+          "tweet_count": 1413
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-03T15:52:45.000Z",
+        "description": "亲爱的，请不要支离破碎。",
+        "id": "1907823563979313152",
+        "location": "🍃",
+        "name": "爱死亡冰塊和熄灭的烟头",
+        "pinned_tweet_id": "1945523552834224287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955360672142807040/BVz7SllG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 148,
+          "like_count": 14186,
+          "listed_count": 2,
+          "media_count": 131,
+          "tweet_count": 2084
+        },
+        "username": "Ellaquieresalir",
+        "verified": false
+      }
+    ]
+  }
+}

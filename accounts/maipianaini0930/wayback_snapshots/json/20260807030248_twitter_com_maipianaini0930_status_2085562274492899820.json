@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2085220703205511387",
+    "created_at": "2026-08-07T03:02:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:02:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085562274492899820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1631887345804013568",
+          "start": 0,
+          "username": "yoru_exe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085562274492899820",
+    "in_reply_to_user_id": "1631887345804013568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085561336856187121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoru_exe 食べられる"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2085220703205511387",
+        "created_at": "2026-08-07T03:02:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:02:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085562274492899820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1631887345804013568",
+              "start": 0,
+              "username": "yoru_exe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085562274492899820",
+        "in_reply_to_user_id": "1631887345804013568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085561336856187121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoru_exe 食べられる"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1631887345804013568",
+        "conversation_id": "2085220703205511387",
+        "created_at": "2026-08-07T02:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085561336856187121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085561336856187121",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085548898354127038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 あるんだそっちにも"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 304,
+          "like_count": 11362,
+          "listed_count": 1,
+          "media_count": 768,
+          "tweet_count": 5165
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-04T05:21:59.000Z",
+        "description": "うるさい人で",
+        "id": "1631887345804013568",
+        "name": "稚夢",
+        "pinned_tweet_id": "2075532358003065307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076934897730727936/shTjtWLy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 92,
+          "like_count": 12874,
+          "listed_count": 0,
+          "media_count": 283,
+          "tweet_count": 4021
+        },
+        "url": "",
+        "username": "yoru_exe",
+        "verified": false
+      }
+    ]
+  }
+}

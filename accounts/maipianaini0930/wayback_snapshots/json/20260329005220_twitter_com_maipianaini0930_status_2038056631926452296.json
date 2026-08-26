@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2038056631926452296",
+    "created_at": "2026-03-29T00:52:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T01:52:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038056631926452296"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ravenxux/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/ravenxux/status/2037790635693056118",
+          "start": 18,
+          "url": "https://t.co/bRZXhiXCom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038056631926452296",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037790635693056118",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "四十岁以上的人就该死，没死也该枪毙 https://t.co/bRZXhiXCom"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2038056631926452296",
+        "created_at": "2026-03-29T00:52:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T01:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038056631926452296"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ravenxux/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/ravenxux/status/2037790635693056118",
+              "start": 18,
+              "url": "https://t.co/bRZXhiXCom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038056631926452296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037790635693056118",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "四十岁以上的人就该死，没死也该枪毙 https://t.co/bRZXhiXCom"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2001714721330991109",
+        "conversation_id": "2037790635693056118",
+        "created_at": "2026-03-28T07:15:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T08:15:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037790635693056118"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037790635693056118",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 98,
+          "impression_count": 327993,
+          "like_count": 2727,
+          "quote_count": 44,
+          "reply_count": 466,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "080910年的未成年真的别玩推 你们可能以为在同龄人都在努力读书的年纪自己却在墙外搞议政搞黄搞男女权很成熟很觉醒吧 其实在我们成年人眼里你们真的又傻又好骗理解能力低下还犟 在脑子和三观都没有发育好的年纪就参与这种讨论 很容易被带偏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 251,
+          "like_count": 7015,
+          "listed_count": 0,
+          "media_count": 430,
+          "tweet_count": 2634
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-18T18:02:42.000Z",
+        "description": "女大学生 这是我的垃圾桶 啥都扔 不约 不聊天 暂时不加好友 骂我惹我会变得倒霉 不接推广",
+        "id": "2001714721330991109",
+        "location": "比奇堡",
+        "name": "Raven",
+        "pinned_tweet_id": "2024917928970215784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001715199091548160/mGxVxuCh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7055,
+          "following_count": 38,
+          "like_count": 3468,
+          "listed_count": 15,
+          "media_count": 127,
+          "tweet_count": 888
+        },
+        "username": "Ravenxux",
+        "verified": false
+      }
+    ]
+  }
+}

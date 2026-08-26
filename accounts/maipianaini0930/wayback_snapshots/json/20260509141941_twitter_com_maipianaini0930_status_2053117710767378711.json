@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      }
+    ],
+    "conversation_id": "2053117710767378711",
+    "created_at": "2026-05-09T14:19:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-09T15:19:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2053117710767378711"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2023719880659517623",
+          "start": 44,
+          "url": "https://t.co/pYdrAe9FaV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053117710767378711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023719880659517623",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "祝这个视频里的所有人，健康快乐，决裂在所难免，控制不了所以还想道句歉。遇到你们我很开心 https://t.co/pYdrAe9FaV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 205600,
+        "height": 1270,
+        "media_key": "13_2023716872999559168",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023716872999559168/img/wuHYytSjf1z-iYWM.jpg",
+        "public_metrics": {
+          "view_count": 396
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023716872999559168/vid/avc1/320x564/teVWfKGjkAllIrPC.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023716872999559168/vid/avc1/480x846/Qeno07t7wwxvwPil.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023716872999559168/vid/avc1/720x1270/wpJb5CkdhFYd4rR5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023716872999559168/pl/TgxH2Tqe3nXyE5Jy.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2053117710767378711",
+        "created_at": "2026-05-09T14:19:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-09T15:19:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053117710767378711"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2023719880659517623",
+              "start": 44,
+              "url": "https://t.co/pYdrAe9FaV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053117710767378711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023719880659517623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "祝这个视频里的所有人，健康快乐，决裂在所难免，控制不了所以还想道句歉。遇到你们我很开心 https://t.co/pYdrAe9FaV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023716872999559168"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2023719880659517623",
+        "created_at": "2026-02-17T11:23:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T12:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023719880659517623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XTeQP6M0xS",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2023719880659517623/video/1",
+              "media_key": "13_2023716872999559168",
+              "start": 0,
+              "url": "https://t.co/XTeQP6M0xS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023719880659517623",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1386,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/XTeQP6M0xS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 278,
+          "like_count": 9220,
+          "listed_count": 2,
+          "media_count": 589,
+          "tweet_count": 3685
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

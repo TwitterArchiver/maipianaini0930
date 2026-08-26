@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2001824345048650233",
+    "created_at": "2025-12-19T14:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T15:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002026900680819089"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1078834368527753216",
+          "start": 0,
+          "username": "partizan_oleg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002026900680819089",
+    "in_reply_to_user_id": "1078834368527753216",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001824345048650233",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@partizan_oleg bullet strikes the helmet‘s head"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2001823488378834945",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8fn20fakAEbwG1.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2001824345048650233",
+        "created_at": "2025-12-19T14:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T15:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002026900680819089"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1078834368527753216",
+              "start": 0,
+              "username": "partizan_oleg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002026900680819089",
+        "in_reply_to_user_id": "1078834368527753216",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001824345048650233",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@partizan_oleg bullet strikes the helmet‘s head"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2001823488378834945"
+          ]
+        },
+        "author_id": "1078834368527753216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "Ongoing News Stories like 'Brexit'",
+              "id": "123",
+              "name": "Ongoing News Story"
+            },
+            "entity": {
+              "id": "1484601166080081920",
+              "name": "Russo-Ukrainian conflict"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1233113060732092416",
+              "name": "Arknights"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897789013393420",
+              "name": "Strategy games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900085583577097",
+              "name": "Idol games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          }
+        ],
+        "conversation_id": "2001824345048650233",
+        "created_at": "2025-12-19T01:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T02:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001824345048650233"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 41,
+              "normalized_text": "Russian Army",
+              "probability": 0.6782,
+              "start": 30,
+              "type": "Organization"
+            },
+            {
+              "end": 86,
+              "normalized_text": "Pokrovsk",
+              "probability": 0.8112,
+              "start": 79,
+              "type": "Place"
+            },
+            {
+              "end": 156,
+              "normalized_text": "Arknights",
+              "probability": 0.5721,
+              "start": 148,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFNhhv2z2B",
+              "end": 287,
+              "expanded_url": "https://x.com/partizan_oleg/status/2001824345048650233/photo/1",
+              "media_key": "3_2001823488378834945",
+              "start": 264,
+              "url": "https://t.co/JFNhhv2z2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001824345048650233",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 756,
+          "impression_count": 152148,
+          "like_count": 4156,
+          "quote_count": 75,
+          "reply_count": 79,
+          "retweet_count": 310
+        },
+        "reply_settings": "everyone",
+        "text": "A Chinese national joined the Russian Army and went lost since November 9 near Pokrovsk. According to his last massages he was carrying this flashy Arknights plate with his avtomat. Is there anyone came across this rifle or its owner on Ukrainian videos? Thanks.🧐 https://t.co/JFNhhv2z2B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 182,
+          "like_count": 2091,
+          "listed_count": 0,
+          "media_count": 116,
+          "tweet_count": 709
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-29T02:05:32.000Z",
+        "description": "游击队员们，祖国和人民在召唤！",
+        "id": "1078834368527753216",
+        "name": "Suyi控",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1522486678623244288/xRep9sDd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11359,
+          "following_count": 1619,
+          "like_count": 6621,
+          "listed_count": 235,
+          "media_count": 1070,
+          "tweet_count": 5300
+        },
+        "username": "partizan_oleg",
+        "verified": false
+      }
+    ]
+  }
+}

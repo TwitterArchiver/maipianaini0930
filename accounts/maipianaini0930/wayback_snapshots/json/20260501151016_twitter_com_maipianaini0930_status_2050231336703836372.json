@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2050231104251232300",
+    "created_at": "2026-05-01T15:10:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T16:10:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050231336703836372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1917890381104271361",
+          "start": 0,
+          "username": "AV1O492"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050231336703836372",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050231104251232300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AV1O492"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1919,
+        "media_key": "3_2050206992103608320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPMZZhbkAAddd4.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 28466,
+        "height": 1280,
+        "media_key": "13_2050230975356088320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2050230975356088320/img/Ug9DNhwpQkyCjL5p.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050230975356088320/vid/avc1/320x568/Pb4gJWFMc2Ba3JVF.mp4?tag=27"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050230975356088320/vid/avc1/480x852/w8hGyFfdVc-L8yB-.mp4?tag=27"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2050230975356088320/vid/avc1/720x1280/YXDWwYqp_A4grG4A.mp4?tag=27"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2050230975356088320/pl/rGpeXEURoS79SY34.m3u8?tag=27"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2050206992095178752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHPMZZfa8AAiAVo.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2050231104251232300",
+        "created_at": "2026-05-01T15:10:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:10:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050231336703836372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1917890381104271361",
+              "start": 0,
+              "username": "AV1O492"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050231336703836372",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050231104251232300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AV1O492"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050206992103608320",
+            "13_2050230975356088320",
+            "3_2050206992095178752"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2050231104251232300",
+        "created_at": "2026-05-01T15:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T16:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050231104251232300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q0kbsNm3Mg",
+              "end": 139,
+              "expanded_url": "https://x.com/maipianaini0930/status/2050231104251232300/video/1",
+              "media_key": "3_2050206992103608320",
+              "start": 116,
+              "url": "https://t.co/Q0kbsNm3Mg"
+            },
+            {
+              "display_url": "pic.x.com/Q0kbsNm3Mg",
+              "end": 139,
+              "expanded_url": "https://x.com/maipianaini0930/status/2050231104251232300/video/1",
+              "media_key": "13_2050230975356088320",
+              "start": 116,
+              "url": "https://t.co/Q0kbsNm3Mg"
+            },
+            {
+              "display_url": "pic.x.com/Q0kbsNm3Mg",
+              "end": 139,
+              "expanded_url": "https://x.com/maipianaini0930/status/2050231104251232300/video/1",
+              "media_key": "3_2050206992095178752",
+              "start": 116,
+              "url": "https://t.co/Q0kbsNm3Mg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050231104251232300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "事情是这样的，我和毒枭四处打劫零元购（美其名曰：进行我们反抗消费主义的行动）发现一个倒闭的酒吧，我咪了几口吧台架子上的波本，还顺走了一个木榔头，到室外我突发奇想要随机挑选一位幸运路人把榔头送给他让毒枭拍视频，下面请看现场带来的报道 https://t.co/Q0kbsNm3Mg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 269,
+          "like_count": 8976,
+          "listed_count": 2,
+          "media_count": 551,
+          "tweet_count": 3455
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-01T10:34:45.000Z",
+        "description": "精神分裂脑子不好吸毒嗑药自残自食异常暴躁一碰就死一点就炸低素质低学历低血糖高血压高耐药高中辍学｜⚠️ #shtwt #drugtwt ⚠️｜我是DizzyRichter可以叫我枭儿｜he/them｜你说我的爱如石滚luvlike rockroll",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 57,
+                "start": 51,
+                "tag": "shtwt"
+              },
+              {
+                "end": 66,
+                "start": 58,
+                "tag": "drugtwt"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "163cn.tv/6bOGA23",
+                "end": 23,
+                "expanded_url": "https://163cn.tv/6bOGA23",
+                "start": 0,
+                "url": "https://t.co/6YOoA2BVID"
+              }
+            ]
+          }
+        },
+        "id": "1917890381104271361",
+        "name": "新中国第一毒枭𝗗𝗶𝘇𝘇𝘆𝟰𝟲𝟮𝟬𝟱𝟴",
+        "pinned_tweet_id": "2048054892980588900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047592059872387072/fc9q0a9t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1178,
+          "following_count": 75,
+          "like_count": 4037,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 1985
+        },
+        "url": "https://t.co/6YOoA2BVID",
+        "username": "AV1O492",
+        "verified": false
+      }
+    ]
+  }
+}

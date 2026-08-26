@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2026187488684036096"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026187499757007268",
+    "created_at": "2026-02-24T06:48:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T07:48:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026187499757007268"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1729363663277187073",
+          "start": 0,
+          "username": "gxhkkk144215"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ctSJp1tO0I",
+          "end": 61,
+          "expanded_url": "https://x.com/maipianaini0930/status/2026187499757007268/photo/1",
+          "media_key": "3_2026187488684036096",
+          "start": 38,
+          "url": "https://t.co/ctSJp1tO0I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026187499757007268",
+    "in_reply_to_user_id": "1729363663277187073",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@gxhkkk144215\n你认识我吗，我从来都不跟喜欢装深沉的做题蛆相处 https://t.co/ctSJp1tO0I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2026187488684036096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB52ySdaUAAaukj.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026187488684036096"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026187499757007268",
+        "created_at": "2026-02-24T06:48:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T07:48:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026187499757007268"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1729363663277187073",
+              "start": 0,
+              "username": "gxhkkk144215"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ctSJp1tO0I",
+              "end": 61,
+              "expanded_url": "https://x.com/maipianaini0930/status/2026187499757007268/photo/1",
+              "media_key": "3_2026187488684036096",
+              "start": 38,
+              "url": "https://t.co/ctSJp1tO0I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026187499757007268",
+        "in_reply_to_user_id": "1729363663277187073",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@gxhkkk144215\n你认识我吗，我从来都不跟喜欢装深沉的做题蛆相处 https://t.co/ctSJp1tO0I"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 211,
+          "like_count": 4705,
+          "listed_count": 0,
+          "media_count": 220,
+          "tweet_count": 1451
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-28T04:56:52.000Z",
+        "description": "时间为何只向固定方向流动",
+        "id": "1729363663277187073",
+        "name": "阿尔加利亚",
+        "pinned_tweet_id": "1738219696963612686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000549810106183680/vgzp6Mn4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 117,
+          "like_count": 15006,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 1245
+        },
+        "username": "gxhkkk144215",
+        "verified": false
+      }
+    ]
+  }
+}

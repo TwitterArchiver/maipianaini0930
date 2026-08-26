@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034164027493126244",
+    "created_at": "2026-03-18T07:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-18T08:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034164027493126244"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/solitude_sola/…",
+          "end": 61,
+          "expanded_url": "https://twitter.com/solitude_sola/status/2034102052704686468",
+          "start": 38,
+          "url": "https://t.co/3CzOYxs4L3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034164027493126244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034102052704686468",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哪天上海南京变成这样我开心还来不及呢，大麻能便宜两倍，南亚菜中东菜也不难找 https://t.co/3CzOYxs4L3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034164027493126244",
+        "created_at": "2026-03-18T07:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T08:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034164027493126244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/solitude_sola/…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/solitude_sola/status/2034102052704686468",
+              "start": 38,
+              "url": "https://t.co/3CzOYxs4L3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034164027493126244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034102052704686468",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哪天上海南京变成这样我开心还来不及呢，大麻能便宜两倍，南亚菜中东菜也不难找 https://t.co/3CzOYxs4L3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "165407871",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "The Beatles",
+              "id": "808383834265817088",
+              "name": "The Beatles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "The Beatles",
+              "id": "808383834265817088",
+              "name": "The Beatles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "The Beatles",
+              "id": "808383834265817088",
+              "name": "The Beatles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Classic Rock",
+              "id": "1108100469778345984",
+              "name": "Classic rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          }
+        ],
+        "conversation_id": "2034102052704686468",
+        "created_at": "2026-03-18T02:58:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T03:58:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034102052704686468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iAnonPatriot/s…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/iAnonPatriot/status/2034042799847272926",
+              "start": 27,
+              "url": "https://t.co/UAhShfpuvC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034102052704686468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 5725,
+          "like_count": 104,
+          "quote_count": 2,
+          "reply_count": 6,
+          "retweet_count": 11
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034042799847272926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讽刺的是，这正是披头士想要的世界。不信你问小野洋子。 https://t.co/UAhShfpuvC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 236,
+          "like_count": 6117,
+          "listed_count": 0,
+          "media_count": 340,
+          "tweet_count": 2113
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2010-07-11T13:41:45.000Z",
+        "description": "守序邪恶 == 真名宿敌\n\n万般皆下品，唯有狞狞高。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Solitude_Sola",
+                "end": 23,
+                "expanded_url": "http://t.me/Solitude_Sola",
+                "start": 0,
+                "url": "https://t.co/bwcOewi77e"
+              }
+            ]
+          }
+        },
+        "id": "165407871",
+        "location": "投身之所",
+        "name": "空空 🌟 狞猫世界第一可爱！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1422573861787209730/RJWO2Gsy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20367,
+          "following_count": 551,
+          "like_count": 561,
+          "listed_count": 126,
+          "media_count": 20945,
+          "tweet_count": 69267
+        },
+        "url": "https://t.co/bwcOewi77e",
+        "username": "Solitude_Sola",
+        "verified": false
+      }
+    ]
+  }
+}

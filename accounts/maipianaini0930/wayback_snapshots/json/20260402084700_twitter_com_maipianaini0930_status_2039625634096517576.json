@@ -1,0 +1,146 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039625634096517576",
+    "created_at": "2026-04-02T08:47:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T09:47:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039625634096517576"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "麦片’s Space · 0 listening · Where live audio conversations happen",
+          "display_url": "x.com/i/spaces/1mxPa…",
+          "end": 23,
+          "expanded_url": "https://x.com/i/spaces/1mxPaLVeOzDKN",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2039625635413524480/aRFaJyGp?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2039625635413524480/aRFaJyGp?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 0,
+          "status": 200,
+          "title": "Happening now: 车尔尼雪夫斯基",
+          "unwound_url": "https://twitter.com/i/spaces/1mxPaLVeOzDKN/peek",
+          "url": "https://t.co/DVcasgeqOc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039625634096517576",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/DVcasgeqOc"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039625634096517576",
+        "created_at": "2026-04-02T08:47:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T09:47:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039625634096517576"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "麦片’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1mxPa…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1mxPaLVeOzDKN",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2039625635413524480/aRFaJyGp?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039625635413524480/aRFaJyGp?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 车尔尼雪夫斯基",
+              "unwound_url": "https://twitter.com/i/spaces/1mxPaLVeOzDKN/peek",
+              "url": "https://t.co/DVcasgeqOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039625634096517576",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/DVcasgeqOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 246,
+          "like_count": 7355,
+          "listed_count": 0,
+          "media_count": 412,
+          "tweet_count": 2740
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

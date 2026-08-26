@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2064651123970244687",
+    "created_at": "2026-06-10T10:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T11:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064651130165149865"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2064651130165149865",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064651123970244687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "扇我"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2203,
+        "media_key": "3_2064651061143695360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcdM3yacAAlndP.jpg",
+        "width": 2833
+      },
+      {
+        "height": 2189,
+        "media_key": "3_2064650986531233792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcdIh1aoAAf5uu.jpg",
+        "width": 3203
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2064650986577436672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcdIiAboAA-eRW.jpg",
+        "width": 3024
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2064650986568941568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKcdIh-aAAApAA4.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2064651123970244687",
+        "created_at": "2026-06-10T10:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064651130165149865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064651130165149865",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064651123970244687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "扇我"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064651061143695360",
+            "3_2064650986531233792",
+            "3_2064650986577436672",
+            "3_2064650986568941568"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2064651123970244687",
+        "created_at": "2026-06-10T10:09:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T11:09:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064651123970244687"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mAJ7BE7rbE",
+              "end": 28,
+              "expanded_url": "https://x.com/maipianaini0930/status/2064651123970244687/photo/1",
+              "media_key": "3_2064651061143695360",
+              "start": 5,
+              "url": "https://t.co/mAJ7BE7rbE"
+            },
+            {
+              "display_url": "pic.x.com/mAJ7BE7rbE",
+              "end": 28,
+              "expanded_url": "https://x.com/maipianaini0930/status/2064651123970244687/photo/1",
+              "media_key": "3_2064650986531233792",
+              "start": 5,
+              "url": "https://t.co/mAJ7BE7rbE"
+            },
+            {
+              "display_url": "pic.x.com/mAJ7BE7rbE",
+              "end": 28,
+              "expanded_url": "https://x.com/maipianaini0930/status/2064651123970244687/photo/1",
+              "media_key": "3_2064650986577436672",
+              "start": 5,
+              "url": "https://t.co/mAJ7BE7rbE"
+            },
+            {
+              "display_url": "pic.x.com/mAJ7BE7rbE",
+              "end": 28,
+              "expanded_url": "https://x.com/maipianaini0930/status/2064651123970244687/photo/1",
+              "media_key": "3_2064650986568941568",
+              "start": 5,
+              "url": "https://t.co/mAJ7BE7rbE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064651123970244687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "分赃大赛 https://t.co/mAJ7BE7rbE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 312,
+          "like_count": 10218,
+          "listed_count": 2,
+          "media_count": 663,
+          "tweet_count": 4419
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

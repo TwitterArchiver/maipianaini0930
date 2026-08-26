@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026120143588544539",
+    "created_at": "2026-02-24T02:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T03:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026120143588544539"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lovelyshuimao/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/lovelyshuimao/status/2025905405088682031",
+          "start": 9,
+          "url": "https://t.co/14iRK383nm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026120143588544539",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025905405088682031",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "凭什么不是免费的 https://t.co/14iRK383nm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1319,
+        "media_key": "3_2025905397253738496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HB12OZ_bEAANyv5.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026120143588544539",
+        "created_at": "2026-02-24T02:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T03:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026120143588544539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lovelyshuimao/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/lovelyshuimao/status/2025905405088682031",
+              "start": 9,
+              "url": "https://t.co/14iRK383nm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026120143588544539",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025905405088682031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "凭什么不是免费的 https://t.co/14iRK383nm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025905397253738496"
+          ]
+        },
+        "author_id": "1748763011140169729",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2025905405088682031",
+        "created_at": "2026-02-23T12:07:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T13:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025905405088682031"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I6VMMhiCJo",
+              "end": 32,
+              "expanded_url": "https://x.com/lovelyshuimao/status/2025905405088682031/photo/1",
+              "media_key": "3_2025905397253738496",
+              "start": 9,
+              "url": "https://t.co/I6VMMhiCJo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025905405088682031",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 102790,
+          "like_count": 339,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "京东骑手餐真不错 https://t.co/I6VMMhiCJo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 211,
+          "like_count": 4689,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 1446
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:42:54.000Z",
+        "description": "INTJ-t ｜永遠14歲｜提問↓｜❤️@saonanaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "saonanaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lovely%E6%B0%B4",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lovely%E6%B0%B4",
+                "start": 0,
+                "url": "https://t.co/EZhyEGspkq"
+              }
+            ]
+          }
+        },
+        "id": "1748763011140169729",
+        "location": "距离你2.1km",
+        "name": "lovely水",
+        "pinned_tweet_id": "2024429136534786207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023831074921738240/frpPaTVT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4865,
+          "following_count": 1045,
+          "like_count": 264,
+          "listed_count": 13,
+          "media_count": 2951,
+          "tweet_count": 13158
+        },
+        "url": "https://t.co/EZhyEGspkq",
+        "username": "lovelyshuimao",
+        "verified": true
+      }
+    ]
+  }
+}

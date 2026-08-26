@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2061355771053674593",
+    "created_at": "2026-06-01T10:08:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T11:08:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061389404082782363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1195909559371456513",
+          "start": 0,
+          "username": "foldandrhizome"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061389404082782363",
+    "in_reply_to_user_id": "1195909559371456513",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061355771053674593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@foldandrhizome 我以为你只听窦唯呢🫢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1385,
+        "media_key": "3_2061355763818516480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJtoJUobUAAykFi.jpg",
+        "width": 837
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2061355771053674593",
+        "created_at": "2026-06-01T10:08:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T11:08:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061389404082782363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1195909559371456513",
+              "start": 0,
+              "username": "foldandrhizome"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061389404082782363",
+        "in_reply_to_user_id": "1195909559371456513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061355771053674593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@foldandrhizome 我以为你只听窦唯呢🫢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061355763818516480"
+          ]
+        },
+        "author_id": "1195909559371456513",
+        "conversation_id": "2061355771053674593",
+        "created_at": "2026-06-01T07:54:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T08:54:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061355771053674593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/azyIuYJ52q",
+              "end": 23,
+              "expanded_url": "https://x.com/foldandrhizome/status/2061355771053674593/photo/1",
+              "media_key": "3_2061355763818516480",
+              "start": 0,
+              "url": "https://t.co/azyIuYJ52q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061355771053674593",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/azyIuYJ52q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 292,
+          "like_count": 9960,
+          "listed_count": 2,
+          "media_count": 640,
+          "tweet_count": 4219
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2019-11-17T03:40:41.000Z",
+        "description": "",
+        "id": "1195909559371456513",
+        "location": "Mille Plateaux ",
+        "name": "mila",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060253655589380096/ubD9s6hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 1306,
+          "like_count": 30657,
+          "listed_count": 1,
+          "media_count": 8974,
+          "tweet_count": 18520
+        },
+        "username": "foldandrhizome",
+        "verified": false
+      }
+    ]
+  }
+}

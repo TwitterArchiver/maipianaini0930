@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079292615711957069",
+    "created_at": "2026-07-21T21:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T22:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079682762353885337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1014472751883563008",
+          "start": 0,
+          "username": "saltyAom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079682762353885337",
+    "in_reply_to_user_id": "1014472751883563008",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079292615711957069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saltyAom iloveu2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079292615711957069",
+        "created_at": "2026-07-21T21:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T22:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079682762353885337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1014472751883563008",
+              "start": 0,
+              "username": "saltyAom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079682762353885337",
+        "in_reply_to_user_id": "1014472751883563008",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079292615711957069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saltyAom iloveu2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1014472751883563008",
+        "conversation_id": "2079292615711957069",
+        "created_at": "2026-07-20T19:49:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T20:49:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079292615711957069"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079292615711957069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 52184,
+          "like_count": 699,
+          "quote_count": 8,
+          "reply_count": 82,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "My Chinese friend taught me this\n\n我爱男娘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 304,
+          "like_count": 11232,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 4960
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2018-07-04T11:35:26.000Z",
+        "description": "Made @elysiaJS. I cosplay, and code. No context, degen, programming, cosplay and occasional jirai-kei. Draw sometimes. See “highlight” for my dress up + cosplay",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "elysiaJS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "saltyaom.com",
+                "end": 23,
+                "expanded_url": "http://saltyaom.com",
+                "start": 0,
+                "url": "https://t.co/DTdpSXErtu"
+              }
+            ]
+          }
+        },
+        "id": "1014472751883563008",
+        "location": "Thailand",
+        "name": "SaltyAom",
+        "pinned_tweet_id": "1939479411201614075",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1542939256561094664/dC7tnzGt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21373,
+          "following_count": 750,
+          "like_count": 80118,
+          "listed_count": 93,
+          "media_count": 8384,
+          "tweet_count": 19964
+        },
+        "url": "https://t.co/DTdpSXErtu",
+        "username": "saltyAom",
+        "verified": true
+      }
+    ]
+  }
+}

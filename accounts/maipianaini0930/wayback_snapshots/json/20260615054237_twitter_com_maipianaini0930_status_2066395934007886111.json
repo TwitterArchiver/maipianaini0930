@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2063845573888004097"
+      ],
+      "media_source_tweet_id": [
+        "2063845585845989427"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2066395934007886111",
+    "created_at": "2026-06-15T05:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T06:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066395934007886111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1889861257",
+          "start": 3,
+          "username": "__summer__sea__"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2bCsnZ4MhE",
+          "end": 126,
+          "expanded_url": "https://x.com/__summer__sea__/status/2063845585845989427/photo/1",
+          "media_key": "3_2063845573888004097",
+          "start": 103,
+          "url": "https://t.co/2bCsnZ4MhE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066395934007886111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 108
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063845585845989427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @__summer__sea__: 转发此贴可以获得我55g普瑞的抽奖机会，我会随机抽取4名转发者每人获得13.75g的普瑞(大约14次od)，邮费药瓶自付，截止到1000名粉丝，封顶转发开始抽奖。 https://t.co/2bCsnZ4MhE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2063845573888004097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKRAnV7bUAEfdO7.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063845573888004097"
+          ],
+          "media_source_tweet_id": [
+            "2063845585845989427"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2066395934007886111",
+        "created_at": "2026-06-15T05:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066395934007886111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1889861257",
+              "start": 3,
+              "username": "__summer__sea__"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bCsnZ4MhE",
+              "end": 126,
+              "expanded_url": "https://x.com/__summer__sea__/status/2063845585845989427/photo/1",
+              "media_key": "3_2063845573888004097",
+              "start": 103,
+              "url": "https://t.co/2bCsnZ4MhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066395934007886111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063845585845989427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @__summer__sea__: 转发此贴可以获得我55g普瑞的抽奖机会，我会随机抽取4名转发者每人获得13.75g的普瑞(大约14次od)，邮费药瓶自付，截止到1000名粉丝，封顶转发开始抽奖。 https://t.co/2bCsnZ4MhE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2063845573888004097"
+          ]
+        },
+        "author_id": "1889861257",
+        "conversation_id": "2063845585845989427",
+        "created_at": "2026-06-08T04:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T05:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063845585845989427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bCsnZ4MhE",
+              "end": 105,
+              "expanded_url": "https://x.com/__summer__sea__/status/2063845585845989427/photo/1",
+              "media_key": "3_2063845573888004097",
+              "start": 82,
+              "url": "https://t.co/2bCsnZ4MhE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063845585845989427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 11259,
+          "like_count": 105,
+          "quote_count": 2,
+          "reply_count": 55,
+          "retweet_count": 108
+        },
+        "reply_settings": "everyone",
+        "text": "转发此贴可以获得我55g普瑞的抽奖机会，我会随机抽取4名转发者每人获得13.75g的普瑞(大约14次od)，邮费药瓶自付，截止到1000名粉丝，封顶转发开始抽奖。 https://t.co/2bCsnZ4MhE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 306,
+          "like_count": 10352,
+          "listed_count": 2,
+          "media_count": 674,
+          "tweet_count": 4514
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-21T11:07:58.000Z",
+        "description": "神户盐｜16岁｜护理专业｜渴望有人能拯救我｜情感淡漠｜家长不管党｜Q:3755457720｜对象:@sklmm_｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 49,
+                "username": "sklmm_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/brentcruz106",
+                "end": 23,
+                "expanded_url": "https://t.me/brentcruz106",
+                "start": 0,
+                "url": "https://t.co/1e7qTaQHLq"
+              }
+            ]
+          }
+        },
+        "id": "1889861257",
+        "name": "盐🍥",
+        "pinned_tweet_id": "2063845585845989427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061179467889074177/WoZoQ9BB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 998,
+          "following_count": 1002,
+          "like_count": 8901,
+          "listed_count": 1,
+          "media_count": 170,
+          "tweet_count": 2820
+        },
+        "url": "https://t.co/1e7qTaQHLq",
+        "username": "__summer__sea__",
+        "verified": false
+      }
+    ]
+  }
+}

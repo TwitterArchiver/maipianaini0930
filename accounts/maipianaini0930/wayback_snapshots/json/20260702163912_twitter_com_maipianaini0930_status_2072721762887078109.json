@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2072668992700072448",
+    "created_at": "2026-07-02T16:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T17:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072721762887078109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2035873731441307648",
+          "start": 0,
+          "username": "Kirakirapicboss"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072721762887078109",
+    "in_reply_to_user_id": "2035873731441307648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072668992700072448",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kirakirapicboss 我手现在也好抖....lsd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2072668992700072448",
+        "created_at": "2026-07-02T16:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T17:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072721762887078109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035873731441307648",
+              "start": 0,
+              "username": "Kirakirapicboss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072721762887078109",
+        "in_reply_to_user_id": "2035873731441307648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072668992700072448",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kirakirapicboss 我手现在也好抖....lsd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035873731441307648",
+        "conversation_id": "2072668992700072448",
+        "created_at": "2026-07-02T13:09:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:09:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072668992700072448"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072668992700072448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我手好抖连拨片都捏不紧了。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2072502086227669473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 304,
+          "like_count": 10702,
+          "listed_count": 1,
+          "media_count": 700,
+          "tweet_count": 4675
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-23T00:28:02.000Z",
+        "description": "ο(=·ω＜=)☆kira",
+        "id": "2035873731441307648",
+        "name": "MafiAnBOSS",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072217723225206784/a3DQBXAE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 37,
+          "following_count": 85,
+          "like_count": 490,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 333
+        },
+        "url": "",
+        "username": "Kirakirapicboss",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061087037793697792",
+        "3_2061087037764386816"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2061087192525705495",
+    "created_at": "2026-05-31T14:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T15:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061087192525705495"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DvPjaOAfrt",
+          "end": 48,
+          "expanded_url": "https://x.com/maipianaini0930/status/2061087192525705495/photo/1",
+          "media_key": "3_2061087037793697792",
+          "start": 25,
+          "url": "https://t.co/DvPjaOAfrt"
+        },
+        {
+          "display_url": "pic.x.com/DvPjaOAfrt",
+          "end": 48,
+          "expanded_url": "https://x.com/maipianaini0930/status/2061087192525705495/photo/1",
+          "media_key": "3_2061087037764386816",
+          "start": 25,
+          "url": "https://t.co/DvPjaOAfrt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061087192525705495",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一个旧的木抽斗，我现在用它放毒品#drugtwt https://t.co/DvPjaOAfrt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3888,
+        "media_key": "3_2061087037793697792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpzvaLbAAA85cn.jpg",
+        "width": 2835
+      },
+      {
+        "height": 3781,
+        "media_key": "3_2061087037764386816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpzvaEbwAAhGMH.jpg",
+        "width": 2965
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061087037793697792",
+            "3_2061087037764386816"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2061087192525705495",
+        "created_at": "2026-05-31T14:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T15:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061087192525705495"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DvPjaOAfrt",
+              "end": 48,
+              "expanded_url": "https://x.com/maipianaini0930/status/2061087192525705495/photo/1",
+              "media_key": "3_2061087037793697792",
+              "start": 25,
+              "url": "https://t.co/DvPjaOAfrt"
+            },
+            {
+              "display_url": "pic.x.com/DvPjaOAfrt",
+              "end": 48,
+              "expanded_url": "https://x.com/maipianaini0930/status/2061087192525705495/photo/1",
+              "media_key": "3_2061087037764386816",
+              "start": 25,
+              "url": "https://t.co/DvPjaOAfrt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061087192525705495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一个旧的木抽斗，我现在用它放毒品#drugtwt https://t.co/DvPjaOAfrt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 292,
+          "like_count": 9918,
+          "listed_count": 2,
+          "media_count": 636,
+          "tweet_count": 4175
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

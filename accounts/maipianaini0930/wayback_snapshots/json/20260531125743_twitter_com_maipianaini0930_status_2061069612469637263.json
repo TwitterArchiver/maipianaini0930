@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2061037889207652580",
+    "created_at": "2026-05-31T12:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T13:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061069612469637263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1799308675158605825",
+          "start": 0,
+          "username": "CPUP2024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061069612469637263",
+    "in_reply_to_user_id": "1799308675158605825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061037889207652580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CPUP2024 啥时候警惕习近平"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_2061037879556771842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpHCBebEAI4owM.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1710,
+        "media_key": "3_2061037879556722688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpHCBeaUAAOxP0.jpg",
+        "width": 1169
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2061037889207652580",
+        "created_at": "2026-05-31T12:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T13:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061069612469637263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1799308675158605825",
+              "start": 0,
+              "username": "CPUP2024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061069612469637263",
+        "in_reply_to_user_id": "1799308675158605825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061037889207652580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CPUP2024 啥时候警惕习近平"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061037879556771842",
+            "3_2061037879556722688"
+          ]
+        },
+        "author_id": "1799308675158605825",
+        "conversation_id": "2061037889207652580",
+        "created_at": "2026-05-31T10:51:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T11:51:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061037889207652580"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wCe2CSs8JX",
+              "end": 50,
+              "expanded_url": "https://x.com/CPUP2024/status/2061037889207652580/photo/1",
+              "media_key": "3_2061037879556771842",
+              "start": 27,
+              "url": "https://t.co/wCe2CSs8JX"
+            },
+            {
+              "display_url": "pic.x.com/wCe2CSs8JX",
+              "end": 50,
+              "expanded_url": "https://x.com/CPUP2024/status/2061037889207652580/photo/1",
+              "media_key": "3_2061037879556722688",
+              "start": 27,
+              "url": "https://t.co/wCe2CSs8JX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061037889207652580",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "先是警惕水弹枪\n后来警惕萝卜刀\n现在警惕捏捏乐\n荒唐 https://t.co/wCe2CSs8JX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 291,
+          "like_count": 9914,
+          "listed_count": 2,
+          "media_count": 635,
+          "tweet_count": 4173
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-08T05:13:27.000Z",
+        "description": "你好，这里是葱 生活小号@mikulovermua /是左翼挺建制&CPC🇨🇳的汉人/仰慕☪️亲什叶派 🏳️‍🌈ally&挺跨挺酷儿/stand with🇵🇸🇷🇺Iran☫/同情↖️ 毛左📕🚩 🇨🇳爱国者/平霍镇犹 反港抗台 赞美我川皇 栓洋三百年",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 12,
+                "username": "mikulovermua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cpc.people.com.cn",
+                "end": 23,
+                "expanded_url": "http://cpc.people.com.cn/",
+                "start": 0,
+                "url": "https://t.co/m1dLzTSfCB"
+              }
+            ]
+          }
+        },
+        "id": "1799308675158605825",
+        "location": "PRC🇨🇳",
+        "name": "赛高の葱娘酱miku🇨🇳☭☪︎☫——本人道德程度已向香港人看齐😁",
+        "pinned_tweet_id": "2060405192814924174",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047926163339984897/NWzhGcp0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 1912,
+          "like_count": 48283,
+          "listed_count": 35,
+          "media_count": 1091,
+          "tweet_count": 13837
+        },
+        "url": "https://t.co/m1dLzTSfCB",
+        "username": "CPUP2024",
+        "verified": false
+      }
+    ]
+  }
+}

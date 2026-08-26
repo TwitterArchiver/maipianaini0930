@@ -1,0 +1,323 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054389907116949504",
+        "3_2054389907129593856",
+        "3_2054389907121168384"
+      ],
+      "media_source_tweet_id": [
+        "2054389913559433447",
+        "2054389913559433447",
+        "2054389913559433447"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2054489372305829889",
+    "created_at": "2026-05-13T09:10:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T10:10:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054489372305829889"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1662878880309432320",
+          "start": 3,
+          "username": "BurningBeauvoir"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2nFaxp2SUO",
+          "end": 73,
+          "expanded_url": "https://x.com/BurningBeauvoir/status/2054389913559433447/photo/1",
+          "media_key": "3_2054389907116949504",
+          "start": 50,
+          "url": "https://t.co/2nFaxp2SUO"
+        },
+        {
+          "display_url": "pic.x.com/2nFaxp2SUO",
+          "end": 73,
+          "expanded_url": "https://x.com/BurningBeauvoir/status/2054389913559433447/photo/1",
+          "media_key": "3_2054389907129593856",
+          "start": 50,
+          "url": "https://t.co/2nFaxp2SUO"
+        },
+        {
+          "display_url": "pic.x.com/2nFaxp2SUO",
+          "end": 73,
+          "expanded_url": "https://x.com/BurningBeauvoir/status/2054389913559433447/photo/1",
+          "media_key": "3_2054389907121168384",
+          "start": 50,
+          "url": "https://t.co/2nFaxp2SUO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054489372305829889",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054389913559433447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @BurningBeauvoir: 朋友真的是天才来的……Always在被他的古灵精怪震撼🖤 https://t.co/2nFaxp2SUO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1699,
+        "media_key": "3_2054389907116949504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKovGPagAA_nmM.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1702,
+        "media_key": "3_2054389907129593856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKovGSbcAAMxpS.jpg",
+        "width": 1284
+      },
+      {
+        "height": 1700,
+        "media_key": "3_2054389907121168384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIKovGQa4AAO18G.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054389907116949504",
+            "3_2054389907129593856",
+            "3_2054389907121168384"
+          ],
+          "media_source_tweet_id": [
+            "2054389913559433447",
+            "2054389913559433447",
+            "2054389913559433447"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2054489372305829889",
+        "created_at": "2026-05-13T09:10:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T10:10:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054489372305829889"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1662878880309432320",
+              "start": 3,
+              "username": "BurningBeauvoir"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nFaxp2SUO",
+              "end": 73,
+              "expanded_url": "https://x.com/BurningBeauvoir/status/2054389913559433447/photo/1",
+              "media_key": "3_2054389907116949504",
+              "start": 50,
+              "url": "https://t.co/2nFaxp2SUO"
+            },
+            {
+              "display_url": "pic.x.com/2nFaxp2SUO",
+              "end": 73,
+              "expanded_url": "https://x.com/BurningBeauvoir/status/2054389913559433447/photo/1",
+              "media_key": "3_2054389907129593856",
+              "start": 50,
+              "url": "https://t.co/2nFaxp2SUO"
+            },
+            {
+              "display_url": "pic.x.com/2nFaxp2SUO",
+              "end": 73,
+              "expanded_url": "https://x.com/BurningBeauvoir/status/2054389913559433447/photo/1",
+              "media_key": "3_2054389907121168384",
+              "start": 50,
+              "url": "https://t.co/2nFaxp2SUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054489372305829889",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054389913559433447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @BurningBeauvoir: 朋友真的是天才来的……Always在被他的古灵精怪震撼🖤 https://t.co/2nFaxp2SUO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054389907116949504",
+            "3_2054389907129593856",
+            "3_2054389907121168384"
+          ]
+        },
+        "author_id": "1662878880309432320",
+        "conversation_id": "2054389913559433447",
+        "created_at": "2026-05-13T02:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T03:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054389913559433447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2nFaxp2SUO",
+              "end": 52,
+              "expanded_url": "https://x.com/BurningBeauvoir/status/2054389913559433447/photo/1",
+              "media_key": "3_2054389907116949504",
+              "start": 29,
+              "url": "https://t.co/2nFaxp2SUO"
+            },
+            {
+              "display_url": "pic.x.com/2nFaxp2SUO",
+              "end": 52,
+              "expanded_url": "https://x.com/BurningBeauvoir/status/2054389913559433447/photo/1",
+              "media_key": "3_2054389907129593856",
+              "start": 29,
+              "url": "https://t.co/2nFaxp2SUO"
+            },
+            {
+              "display_url": "pic.x.com/2nFaxp2SUO",
+              "end": 52,
+              "expanded_url": "https://x.com/BurningBeauvoir/status/2054389913559433447/photo/1",
+              "media_key": "3_2054389907121168384",
+              "start": 29,
+              "url": "https://t.co/2nFaxp2SUO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054389913559433447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 921,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "朋友真的是天才来的……Always在被他的古灵精怪震撼🖤 https://t.co/2nFaxp2SUO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 280,
+          "like_count": 9334,
+          "listed_count": 2,
+          "media_count": 596,
+          "tweet_count": 3799
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-28T17:50:02.000Z",
+        "description": "Her secrets are deadly, enter at your own risk. 🧚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "open.spotify.com/track/7ISGImUg…",
+                "end": 23,
+                "expanded_url": "http://open.spotify.com/track/7ISGImUgfzuNQ6WLbS1A5G?si=Z2BCtoBLRQ-N-zGBxCzt3g",
+                "start": 0,
+                "url": "https://t.co/AlfTfb8XTb"
+              }
+            ]
+          }
+        },
+        "id": "1662878880309432320",
+        "name": "LaPetiteMorte",
+        "pinned_tweet_id": "2044979558567334198",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000029545886294023/SMiHi1CS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3935,
+          "following_count": 297,
+          "like_count": 3837,
+          "listed_count": 7,
+          "media_count": 1146,
+          "tweet_count": 7926
+        },
+        "url": "https://t.co/AlfTfb8XTb",
+        "username": "BurningBeauvoir",
+        "verified": false
+      }
+    ]
+  }
+}

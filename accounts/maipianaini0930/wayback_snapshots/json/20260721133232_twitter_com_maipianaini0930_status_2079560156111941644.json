@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2079514323345445196",
+    "created_at": "2026-07-21T13:32:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T14:32:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079560156111941644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1990083055231631361",
+          "start": 0,
+          "username": "Psilocybe8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079560156111941644",
+    "in_reply_to_user_id": "1990083055231631361",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079514323345445196",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Psilocybe8964 我完蛋了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2079514323345445196",
+        "created_at": "2026-07-21T13:32:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T14:32:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079560156111941644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1990083055231631361",
+              "start": 0,
+              "username": "Psilocybe8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079560156111941644",
+        "in_reply_to_user_id": "1990083055231631361",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079514323345445196",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Psilocybe8964 我完蛋了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1990083055231631361",
+        "conversation_id": "2079514323345445196",
+        "created_at": "2026-07-21T10:30:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T11:30:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079514323345445196"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079514323345445196",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "检查一个人吸不吸毒可以看相册里有没有眼珠子照片"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 304,
+          "like_count": 11232,
+          "listed_count": 1,
+          "media_count": 746,
+          "tweet_count": 4957
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T15:45:32.000Z",
+        "description": "在你的個人資料上加入自我介紹",
+        "id": "1990083055231631361",
+        "location": "多米力高威威维利星",
+        "name": "^ ^",
+        "pinned_tweet_id": "2062942397936570706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078718685922152449/vvdMozyv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 51,
+          "like_count": 6690,
+          "listed_count": 1,
+          "media_count": 443,
+          "tweet_count": 4243
+        },
+        "url": "",
+        "username": "Psilocybe8964",
+        "verified": false
+      }
+    ]
+  }
+}

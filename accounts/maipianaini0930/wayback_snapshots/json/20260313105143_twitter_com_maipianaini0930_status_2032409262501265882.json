@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2032409262501265882",
+    "created_at": "2026-03-13T10:51:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T11:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032409262501265882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "4722105555",
+          "start": 3,
+          "username": "cigarettesummer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032409262501265882",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 74
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032134336250552345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cigarettesummer: It’s a good escape from our chronically online world to take a break and just be present with pen and paper https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 645,
+        "media_key": "3_2032134330403692550",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDOXaCOWoAYtAtv.jpg",
+        "width": 861
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2032409262501265882",
+        "created_at": "2026-03-13T10:51:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T11:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032409262501265882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "4722105555",
+              "start": 3,
+              "username": "cigarettesummer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032409262501265882",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 74
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032134336250552345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cigarettesummer: It’s a good escape from our chronically online world to take a break and just be present with pen and paper https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032134330403692550"
+          ]
+        },
+        "author_id": "4722105555",
+        "conversation_id": "2032134336250552345",
+        "created_at": "2026-03-12T16:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T17:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032134336250552345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JZYg7sSzEk",
+              "end": 131,
+              "expanded_url": "https://x.com/cigarettesummer/status/2032134336250552345/photo/1",
+              "media_key": "3_2032134330403692550",
+              "start": 108,
+              "url": "https://t.co/JZYg7sSzEk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032134336250552345",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 18024,
+          "like_count": 1146,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 74
+        },
+        "reply_settings": "everyone",
+        "text": "It’s a good escape from our chronically online world to take a break and just be present with pen and paper https://t.co/JZYg7sSzEk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 226,
+          "like_count": 5664,
+          "listed_count": 0,
+          "media_count": 313,
+          "tweet_count": 1943
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2016-01-06T06:30:43.000Z",
+        "description": "",
+        "id": "4722105555",
+        "name": "Lemón 🍋",
+        "pinned_tweet_id": "1916853445564264711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975989738851958784/8EPYR-x8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22535,
+          "following_count": 462,
+          "like_count": 54125,
+          "listed_count": 105,
+          "media_count": 2519,
+          "tweet_count": 6198
+        },
+        "username": "cigarettesummer",
+        "verified": true
+      }
+    ]
+  }
+}

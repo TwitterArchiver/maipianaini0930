@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026737372985954680",
+    "created_at": "2026-02-26T00:17:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T01:17:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026813843297677406"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1692097857027747841",
+          "start": 0,
+          "username": "AsakyGRN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026813843297677406",
+    "in_reply_to_user_id": "1692097857027747841",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026737372985954680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AsakyGRN arrest him"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 62233,
+        "height": 1280,
+        "media_key": "13_2026736146495979520",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2026736146495979520/img/GDA0_UuqNo1NBVLJ.jpg",
+        "public_metrics": {
+          "view_count": 98036
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026736146495979520/vid/avc1/320x568/cqTzNcYJ2RGPfVsP.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026736146495979520/vid/avc1/480x852/YNq9a7iMMX_MGpDS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2026736146495979520/vid/avc1/720x1280/4rg-e1xRSgAtijWX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2026736146495979520/pl/9tCl_gHz5rOLrBO6.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026737372985954680",
+        "created_at": "2026-02-26T00:17:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T01:17:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026813843297677406"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1692097857027747841",
+              "start": 0,
+              "username": "AsakyGRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026813843297677406",
+        "in_reply_to_user_id": "1692097857027747841",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026737372985954680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AsakyGRN arrest him"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2026736146495979520"
+          ],
+          "media_source_tweet_id": [
+            "2026736364474061176"
+          ]
+        },
+        "author_id": "1692097857027747841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2026737372985954680",
+        "created_at": "2026-02-25T19:13:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-25T20:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026737372985954680"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 36,
+              "normalized_text": "UK",
+              "probability": 0.9834,
+              "start": 35,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JwpJD4xE3L",
+              "end": 153,
+              "expanded_url": "https://x.com/asakyybackup/status/2026736364474061176/video/1",
+              "media_key": "13_2026736146495979520",
+              "start": 130,
+              "url": "https://t.co/JwpJD4xE3L"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026737372985954680",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 401,
+          "impression_count": 173404,
+          "like_count": 1232,
+          "quote_count": 32,
+          "reply_count": 126,
+          "retweet_count": 156
+        },
+        "reply_settings": "everyone",
+        "text": "This man has been going around the UK snatching people’s phones, filming the incidents, and posting the videos on social media. \n https://t.co/JwpJD4xE3L"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 212,
+          "like_count": 4860,
+          "listed_count": 0,
+          "media_count": 232,
+          "tweet_count": 1535
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-17T08:55:54.000Z",
+        "description": "Business 📧— @asakygrn@gmail.com",
+        "id": "1692097857027747841",
+        "name": "𝐀𝐬𝐚𝐤𝐲𝐆𝐑𝐍",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1804578152938627072/8yC1j3ly_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156419,
+          "following_count": 308,
+          "like_count": 13731,
+          "listed_count": 91,
+          "media_count": 12338,
+          "tweet_count": 37040
+        },
+        "username": "AsakyGRN",
+        "verified": true
+      }
+    ]
+  }
+}

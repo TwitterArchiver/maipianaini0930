@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2015325838590324736"
+      ],
+      "media_source_tweet_id": [
+        "2015326544906932242"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2015712688840835347",
+    "created_at": "2026-01-26T09:05:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-26T10:05:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015712688840835347"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 82,
+          "normalized_text": "FlowersForPersephone",
+          "probability": 0.8528,
+          "start": 63,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1452827294230269958",
+          "start": 3,
+          "username": "XxSSlaughterxX"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/w6AjzNwrPo",
+          "end": 108,
+          "expanded_url": "https://x.com/XxSSlaughterxX/status/2015326544906932242/video/1",
+          "media_key": "13_2015325838590324736",
+          "start": 85,
+          "url": "https://t.co/w6AjzNwrPo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015712688840835347",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 53
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015326544906932242",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @XxSSlaughterxX: these new scene bands are doing it right. (FlowersForPersephone) https://t.co/w6AjzNwrPo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 553782,
+        "height": 720,
+        "media_key": "13_2015325838590324736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2015325838590324736/img/LpLJtMjIi2B4PMjE.jpg",
+        "public_metrics": {
+          "view_count": 7311
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015325838590324736/vid/avc1/480x270/nyQ5-q5BApk3NbQL.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015325838590324736/vid/avc1/640x360/gp7qMVhPc83Xrspg.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2015325838590324736/vid/avc1/1280x720/qDU3ssDWpd2U0rk5.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2015325838590324736/pl/E3_tTJV_KfPY5g4G.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015325838590324736"
+          ],
+          "media_source_tweet_id": [
+            "2015326544906932242"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015712688840835347",
+        "created_at": "2026-01-26T09:05:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T10:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015712688840835347"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 82,
+              "normalized_text": "FlowersForPersephone",
+              "probability": 0.8528,
+              "start": 63,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1452827294230269958",
+              "start": 3,
+              "username": "XxSSlaughterxX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6AjzNwrPo",
+              "end": 108,
+              "expanded_url": "https://x.com/XxSSlaughterxX/status/2015326544906932242/video/1",
+              "media_key": "13_2015325838590324736",
+              "start": 85,
+              "url": "https://t.co/w6AjzNwrPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015712688840835347",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 53
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015326544906932242",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @XxSSlaughterxX: these new scene bands are doing it right. (FlowersForPersephone) https://t.co/w6AjzNwrPo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2015325838590324736"
+          ]
+        },
+        "author_id": "1452827294230269958",
+        "conversation_id": "2015326544906932242",
+        "created_at": "2026-01-25T07:31:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-25T08:31:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2015326544906932242"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 62,
+              "normalized_text": "FlowersForPersephone",
+              "probability": 0.875,
+              "start": 43,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/w6AjzNwrPo",
+              "end": 88,
+              "expanded_url": "https://x.com/XxSSlaughterxX/status/2015326544906932242/video/1",
+              "media_key": "13_2015325838590324736",
+              "start": 65,
+              "url": "https://t.co/w6AjzNwrPo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015326544906932242",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 13386,
+          "like_count": 479,
+          "quote_count": 11,
+          "reply_count": 18,
+          "retweet_count": 53
+        },
+        "reply_settings": "everyone",
+        "text": "these new scene bands are doing it right. (FlowersForPersephone) https://t.co/w6AjzNwrPo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013475639219585024/EhafFf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 211,
+          "like_count": 3455,
+          "listed_count": 0,
+          "media_count": 170,
+          "tweet_count": 1054
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-26T02:40:18.000Z",
+        "description": "president of the Hana Venom fanclub | pfp by: @slimgiltsoul |",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 46,
+                "username": "slimgiltsoul"
+              }
+            ]
+          }
+        },
+        "id": "1452827294230269958",
+        "name": "xXxSebastian_SlaughterxXx",
+        "pinned_tweet_id": "1989034081330332116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897207063689736192/rUwLgmiG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2736,
+          "following_count": 614,
+          "like_count": 56312,
+          "listed_count": 5,
+          "media_count": 4825,
+          "tweet_count": 28230
+        },
+        "username": "XxSSlaughterxX",
+        "verified": false
+      }
+    ]
+  }
+}

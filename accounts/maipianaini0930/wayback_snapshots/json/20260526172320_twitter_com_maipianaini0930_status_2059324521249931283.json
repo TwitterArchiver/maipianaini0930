@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2059188372040765690",
+    "created_at": "2026-05-26T17:23:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T18:23:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059324521249931283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1783100972442451969",
+          "start": 0,
+          "username": "poio_o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059324521249931283",
+    "in_reply_to_user_id": "1783100972442451969",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059323494421381332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@poio_o 酒后斗殴，双方私下和解了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2059188372040765690",
+        "created_at": "2026-05-26T17:23:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:23:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059324521249931283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1783100972442451969",
+              "start": 0,
+              "username": "poio_o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059324521249931283",
+        "in_reply_to_user_id": "1783100972442451969",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059323494421381332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@poio_o 酒后斗殴，双方私下和解了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1783100972442451969",
+        "conversation_id": "2059188372040765690",
+        "created_at": "2026-05-26T17:19:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:19:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059323494421381332"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059323494421381332",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059188372040765690",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 会担刑事责任吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 283,
+          "like_count": 9749,
+          "listed_count": 2,
+          "media_count": 623,
+          "tweet_count": 4085
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-24T11:49:47.000Z",
+        "description": "自言自语",
+        "id": "1783100972442451969",
+        "name": "我心里有事",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050650182732087296/s8lmc61M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 12,
+          "like_count": 598,
+          "listed_count": 0,
+          "media_count": 83,
+          "tweet_count": 532
+        },
+        "username": "poio_o",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2051646792899670295",
+    "created_at": "2026-05-05T13:27:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T14:27:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051654897070903599"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693124545492983808",
+          "start": 0,
+          "username": "rustInsidee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051654897070903599",
+    "in_reply_to_user_id": "1693124545492983808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051646792899670295",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rustInsidee 昭通下车买了一碗烤土豆，有鱼腥草，虽然难闻但皮脆脆的，不知道是否因为爱屋及乌才这么觉得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2051646792899670295",
+        "created_at": "2026-05-05T13:27:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T14:27:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051654897070903599"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693124545492983808",
+              "start": 0,
+              "username": "rustInsidee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051654897070903599",
+        "in_reply_to_user_id": "1693124545492983808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051646792899670295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rustInsidee 昭通下车买了一碗烤土豆，有鱼腥草，虽然难闻但皮脆脆的，不知道是否因为爱屋及乌才这么觉得"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693124545492983808",
+        "conversation_id": "2051646792899670295",
+        "created_at": "2026-05-05T12:54:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T13:54:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051646792899670295"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051646792899670295",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 144,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最想当云南人的一集是吃蓝莓和无花果比我吃饭还贵的时候"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 274,
+          "like_count": 9101,
+          "listed_count": 2,
+          "media_count": 568,
+          "tweet_count": 3542
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T04:55:41.000Z",
+        "description": "我純潔的一刻勝過你一生的謊言",
+        "id": "1693124545492983808",
+        "name": "她在時間門外",
+        "pinned_tweet_id": "1742580780474478784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004070213848055808/sNu-TCBp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8172,
+          "following_count": 428,
+          "like_count": 10796,
+          "listed_count": 21,
+          "media_count": 1876,
+          "tweet_count": 8345
+        },
+        "username": "rustInsidee",
+        "verified": false
+      }
+    ]
+  }
+}

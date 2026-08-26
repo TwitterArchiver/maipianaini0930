@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034659158755053604",
+    "created_at": "2026-03-20T06:15:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T07:15:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034876457286263120"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 30,
+          "normalized_text": "Pueblo Unido",
+          "probability": 0.6098,
+          "start": 19,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034876457286263120",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034659158755053604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele El Pueblo Unido Jamás Será Vencido！！！"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39752,
+        "height": 720,
+        "media_key": "13_2034658583846227968",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2034658583846227968/img/x8lkBILDBQKgJdkz.jpg",
+        "public_metrics": {
+          "view_count": 562943
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034658583846227968/vid/avc1/476x270/nwhsGOF0dgaPPQJA.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034658583846227968/vid/avc1/634x360/ccu8AcpuYQQsz6bi.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2034658583846227968/vid/avc1/1270x720/IlWHWhnE2qbsxqSI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2034658583846227968/pl/vy8MJM5ApjspG6Ew.m3u8?v=cfc"
+          }
+        ],
+        "width": 1270
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034659158755053604",
+        "created_at": "2026-03-20T06:15:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T07:15:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034876457286263120"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 30,
+              "normalized_text": "Pueblo Unido",
+              "probability": 0.6098,
+              "start": 19,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034876457286263120",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034659158755053604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele El Pueblo Unido Jamás Será Vencido！！！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2034658583846227968"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2034659158755053604",
+        "created_at": "2026-03-19T15:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T16:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034659158755053604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lEYf4jrKnT",
+              "end": 73,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2034659158755053604/video/1",
+              "media_key": "13_2034658583846227968",
+              "start": 50,
+              "url": "https://t.co/lEYf4jrKnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034659158755053604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 862,
+          "impression_count": 1105375,
+          "like_count": 4612,
+          "quote_count": 44,
+          "reply_count": 289,
+          "retweet_count": 471
+        },
+        "reply_settings": "everyone",
+        "text": "“天怒人怨”\n3月19日，信宜市政府门口，一名白发老奶奶带头向防暴警察投掷石块，双方再次爆发冲突。 https://t.co/lEYf4jrKnT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 280,
+          "following_count": 238,
+          "like_count": 6278,
+          "listed_count": 0,
+          "media_count": 369,
+          "tweet_count": 2284
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2195535,
+          "following_count": 1023,
+          "like_count": 9221,
+          "listed_count": 8632,
+          "media_count": 43673,
+          "tweet_count": 50728
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

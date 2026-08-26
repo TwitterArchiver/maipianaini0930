@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Prime Minister of Israel Benjamin Netanyahu",
+          "id": "866686332172500993",
+          "name": "Benjamin Netanyahu"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Prime Minister of Israel Benjamin Netanyahu",
+          "id": "866686332172500993",
+          "name": "Benjamin Netanyahu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Prime Minister of Israel Benjamin Netanyahu",
+          "id": "866686332172500993",
+          "name": "Benjamin Netanyahu"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2038260607426924704",
+    "created_at": "2026-03-29T14:22:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T15:22:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038260607426924704"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/usronaldcarter…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/usronaldcarter/status/2037891017282601252",
+          "start": 19,
+          "url": "https://t.co/KnQKVbdSVc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038260607426924704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037891017282601252",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太割裂了，所有相信的东西都在瞬间崩塌 https://t.co/KnQKVbdSVc"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 121092,
+        "height": 1080,
+        "media_key": "13_2037890859635556352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2037890859635556352/img/_RMNthSj_x28Mlmh.jpg",
+        "public_metrics": {
+          "view_count": 817130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037890859635556352/vid/avc1/640x360/U4KANxi1LzGvKdaa.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037890859635556352/vid/avc1/1920x1080/suHCeQgH5RQEX_HY.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2037890859635556352/pl/kMO2V3KoIeXMWpxR.m3u8?v=5c2"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037890859635556352/vid/avc1/480x270/qfhZGOnr2t6OY7fu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2037890859635556352/vid/avc1/1280x720/RJIG_xkD9jH6kPKH.mp4"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "height": 931,
+        "media_key": "3_2037890894805012480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEgK-LvbEAAmcrt.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2038260607426924704",
+        "created_at": "2026-03-29T14:22:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T15:22:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038260607426924704"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/usronaldcarter…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/usronaldcarter/status/2037891017282601252",
+              "start": 19,
+              "url": "https://t.co/KnQKVbdSVc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038260607426924704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037891017282601252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太割裂了，所有相信的东西都在瞬间崩塌 https://t.co/KnQKVbdSVc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2037890859635556352",
+            "3_2037890894805012480"
+          ]
+        },
+        "author_id": "1450107941441478659",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2037891017282601252",
+        "created_at": "2026-03-28T13:54:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T14:54:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037891017282601252"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tHkKyHb9ho",
+              "end": 299,
+              "expanded_url": "https://x.com/USronaldcarter/status/2037891017282601252/video/1",
+              "media_key": "13_2037890859635556352",
+              "start": 276,
+              "url": "https://t.co/tHkKyHb9ho"
+            },
+            {
+              "display_url": "pic.x.com/tHkKyHb9ho",
+              "end": 299,
+              "expanded_url": "https://x.com/USronaldcarter/status/2037891017282601252/video/1",
+              "media_key": "3_2037890894805012480",
+              "start": 276,
+              "url": "https://t.co/tHkKyHb9ho"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037891017282601252",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨🚨NETANYAHU'S POLICE INTERROGATION TAPES JUST LEAKED AND THEY REVEAL HE PERSONALLY FUNDED HAMAS. THIS CHANGES EVERYTHING.🚨🚨\n\n1,000 hours of secret police interrogation footage of Benjamin Netanyahu.\n\nNow public. Banned in Israel. Going viral globally.\n\nHere's what's on those tapes:\n\n💀 Netanyahu personally arranged for Hamas to receive $35,000,000 EVERY MONTH from Qatar\n\n💀 This was done IN SUITCASES OF CASH — because even banks refused to cooperate\n\n💀 He personally begged Qatar, a country with no ties to Israel, to give money to his \"enemy\"\n\n💀 He was doing this while ACTIVELY under corruption investigation\n\n💀 His own words: \"under the request of Benjamin Netanyahu personally\"\n\n💀 Total transferred to Hamas with his blessing: OVER $1,000,000,000\n\nLet that sink in.\n\nThe same man who stood up after October 7 and declared \"Hamas is a monster, we will annihilate them\" was the one keeping Hamas alive with suitcases of Qatari cash.\n\n⚠️ His strategy, from his own transcript: keep Hamas in Gaza, keep Fatah in the West Bank, PREVENT them from uniting — so there would NEVER be a Palestinian state\n\n⚠️ Without a Palestinian state, Netanyahu stays in power — no peace deal means endless war means he stays \"Mr. Security\"\n\n⚠️ He needed Hamas to survive so he could keep winning elections by being the only man who could \"handle\" them\n\nNow watch what this means:\n\n→ Netanyahu funds Hamas for years → Hamas grows stronger → October 7 happens → Netanyahu declares war → 46,000+ Palestinians die → War delays his criminal trial → He seeks a pardon\n\n→ The monster he fed attacked his own people\n\n→ And he's using that attack to escape justice\n\nThe corruption trial? 3 charges. Bribery. Fraud. Breach of trust.\n\nHis court just REJECTED his request to delay hearings — TWICE in one day.\n\nThe ICC issued an arrest warrant for him for war crimes in Gaza.\n\nHis own aide was arrested for taking Qatari money.\n\nAnd now his police interrogation tapes show he was the one sending Qatari money to Hamas.\n\nThe same Qatar he \"hates.\" The same Hamas he \"fights.\"\n\n⚠️ He publicly called Hamas the enemy\n\n⚠️ He privately funded them for years\n\n⚠️ His bombing of Gaza kills tens of thousands\n\n⚠️ His war delays his own criminal conviction\n\nThis isn't a war on terror.\n\nThis is a man running out the clock on his own criminal case using 46,000 Palestinian lives as cover.\n\nAnd the world is just starting to understand it."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15896,
+          "impression_count": 1946243,
+          "like_count": 67876,
+          "quote_count": 1166,
+          "reply_count": 1139,
+          "retweet_count": 25618
+        },
+        "reply_settings": "everyone",
+        "text": "🚨🚨NETANYAHU'S POLICE INTERROGATION TAPES JUST LEAKED AND THEY REVEAL HE PERSONALLY FUNDED HAMAS. THIS CHANGES EVERYTHING.🚨🚨\n\n1,000 hours of secret police interrogation footage of Benjamin Netanyahu.\n\nNow public. Banned in Israel. Going viral globally.\n\nHere's what's on those https://t.co/tHkKyHb9ho"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "AAAAA麦片烟酒零售批发",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 306,
+          "following_count": 251,
+          "like_count": 7102,
+          "listed_count": 0,
+          "media_count": 439,
+          "tweet_count": 2681
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-18T14:34:33.000Z",
+        "description": "Ronald Carter",
+        "id": "1450107941441478659",
+        "name": "🇺🇸 Ronald Carter",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036452788629282825/ueT8Hpew_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36865,
+          "following_count": 507,
+          "like_count": 1653,
+          "listed_count": 35,
+          "media_count": 241,
+          "tweet_count": 2936
+        },
+        "username": "USronaldcarter",
+        "verified": true
+      }
+    ]
+  }
+}

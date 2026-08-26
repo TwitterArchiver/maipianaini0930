@@ -1,0 +1,527 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1224770760985567232",
+          "name": "Slipknot"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1224770760985567232",
+          "name": "Slipknot"
+        }
+      },
+      {
+        "domain": {
+          "description": "A category for a musical style, like Pop, Rock, or Rap",
+          "id": "55",
+          "name": "Music Genre"
+        },
+        "entity": {
+          "description": "Metal",
+          "id": "849684649840214020",
+          "name": "Heavy metal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Rock",
+          "id": "806571747730341888",
+          "name": "Rock"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Metal",
+          "id": "849684649840214020",
+          "name": "Heavy metal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1224770760985567232",
+          "name": "Slipknot"
+        }
+      }
+    ],
+    "conversation_id": "2079933309740847554",
+    "created_at": "2026-07-22T14:15:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T15:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079933309740847554"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acervonumetal/…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/acervonumetal/status/2079718775436243244",
+          "start": 10,
+          "url": "https://t.co/ql4USnIr2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079933309740847554",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079718775436243244",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我必须弄点噪音压制 https://t.co/ql4USnIr2w"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 141339,
+        "height": 720,
+        "media_key": "13_2079718679948705792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079718679948705792/img/1MvFrq6h4nbOtJhN.jpg",
+        "public_metrics": {
+          "view_count": 2845
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079718679948705792/vid/avc1/480x270/fBLk502HPNyGx573.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079718679948705792/vid/avc1/640x360/tK5B7-qwqK17XP7f.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079718679948705792/vid/avc1/1280x720/g8z4Up8xfP1CxctX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079718679948705792/pl/KQAGXHsu60l6YQGz.m3u8?v=2e7"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1224770760985567232",
+              "name": "Slipknot"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1224770760985567232",
+              "name": "Slipknot"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1224770760985567232",
+              "name": "Slipknot"
+            }
+          }
+        ],
+        "conversation_id": "2079933309740847554",
+        "created_at": "2026-07-22T14:15:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079933309740847554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acervonumetal/…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/acervonumetal/status/2079718775436243244",
+              "start": 10,
+              "url": "https://t.co/ql4USnIr2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079933309740847554",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079718775436243244",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我必须弄点噪音压制 https://t.co/ql4USnIr2w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079718679948705792"
+          ]
+        },
+        "author_id": "1944563599592005632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1224770760985567232",
+              "name": "Slipknot"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1224770760985567232",
+              "name": "Slipknot"
+            }
+          },
+          {
+            "domain": {
+              "description": "A category for a musical style, like Pop, Rock, or Rap",
+              "id": "55",
+              "name": "Music Genre"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Rock",
+              "id": "806571747730341888",
+              "name": "Rock"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Metal",
+              "id": "849684649840214020",
+              "name": "Heavy metal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1224770760985567232",
+              "name": "Slipknot"
+            }
+          }
+        ],
+        "conversation_id": "2079718775436243244",
+        "created_at": "2026-07-22T00:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079718775436243244"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dmP32U0bCf",
+              "end": 48,
+              "expanded_url": "https://x.com/acervonumetal/status/2079718775436243244/video/1",
+              "media_key": "13_2079718679948705792",
+              "start": 25,
+              "url": "https://t.co/dmP32U0bCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079718775436243244",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 7274,
+          "like_count": 465,
+          "quote_count": 14,
+          "reply_count": 3,
+          "retweet_count": 172
+        },
+        "reply_settings": "everyone",
+        "text": "Slipknot - People = Shit https://t.co/dmP32U0bCf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n\n视奸的条子死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2079927002224836795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 302,
+          "like_count": 11256,
+          "listed_count": 1,
+          "media_count": 748,
+          "tweet_count": 4987
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-14T01:05:07.000Z",
+        "description": "📁 Uma revista virtual aonde você pode ver notícias e arquivos dos seus artistas favoritos! • 📩E-mail para contato: acervonumetal@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/acervonumetal",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/acervonumetal",
+                "start": 0,
+                "url": "https://t.co/9Eb60rzqIR"
+              }
+            ]
+          }
+        },
+        "id": "1944563599592005632",
+        "name": "Acervo Nu Metal",
+        "pinned_tweet_id": "2075683618584961081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070047035793825792/4phjRNEc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9854,
+          "following_count": 266,
+          "like_count": 4969,
+          "listed_count": 14,
+          "media_count": 2790,
+          "tweet_count": 7377
+        },
+        "url": "https://t.co/9Eb60rzqIR",
+        "username": "acervonumetal",
+        "verified": false
+      }
+    ]
+  }
+}

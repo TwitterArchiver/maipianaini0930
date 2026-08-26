@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2031272940642381824"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2031272949983187389",
+    "created_at": "2026-03-10T07:36:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T08:36:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031272949983187389"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cdEgzgxEA8",
+          "end": 99,
+          "expanded_url": "https://x.com/maipianaini0930/status/2031272949983187389/photo/1",
+          "media_key": "3_2031272940642381824",
+          "start": 76,
+          "url": "https://t.co/cdEgzgxEA8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031272949983187389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "片尾穿着印有切格瓦拉长袖的小混混们踢着箱子嬉皮笑脸走过萧条紧闭的商铺前，电影结束。每个人都有光明的未来，界定概念的是人，你怎么能说他们每有光明的未来呢 https://t.co/cdEgzgxEA8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2031272940642381824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDCH-jTaMAAP9Qk.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031272940642381824"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2031272949983187389",
+        "created_at": "2026-03-10T07:36:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T08:36:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031272949983187389"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cdEgzgxEA8",
+              "end": 99,
+              "expanded_url": "https://x.com/maipianaini0930/status/2031272949983187389/photo/1",
+              "media_key": "3_2031272940642381824",
+              "start": 76,
+              "url": "https://t.co/cdEgzgxEA8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031272949983187389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "片尾穿着印有切格瓦拉长袖的小混混们踢着箱子嬉皮笑脸走过萧条紧闭的商铺前，电影结束。每个人都有光明的未来，界定概念的是人，你怎么能说他们每有光明的未来呢 https://t.co/cdEgzgxEA8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 225,
+          "like_count": 5772,
+          "listed_count": 0,
+          "media_count": 302,
+          "tweet_count": 1885
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

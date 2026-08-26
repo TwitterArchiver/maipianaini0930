@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2004580451219107940",
+    "created_at": "2025-12-26T17:23:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T18:23:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004604060570452200"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "8220972",
+          "start": 0,
+          "username": "223n_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004604060570452200",
+    "in_reply_to_user_id": "8220972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004603891472891942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@223n_n これはあなたの胸ですか？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 522,
+        "media_key": "3_2004603886863355904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9HInT_bkAA-XcO.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2004580451219107940",
+        "created_at": "2025-12-26T17:23:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T18:23:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004604060570452200"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "8220972",
+              "start": 0,
+              "username": "223n_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004604060570452200",
+        "in_reply_to_user_id": "8220972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004603891472891942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@223n_n これはあなたの胸ですか？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004603886863355904"
+          ]
+        },
+        "author_id": "8220972",
+        "conversation_id": "2004580451219107940",
+        "created_at": "2025-12-26T17:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T18:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004603891472891942"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bwpOovpar",
+              "end": 40,
+              "expanded_url": "https://x.com/223n_n/status/2004603891472891942/photo/1",
+              "media_key": "3_2004603886863355904",
+              "start": 17,
+              "url": "https://t.co/1bwpOovpar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004603891472891942",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004603153317306699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 https://t.co/1bwpOovpar"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 187,
+          "like_count": 2186,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 764
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2007-08-16T11:04:49.000Z",
+        "description": "す@i_le き@roki4170_sub @komiyan2459 @xrb_kanat0 イエロー五段です",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 1,
+                "username": "i_le"
+              },
+              {
+                "end": 21,
+                "start": 8,
+                "username": "roki4170_sub"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "komiyan2459"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "xrb_kanat0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/@i_le",
+                "end": 23,
+                "expanded_url": "https://x.com/@i_le",
+                "start": 0,
+                "url": "https://t.co/eOKhpj0ECa"
+              }
+            ]
+          }
+        },
+        "id": "8220972",
+        "location": "神奈川〜東京",
+        "name": "毒電波人間",
+        "pinned_tweet_id": "1993021480062665057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002788379268919296/IF3h7yTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 605,
+          "like_count": 8418,
+          "listed_count": 1,
+          "media_count": 1954,
+          "tweet_count": 11771
+        },
+        "url": "https://t.co/eOKhpj0ECa",
+        "username": "223n_n",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2086870168836403200"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2086865072052461959",
+    "created_at": "2026-08-10T17:39:59.000Z",
+    "display_text_range": [
+      15,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T18:39:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086870188063170593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1423341489761832961",
+          "start": 0,
+          "username": "chaos__1919810"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/wNxGgU5Mto",
+          "end": 39,
+          "expanded_url": "https://x.com/maipianaini0930/status/2086870188063170593/photo/1",
+          "media_key": "3_2086870168836403200",
+          "start": 16,
+          "url": "https://t.co/wNxGgU5Mto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086870188063170593",
+    "in_reply_to_user_id": "1423341489761832961",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2086870168836403200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086868701136224458",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chaos__1919810 https://t.co/wNxGgU5Mto"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2086870168836403200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPYNXKHacAABBbD.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086870168836403200"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2086865072052461959",
+        "created_at": "2026-08-10T17:39:59.000Z",
+        "display_text_range": [
+          15,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:39:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086870188063170593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1423341489761832961",
+              "start": 0,
+              "username": "chaos__1919810"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNxGgU5Mto",
+              "end": 39,
+              "expanded_url": "https://x.com/maipianaini0930/status/2086870188063170593/photo/1",
+              "media_key": "3_2086870168836403200",
+              "start": 16,
+              "url": "https://t.co/wNxGgU5Mto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086870188063170593",
+        "in_reply_to_user_id": "1423341489761832961",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2086870168836403200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086868701136224458",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chaos__1919810 https://t.co/wNxGgU5Mto"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423341489761832961",
+        "conversation_id": "2086865072052461959",
+        "created_at": "2026-08-10T17:34:05.000Z",
+        "display_text_range": [
+          17,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T18:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086868701136224458"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086868701136224458",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086865072052461959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 臭傻逼犬儒，说说没有用，必须给予实在界打击。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2086870188063170593",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1783418005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 300,
+          "like_count": 11341,
+          "listed_count": 1,
+          "media_count": 775,
+          "tweet_count": 5198
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-05T17:54:56.000Z",
+        "description": "拉康,斯威齐，德勒兹，奈格里，马列毛，笨笨打螺丝的，轻度自闭(改善中)，扩列(虽然我没什么用)",
+        "id": "1423341489761832961",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086868701136224458",
+        "name": "噓蝒",
+        "pinned_tweet_id": "1444735592357498881",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1423341489761832961/1628875137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911490001403035648/FIeMg9_3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 141,
+          "like_count": 627,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "chaos__1919810",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

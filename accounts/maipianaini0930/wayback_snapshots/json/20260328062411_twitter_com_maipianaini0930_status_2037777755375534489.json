@@ -1,0 +1,696 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2037231478183256501",
+    "created_at": "2026-03-28T06:24:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T07:24:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037777755375534489"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2018652390891880448",
+          "start": 0,
+          "username": "futi999139732"
+        },
+        {
+          "end": 31,
+          "id": "1934458092475080704",
+          "start": 15,
+          "username": "yo2787425235659"
+        },
+        {
+          "end": 47,
+          "id": "1993150970705199108",
+          "start": 32,
+          "username": "Nana_naiiiiiii"
+        },
+        {
+          "end": 62,
+          "id": "1857802986837172224",
+          "start": 48,
+          "username": "LingJiaXin233"
+        },
+        {
+          "end": 74,
+          "id": "1999504877337395200",
+          "start": 63,
+          "username": "chuan_0123"
+        },
+        {
+          "end": 87,
+          "id": "1500855672480489475",
+          "start": 75,
+          "username": "Science_010"
+        },
+        {
+          "end": 102,
+          "id": "1244543552652054528",
+          "start": 88,
+          "username": "Greenfish_111"
+        },
+        {
+          "end": 113,
+          "id": "1641968587102621696",
+          "start": 103,
+          "username": "0voki33Me"
+        },
+        {
+          "end": 124,
+          "id": "2559711131",
+          "start": 114,
+          "username": "kusutobi6"
+        },
+        {
+          "end": 133,
+          "id": "92597653",
+          "start": 125,
+          "username": "bloodme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037777755375534489",
+    "in_reply_to_user_id": "2018652390891880448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037231478183256501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@futi999139732 @yo2787425235659 @Nana_naiiiiiii @LingJiaXin233 @chuan_0123 @Science_010 @Greenfish_111 @0voki33Me @kusutobi6 @bloodme 内定的吧，被政客玩剩下来的黑箱操作"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2037231470570594304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWzOpCbYAAB9xj.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2037231470566350848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEWzOpBaoAA0Z6x.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2037231478183256501",
+        "created_at": "2026-03-28T06:24:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T07:24:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037777755375534489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2018652390891880448",
+              "start": 0,
+              "username": "futi999139732"
+            },
+            {
+              "end": 31,
+              "id": "1934458092475080704",
+              "start": 15,
+              "username": "yo2787425235659"
+            },
+            {
+              "end": 47,
+              "id": "1993150970705199108",
+              "start": 32,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 62,
+              "id": "1857802986837172224",
+              "start": 48,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 74,
+              "id": "1999504877337395200",
+              "start": 63,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 87,
+              "id": "1500855672480489475",
+              "start": 75,
+              "username": "Science_010"
+            },
+            {
+              "end": 102,
+              "id": "1244543552652054528",
+              "start": 88,
+              "username": "Greenfish_111"
+            },
+            {
+              "end": 113,
+              "id": "1641968587102621696",
+              "start": 103,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 124,
+              "id": "2559711131",
+              "start": 114,
+              "username": "kusutobi6"
+            },
+            {
+              "end": 133,
+              "id": "92597653",
+              "start": 125,
+              "username": "bloodme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037777755375534489",
+        "in_reply_to_user_id": "2018652390891880448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037231478183256501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@futi999139732 @yo2787425235659 @Nana_naiiiiiii @LingJiaXin233 @chuan_0123 @Science_010 @Greenfish_111 @0voki33Me @kusutobi6 @bloodme 内定的吧，被政客玩剩下来的黑箱操作"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037231470570594304",
+            "3_2037231470566350848"
+          ]
+        },
+        "author_id": "2018652390891880448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2037231478183256501",
+        "created_at": "2026-03-26T18:13:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T19:13:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037231478183256501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1934458092475080704",
+              "start": 0,
+              "username": "yo2787425235659"
+            },
+            {
+              "end": 44,
+              "id": "1993150970705199108",
+              "start": 29,
+              "username": "Nana_naiiiiiii"
+            },
+            {
+              "end": 84,
+              "id": "1857802986837172224",
+              "start": 70,
+              "username": "LingJiaXin233"
+            },
+            {
+              "end": 113,
+              "id": "1999504877337395200",
+              "start": 102,
+              "username": "chuan_0123"
+            },
+            {
+              "end": 140,
+              "id": "1500855672480489475",
+              "start": 128,
+              "username": "Science_010"
+            },
+            {
+              "end": 167,
+              "id": "1244543552652054528",
+              "start": 153,
+              "username": "Greenfish_111"
+            },
+            {
+              "end": 191,
+              "id": "1641968587102621696",
+              "start": 181,
+              "username": "0voki33Me"
+            },
+            {
+              "end": 212,
+              "id": "2559711131",
+              "start": 202,
+              "username": "kusutobi6"
+            },
+            {
+              "end": 239,
+              "id": "92597653",
+              "start": 231,
+              "username": "bloodme"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5jSpZsuyAZ",
+              "end": 263,
+              "expanded_url": "https://x.com/futi999139732/status/2037231478183256501/photo/1",
+              "media_key": "3_2037231470570594304",
+              "start": 240,
+              "url": "https://t.co/5jSpZsuyAZ"
+            },
+            {
+              "display_url": "pic.x.com/5jSpZsuyAZ",
+              "end": 263,
+              "expanded_url": "https://x.com/futi999139732/status/2037231478183256501/photo/1",
+              "media_key": "3_2037231470566350848",
+              "start": 240,
+              "url": "https://t.co/5jSpZsuyAZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037231478183256501",
+        "in_reply_to_user_id": "1934458092475080704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1527,
+          "like_count": 19,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@yo2787425235659 （知名不具）  \n1. @Nana_naiiiiiii （naiiiiiiiiiiiiiii）  \n2. @LingJiaXin233 （🏳️‍⚧️凌嘉欣🍥）  \n3. @chuan_0123 （虚空薯条教主）  \n1. @Science_010 （卡塔丽娜）  \n2. @Greenfish_111 （冰冷電子魚）  \n3. @0voki33Me （4w4y）\n4. @kusutobi6 （楠鸢Kusutobi）  \n5. @bloodme https://t.co/5jSpZsuyAZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 300,
+          "following_count": 251,
+          "like_count": 6970,
+          "listed_count": 0,
+          "media_count": 415,
+          "tweet_count": 2561
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-03T11:47:00.000Z",
+        "description": "我是扶梯 宝贝@YukinoTxT弟弟： @jiuyouforwhite热爱分享各种日常 互fo看到就回 让我最后一次为你而存在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "YukinoTxT"
+              },
+              {
+                "end": 36,
+                "start": 21,
+                "username": "jiuyouforwhite"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/futiking",
+                "end": 23,
+                "expanded_url": "https://t.me/futiking",
+                "start": 0,
+                "url": "https://t.co/e8vUFYbYsO"
+              }
+            ]
+          }
+        },
+        "id": "2018652390891880448",
+        "location": "零食供应➡️",
+        "name": "扶梯三世",
+        "pinned_tweet_id": "2029029717257666895",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031718407675260928/O2QaV_va_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 872,
+          "following_count": 846,
+          "like_count": 851,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 211
+        },
+        "url": "https://t.co/e8vUFYbYsO",
+        "username": "futi999139732",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-16T03:49:53.000Z",
+        "description": "王洪文你个骚货\nGrok重度依赖😔\n互fo^_^",
+        "id": "1934458092475080704",
+        "name": "知名不具",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988253969832177670/hYzpIQlH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 141,
+          "like_count": 2045,
+          "listed_count": 1,
+          "media_count": 34,
+          "tweet_count": 266
+        },
+        "username": "yo2787425235659",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-25T02:55:07.000Z",
+        "description": "我只想疯狂自残嗑药吸毒做爱\n老公@youmaobingmiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 16,
+                "username": "youmaobingmiao"
+              }
+            ]
+          }
+        },
+        "id": "1993150970705199108",
+        "location": "Shibuya-ku, Tokyo",
+        "name": "naiiiiiiiiiiiiiii",
+        "pinned_tweet_id": "1996945640593789149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151610718240768/zNZFleGK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 143,
+          "like_count": 14032,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 778
+        },
+        "username": "Nana_naiiiiiii",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-16T15:08:51.000Z",
+        "description": "希望给大家带来快乐🥰/蓝v互fo//不见证，不讨论政治不感兴趣！！！/侵删/逃生仓@adorableLing",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 41,
+                "username": "adorableLing"
+              }
+            ]
+          }
+        },
+        "id": "1857802986837172224",
+        "location": "everywhere",
+        "name": "🏳️‍⚧️凌嘉欣🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968775914713661440/O7ZDUmJl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2852,
+          "following_count": 876,
+          "like_count": 10615,
+          "listed_count": 6,
+          "media_count": 410,
+          "tweet_count": 2909
+        },
+        "username": "LingJiaXin233",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-12T15:41:53.000Z",
+        "description": "我是川川/祝你以后都开心/回fo请私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/chuan123",
+                "end": 23,
+                "expanded_url": "https://ngl.link/chuan123",
+                "start": 0,
+                "url": "https://t.co/kmXUmkntXo"
+              }
+            ]
+          }
+        },
+        "id": "1999504877337395200",
+        "location": "╰(⇀‸↼)╯→提问箱",
+        "name": "虚空薯条教主",
+        "pinned_tweet_id": "2026652867160051770",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026599141066027012/50v9Dmba_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 346,
+          "like_count": 11224,
+          "listed_count": 2,
+          "media_count": 303,
+          "tweet_count": 5761
+        },
+        "url": "https://t.co/kmXUmkntXo",
+        "username": "chuan_0123",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-07T15:27:45.000Z",
+        "description": "请息交以绝游\nod/术力口 平泽进/双/自我厌恶/cs2 gal/欢迎聊天/男",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/usep_111",
+                "end": 23,
+                "expanded_url": "https://ngl.link/usep_111",
+                "start": 0,
+                "url": "https://t.co/Lu4Wy2XYji"
+              }
+            ]
+          }
+        },
+        "id": "1500855672480489475",
+        "name": "卡塔丽娜",
+        "pinned_tweet_id": "1997003294007591248",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028113867411517440/lN0F3xhh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 532,
+          "following_count": 721,
+          "like_count": 2940,
+          "listed_count": 0,
+          "media_count": 119,
+          "tweet_count": 1387
+        },
+        "url": "https://t.co/Lu4Wy2XYji",
+        "username": "Science_010",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-30T08:34:48.000Z",
+        "description": "希望一天睡24个小时",
+        "id": "1244543552652054528",
+        "location": "Silent Hill",
+        "name": "冰冷電子魚",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1872220255705333760/XVl2yIEq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4450,
+          "following_count": 582,
+          "like_count": 12570,
+          "listed_count": 8,
+          "media_count": 1305,
+          "tweet_count": 13631
+        },
+        "username": "Greenfish_111",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-01T01:00:11.000Z",
+        "description": "只回fo感兴趣的｜提问箱⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/0voki33me",
+                "end": 23,
+                "expanded_url": "https://ngl.link/0voki33me",
+                "start": 0,
+                "url": "https://t.co/Dhfap4dheT"
+              }
+            ]
+          }
+        },
+        "id": "1641968587102621696",
+        "location": "👽👽",
+        "name": "4w4y",
+        "pinned_tweet_id": "2024513212876767280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025267837263380484/sO1VN491_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 664,
+          "following_count": 1190,
+          "like_count": 5987,
+          "listed_count": 0,
+          "media_count": 248,
+          "tweet_count": 4826
+        },
+        "url": "https://t.co/Dhfap4dheT",
+        "username": "0voki33Me",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-23T02:01:17.000Z",
+        "description": "Kusutobi秽土转生个人账号/oder/致幻剂的信徒/留学中/酒精大好き/精神状态可能良好?/可咨询药物或者产品问题/被封四次了详细产品咨询清私信/小号防走丢@yaminoko_yuri/问题咨询https://t.co/FtkJIgSKD0 /只发发日常或者有关NY化学的内容",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "yaminoko_yuri"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/kusutobi",
+                "end": 123,
+                "expanded_url": "https://ngl.link/kusutobi",
+                "start": 100,
+                "url": "https://t.co/FtkJIgSKD0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusutobi",
+                "end": 23,
+                "expanded_url": "http://t.me/Kusutobi",
+                "start": 0,
+                "url": "https://t.co/b7JClrbwTj"
+              }
+            ]
+          }
+        },
+        "id": "2559711131",
+        "name": "楠鸢Kusutobi（六代目)",
+        "pinned_tweet_id": "2029935877070217693",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029934731509350400/04C_VxOL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 44,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 174
+        },
+        "url": "https://t.co/b7JClrbwTj",
+        "username": "kusutobi6",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-25T19:52:07.000Z",
+        "description": "",
+        "id": "92597653",
+        "name": "James luna",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 0,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "bloodme",
+        "verified": false
+      }
+    ]
+  }
+}

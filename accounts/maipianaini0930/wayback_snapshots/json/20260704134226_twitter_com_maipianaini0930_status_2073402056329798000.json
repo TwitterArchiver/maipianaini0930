@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2073376162982531372",
+    "created_at": "2026-07-04T13:42:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T14:42:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073402056329798000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073402056329798000",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073376162982531372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 都不算，会有冲动但理智自律，大部分还停留在手冲和意淫的阶段，但懂得已经很多了（）学术上也有功力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2073376162982531372",
+        "created_at": "2026-07-04T13:42:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T14:42:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073402056329798000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073402056329798000",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073376162982531372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 都不算，会有冲动但理智自律，大部分还停留在手冲和意淫的阶段，但懂得已经很多了（）学术上也有功力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1677732423667445760",
+        "conversation_id": "2073376162982531372",
+        "created_at": "2026-07-04T11:59:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T12:59:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073376162982531372"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073376162982531372",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2952,
+          "like_count": 12,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们通过吴老师在x上发的贴觉得吴老师是个啥样的人🤔？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2072502086227669473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 305,
+          "like_count": 10735,
+          "listed_count": 1,
+          "media_count": 701,
+          "tweet_count": 4691
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国博前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，想多认识有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾🏺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2065254868072247314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11664,
+          "following_count": 979,
+          "like_count": 20920,
+          "listed_count": 51,
+          "media_count": 3062,
+          "tweet_count": 9945
+        },
+        "url": "",
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026974870861705570",
+    "created_at": "2026-02-26T11:45:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-26T12:45:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026986862506873301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "906892094953762816",
+          "start": 0,
+          "username": "yrr0rinblues"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026986862506873301",
+    "in_reply_to_user_id": "906892094953762816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026974870861705570",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yrr0rinblues 下水径附近吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2026974855858708480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFC5FwbYAAsjiI.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026974855854436352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFC5FvaMAADjWm.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2026974855858679808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCFC5Fwa8AA3-mQ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026974870861705570",
+        "created_at": "2026-02-26T11:45:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T12:45:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026986862506873301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "906892094953762816",
+              "start": 0,
+              "username": "yrr0rinblues"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026986862506873301",
+        "in_reply_to_user_id": "906892094953762816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026974870861705570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yrr0rinblues 下水径附近吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2026974855858708480",
+            "3_2026974855854436352",
+            "3_2026974855858679808"
+          ]
+        },
+        "author_id": "906892094953762816",
+        "conversation_id": "2026974870861705570",
+        "created_at": "2026-02-26T10:57:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-26T11:57:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026974870861705570"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nsafQmLaHS",
+              "end": 27,
+              "expanded_url": "https://x.com/yrr0rinblues/status/2026974870861705570/photo/1",
+              "media_key": "3_2026974855858708480",
+              "start": 4,
+              "url": "https://t.co/nsafQmLaHS"
+            },
+            {
+              "display_url": "pic.x.com/nsafQmLaHS",
+              "end": 27,
+              "expanded_url": "https://x.com/yrr0rinblues/status/2026974870861705570/photo/1",
+              "media_key": "3_2026974855854436352",
+              "start": 4,
+              "url": "https://t.co/nsafQmLaHS"
+            },
+            {
+              "display_url": "pic.x.com/nsafQmLaHS",
+              "end": 27,
+              "expanded_url": "https://x.com/yrr0rinblues/status/2026974870861705570/photo/1",
+              "media_key": "3_2026974855858679808",
+              "start": 4,
+              "url": "https://t.co/nsafQmLaHS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026974870861705570",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 35,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "深圳。 https://t.co/nsafQmLaHS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 215,
+          "like_count": 4974,
+          "listed_count": 0,
+          "media_count": 239,
+          "tweet_count": 1568
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-10T14:48:19.000Z",
+        "description": "Metalhead🏳️‍🌈｜普通话&English｜肥宅",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.yrr0r.net",
+                "end": 23,
+                "expanded_url": "http://blog.yrr0r.net",
+                "start": 0,
+                "url": "https://t.co/nlTQQyVdRo"
+              }
+            ]
+          }
+        },
+        "id": "906892094953762816",
+        "location": "在1991年的香港的某个地下室烧煤球炉子",
+        "name": "Yrr0r",
+        "pinned_tweet_id": "2008109457985933779",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022969863241920512/5HN1Hxwd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1962,
+          "following_count": 549,
+          "like_count": 256301,
+          "listed_count": 8,
+          "media_count": 501,
+          "tweet_count": 38295
+        },
+        "url": "https://t.co/nlTQQyVdRo",
+        "username": "yrr0rinblues",
+        "verified": false
+      }
+    ]
+  }
+}

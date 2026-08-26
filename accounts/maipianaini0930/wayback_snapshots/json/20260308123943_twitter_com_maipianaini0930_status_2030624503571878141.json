@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2030624278996222170",
+    "created_at": "2026-03-08T12:39:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T13:39:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030624503571878141"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1885927801435611136",
+          "start": 0,
+          "username": "qixiaogonyiyi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030624503571878141",
+    "in_reply_to_user_id": "1885927801435611136",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030624343269757177",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qixiaogonyiyi 全给姐姐😍"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2030624278996222170",
+        "created_at": "2026-03-08T12:39:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:39:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030624503571878141"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1885927801435611136",
+              "start": 0,
+              "username": "qixiaogonyiyi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030624503571878141",
+        "in_reply_to_user_id": "1885927801435611136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030624343269757177",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qixiaogonyiyi 全给姐姐😍"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885927801435611136",
+        "conversation_id": "2030624278996222170",
+        "created_at": "2026-03-08T12:39:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T13:39:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030624343269757177"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030624343269757177",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030624278996222170",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 我来了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 215,
+          "like_count": 5625,
+          "listed_count": 0,
+          "media_count": 290,
+          "tweet_count": 1817
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T05:46:50.000Z",
+        "description": "这里乙刃绘，可以叫我乙乙，11。🏳️‍⚧️。原账号登不上了这个是新号。主要在推上分享自己喜欢的东西和碎碎念。",
+        "id": "1885927801435611136",
+        "location": "小酒馆",
+        "name": "乙乙小姐的复仇大计😈",
+        "pinned_tweet_id": "1945888889995968799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1932763510796431360/8B7dfvLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 712,
+          "like_count": 48842,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 3915
+        },
+        "username": "qixiaogonyiyi",
+        "verified": false
+      }
+    ]
+  }
+}

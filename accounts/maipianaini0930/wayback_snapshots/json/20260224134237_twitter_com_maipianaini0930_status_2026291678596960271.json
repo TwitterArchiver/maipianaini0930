@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026132804262908134",
+    "created_at": "2026-02-24T13:42:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:42:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026291678596960271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1678880726614196225",
+          "start": 0,
+          "username": "RokuLixo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026291678596960271",
+    "in_reply_to_user_id": "1678880726614196225",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026290835835261371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RokuLixo wow，brazilian"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026132804262908134",
+        "created_at": "2026-02-24T13:42:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:42:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026291678596960271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1678880726614196225",
+              "start": 0,
+              "username": "RokuLixo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026291678596960271",
+        "in_reply_to_user_id": "1678880726614196225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026290835835261371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RokuLixo wow，brazilian"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678880726614196225",
+        "conversation_id": "2026132804262908134",
+        "created_at": "2026-02-24T13:39:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:39:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026290835835261371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026290835835261371",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026132804262908134",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 听起来很有意思"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 210,
+          "like_count": 4757,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1496
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T21:36:13.000Z",
+        "description": "⛧ madoka magica, green day & nirvana fan 🎀 🌿 🎸 | pan & demigirl 🏳️‍🌈🏳️‍⚧️ | anarco-comunista Ⓐ☭ | she/her | #ACAB ⛤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "ACAB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pronouns.cc/@RokuLixo",
+                "end": 23,
+                "expanded_url": "https://pronouns.cc/@RokuLixo",
+                "start": 0,
+                "url": "https://t.co/1f6YG8iNbx"
+              }
+            ]
+          }
+        },
+        "id": "1678880726614196225",
+        "location": "🇧🇷",
+        "name": "六・Sophie 🏳️‍⚧️ 🍉",
+        "pinned_tweet_id": "2017840219458879875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026159407478767616/rVabONJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8882,
+          "following_count": 8970,
+          "like_count": 181886,
+          "listed_count": 26,
+          "media_count": 3222,
+          "tweet_count": 33999
+        },
+        "url": "https://t.co/1f6YG8iNbx",
+        "username": "RokuLixo",
+        "verified": false
+      }
+    ]
+  }
+}

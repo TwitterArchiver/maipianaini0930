@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073463547380846592",
+        "3_2073463547376644096"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2073446541835256065",
+    "created_at": "2026-07-04T17:46:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T18:46:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073463565743526038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1946471478184247297",
+          "start": 0,
+          "username": "zxndkbb"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AqHv5RStaQ",
+          "end": 37,
+          "expanded_url": "https://x.com/maipianaini0930/status/2073463565743526038/photo/1",
+          "media_key": "3_2073463547380846592",
+          "start": 14,
+          "url": "https://t.co/AqHv5RStaQ"
+        },
+        {
+          "display_url": "pic.x.com/AqHv5RStaQ",
+          "end": 37,
+          "expanded_url": "https://x.com/maipianaini0930/status/2073463565743526038/photo/1",
+          "media_key": "3_2073463547376644096",
+          "start": 14,
+          "url": "https://t.co/AqHv5RStaQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073463565743526038",
+    "in_reply_to_user_id": "1946471478184247297",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073446541835256065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zxndkbb 我当时的 https://t.co/AqHv5RStaQ"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2073446541835256065].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2073446541835256065",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2073446541835256065"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 553,
+        "media_key": "3_2073463547380846592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZsHFRbUAApmYa.jpg",
+        "width": 933
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2073463547376644096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMZsHFQbMAA3mNS.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073463547380846592",
+            "3_2073463547376644096"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2073446541835256065",
+        "created_at": "2026-07-04T17:46:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T18:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073463565743526038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1946471478184247297",
+              "start": 0,
+              "username": "zxndkbb"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AqHv5RStaQ",
+              "end": 37,
+              "expanded_url": "https://x.com/maipianaini0930/status/2073463565743526038/photo/1",
+              "media_key": "3_2073463547380846592",
+              "start": 14,
+              "url": "https://t.co/AqHv5RStaQ"
+            },
+            {
+              "display_url": "pic.x.com/AqHv5RStaQ",
+              "end": 37,
+              "expanded_url": "https://x.com/maipianaini0930/status/2073463565743526038/photo/1",
+              "media_key": "3_2073463547376644096",
+              "start": 14,
+              "url": "https://t.co/AqHv5RStaQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073463565743526038",
+        "in_reply_to_user_id": "1946471478184247297",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073446541835256065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zxndkbb 我当时的 https://t.co/AqHv5RStaQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2072502086227669473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422,
+          "following_count": 292,
+          "like_count": 10742,
+          "listed_count": 1,
+          "media_count": 703,
+          "tweet_count": 4703
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-19T07:25:47.000Z",
+        "description": "我爱你们♡",
+        "id": "1946471478184247297",
+        "name": "Maruko♪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066532591923286016/vCfyyfMV_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 127,
+          "like_count": 645,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "zxndkbb",
+        "verified": false
+      }
+    ]
+  }
+}

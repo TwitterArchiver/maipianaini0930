@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2031720334869860481",
+    "created_at": "2026-03-11T17:13:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-11T18:13:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031780513934164308"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1117364044753772544",
+          "start": 0,
+          "username": "Greencitypop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031780513934164308",
+    "in_reply_to_user_id": "1117364044753772544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031720334869860481",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Greencitypop 这种酒吧不倒闭真是奇了大怪了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031720321854930944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIe3kMbAAAkiHW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031720321825550336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIe3kFasAAnUh2.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031720321863315456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDIe3kOa8AAJbkH.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2031720334869860481",
+        "created_at": "2026-03-11T17:13:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T18:13:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031780513934164308"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1117364044753772544",
+              "start": 0,
+              "username": "Greencitypop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031780513934164308",
+        "in_reply_to_user_id": "1117364044753772544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031720334869860481",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Greencitypop 这种酒吧不倒闭真是奇了大怪了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031720321854930944",
+            "3_2031720321825550336",
+            "3_2031720321863315456"
+          ]
+        },
+        "author_id": "1117364044753772544",
+        "conversation_id": "2031720334869860481",
+        "created_at": "2026-03-11T13:14:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T14:14:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031720334869860481"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3wiThF0d9B",
+              "end": 45,
+              "expanded_url": "https://x.com/Greencitypop/status/2031720334869860481/photo/1",
+              "media_key": "3_2031720321854930944",
+              "start": 22,
+              "url": "https://t.co/3wiThF0d9B"
+            },
+            {
+              "display_url": "pic.x.com/3wiThF0d9B",
+              "end": 45,
+              "expanded_url": "https://x.com/Greencitypop/status/2031720334869860481/photo/1",
+              "media_key": "3_2031720321825550336",
+              "start": 22,
+              "url": "https://t.co/3wiThF0d9B"
+            },
+            {
+              "display_url": "pic.x.com/3wiThF0d9B",
+              "end": 45,
+              "expanded_url": "https://x.com/Greencitypop/status/2031720334869860481/photo/1",
+              "media_key": "3_2031720321863315456",
+              "start": 22,
+              "url": "https://t.co/3wiThF0d9B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031720334869860481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 881,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "碰到一家完全禁烟的酒吧可以说是稀奇的程度。 https://t.co/3wiThF0d9B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 228,
+          "like_count": 5838,
+          "listed_count": 0,
+          "media_count": 310,
+          "tweet_count": 1925
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-14T09:48:42.000Z",
+        "description": "相信我的直觉、允许一切冲动",
+        "id": "1117364044753772544",
+        "location": "kepler-442b",
+        "name": "🟢",
+        "pinned_tweet_id": "1991802253616042166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021271957971533830/IMrsWFC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5512,
+          "following_count": 324,
+          "like_count": 13432,
+          "listed_count": 20,
+          "media_count": 1878,
+          "tweet_count": 12280
+        },
+        "username": "Greencitypop",
+        "verified": false
+      }
+    ]
+  }
+}

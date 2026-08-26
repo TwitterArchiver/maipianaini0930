@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "1997377782335320491",
+    "created_at": "2025-12-08T18:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-08T19:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998101259895906641"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "981656031301218304",
+          "start": 0,
+          "username": "yuroy_kawano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998101259895906641",
+    "in_reply_to_user_id": "981656031301218304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997985560611455048",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuroy_kawano ありがとうございます。分かりました"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1997377782335320491",
+        "created_at": "2025-12-08T18:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T19:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998101259895906641"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "981656031301218304",
+              "start": 0,
+              "username": "yuroy_kawano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998101259895906641",
+        "in_reply_to_user_id": "981656031301218304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997985560611455048",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuroy_kawano ありがとうございます。分かりました"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "981656031301218304",
+        "conversation_id": "1997377782335320491",
+        "created_at": "2025-12-08T11:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-08T12:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997985560611455048"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "青い春",
+              "probability": 0.4256,
+              "start": 18,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997985560611455048",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997747344365035535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 「青い春」ですね。特に考えてませんでしたが、好きな映画なのでどこかでイメージしてたかもしれないですね。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 170,
+          "like_count": 1673,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 556
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-04T22:13:30.000Z",
+        "description": "チョッキは着てても火は熱い",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuroy.rdy.jp",
+                "end": 23,
+                "expanded_url": "http://yuroy.rdy.jp/",
+                "start": 0,
+                "url": "https://t.co/Y6EJFrGQML"
+              }
+            ]
+          }
+        },
+        "id": "981656031301218304",
+        "location": "岡山",
+        "name": "川野",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/981738143534669824/75ILlDzG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4402,
+          "following_count": 245,
+          "like_count": 0,
+          "listed_count": 37,
+          "media_count": 624,
+          "tweet_count": 3277
+        },
+        "url": "https://t.co/Y6EJFrGQML",
+        "username": "yuroy_kawano",
+        "verified": false
+      }
+    ]
+  }
+}

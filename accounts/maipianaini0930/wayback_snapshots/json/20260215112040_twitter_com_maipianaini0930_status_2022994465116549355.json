@@ -1,0 +1,152 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2022993539962110275",
+    "created_at": "2026-02-15T11:20:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T12:20:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022994465116549355"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2022994465116549355",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022993539962110275",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "回忆它们在潜意识构造延续出的某种情境。我就写随笔把它们记下，条子让我注销账号，手稿也付之一炬那种痛心疾首"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2022993539962110275",
+        "created_at": "2026-02-15T11:20:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:20:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022994465116549355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022994465116549355",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022993539962110275",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "回忆它们在潜意识构造延续出的某种情境。我就写随笔把它们记下，条子让我注销账号，手稿也付之一炬那种痛心疾首"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2022993539962110275",
+        "created_at": "2026-02-15T11:16:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T12:16:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022993539962110275"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022993539962110275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "元旦以来我都没怎么好好看过电影，好像很害怕持续专注做某件事情，不是我无法集中精力，集中便需摒除杂念聚精会神，我生怕自己遗忘对某段的记忆。这些记忆不是连续平直的线条，像是顺藤摸瓜一样，随便从哪里开始自然而然就能过渡向下。我每天强迫自己花费大量时间在反刍这些零散的对话、光线、气味上面"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 203,
+          "like_count": 4182,
+          "listed_count": 0,
+          "media_count": 195,
+          "tweet_count": 1308
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

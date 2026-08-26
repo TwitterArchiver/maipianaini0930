@@ -1,0 +1,180 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039528669438443793",
+    "created_at": "2026-04-02T02:22:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T03:22:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039528812103520503"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2039528812103520503",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039528669438443793",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "旷野！！！！输入法你妈死了狗东西"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2039528637234655232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3cfVubsAA7KQ0.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039528669438443793",
+        "created_at": "2026-04-02T02:22:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:22:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039528812103520503"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039528812103520503",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039528669438443793",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "旷野！！！！输入法你妈死了狗东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039528637234655232"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Alabama",
+              "id": "1004433527683731457",
+              "name": "Alabama"
+            }
+          }
+        ],
+        "conversation_id": "2039528669438443793",
+        "created_at": "2026-04-02T02:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T03:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039528669438443793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FZJfZaVypf",
+              "end": 91,
+              "expanded_url": "https://x.com/maipianaini0930/status/2039528669438443793/photo/1",
+              "media_key": "3_2039528637234655232",
+              "start": 68,
+              "url": "https://t.co/FZJfZaVypf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039528669438443793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "此live的Alabama song特别好听，毛毛躁躁的音质更显浑厚。我喝酒还是喜欢循环他们第一张专辑，像飞奔在美国南部潮湿漆黑的狂野 https://t.co/FZJfZaVypf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 246,
+          "like_count": 7306,
+          "listed_count": 0,
+          "media_count": 410,
+          "tweet_count": 2718
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

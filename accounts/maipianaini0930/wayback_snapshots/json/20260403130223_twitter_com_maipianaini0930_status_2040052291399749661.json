@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2040051037797753130",
+    "created_at": "2026-04-03T13:02:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T14:02:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040052291399749661"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2040052291399749661",
+    "in_reply_to_user_id": "1987138845058736133",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040051037797753130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "两天我还喝了一箱蓝带啤酒四瓶红酒"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2040051018797604864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-3l8sa4AA0UHi.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2040051037797753130",
+        "created_at": "2026-04-03T13:02:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T14:02:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040052291399749661"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040052291399749661",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040051037797753130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "两天我还喝了一箱蓝带啤酒四瓶红酒"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040051018797604864"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040051037797753130",
+        "created_at": "2026-04-03T12:57:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T13:57:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040051037797753130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MizbfMPJmb",
+              "end": 37,
+              "expanded_url": "https://x.com/maipianaini0930/status/2040051037797753130/photo/1",
+              "media_key": "3_2040051018797604864",
+              "start": 14,
+              "url": "https://t.co/MizbfMPJmb"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2039318466998722718",
+              "start": 38,
+              "url": "https://t.co/VA9Lzb5Dpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040051037797753130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039318466998722718",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我把伏特加和黑麦波本喝完了 https://t.co/MizbfMPJmb https://t.co/VA9Lzb5Dpt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 311,
+          "following_count": 251,
+          "like_count": 7501,
+          "listed_count": 0,
+          "media_count": 421,
+          "tweet_count": 2833
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

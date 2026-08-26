@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "1999608067378545044",
+    "created_at": "2025-12-12T22:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-12T23:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1999608067378545044"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cinranet/statu…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/cinranet/status/1999037382839185440",
+          "start": 6,
+          "url": "https://t.co/bgBl0BD7Xp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1999608067378545044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999037382839185440",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羡慕、想看 https://t.co/bgBl0BD7Xp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1261,
+        "media_key": "3_1999036708860706816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G74BS5ybwAAjFP9.jpg",
+        "width": 1799
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1999608067378545044",
+        "created_at": "2025-12-12T22:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T23:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999608067378545044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cinranet/statu…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/cinranet/status/1999037382839185440",
+              "start": 6,
+              "url": "https://t.co/bgBl0BD7Xp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999608067378545044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999037382839185440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕、想看 https://t.co/bgBl0BD7Xp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999036708860706816"
+          ]
+        },
+        "author_id": "59365878",
+        "conversation_id": "1999037382839185440",
+        "created_at": "2025-12-11T08:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T09:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999037382839185440"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "ユアン・マクレガー",
+              "probability": 0.2497,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 22,
+              "normalized_text": "トレインスポッティング",
+              "probability": 0.8699,
+              "start": 12,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "description": "映画『トレインスポッティング』が2026年1月30日より2週間限定で全国リバイバル上映される。",
+              "display_url": "cinra.net/article/202512…",
+              "end": 71,
+              "expanded_url": "https://www.cinra.net/article/202512-whn-trainspotting_edteam",
+              "images": [
+                {
+                  "height": 1261,
+                  "url": "https://pbs.twimg.com/news_img/1999037386970566656/Z5xQuapH?format=jpg&name=orig",
+                  "width": 1799
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1999037386970566656/Z5xQuapH?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 48,
+              "status": 200,
+              "title": "ユアン・マクレガー主演『トレインスポッティング』が1月30日より2週間限定で全国リバイバル上映 | CINRA",
+              "unwound_url": "https://www.cinra.net/article/202512-whn-trainspotting_edteam",
+              "url": "https://t.co/5OJuGwoTh2"
+            },
+            {
+              "display_url": "pic.x.com/k0YBA4yKgY",
+              "end": 95,
+              "expanded_url": "https://x.com/CINRANET/status/1999037382839185440/photo/1",
+              "media_key": "3_1999036708860706816",
+              "start": 72,
+              "url": "https://t.co/k0YBA4yKgY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999037382839185440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 126949,
+          "like_count": 2065,
+          "quote_count": 89,
+          "reply_count": 6,
+          "retweet_count": 285
+        },
+        "reply_settings": "everyone",
+        "text": "ユアン・マクレガー主演『トレインスポッティング』が1月30日より2週間限定で全国リバイバル上映\nhttps://t.co/5OJuGwoTh2 https://t.co/k0YBA4yKgY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 170,
+          "like_count": 1814,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 595
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-23T04:49:38.000Z",
+        "description": "芸術文化から社会課題までを扱うウェブメディア「CINRA」のアカウントです。世の中のさまざまな「クリエイティブな意思」を紹介する記事を毎日お届けします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cinra.net",
+                "end": 23,
+                "expanded_url": "https://www.cinra.net",
+                "start": 0,
+                "url": "https://t.co/LoyTMT0Je5"
+              }
+            ]
+          }
+        },
+        "id": "59365878",
+        "name": "CINRA",
+        "pinned_tweet_id": "1978770394749489252",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1445560942595477515/26anL84L_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151847,
+          "following_count": 2948,
+          "like_count": 421,
+          "listed_count": 3981,
+          "media_count": 61435,
+          "tweet_count": 110143
+        },
+        "url": "https://t.co/LoyTMT0Je5",
+        "username": "CINRANET",
+        "verified": true
+      }
+    ]
+  }
+}

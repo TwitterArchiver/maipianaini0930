@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2080401940278829261",
+    "created_at": "2026-07-24T04:05:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T05:05:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080504502411755906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1619034065428156416",
+          "start": 0,
+          "username": "qtieofshedtwt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080504502411755906",
+    "in_reply_to_user_id": "1619034065428156416",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080401940278829261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qtieofshedtwt i plan to go to there in autumn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2080401940278829261",
+        "created_at": "2026-07-24T04:05:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T05:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080504502411755906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1619034065428156416",
+              "start": 0,
+              "username": "qtieofshedtwt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080504502411755906",
+        "in_reply_to_user_id": "1619034065428156416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080401940278829261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qtieofshedtwt i plan to go to there in autumn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1619034065428156416",
+        "conversation_id": "2080401940278829261",
+        "created_at": "2026-07-23T21:17:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T22:17:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080401940278829261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080401940278829261",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I leave to go to japan tomorrow im so happy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2079927002224836795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077800989445488640/ZW63xMv6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 446,
+          "following_count": 306,
+          "like_count": 11314,
+          "listed_count": 1,
+          "media_count": 752,
+          "tweet_count": 5032
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-27T18:06:27.000Z",
+        "description": "i love you Uni |\ntrans girl!! | lesbian | autistic | 18! | intp | stoner!! | Rhythm game fanatic | your local insomniac! |",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "literallyqtie.straw.page",
+                "end": 23,
+                "expanded_url": "https://literallyqtie.straw.page",
+                "start": 0,
+                "url": "https://t.co/7uYXX6Hm80"
+              }
+            ]
+          }
+        },
+        "id": "1619034065428156416",
+        "location": "my room",
+        "name": "Maya of shtwt",
+        "pinned_tweet_id": "2052042075278041155",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052040689429684224/9N6V5Adp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 493,
+          "following_count": 721,
+          "like_count": 14734,
+          "listed_count": 7,
+          "media_count": 443,
+          "tweet_count": 7076
+        },
+        "url": "https://t.co/7uYXX6Hm80",
+        "username": "qtieofshedtwt",
+        "verified": false
+      }
+    ]
+  }
+}

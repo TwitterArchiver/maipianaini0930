@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2012455713965215744"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2012455780084334593",
+    "created_at": "2026-01-17T09:23:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-17T10:23:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2012455780084334593"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/SDA9G4GYau",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2012455780084334593/video/1",
+          "media_key": "13_2012455713965215744",
+          "start": 0,
+          "url": "https://t.co/SDA9G4GYau"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2012455780084334593",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/SDA9G4GYau"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18166,
+        "height": 720,
+        "media_key": "13_2012455713965215744",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2012455713965215744/img/EhUFdvA3L7Kki1Nf.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012455713965215744/vid/avc1/480x270/4r0_qMYGmEE5rUB-.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012455713965215744/vid/avc1/640x360/6KMf2QgF_ziLm-c7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2012455713965215744/vid/avc1/1280x720/JbH0wEoDlcwzhk2W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2012455713965215744/pl/He11u2Fgu59hglR6.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2012455713965215744"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2012455780084334593",
+        "created_at": "2026-01-17T09:23:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-17T10:23:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2012455780084334593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SDA9G4GYau",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2012455780084334593/video/1",
+              "media_key": "13_2012455713965215744",
+              "start": 0,
+              "url": "https://t.co/SDA9G4GYau"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2012455780084334593",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/SDA9G4GYau"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006274810918363138/El07gvs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 193,
+          "like_count": 3035,
+          "listed_count": 0,
+          "media_count": 157,
+          "tweet_count": 989
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

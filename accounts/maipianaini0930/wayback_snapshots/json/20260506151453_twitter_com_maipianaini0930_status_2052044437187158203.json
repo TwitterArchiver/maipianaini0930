@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2052032722684834138",
+    "created_at": "2026-05-06T15:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T16:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052044437187158203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052044437187158203",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052032722684834138",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 吴二棒你可以在名字后面用括号带个“vernbaung”吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052032689642070016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpI2-2a4AAQEm7.jpg",
+        "width": 895
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052032702816403456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHpI3v7bQAAKm6l.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2052032722684834138",
+        "created_at": "2026-05-06T15:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T16:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052044437187158203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052044437187158203",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052032722684834138",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 吴二棒你可以在名字后面用括号带个“vernbaung”吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052032689642070016",
+            "3_2052032702816403456"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "conversation_id": "2052032722684834138",
+        "created_at": "2026-05-06T14:28:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:28:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052032722684834138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z6GN2YVqJV",
+              "end": 48,
+              "expanded_url": "https://x.com/wuerbangbang/status/2052032722684834138/photo/1",
+              "media_key": "3_2052032689642070016",
+              "start": 25,
+              "url": "https://t.co/Z6GN2YVqJV"
+            },
+            {
+              "display_url": "pic.x.com/Z6GN2YVqJV",
+              "end": 48,
+              "expanded_url": "https://x.com/wuerbangbang/status/2052032722684834138/photo/1",
+              "media_key": "3_2052032702816403456",
+              "start": 25,
+              "url": "https://t.co/Z6GN2YVqJV"
+            },
+            {
+              "display_url": "x.com/wuerbangbang/s…",
+              "end": 72,
+              "expanded_url": "https://twitter.com/wuerbangbang/status/2042903342192693369",
+              "start": 49,
+              "url": "https://t.co/4CUqAeJHMU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052032722684834138",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 493,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042903342192693369",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不能跟前女友以及前女友的男朋友和好朋友见面了🫠。 https://t.co/Z6GN2YVqJV https://t.co/4CUqAeJHMU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 274,
+          "like_count": 9187,
+          "listed_count": 2,
+          "media_count": 576,
+          "tweet_count": 3623
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国家博物馆前馆员。文史艺术、书画篆刻、三俗烂梗、猫咪爱好者。对世界有旺盛的探索欲，喜欢有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & kitty🪭🐾",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 99,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "location": "跳回三界内，待在五行中。",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2011619057360126001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9838,
+          "following_count": 954,
+          "like_count": 17545,
+          "listed_count": 42,
+          "media_count": 2552,
+          "tweet_count": 8226
+        },
+        "username": "wuerbangbang",
+        "verified": true
+      }
+    ]
+  }
+}

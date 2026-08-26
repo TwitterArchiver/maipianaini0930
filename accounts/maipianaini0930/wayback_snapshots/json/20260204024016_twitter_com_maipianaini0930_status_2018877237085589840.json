@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2018693683584053248"
+      ],
+      "media_source_tweet_id": [
+        "2018693688537268313"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1372979536116084740",
+          "name": "Shunji Iwai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1372979536116084740",
+          "name": "Shunji Iwai"
+        }
+      }
+    ],
+    "conversation_id": "2018877237085589840",
+    "created_at": "2026-02-04T02:40:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T03:40:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018877237085589840"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "ゴジさん",
+          "probability": 0.7968,
+          "start": 14,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "101031400",
+          "start": 3,
+          "username": "sindyeye"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5SinCmQ8QK",
+          "end": 95,
+          "expanded_url": "https://x.com/sindyeye/status/2018693688537268313/photo/1",
+          "media_key": "3_2018693683584053248",
+          "start": 72,
+          "url": "https://t.co/5SinCmQ8QK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018877237085589840",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 54
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018693688537268313",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sindyeye: ゴジさん残念です。映画に対して理想高く、妥協を許さない厳しい人でした。反面、実にお茶目な人でした。寂しい限りです。 https://t.co/5SinCmQ8QK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 779,
+        "media_key": "3_2018693683584053248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAPXNbBaMAADs-q.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018693683584053248"
+          ],
+          "media_source_tweet_id": [
+            "2018693688537268313"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1372979536116084740",
+              "name": "Shunji Iwai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1372979536116084740",
+              "name": "Shunji Iwai"
+            }
+          }
+        ],
+        "conversation_id": "2018877237085589840",
+        "created_at": "2026-02-04T02:40:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T03:40:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018877237085589840"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "ゴジさん",
+              "probability": 0.7968,
+              "start": 14,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "101031400",
+              "start": 3,
+              "username": "sindyeye"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5SinCmQ8QK",
+              "end": 95,
+              "expanded_url": "https://x.com/sindyeye/status/2018693688537268313/photo/1",
+              "media_key": "3_2018693683584053248",
+              "start": 72,
+              "url": "https://t.co/5SinCmQ8QK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018877237085589840",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 54
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018693688537268313",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sindyeye: ゴジさん残念です。映画に対して理想高く、妥協を許さない厳しい人でした。反面、実にお茶目な人でした。寂しい限りです。 https://t.co/5SinCmQ8QK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2018693683584053248"
+          ]
+        },
+        "author_id": "101031400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1372979536116084740",
+              "name": "Shunji Iwai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1372979536116084740",
+              "name": "Shunji Iwai"
+            }
+          }
+        ],
+        "conversation_id": "2018693688537268313",
+        "created_at": "2026-02-03T14:30:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T15:28:21.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018693044476727488",
+          "2018693688537268313"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "ゴジさん",
+              "probability": 0.798,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5SinCmQ8QK",
+              "end": 81,
+              "expanded_url": "https://x.com/sindyeye/status/2018693688537268313/photo/1",
+              "media_key": "3_2018693683584053248",
+              "start": 58,
+              "url": "https://t.co/5SinCmQ8QK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018693688537268313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 11440,
+          "like_count": 370,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "ゴジさん残念です。映画に対して理想高く、妥協を許さない厳しい人でした。反面、実にお茶目な人でした。寂しい限りです。 https://t.co/5SinCmQ8QK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2017292445776810321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 213,
+          "like_count": 3663,
+          "listed_count": 0,
+          "media_count": 182,
+          "tweet_count": 1122
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2010-01-01T18:34:36.000Z",
+        "description": "",
+        "id": "101031400",
+        "name": "iwai Shunji 岩井俊二",
+        "pinned_tweet_id": "1974013760504484002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1262758419296972806/ZP2Qms7U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120076,
+          "following_count": 690,
+          "like_count": 3371,
+          "listed_count": 2070,
+          "media_count": 312,
+          "tweet_count": 13246
+        },
+        "username": "sindyeye",
+        "verified": true
+      }
+    ]
+  }
+}

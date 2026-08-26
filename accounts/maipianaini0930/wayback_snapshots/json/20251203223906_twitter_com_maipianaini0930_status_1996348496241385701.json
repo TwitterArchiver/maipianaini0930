@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "1996080229681693026",
+    "created_at": "2025-12-03T22:39:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-03T23:39:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1996348496241385701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1324342709662834688",
+          "start": 0,
+          "username": "Elina_Miyamori"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1996348496241385701",
+    "in_reply_to_user_id": "1324342709662834688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1996080229681693026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Elina_Miyamori 天降之物？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 957,
+        "media_key": "3_1996080224585613314",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7OAY3mbgAIvdvc.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1996080229681693026",
+        "created_at": "2025-12-03T22:39:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T23:39:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1996348496241385701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1324342709662834688",
+              "start": 0,
+              "username": "Elina_Miyamori"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996348496241385701",
+        "in_reply_to_user_id": "1324342709662834688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1996080229681693026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elina_Miyamori 天降之物？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1996080224585613314"
+          ]
+        },
+        "author_id": "1324342709662834688",
+        "conversation_id": "1996080229681693026",
+        "created_at": "2025-12-03T04:53:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-03T05:53:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1996080229681693026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xt57P7IIJ6",
+              "end": 28,
+              "expanded_url": "https://x.com/Elina_Miyamori/status/1996080229681693026/photo/1",
+              "media_key": "3_1996080224585613314",
+              "start": 5,
+              "url": "https://t.co/xt57P7IIJ6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1996080229681693026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 37405,
+          "like_count": 401,
+          "quote_count": 7,
+          "reply_count": 160,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "來玩一下 https://t.co/xt57P7IIJ6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996131957160419328/OtD0oPLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 157,
+          "like_count": 1460,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 501
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-05T13:28:15.000Z",
+        "description": "繪里奈是宮森家的吸血鬼千金，接受了家族試煉當起了Vtuber！日文學習中 各種tag #繪言繪語 #今天繪繪了嗎 #elinart R18fanart #血之女王 繪師媽媽：@tea1022_ 建模爸爸：@Akiza_Bai AI算圖禁止。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "繪言繪語"
+              },
+              {
+                "end": 56,
+                "start": 49,
+                "tag": "今天繪繪了嗎"
+              },
+              {
+                "end": 65,
+                "start": 57,
+                "tag": "elinart"
+              },
+              {
+                "end": 81,
+                "start": 76,
+                "tag": "血之女王"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "start": 87,
+                "username": "tea1022_"
+              },
+              {
+                "end": 112,
+                "start": 102,
+                "username": "Akiza_Bai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/elina_miyamori",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/elina_miyamori",
+                "start": 0,
+                "url": "https://t.co/w4CbwhD04h"
+              }
+            ]
+          }
+        },
+        "id": "1324342709662834688",
+        "location": "工作室的角落處",
+        "name": "宮森えりな 🦇吸血鬼Vtuber 🧛‍♀️",
+        "pinned_tweet_id": "1883747902105022828",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979506616622878720/CpU1KULo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6340,
+          "following_count": 3966,
+          "like_count": 56033,
+          "listed_count": 28,
+          "media_count": 2989,
+          "tweet_count": 55381
+        },
+        "url": "https://t.co/w4CbwhD04h",
+        "username": "Elina_Miyamori",
+        "verified": false
+      }
+    ]
+  }
+}

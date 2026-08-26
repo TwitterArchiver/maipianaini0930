@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2050020879502127246",
+    "created_at": "2026-05-01T05:57:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T06:57:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050092283652137234"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1835724410902265856",
+          "start": 0,
+          "username": "Xxs8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050092283652137234",
+    "in_reply_to_user_id": "1835724410902265856",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050033012272975886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xxs8964 人人都有，你不例外"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2050020879502127246",
+        "created_at": "2026-05-01T05:57:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T06:57:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050092283652137234"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1835724410902265856",
+              "start": 0,
+              "username": "Xxs8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050092283652137234",
+        "in_reply_to_user_id": "1835724410902265856",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050033012272975886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xxs8964 人人都有，你不例外"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835724410902265856",
+        "conversation_id": "2050020879502127246",
+        "created_at": "2026-05-01T02:02:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T03:02:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050033012272975886"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050033012272975886",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050020879502127246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 这啥"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 270,
+          "like_count": 8974,
+          "listed_count": 2,
+          "media_count": 550,
+          "tweet_count": 3450
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T16:56:48.000Z",
+        "description": "｜可以互fo ww｜08\n生心男!!!!\n再有别的男的以为我是女的找我约炮亲妈自动爆炸\nlgbtq友好\n小粉红fuckoff\n不要把我帖子转墙内!",
+        "id": "1835724410902265856",
+        "name": "高性能小学生之戒酒",
+        "pinned_tweet_id": "2024729265384935459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043033223580770304/MS6TYyRm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 937,
+          "like_count": 154,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 1498
+        },
+        "username": "Xxs8964",
+        "verified": false
+      }
+    ]
+  }
+}

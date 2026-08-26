@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2023132853173956789",
+    "created_at": "2026-02-15T20:30:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T21:30:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023132853173956789"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "Isocoria",
+          "probability": 0.6174,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "230772802",
+          "start": 3,
+          "username": "albertoortegana"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023132853173956789",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 27
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020965784445436277",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @albertoortegana: Isocoria: the normal pupillary condition in which both pupils are equal in size and react to light by dilating or cons…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 765,
+        "media_key": "3_2020965781769728002",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAvpq8WasAIUlub.jpg",
+        "width": 535
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2023132853173956789",
+        "created_at": "2026-02-15T20:30:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T21:30:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023132853173956789"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "Isocoria",
+              "probability": 0.6174,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "230772802",
+              "start": 3,
+              "username": "albertoortegana"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023132853173956789",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 27
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020965784445436277",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @albertoortegana: Isocoria: the normal pupillary condition in which both pupils are equal in size and react to light by dilating or cons…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020965781769728002"
+          ]
+        },
+        "author_id": "230772802",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2020965784445436277",
+        "created_at": "2026-02-09T20:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T21:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020965784445436277"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "Isocoria",
+              "probability": 0.6758,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 136,
+              "normalized_text": "Mydriasis",
+              "probability": 0.7692,
+              "start": 128,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MPmfB4Cqls",
+              "end": 302,
+              "expanded_url": "https://x.com/albertoortegana/status/2020965784445436277/photo/1",
+              "media_key": "3_2020965781769728002",
+              "start": 279,
+              "url": "https://t.co/MPmfB4Cqls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020965784445436277",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Isocoria: the normal pupillary condition in which both pupils are equal in size and react to light by dilating or constricting.\nMydriasis: both pupils are dilated. This commonly occurs due to substance intoxication and may also be a sign of brain injury. The pupils do not react to light.\nMiosis: both pupils are markedly constricted, generally caused by opioid use, chemical intoxication, or it may also indicate brain injury. The pupils do not react to light.\nAnisocoria: inequality in pupil size, which may indicate brain injury. The pupils do not react to light.\nThe pupillary reflex is an assessment measure used in the Glasgow Coma Scale to help determine whether there is impairment of neurological function."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 3547,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "Isocoria: the normal pupillary condition in which both pupils are equal in size and react to light by dilating or constricting.\nMydriasis: both pupils are dilated. This commonly occurs due to substance intoxication and may also be a sign of brain injury. The pupils do not react https://t.co/MPmfB4Cqls"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 203,
+          "like_count": 4196,
+          "listed_count": 0,
+          "media_count": 197,
+          "tweet_count": 1316
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2010-12-26T16:43:46.000Z",
+        "description": "Enfermero. Ex supervisor planta de Medicina Interna.Área de Enfermedades Infecciosas.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "todo-vih-vhc.hazblog.com",
+                "end": 23,
+                "expanded_url": "https://todo-vih-vhc.hazblog.com/",
+                "start": 0,
+                "url": "https://t.co/NBE4cCcIRW"
+              }
+            ]
+          }
+        },
+        "id": "230772802",
+        "name": "C.Alberto Ortega",
+        "pinned_tweet_id": "2022409827704791228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991334885366140928/gdgEmJFv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8969,
+          "following_count": 8398,
+          "like_count": 53071,
+          "listed_count": 28,
+          "media_count": 4260,
+          "tweet_count": 75404
+        },
+        "url": "https://t.co/NBE4cCcIRW",
+        "username": "albertoortegana",
+        "verified": true
+      }
+    ]
+  }
+}

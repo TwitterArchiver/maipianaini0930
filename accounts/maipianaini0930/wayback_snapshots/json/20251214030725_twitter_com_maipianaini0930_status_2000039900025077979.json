@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "1999796594481532989",
+    "created_at": "2025-12-14T03:07:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T04:07:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000039900025077979"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693124545492983808",
+          "start": 0,
+          "username": "rustInsidee"
+        },
+        {
+          "end": 23,
+          "id": "1640144056125902848",
+          "start": 13,
+          "username": "szekei707"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000039900025077979",
+    "in_reply_to_user_id": "1693124545492983808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999808159129735423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rustInsidee @szekei707 去年我从中环诚品书店出来见到她在外面....比了个金属礼的手势她看见笑了一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "1999796594481532989",
+        "created_at": "2025-12-14T03:07:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T04:07:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000039900025077979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693124545492983808",
+              "start": 0,
+              "username": "rustInsidee"
+            },
+            {
+              "end": 23,
+              "id": "1640144056125902848",
+              "start": 13,
+              "username": "szekei707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000039900025077979",
+        "in_reply_to_user_id": "1693124545492983808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999808159129735423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rustInsidee @szekei707 去年我从中环诚品书店出来见到她在外面....比了个金属礼的手势她看见笑了一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1693124545492983808",
+        "conversation_id": "1999796594481532989",
+        "created_at": "2025-12-13T11:46:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-13T12:46:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999808159129735423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1640144056125902848",
+              "start": 0,
+              "username": "szekei707"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999808159129735423",
+        "in_reply_to_user_id": "1640144056125902848",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999803700236390864",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@szekei707 是啊…💧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 174,
+          "like_count": 1849,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 613
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-20T04:55:41.000Z",
+        "description": "我純潔的一刻勝過你一生的謊言",
+        "id": "1693124545492983808",
+        "name": "她在時間門外",
+        "pinned_tweet_id": "1742580780474478784",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740760541604581376/QgVGc5GH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7931,
+          "following_count": 396,
+          "like_count": 9459,
+          "listed_count": 19,
+          "media_count": 1601,
+          "tweet_count": 7002
+        },
+        "username": "rustInsidee",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-27T00:09:59.000Z",
+        "description": "一切都會好的",
+        "id": "1640144056125902848",
+        "location": "💖",
+        "name": "Kel",
+        "pinned_tweet_id": "1988832856043364514",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999870233885163520/l0rPCcnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 125,
+          "like_count": 19622,
+          "listed_count": 2,
+          "media_count": 996,
+          "tweet_count": 7045
+        },
+        "username": "szekei707",
+        "verified": false
+      }
+    ]
+  }
+}

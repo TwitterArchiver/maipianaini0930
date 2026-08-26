@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028459812900774270",
+    "created_at": "2026-03-02T21:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-02T22:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2028587137550229606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1938335923587973120",
+          "start": 0,
+          "username": "inKhJ5dke532638"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2028587137550229606",
+    "in_reply_to_user_id": "1938335923587973120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2028587043329323517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@inKhJ5dke532638 玩一辈子把它砸烂掉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028459812900774270",
+        "created_at": "2026-03-02T21:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028587137550229606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1938335923587973120",
+              "start": 0,
+              "username": "inKhJ5dke532638"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028587137550229606",
+        "in_reply_to_user_id": "1938335923587973120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028587043329323517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@inKhJ5dke532638 玩一辈子把它砸烂掉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938335923587973120",
+        "conversation_id": "2028459812900774270",
+        "created_at": "2026-03-02T21:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-02T22:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2028587043329323517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2028587043329323517",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028583583229813186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 222,
+          "like_count": 5244,
+          "listed_count": 0,
+          "media_count": 269,
+          "tweet_count": 1693
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-26T20:38:05.000Z",
+        "description": "インターネットや・め・ろ～！！！ 這只是一個小女孩的紀錄生活碎碎念什麼都沒有。明后年日留🚪52/88 好友位@Austinblue90845",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "Austinblue90845"
+              }
+            ]
+          }
+        },
+        "id": "1938335923587973120",
+        "location": "地獄",
+        "name": "ネコ王様👑",
+        "pinned_tweet_id": "1952084171851239880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960430951605133315/cvphLfw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298,
+          "following_count": 253,
+          "like_count": 2833,
+          "listed_count": 0,
+          "media_count": 234,
+          "tweet_count": 2241
+        },
+        "username": "inKhJ5dke532638",
+        "verified": false
+      }
+    ]
+  }
+}

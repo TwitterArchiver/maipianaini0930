@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2060654072760512870",
+    "created_at": "2026-05-30T12:37:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T13:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060702068810322002"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1947564512984567808",
+          "start": 0,
+          "username": "LINKINGMadoka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060702068810322002",
+    "in_reply_to_user_id": "1947564512984567808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060654072760512870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LINKINGMadoka 换个硬点的卡好刮一点"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4720,
+        "height": 1280,
+        "media_key": "7_2060653988736086016",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060653988736086016/pu/img/QlZ3JM7Jkw0UABcr.jpg",
+        "public_metrics": {
+          "view_count": 33
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060653988736086016/pu/vid/avc1/320x718/bedGn4lJUGFP21R8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060653988736086016/pu/vid/avc1/480x1076/pBe3g_fm_haacgZT.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060653988736086016/pu/vid/avc1/570x1280/YKkknu4a4XF5OwCS.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060653988736086016/pu/pl/o0PjpmRblBefxZRz.m3u8?tag=12"
+          }
+        ],
+        "width": 570
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2060654072760512870",
+        "created_at": "2026-05-30T12:37:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060702068810322002"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1947564512984567808",
+              "start": 0,
+              "username": "LINKINGMadoka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060702068810322002",
+        "in_reply_to_user_id": "1947564512984567808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060654072760512870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LINKINGMadoka 换个硬点的卡好刮一点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060653988736086016"
+          ]
+        },
+        "author_id": "1947564512984567808",
+        "conversation_id": "2060654072760512870",
+        "created_at": "2026-05-30T09:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T10:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060654072760512870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vmSosPf4Vn",
+              "end": 28,
+              "expanded_url": "https://x.com/LINKINGMadoka/status/2060654072760512870/video/1",
+              "media_key": "7_2060653988736086016",
+              "start": 5,
+              "url": "https://t.co/vmSosPf4Vn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060654072760512870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 99,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鼻子好痛 https://t.co/vmSosPf4Vn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我吸毒潜力的伯乐\n❌🇮🇱🇷🇺",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 292,
+          "like_count": 9869,
+          "listed_count": 2,
+          "media_count": 633,
+          "tweet_count": 4152
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-22T07:49:16.000Z",
+        "description": "02年mtx&泛性恋｜hrt in 2025.6｜od｜家长党｜ADHD｜同类互fo｜坐标江苏泰州｜亲爱的@ashasw114514｜妹妹@Chiyuyu520｜脑残  患有did和癔症｜厌男 郭蛆退散｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 53,
+                "username": "ashasw114514"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "Chiyuyu520"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+sz6i6N60Epo3N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+sz6i6N60Epo3NmE1",
+                "start": 0,
+                "url": "https://t.co/WpZdDzPSRA"
+              }
+            ]
+          }
+        },
+        "id": "1947564512984567808",
+        "location": "天国",
+        "name": "LinKing阿圆🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984197385401368576/nM0gB57M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1560,
+          "following_count": 1302,
+          "like_count": 1415,
+          "listed_count": 1,
+          "media_count": 190,
+          "tweet_count": 1451
+        },
+        "url": "https://t.co/WpZdDzPSRA",
+        "username": "LINKINGMadoka",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2033372805568643230",
+    "created_at": "2026-03-16T06:27:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T07:27:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033429864360149417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1821312171923644416",
+          "start": 0,
+          "username": "jagaimo6681"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033429864360149417",
+    "in_reply_to_user_id": "1821312171923644416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033429729886503382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jagaimo6681 那就改天吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2033372805568643230",
+        "created_at": "2026-03-16T06:27:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:27:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033429864360149417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1821312171923644416",
+              "start": 0,
+              "username": "jagaimo6681"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033429864360149417",
+        "in_reply_to_user_id": "1821312171923644416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033429729886503382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jagaimo6681 那就改天吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1821312171923644416",
+        "conversation_id": "2033372805568643230",
+        "created_at": "2026-03-16T06:26:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T07:26:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033429729886503382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033429729886503382",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033429304458334505",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 门口一直有好多人排队😫"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "本账号为大陆酒鬼收容所\n高价回收过期啤酒、酒瓶子、易拉罐、烟头",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 236,
+          "like_count": 5935,
+          "listed_count": 0,
+          "media_count": 330,
+          "tweet_count": 2048
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-07T22:27:26.000Z",
+        "description": "来自农村，中专学历，没出过省，家境贫寒，没有工作，没有眼界，请不要与我对战，给我一丝温暖，让我隐入尘世，谢谢。\n@kaerigumo1585 友情か恋かなんてどうでもよくて、君がいちばん好きだよ！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 56,
+                "username": "kaerigumo1585"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "picawang.com",
+                "end": 23,
+                "expanded_url": "https://picawang.com/",
+                "start": 0,
+                "url": "https://t.co/F3AUMZjoSQ"
+              }
+            ]
+          }
+        },
+        "id": "1821312171923644416",
+        "name": "にゃがいも",
+        "pinned_tweet_id": "2031672768773882364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030591059064209408/Sf2CcV2u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 616,
+          "like_count": 38020,
+          "listed_count": 6,
+          "media_count": 620,
+          "tweet_count": 10729
+        },
+        "url": "https://t.co/F3AUMZjoSQ",
+        "username": "jagaimo6681",
+        "verified": true
+      }
+    ]
+  }
+}

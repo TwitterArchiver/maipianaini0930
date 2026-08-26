@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2047924732922937506",
+    "created_at": "2026-04-25T09:27:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T10:27:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047970698623394224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929758690451804160",
+          "start": 0,
+          "username": "xi_shu63821"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047970698623394224",
+    "in_reply_to_user_id": "1929758690451804160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047970494289453162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xi_shu63821 一位北朝鲜的故人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2047924732922937506",
+        "created_at": "2026-04-25T09:27:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:27:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047970698623394224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929758690451804160",
+              "start": 0,
+              "username": "xi_shu63821"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047970698623394224",
+        "in_reply_to_user_id": "1929758690451804160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047970494289453162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xi_shu63821 一位北朝鲜的故人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929758690451804160",
+        "conversation_id": "2047924732922937506",
+        "created_at": "2026-04-25T09:26:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T10:26:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047970494289453162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047970494289453162",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047924732922937506",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 不得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047526871324356608/lOu2gnWU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 275,
+          "like_count": 8728,
+          "listed_count": 1,
+          "media_count": 531,
+          "tweet_count": 3366
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-03T04:35:12.000Z",
+        "description": "欢迎互fo 老鼠人\n笑对人生666",
+        "id": "1929758690451804160",
+        "name": "ballex",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013517862900568064/-JV3wivl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34,
+          "following_count": 122,
+          "like_count": 3215,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 830
+        },
+        "username": "xi_shu63821",
+        "verified": false
+      }
+    ]
+  }
+}

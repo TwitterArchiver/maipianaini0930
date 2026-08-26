@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2024736116117790946",
+    "created_at": "2026-02-20T06:41:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T07:41:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2024736116117790946"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ultras_antifaa…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ultras_antifaa/status/2024314495204786275",
+          "start": 5,
+          "url": "https://t.co/NXMGrkBhxx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024736116117790946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024314495204786275",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想买一件 https://t.co/NXMGrkBhxx"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 3390,
+        "height": 1280,
+        "media_key": "13_2022366741884436480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2022366741884436480/img/-x9Iw0f2YiQsaYpX.jpg",
+        "public_metrics": {
+          "view_count": 2728
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022366741884436480/vid/avc1/320x568/z87dJTgOMKtyShJR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022366741884436480/vid/avc1/480x852/h6Lte844d9u1gKx7.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2022366741884436480/vid/avc1/720x1280/pbm_SvBVqON04_0W.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2022366741884436480/pl/Q55_wuMRGWNNph5e.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2024736116117790946",
+        "created_at": "2026-02-20T06:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T07:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024736116117790946"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ultras_antifaa…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ultras_antifaa/status/2024314495204786275",
+              "start": 5,
+              "url": "https://t.co/NXMGrkBhxx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024736116117790946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024314495204786275",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想买一件 https://t.co/NXMGrkBhxx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2022366741884436480"
+          ]
+        },
+        "author_id": "1720152282",
+        "conversation_id": "2024314495204786275",
+        "created_at": "2026-02-19T02:46:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T03:46:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024314495204786275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rwq453dwe3",
+              "end": 70,
+              "expanded_url": "https://x.com/ultras_antifaa/status/2024314495204786275/video/1",
+              "media_key": "13_2022366741884436480",
+              "start": 47,
+              "url": "https://t.co/Rwq453dwe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024314495204786275",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 5777,
+          "like_count": 562,
+          "quote_count": 5,
+          "reply_count": 15,
+          "retweet_count": 103
+        },
+        "reply_settings": "everyone",
+        "text": "❝Israeli occupation forces are the new nazis.❞ https://t.co/Rwq453dwe3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 170,
+          "following_count": 204,
+          "like_count": 4407,
+          "listed_count": 0,
+          "media_count": 208,
+          "tweet_count": 1379
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2013-09-01T20:45:02.000Z",
+        "description": "An international Antifa collective sharing news, photos, and sports from different countries. Message us to join our matchday activities.\nOther: @internaciultra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 145,
+                "username": "internaciultra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "antifaultras.etsy.com",
+                "end": 23,
+                "expanded_url": "https://antifaultras.etsy.com",
+                "start": 0,
+                "url": "https://t.co/ddEJJRNuUg"
+              }
+            ]
+          }
+        },
+        "id": "1720152282",
+        "name": "Antifa_Ultras",
+        "pinned_tweet_id": "2024590313059168596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952318050063052800/nOPRDmI__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231716,
+          "following_count": 1,
+          "like_count": 515,
+          "listed_count": 1013,
+          "media_count": 51028,
+          "tweet_count": 57091
+        },
+        "url": "https://t.co/ddEJJRNuUg",
+        "username": "ultras_antifaa",
+        "verified": true
+      }
+    ]
+  }
+}

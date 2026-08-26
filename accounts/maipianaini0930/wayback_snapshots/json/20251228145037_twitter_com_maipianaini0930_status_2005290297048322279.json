@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2005240329717579776",
+        "3_2005240329998565376"
+      ],
+      "media_source_tweet_id": [
+        "2005240384822423923",
+        "2005240384822423923"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2005290297048322279",
+    "created_at": "2025-12-28T14:50:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-28T15:50:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2005290297048322279"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 23,
+          "normalized_text": "ハードオフ ジャンク",
+          "probability": 0.4263,
+          "start": 14,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "621048261",
+          "start": 3,
+          "username": "chlumill"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2gQSLpicAj",
+          "end": 57,
+          "expanded_url": "https://x.com/chlumill/status/2005240384822423923/photo/1",
+          "media_key": "3_2005240329717579776",
+          "start": 34,
+          "url": "https://t.co/2gQSLpicAj"
+        },
+        {
+          "display_url": "pic.x.com/2gQSLpicAj",
+          "end": 57,
+          "expanded_url": "https://x.com/chlumill/status/2005240384822423923/photo/1",
+          "media_key": "3_2005240329998565376",
+          "start": 34,
+          "url": "https://t.co/2gQSLpicAj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2005290297048322279",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2005240384822423923",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chlumill: ハードオフ ジャンクコーナーで見つけた https://t.co/2gQSLpicAj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2005240329717579776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9QLdKYagAANnCE.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1554,
+        "media_key": "3_2005240329998565376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9QLdLbaAAAxBUO.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005240329717579776",
+            "3_2005240329998565376"
+          ],
+          "media_source_tweet_id": [
+            "2005240384822423923",
+            "2005240384822423923"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2005290297048322279",
+        "created_at": "2025-12-28T14:50:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T15:50:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2005290297048322279"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 23,
+              "normalized_text": "ハードオフ ジャンク",
+              "probability": 0.4263,
+              "start": 14,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "621048261",
+              "start": 3,
+              "username": "chlumill"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gQSLpicAj",
+              "end": 57,
+              "expanded_url": "https://x.com/chlumill/status/2005240384822423923/photo/1",
+              "media_key": "3_2005240329717579776",
+              "start": 34,
+              "url": "https://t.co/2gQSLpicAj"
+            },
+            {
+              "display_url": "pic.x.com/2gQSLpicAj",
+              "end": 57,
+              "expanded_url": "https://x.com/chlumill/status/2005240384822423923/photo/1",
+              "media_key": "3_2005240329998565376",
+              "start": 34,
+              "url": "https://t.co/2gQSLpicAj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005290297048322279",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2005240384822423923",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chlumill: ハードオフ ジャンクコーナーで見つけた https://t.co/2gQSLpicAj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2005240329717579776",
+            "3_2005240329998565376"
+          ]
+        },
+        "author_id": "621048261",
+        "conversation_id": "2005240384822423923",
+        "created_at": "2025-12-28T11:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-28T12:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2005240384822423923"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2gQSLpicAj",
+              "end": 43,
+              "expanded_url": "https://x.com/chlumill/status/2005240384822423923/photo/1",
+              "media_key": "3_2005240329717579776",
+              "start": 20,
+              "url": "https://t.co/2gQSLpicAj"
+            },
+            {
+              "display_url": "pic.x.com/2gQSLpicAj",
+              "end": 43,
+              "expanded_url": "https://x.com/chlumill/status/2005240384822423923/photo/1",
+              "media_key": "3_2005240329998565376",
+              "start": 20,
+              "url": "https://t.co/2gQSLpicAj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2005240384822423923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 84,
+          "impression_count": 20246,
+          "like_count": 711,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "ハードオフ ジャンクコーナーで見つけた https://t.co/2gQSLpicAj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137,
+          "following_count": 195,
+          "like_count": 2365,
+          "listed_count": 0,
+          "media_count": 135,
+          "tweet_count": 833
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2012-06-28T13:07:59.000Z",
+        "description": "クルミって読みます / VJ.映像.3DCGだったり / https://t.co/nsLHOc5vqL…",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/chlumill?igshi",
+                "end": 52,
+                "expanded_url": "http://instagram.com/chlumill?igshi",
+                "start": 29,
+                "url": "https://t.co/nsLHOc5vqL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chlumill.tumblr.com",
+                "end": 23,
+                "expanded_url": "https://chlumill.tumblr.com/",
+                "start": 0,
+                "url": "https://t.co/YLonM31WpH"
+              }
+            ]
+          }
+        },
+        "id": "621048261",
+        "name": "chlumi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1836674494553034752/EoJ_s0NH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3065,
+          "following_count": 1682,
+          "like_count": 33429,
+          "listed_count": 23,
+          "media_count": 1487,
+          "tweet_count": 22966
+        },
+        "url": "https://t.co/YLonM31WpH",
+        "username": "chlumill",
+        "verified": false
+      }
+    ]
+  }
+}

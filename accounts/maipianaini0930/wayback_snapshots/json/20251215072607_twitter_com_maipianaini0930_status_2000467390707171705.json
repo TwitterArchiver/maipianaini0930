@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2000467390707171705",
+    "created_at": "2025-12-15T07:26:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-15T08:26:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2000467390707171705"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2000467390707171705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "跟喜欢的人坐在一起不说话都是有趣的，事后格外怀念，像数钱一样从兜里小心翼翼把那段时光摸出来细细想，大概率还会不由自主地傻笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2000467390707171705",
+        "created_at": "2025-12-15T07:26:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T08:26:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000467390707171705"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000467390707171705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "跟喜欢的人坐在一起不说话都是有趣的，事后格外怀念，像数钱一样从兜里小心翼翼把那段时光摸出来细细想，大概率还会不由自主地傻笑"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "热河南路",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120,
+          "following_count": 177,
+          "like_count": 1935,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 653
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

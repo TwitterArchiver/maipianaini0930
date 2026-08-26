@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2036287662345297922"
+      ],
+      "media_source_tweet_id": [
+        "2036288107579056587"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2039868464643678369",
+    "created_at": "2026-04-03T00:51:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-03T01:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039868464643678369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2031908952741662720",
+          "start": 3,
+          "username": "zombiiiguro"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "youtu.be/rLts6WCq0Ks?si…",
+          "end": 67,
+          "expanded_url": "https://youtu.be/rLts6WCq0Ks?si=W-86AHCrastS1e4I",
+          "images": [
+            {
+              "height": 360,
+              "url": "https://pbs.twimg.com/news_img/2038669127015862273/Xhj3BMXt?format=jpg&name=orig",
+              "width": 480
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2038669127015862273/Xhj3BMXt?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 44,
+          "status": 200,
+          "title": "あたしバカじゃん",
+          "unwound_url": "https://www.youtube.com/watch?si=W-86AHCrastS1e4I&v=rLts6WCq0Ks&feature=youtu.be",
+          "url": "https://t.co/cLxaV26AuC"
+        },
+        {
+          "display_url": "pic.x.com/VVAPxghm8O",
+          "end": 109,
+          "expanded_url": "https://x.com/zombiiiguro/status/2036288107579056587/video/1",
+          "media_key": "13_2036287662345297922",
+          "start": 86,
+          "url": "https://t.co/VVAPxghm8O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039868464643678369",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036288107579056587",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zombiiiguro: あたしバカじゃん I'm Such An Idiot\nhttps://t.co/cLxaV26AuC\nFull translation. https://t.co/VVAPxghm8O"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 120754,
+        "height": 1080,
+        "media_key": "13_2036287662345297922",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036287662345297922/img/vTf0rZuuvA7FjiyZ.jpg",
+        "public_metrics": {
+          "view_count": 455
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036287662345297922/vid/avc1/480x270/qrg8A27gNbCpnbq6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036287662345297922/vid/avc1/640x360/pj1BOHSDfCQ3_fKt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036287662345297922/vid/avc1/1280x720/3Cub5uodXGKbTlP3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036287662345297922/pl/ExJRRGcNtSyOFi9g.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      },
+      {
+        "duration_ms": 120754,
+        "height": 1080,
+        "media_key": "13_2036287662345297922",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2036287662345297922/img/vTf0rZuuvA7FjiyZ.jpg",
+        "public_metrics": {
+          "view_count": 456
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036287662345297922/vid/avc1/480x270/qrg8A27gNbCpnbq6.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036287662345297922/vid/avc1/640x360/pj1BOHSDfCQ3_fKt.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2036287662345297922/vid/avc1/1280x720/3Cub5uodXGKbTlP3.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2036287662345297922/pl/ExJRRGcNtSyOFi9g.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036287662345297922"
+          ],
+          "media_source_tweet_id": [
+            "2036288107579056587"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2039868464643678369",
+        "created_at": "2026-04-03T00:51:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T01:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039868464643678369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2031908952741662720",
+              "start": 3,
+              "username": "zombiiiguro"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/rLts6WCq0Ks?si…",
+              "end": 67,
+              "expanded_url": "https://youtu.be/rLts6WCq0Ks?si=W-86AHCrastS1e4I",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2038669127015862273/Xhj3BMXt?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038669127015862273/Xhj3BMXt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 44,
+              "status": 200,
+              "title": "あたしバカじゃん",
+              "unwound_url": "https://www.youtube.com/watch?si=W-86AHCrastS1e4I&v=rLts6WCq0Ks&feature=youtu.be",
+              "url": "https://t.co/cLxaV26AuC"
+            },
+            {
+              "display_url": "pic.x.com/VVAPxghm8O",
+              "end": 109,
+              "expanded_url": "https://x.com/zombiiiguro/status/2036288107579056587/video/1",
+              "media_key": "13_2036287662345297922",
+              "start": 86,
+              "url": "https://t.co/VVAPxghm8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039868464643678369",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036288107579056587",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zombiiiguro: あたしバカじゃん I'm Such An Idiot\nhttps://t.co/cLxaV26AuC\nFull translation. https://t.co/VVAPxghm8O"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2036287662345297922"
+          ]
+        },
+        "author_id": "2031908952741662720",
+        "conversation_id": "2036288107579056587",
+        "created_at": "2026-03-24T03:44:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-24T04:44:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036288107579056587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "youtu.be/rLts6WCq0Ks?si…",
+              "end": 50,
+              "expanded_url": "https://youtu.be/rLts6WCq0Ks?si=W-86AHCrastS1e4I",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2038669127015862273/Xhj3BMXt?format=jpg&name=orig",
+                  "width": 480
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038669127015862273/Xhj3BMXt?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 27,
+              "status": 200,
+              "title": "あたしバカじゃん",
+              "unwound_url": "https://www.youtube.com/watch?si=W-86AHCrastS1e4I&v=rLts6WCq0Ks&feature=youtu.be",
+              "url": "https://t.co/cLxaV26AuC"
+            },
+            {
+              "display_url": "pic.x.com/VVAPxghm8O",
+              "end": 92,
+              "expanded_url": "https://x.com/zombiiiguro/status/2036288107579056587/video/1",
+              "media_key": "13_2036287662345297922",
+              "start": 69,
+              "url": "https://t.co/VVAPxghm8O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036288107579056587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 1580,
+          "like_count": 82,
+          "quote_count": 3,
+          "reply_count": 1,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "あたしバカじゃん I'm Such An Idiot\nhttps://t.co/cLxaV26AuC\nFull translation. https://t.co/VVAPxghm8O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2038023793495744608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 250,
+          "like_count": 7422,
+          "listed_count": 0,
+          "media_count": 418,
+          "tweet_count": 2789
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T01:43:51.000Z",
+        "description": "鮮血の 一つ ヒジャブファン https://t.co/cDHh6eY9M5🗯️🐻‍❄️ 本命: @mettazashi37564",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 49,
+                "username": "mettazashi37564"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "arab.org/click-to-help/…",
+                "end": 38,
+                "expanded_url": "https://arab.org/click-to-help/palestine",
+                "start": 15,
+                "url": "https://t.co/cDHh6eY9M5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "37564.carrd.co",
+                "end": 23,
+                "expanded_url": "https://37564.carrd.co",
+                "start": 0,
+                "url": "https://t.co/pCWdZ2wQrV"
+              }
+            ]
+          }
+        },
+        "id": "2031908952741662720",
+        "location": " 05 DM OPEN EN/MY LEARNING 日本語",
+        "name": "zii ジー「どーでもいいっす」ナンバーワンファン",
+        "pinned_tweet_id": "2035199518330036299",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039594980550078465/OQCB0woc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 189,
+          "like_count": 5245,
+          "listed_count": 5,
+          "media_count": 189,
+          "tweet_count": 2258
+        },
+        "url": "https://t.co/pCWdZ2wQrV",
+        "username": "zombiiiguro",
+        "verified": false
+      }
+    ]
+  }
+}

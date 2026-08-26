@@ -1,0 +1,462 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291447199595782144",
+          "name": "United States politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "2024 US Presidential Election",
+          "id": "1665772587467653121",
+          "name": "2024 US Presidential Election"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Michigan",
+          "id": "1004448635902259200",
+          "name": "Michigan"
+        }
+      }
+    ],
+    "conversation_id": "2009408522560393684",
+    "created_at": "2026-01-08T23:34:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-09T00:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2009408522560393684"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 24,
+          "normalized_text": "Penny",
+          "probability": 0.3443,
+          "start": 20,
+          "type": "Person"
+        },
+        {
+          "end": 60,
+          "normalized_text": "Michigan farm",
+          "probability": 0.5458,
+          "start": 48,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1485667787548737538",
+          "start": 3,
+          "username": "histories_arch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009408522560393684",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 754
+    },
+    "referenced_tweets": [
+      {
+        "id": "2009303441005514817",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @histories_arch: Penny auction at foreclosed Michigan farm (1936). At penny auctions farmers would conspire to offer low bids, resulting…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 718,
+        "media_key": "3_2009303437905940480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-J61L5a0AAfk3r.jpg",
+        "width": 1060
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Michigan",
+              "id": "1004448635902259200",
+              "name": "Michigan"
+            }
+          }
+        ],
+        "conversation_id": "2009408522560393684",
+        "created_at": "2026-01-08T23:34:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-09T00:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2009408522560393684"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 24,
+              "normalized_text": "Penny",
+              "probability": 0.3443,
+              "start": 20,
+              "type": "Person"
+            },
+            {
+              "end": 60,
+              "normalized_text": "Michigan farm",
+              "probability": 0.5458,
+              "start": 48,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1485667787548737538",
+              "start": 3,
+              "username": "histories_arch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009408522560393684",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 754
+        },
+        "referenced_tweets": [
+          {
+            "id": "2009303441005514817",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @histories_arch: Penny auction at foreclosed Michigan farm (1936). At penny auctions farmers would conspire to offer low bids, resulting…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2009303437905940480"
+          ]
+        },
+        "author_id": "1485667787548737538",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491040597867589632",
+              "name": "Word games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Michigan",
+              "id": "1004448635902259200",
+              "name": "Michigan"
+            }
+          }
+        ],
+        "conversation_id": "2009303441005514817",
+        "created_at": "2026-01-08T16:37:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-08T17:37:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2009303441005514817"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 35,
+              "normalized_text": "Michigan",
+              "probability": 0.6538,
+              "start": 28,
+              "type": "Place"
+            },
+            {
+              "end": 231,
+              "normalized_text": "Hangman",
+              "probability": 0.2555,
+              "start": 225,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4UXkJl3n6C",
+              "end": 297,
+              "expanded_url": "https://x.com/histories_arch/status/2009303441005514817/photo/1",
+              "media_key": "3_2009303437905940480",
+              "start": 274,
+              "url": "https://t.co/4UXkJl3n6C"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2009303441005514817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1578,
+                "start": 1561,
+                "tag": "archaeohistories"
+              }
+            ]
+          },
+          "text": "Penny auction at foreclosed Michigan farm (1936). At penny auctions farmers would conspire to offer low bids, resulting in a low return to the creditor. The final buyer would then return the property to the destitute farmer. Hangman nooses served as a warning to squirrelly bidders.\n\nThis haunting photograph from 1936 captures a penny auction at a foreclosed farm in Michigan, one of the most defiant and ingenious acts of resistance to emerge during the Great Depression. When banks repossessed farms after families could no longer meet their mortgage payments, local communities often took matters into their own hands.\n\nFarmers would gather in large groups and agree beforehand to bid only pennies on each item — from livestock to land — driving the auction prices down to virtually nothing. The final “buyer,” usually a trusted neighbor, would then return the property to the original owner, ensuring the family could remain on their land.\n\nThe nooses seen hanging in the background weren’t decorative; they served as chilling warnings to outsiders who might attempt to outbid the crowd. These were not empty threats — solidarity and survival left little room for betrayal.\n\nThe penny auctions became powerful symbols of rural unity and defiance. They weren’t just about saving one farm, but about preserving a way of life, one desperate bid at a time.\n\nBy 1933, more than 200,000 farms were foreclosed across the Midwest, sparking organized movements like the Farmer’s Holiday Association, which fought to halt foreclosures entirely.\n\n© History Pictures\n\n#archaeohistories"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 431,
+          "impression_count": 166369,
+          "like_count": 3493,
+          "quote_count": 61,
+          "reply_count": 66,
+          "retweet_count": 754
+        },
+        "reply_settings": "everyone",
+        "text": "Penny auction at foreclosed Michigan farm (1936). At penny auctions farmers would conspire to offer low bids, resulting in a low return to the creditor. The final buyer would then return the property to the destitute farmer. Hangman nooses served as a warning to squirrelly https://t.co/4UXkJl3n6C"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006274810918363138/El07gvs-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 188,
+          "like_count": 2594,
+          "listed_count": 0,
+          "media_count": 147,
+          "tweet_count": 898
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-24T17:36:33.000Z",
+        "description": "History is an unending dialogue between present and the past, that's why few pages of history give more insight than all the metaphysical volumes. (99)",
+        "id": "1485667787548737538",
+        "name": "ArchaeoHistories",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1502941632538177536/mGIk39kk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259467,
+          "following_count": 22,
+          "like_count": 72765,
+          "listed_count": 1238,
+          "media_count": 20539,
+          "tweet_count": 69076
+        },
+        "username": "histories_arch",
+        "verified": true
+      }
+    ]
+  }
+}

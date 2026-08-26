@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2020339677874802909",
+    "created_at": "2026-02-22T23:44:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T00:44:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025718297677922569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1437785792211034114",
+          "start": 0,
+          "username": "Xerenceu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025718297677922569",
+    "in_reply_to_user_id": "1437785792211034114",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020339677874802909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xerenceu 南京条子是出了名的贱和爱管闲事"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2020339660065820673",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmwN3PbUAEoXdn.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020339661084979202",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmwN7CacAI09Rw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020339661806419969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmwN9uawAEHcCq.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2020339662372630533",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAmwN_1acAUhmL9.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2020339677874802909",
+        "created_at": "2026-02-22T23:44:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T00:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025718297677922569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1437785792211034114",
+              "start": 0,
+              "username": "Xerenceu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025718297677922569",
+        "in_reply_to_user_id": "1437785792211034114",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020339677874802909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xerenceu 南京条子是出了名的贱和爱管闲事"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020339660065820673",
+            "3_2020339661084979202",
+            "3_2020339661806419969",
+            "3_2020339662372630533"
+          ]
+        },
+        "author_id": "1437785792211034114",
+        "conversation_id": "2020339677874802909",
+        "created_at": "2026-02-08T03:31:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T04:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020339677874802909"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h4KgYRonZA",
+              "end": 48,
+              "expanded_url": "https://x.com/Xerenceu/status/2020339677874802909/photo/1",
+              "media_key": "3_2020339660065820673",
+              "start": 25,
+              "url": "https://t.co/h4KgYRonZA"
+            },
+            {
+              "display_url": "pic.x.com/h4KgYRonZA",
+              "end": 48,
+              "expanded_url": "https://x.com/Xerenceu/status/2020339677874802909/photo/1",
+              "media_key": "3_2020339661084979202",
+              "start": 25,
+              "url": "https://t.co/h4KgYRonZA"
+            },
+            {
+              "display_url": "pic.x.com/h4KgYRonZA",
+              "end": 48,
+              "expanded_url": "https://x.com/Xerenceu/status/2020339677874802909/photo/1",
+              "media_key": "3_2020339661806419969",
+              "start": 25,
+              "url": "https://t.co/h4KgYRonZA"
+            },
+            {
+              "display_url": "pic.x.com/h4KgYRonZA",
+              "end": 48,
+              "expanded_url": "https://x.com/Xerenceu/status/2020339677874802909/photo/1",
+              "media_key": "3_2020339662372630533",
+              "start": 25,
+              "url": "https://t.co/h4KgYRonZA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020339677874802909",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 519,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "坐警车去警局调解纠纷完，也不给我们送回来，真过分 https://t.co/h4KgYRonZA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 209,
+          "like_count": 4642,
+          "listed_count": 0,
+          "media_count": 214,
+          "tweet_count": 1421
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-14T14:30:34.000Z",
+        "description": "“烷胺不是晚安”\n🚪50￥",
+        "id": "1437785792211034114",
+        "name": "CYP2D6💊💛🤍💜🖤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940282173522644993/fx-De2ym_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 460,
+          "like_count": 717,
+          "listed_count": 0,
+          "media_count": 445,
+          "tweet_count": 766
+        },
+        "username": "Xerenceu",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2073222392261075401",
+    "created_at": "2026-07-04T01:48:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-04T02:48:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073222392261075401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1513444882865856516",
+          "start": 3,
+          "username": "thorino10"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073222392261075401",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072946130862985347",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @thorino10: 和以前关系很好的朋友有一天断掉几乎是必经之路，和不翻墙的粉红朋友亲人渐行渐远也是必经之路。过了二十五岁觉得都是小事，以后过了三十岁大概也会觉得都是小事，把朋友看得太重太轻都不好，反正你总会知道，不论在不在群体之中，人本来且一直都是一个人，不管你适不…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2073222392261075401",
+        "created_at": "2026-07-04T01:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-04T02:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073222392261075401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1513444882865856516",
+              "start": 3,
+              "username": "thorino10"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073222392261075401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072946130862985347",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @thorino10: 和以前关系很好的朋友有一天断掉几乎是必经之路，和不翻墙的粉红朋友亲人渐行渐远也是必经之路。过了二十五岁觉得都是小事，以后过了三十岁大概也会觉得都是小事，把朋友看得太重太轻都不好，反正你总会知道，不论在不在群体之中，人本来且一直都是一个人，不管你适不…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1513444882865856516",
+        "conversation_id": "2072946130862985347",
+        "created_at": "2026-07-03T07:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T08:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072946130862985347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072946130862985347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2516,
+          "like_count": 110,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "和以前关系很好的朋友有一天断掉几乎是必经之路，和不翻墙的粉红朋友亲人渐行渐远也是必经之路。过了二十五岁觉得都是小事，以后过了三十岁大概也会觉得都是小事，把朋友看得太重太轻都不好，反正你总会知道，不论在不在群体之中，人本来且一直都是一个人，不管你适不适应接不接受你都是一个人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2072502086227669473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 306,
+          "like_count": 10733,
+          "listed_count": 1,
+          "media_count": 700,
+          "tweet_count": 4684
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-11T09:12:57.000Z",
+        "description": "你从不道别，你闷着头往前走，顺手接过命运递到你手上的东西，不管它是什么。",
+        "id": "1513444882865856516",
+        "name": "日内瓦十六夜",
+        "pinned_tweet_id": "1920530931422724192",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977356427384721408/9V-JtoBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6939,
+          "following_count": 535,
+          "like_count": 15892,
+          "listed_count": 23,
+          "media_count": 414,
+          "tweet_count": 5475
+        },
+        "url": "",
+        "username": "thorino10",
+        "verified": false
+      }
+    ]
+  }
+}

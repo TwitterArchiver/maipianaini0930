@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2058084771176280064",
+        "3_2058084771172151296"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2058084781108465975",
+    "created_at": "2026-05-23T07:17:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T08:17:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058084781108465975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/fJ80KqbGeH",
+          "end": 60,
+          "expanded_url": "https://x.com/maipianaini0930/status/2058084781108465975/photo/1",
+          "media_key": "3_2058084771176280064",
+          "start": 37,
+          "url": "https://t.co/fJ80KqbGeH"
+        },
+        {
+          "display_url": "pic.x.com/fJ80KqbGeH",
+          "end": 60,
+          "expanded_url": "https://x.com/maipianaini0930/status/2058084781108465975/photo/1",
+          "media_key": "3_2058084771172151296",
+          "start": 37,
+          "url": "https://t.co/fJ80KqbGeH"
+        },
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 84,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2057500230145507635",
+          "start": 61,
+          "url": "https://t.co/jZChzP75m2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058084781108465975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057500230145507635",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "塔科夫里所有物品都是根据实物画的我坚信不疑，连打火石的位置火柴数量都一样 https://t.co/fJ80KqbGeH https://t.co/jZChzP75m2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2058084771176280064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_JMfeacAAtqFA.jpg",
+        "width": 750
+      },
+      {
+        "height": 1560,
+        "media_key": "3_2058084771172151296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI_JMfdbcAAeXMj.jpg",
+        "width": 1560
+      },
+      {
+        "height": 4032,
+        "media_key": "3_2057500195001376768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI21hrhaoAAYmxE.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3171,
+        "media_key": "3_2057500195026534404",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI21hrnagAQ8Ui2.jpg",
+        "width": 3023
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2057500195026534403",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI21hrnagAMZWVy.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058084771176280064",
+            "3_2058084771172151296"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2058084781108465975",
+        "created_at": "2026-05-23T07:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T08:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058084781108465975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fJ80KqbGeH",
+              "end": 60,
+              "expanded_url": "https://x.com/maipianaini0930/status/2058084781108465975/photo/1",
+              "media_key": "3_2058084771176280064",
+              "start": 37,
+              "url": "https://t.co/fJ80KqbGeH"
+            },
+            {
+              "display_url": "pic.x.com/fJ80KqbGeH",
+              "end": 60,
+              "expanded_url": "https://x.com/maipianaini0930/status/2058084781108465975/photo/1",
+              "media_key": "3_2058084771172151296",
+              "start": 37,
+              "url": "https://t.co/fJ80KqbGeH"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2057500230145507635",
+              "start": 61,
+              "url": "https://t.co/jZChzP75m2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058084781108465975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057500230145507635",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "塔科夫里所有物品都是根据实物画的我坚信不疑，连打火石的位置火柴数量都一样 https://t.co/fJ80KqbGeH https://t.co/jZChzP75m2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057500195001376768",
+            "3_2057500195026534404",
+            "3_2057500195026534403"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2057500230145507635",
+        "created_at": "2026-05-21T16:34:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T17:34:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057500230145507635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/83xoKIE1VA",
+              "end": 61,
+              "expanded_url": "https://x.com/maipianaini0930/status/2057500230145507635/photo/1",
+              "media_key": "3_2057500195001376768",
+              "start": 38,
+              "url": "https://t.co/83xoKIE1VA"
+            },
+            {
+              "display_url": "pic.x.com/83xoKIE1VA",
+              "end": 61,
+              "expanded_url": "https://x.com/maipianaini0930/status/2057500230145507635/photo/1",
+              "media_key": "3_2057500195026534404",
+              "start": 38,
+              "url": "https://t.co/83xoKIE1VA"
+            },
+            {
+              "display_url": "pic.x.com/83xoKIE1VA",
+              "end": 61,
+              "expanded_url": "https://x.com/maipianaini0930/status/2057500230145507635/photo/1",
+              "media_key": "3_2057500195026534403",
+              "start": 38,
+              "url": "https://t.co/83xoKIE1VA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057500230145507635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1132,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我特别喜欢塔科夫里的绿色信号版\n\n这些小道具可以给吸毒增加点光怪陆离的气氛 https://t.co/83xoKIE1VA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2045840146235584576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049364889576284160/7hQGdBDi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 289,
+          "like_count": 9695,
+          "listed_count": 2,
+          "media_count": 615,
+          "tweet_count": 4031
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

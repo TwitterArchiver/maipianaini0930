@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2041919981705949317",
+    "created_at": "2026-04-10T00:35:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T01:35:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042400997310677019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1913535505230442497",
+          "start": 0,
+          "username": "3638349600Ogas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042400997310677019",
+    "in_reply_to_user_id": "1913535505230442497",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041919981705949317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@3638349600Ogas 我可以抱着阿鹊吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2041919981705949317",
+        "created_at": "2026-04-10T00:35:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T01:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042400997310677019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1913535505230442497",
+              "start": 0,
+              "username": "3638349600Ogas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042400997310677019",
+        "in_reply_to_user_id": "1913535505230442497",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041919981705949317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@3638349600Ogas 我可以抱着阿鹊吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1913535505230442497",
+        "conversation_id": "2041919981705949317",
+        "created_at": "2026-04-08T16:43:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T17:43:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041919981705949317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041919981705949317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 193,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "阿鹊曾经拒绝了喜欢的人和她一起o的邀请。她说普瑞巴林是最好的od药物。她说o完两个人抱在一起会非常幸福。是这样的。。。\n现在痛苦已经远非药物能缓和。普瑞巴林会让阿鹊获得几个小时的幸福，好像还在被拥抱一样……然后睡醒之后骤然被冰冷空无一人的世界撕成碎片。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "希望点进来的人中有发掘我的伯乐",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2040319991053181233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 261,
+          "like_count": 7878,
+          "listed_count": 1,
+          "media_count": 464,
+          "tweet_count": 3017
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-19T10:10:19.000Z",
+        "description": "waiting for the one，to find the way back home   姐姐：@FuyutoriGin \n@MayISeeUAgain  主人@NorthLingkongRd",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 51,
+                "username": "FuyutoriGin"
+              },
+              {
+                "end": 79,
+                "start": 65,
+                "username": "MayISeeUAgain"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "username": "NorthLingkongRd"
+              }
+            ]
+          }
+        },
+        "id": "1913535505230442497",
+        "location": "Chelyabinsk, Russia",
+        "name": "阿德利鹊🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041494469095358465/CwvA9XX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 613,
+          "like_count": 1340,
+          "listed_count": 1,
+          "media_count": 157,
+          "tweet_count": 596
+        },
+        "username": "3638349600Ogas",
+        "verified": false
+      }
+    ]
+  }
+}

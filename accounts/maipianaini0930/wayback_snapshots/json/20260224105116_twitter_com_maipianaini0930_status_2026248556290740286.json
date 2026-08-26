@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026248556290740286",
+    "created_at": "2026-02-24T10:51:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T11:51:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2026248556290740286"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aitvting/statu…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/aitvting/status/2026061727209828371",
+          "start": 23,
+          "url": "https://t.co/vBPZcu5LJS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026248556290740286",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026061727209828371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "去你妈的，老子选死选活你这头东西还评价上了？ https://t.co/vBPZcu5LJS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026248556290740286",
+        "created_at": "2026-02-24T10:51:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T11:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026248556290740286"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aitvting/statu…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/aitvting/status/2026061727209828371",
+              "start": 23,
+              "url": "https://t.co/vBPZcu5LJS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026248556290740286",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026061727209828371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "去你妈的，老子选死选活你这头东西还评价上了？ https://t.co/vBPZcu5LJS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1945157928010604544",
+        "conversation_id": "2026061727209828371",
+        "created_at": "2026-02-23T22:28:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T23:28:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2026061727209828371"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2026061727209828371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3387,
+          "like_count": 124,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 11
+        },
+        "reply_settings": "everyone",
+        "text": "18之前要自杀 不然就是一个失败的成年人了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 212,
+          "like_count": 4731,
+          "listed_count": 0,
+          "media_count": 223,
+          "tweet_count": 1481
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-15T16:26:35.000Z",
+        "description": "我活得好懵逼｜od｜低精力宅｜欢迎宝宝们找我互fo",
+        "id": "1945157928010604544",
+        "name": "小地球",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023214653971767296/neKcTyBx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1204,
+          "following_count": 182,
+          "like_count": 536,
+          "listed_count": 2,
+          "media_count": 8,
+          "tweet_count": 445
+        },
+        "username": "aiTvTing",
+        "verified": false
+      }
+    ]
+  }
+}

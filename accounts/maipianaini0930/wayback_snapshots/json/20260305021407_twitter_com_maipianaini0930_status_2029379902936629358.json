@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2029258847492424075",
+    "created_at": "2026-03-05T02:14:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-05T03:14:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029379902936629358"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1483472245062209536",
+          "start": 0,
+          "username": "fuku_2cc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029379902936629358",
+    "in_reply_to_user_id": "1483472245062209536",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029258847492424075",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fuku_2cc 🫂fuku"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2029258847492424075",
+        "created_at": "2026-03-05T02:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T03:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029379902936629358"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1483472245062209536",
+              "start": 0,
+              "username": "fuku_2cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029379902936629358",
+        "in_reply_to_user_id": "1483472245062209536",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029258847492424075",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fuku_2cc 🫂fuku"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483472245062209536",
+        "conversation_id": "2029258847492424075",
+        "created_at": "2026-03-04T18:13:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T19:13:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029258847492424075"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2029258847492424075",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 148,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "眼睛好酸，鼻孔也哭堵了\n马上二十二岁了，迷茫、恐惧着一定会到来的未来\n这几年时间真的太快，刚刚一瞬恍惚不清楚今年到底应该是26年还是27年\n大哭一场之后感到平静，是平静还是短暂的麻木?\n不管怎样，现在我唯一知道的事是我该睡觉了、おやすみ，希望所有人做个好梦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 226,
+          "like_count": 5359,
+          "listed_count": 0,
+          "media_count": 274,
+          "tweet_count": 1730
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-18T16:12:20.000Z",
+        "description": "知らない",
+        "id": "1483472245062209536",
+        "name": "冰冻人脑慕斯",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1672299870986829825/tkFRDGVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 204,
+          "like_count": 16182,
+          "listed_count": 0,
+          "media_count": 205,
+          "tweet_count": 3219
+        },
+        "username": "fuku_2cc",
+        "verified": false
+      }
+    ]
+  }
+}

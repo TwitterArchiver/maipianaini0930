@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "poll_ids": [
+        "2035690265097453568"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2035690266594812179",
+    "created_at": "2026-03-22T12:09:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T13:09:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035690266594812179"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2035690266594812179",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "喝一夜还是嗑一夜？"
+  },
+  "includes": {
+    "polls": [
+      {
+        "duration_minutes": 1440,
+        "end_datetime": "2026-03-23T12:09:15.000Z",
+        "id": "2035690265097453568",
+        "options": [
+          {
+            "label": "🥃",
+            "position": 1,
+            "votes": 0
+          },
+          {
+            "label": "💊",
+            "position": 2,
+            "votes": 0
+          }
+        ],
+        "voting_status": "open"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2035690265097453568"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2035690266594812179",
+        "created_at": "2026-03-22T12:09:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035690266594812179"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035690266594812179",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "喝一夜还是嗑一夜？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 276,
+          "following_count": 237,
+          "like_count": 6443,
+          "listed_count": 0,
+          "media_count": 384,
+          "tweet_count": 2351
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

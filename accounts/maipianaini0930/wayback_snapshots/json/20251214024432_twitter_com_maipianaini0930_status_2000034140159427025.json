@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2000020360696307777",
+    "created_at": "2025-12-14T02:44:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-14T03:44:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000034140159427025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1760916137041403904",
+          "start": 0,
+          "username": "NavyPsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000034140159427025",
+    "in_reply_to_user_id": "1760916137041403904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000031452101259274",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NavyPsy 谢谢！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2000020360696307777",
+        "created_at": "2025-12-14T02:44:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:44:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000034140159427025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1760916137041403904",
+              "start": 0,
+              "username": "NavyPsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000034140159427025",
+        "in_reply_to_user_id": "1760916137041403904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000031452101259274",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NavyPsy 谢谢！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1760916137041403904",
+        "conversation_id": "2000020360696307777",
+        "created_at": "2025-12-14T02:33:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-14T03:33:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000031452101259274"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000031452101259274",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000020360696307777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 左边的女孩子好可爱，就像只会存在幻想中的女孩子。麦片也是啦~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "Où t'étais passé ?",
+        "name": "Yelti和麦片找猫玩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 174,
+          "like_count": 1847,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 612
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-23T06:35:07.000Z",
+        "description": "8个人关注了TA",
+        "id": "1760916137041403904",
+        "name": "Navy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993128224835166208/cC5SNTsJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8,
+          "following_count": 55,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 18
+        },
+        "username": "NavyPsy",
+        "verified": false
+      }
+    ]
+  }
+}

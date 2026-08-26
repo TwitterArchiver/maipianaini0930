@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2023156143749751000",
+    "created_at": "2026-02-16T02:28:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T03:28:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023223011747529125"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1377572924413124609",
+          "start": 0,
+          "username": "NoContextBrits"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023223011747529125",
+    "in_reply_to_user_id": "1377572924413124609",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023156143749751000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NoContextBrits Calories boom"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 628,
+        "media_key": "3_2023156137969745920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBOxydDWgAAJHPq.jpg",
+        "width": 703
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2023156143749751000",
+        "created_at": "2026-02-16T02:28:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T03:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023223011747529125"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1377572924413124609",
+              "start": 0,
+              "username": "NoContextBrits"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023223011747529125",
+        "in_reply_to_user_id": "1377572924413124609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023156143749751000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NoContextBrits Calories boom"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2023156137969745920"
+          ]
+        },
+        "author_id": "1377572924413124609",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2023156143749751000",
+        "created_at": "2026-02-15T22:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T23:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023156143749751000"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bnOXnOzupU",
+              "end": 50,
+              "expanded_url": "https://x.com/NoContextBrits/status/2023156143749751000/photo/1",
+              "media_key": "3_2023156137969745920",
+              "start": 27,
+              "url": "https://t.co/bnOXnOzupU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023156143749751000",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 33,
+          "impression_count": 42314,
+          "like_count": 927,
+          "quote_count": 17,
+          "reply_count": 67,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "A little snack before bed. https://t.co/bnOXnOzupU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2006368979968020526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 202,
+          "like_count": 4223,
+          "listed_count": 0,
+          "media_count": 198,
+          "tweet_count": 1325
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-01T10:46:07.000Z",
+        "description": "A mordant celebration of British mediocrity according to the Washington Post. Contains sarcasm, irony and context.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/nocontextbrits",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/nocontextbrits",
+                "start": 0,
+                "url": "https://t.co/rMPTtp7qBr"
+              }
+            ]
+          }
+        },
+        "id": "1377572924413124609",
+        "location": "United Kingdom",
+        "name": "No Context Brits",
+        "pinned_tweet_id": "2023053112307536124",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989286782416887808/Yd_hknNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815140,
+          "following_count": 0,
+          "like_count": 161,
+          "listed_count": 3501,
+          "media_count": 15565,
+          "tweet_count": 16074
+        },
+        "url": "https://t.co/rMPTtp7qBr",
+        "username": "NoContextBrits",
+        "verified": true
+      }
+    ]
+  }
+}

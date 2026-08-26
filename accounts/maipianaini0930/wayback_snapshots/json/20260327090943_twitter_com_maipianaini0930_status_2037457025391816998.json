@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "2037457025391816998",
+    "created_at": "2026-03-27T09:09:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T10:09:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037457025391816998"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2037288483971080431",
+          "start": 26,
+          "url": "https://t.co/nBdgbc35Ql"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037457025391816998",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037288483971080431",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "把五一档应该重映的宫崎骏还我，中宣部操你妈滚去死吧 https://t.co/nBdgbc35Ql"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1199,
+        "media_key": "3_2037162415524057088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV0bG8WkAASqrD.jpg",
+        "width": 588
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2037162415666978816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV0bHebYAAnKLG.jpg",
+        "width": 577
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2037162415675387904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEV0bHgbsAAP7lm.jpg",
+        "width": 1126
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2037457025391816998",
+        "created_at": "2026-03-27T09:09:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T10:09:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037457025391816998"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2037288483971080431",
+              "start": 26,
+              "url": "https://t.co/nBdgbc35Ql"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037457025391816998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037288483971080431",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "把五一档应该重映的宫崎骏还我，中宣部操你妈滚去死吧 https://t.co/nBdgbc35Ql"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037162415524057088",
+            "3_2037162415666978816",
+            "3_2037162415675387904"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2037288483971080431",
+        "created_at": "2026-03-26T22:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T23:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037288483971080431"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bDb41QF23f",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037288483971080431/photo/1",
+              "media_key": "3_2037162415524057088",
+              "start": 145,
+              "url": "https://t.co/bDb41QF23f"
+            },
+            {
+              "display_url": "pic.x.com/bDb41QF23f",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037288483971080431/photo/1",
+              "media_key": "3_2037162415666978816",
+              "start": 145,
+              "url": "https://t.co/bDb41QF23f"
+            },
+            {
+              "display_url": "pic.x.com/bDb41QF23f",
+              "end": 168,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2037288483971080431/photo/1",
+              "media_key": "3_2037162415675387904",
+              "start": 145,
+              "url": "https://t.co/bDb41QF23f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037288483971080431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 81201,
+          "like_count": 764,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "3月25日，中央广播电视总台一则关于“日本被指多年开展反华教育”的报道引发网络热议。\n不少网友分享了各自的看法。有评论称，个别幼儿园教师在课堂中向孩子传递“日本和美国是敌人”的表述。\n也有网友表示： “从我记事起电视剧就经常播放抗日神剧”\n “谁这么不要脸，只许州官放火，不许百姓点灯?” https://t.co/bDb41QF23f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037125911791935488/WPAlrSnH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 251,
+          "like_count": 6822,
+          "listed_count": 0,
+          "media_count": 405,
+          "tweet_count": 2496
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2034624681609933025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2196237,
+          "following_count": 1026,
+          "like_count": 9342,
+          "listed_count": 8632,
+          "media_count": 44195,
+          "tweet_count": 51260
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2072758050419818543",
+    "created_at": "2026-07-02T19:03:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:03:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072758050419818543"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2072729902214979993",
+          "start": 46,
+          "url": "https://t.co/P4cP3lOuHw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072758050419818543",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072729902214979993",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "没有想象中绚丽多变的色彩和空间错位，我怀疑1贴可能根本没有300微克甚至就只有100多微克 https://t.co/P4cP3lOuHw"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2072758050419818543",
+        "created_at": "2026-07-02T19:03:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:03:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072758050419818543"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2072729902214979993",
+              "start": 46,
+              "url": "https://t.co/P4cP3lOuHw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072758050419818543",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072729902214979993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "没有想象中绚丽多变的色彩和空间错位，我怀疑1贴可能根本没有300微克甚至就只有100多微克 https://t.co/P4cP3lOuHw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2072729902214979993",
+        "created_at": "2026-07-02T17:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T18:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072729902214979993"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072729902214979993",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 28,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么半贴和一贴区别不大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "带着傲慢和自尊心自厌\n同时，拉黑我的人死全家，来视奸的条子也死全家",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2072502086227669473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061064830208147456/WdB0NevG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 305,
+          "like_count": 10705,
+          "listed_count": 1,
+          "media_count": 700,
+          "tweet_count": 4679
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

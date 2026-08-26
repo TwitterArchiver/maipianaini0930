@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2034713191331365162",
+    "created_at": "2026-03-20T03:01:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T04:01:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2034827522249236902"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1678425548673150976",
+          "start": 0,
+          "username": "nhnhOv0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034827522249236902",
+    "in_reply_to_user_id": "1678425548673150976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034713191331365162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nhnhOv0 多给点吧，89块6毛4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1085,
+        "media_key": "3_2034713179574419456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDzA20BWwAAx9FD.jpg",
+        "width": 1760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2034713191331365162",
+        "created_at": "2026-03-20T03:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T04:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034827522249236902"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1678425548673150976",
+              "start": 0,
+              "username": "nhnhOv0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034827522249236902",
+        "in_reply_to_user_id": "1678425548673150976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034713191331365162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nhnhOv0 多给点吧，89块6毛4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034713179574419456"
+          ]
+        },
+        "author_id": "1678425548673150976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2034713191331365162",
+        "created_at": "2026-03-19T19:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T20:24:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034712553234841758",
+          "2034713191331365162"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uSM4Iy7wR3",
+              "end": 176,
+              "expanded_url": "https://x.com/nhnhOv0/status/2034713191331365162/photo/1",
+              "media_key": "3_2034713179574419456",
+              "start": 153,
+              "url": "https://t.co/uSM4Iy7wR3"
+            },
+            {
+              "display_url": "x.com/nhnhOv0/status…",
+              "end": 200,
+              "expanded_url": "https://twitter.com/nhnhOv0/status/2034672161882083712",
+              "start": 177,
+              "url": "https://t.co/rDqDrW9Dcx"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2034713191331365162",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 121,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034672161882083712",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中华人民共和国解散第二天，我宣布……”\n“解散后第一条法律：允许发疯”\n“解散后第一批难民：所有粉红”\n“我宣布中华人民共和国正式解散！！！！”\n“我宣布中国共产党今天起正式破产！！！！”\n“我宣布习近平同志今天起正式退网！！！！”\n评论区点赞最高者在2026.3.22获得50元人民币！！！！！！🎁🎁🎁 https://t.co/uSM4Iy7wR3 https://t.co/rDqDrW9Dcx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 237,
+          "like_count": 6244,
+          "listed_count": 1,
+          "media_count": 364,
+          "tweet_count": 2259
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-10T15:26:55.000Z",
+        "description": "强者从不抱怨环境\n但我是神经病\n提问链接在这",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jj14867",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jj14867",
+                "start": 0,
+                "url": "https://t.co/NI8JER2vja"
+              }
+            ]
+          }
+        },
+        "id": "1678425548673150976",
+        "location": "天堂和地狱之间—人间",
+        "name": "习近平",
+        "pinned_tweet_id": "2028454710982881549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028905138182819840/nwE2XLJI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 346,
+          "like_count": 5905,
+          "listed_count": 3,
+          "media_count": 126,
+          "tweet_count": 3840
+        },
+        "url": "https://t.co/NI8JER2vja",
+        "username": "nhnhOv0",
+        "verified": true
+      }
+    ]
+  }
+}

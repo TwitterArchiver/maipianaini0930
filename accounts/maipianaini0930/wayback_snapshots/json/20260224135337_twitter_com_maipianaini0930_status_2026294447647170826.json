@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2026132804262908134",
+    "created_at": "2026-02-24T13:53:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T14:53:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026294447647170826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1678880726614196225",
+          "start": 0,
+          "username": "RokuLixo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026294447647170826",
+    "in_reply_to_user_id": "1678880726614196225",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2026294158067937647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RokuLixo i followed you~😘"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 124,
+        "media_key": "16_2026294149679403008",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HB7XyxoX0AABGzc.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HB7XyxoX0AABGzc.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2026132804262908134",
+        "created_at": "2026-02-24T13:53:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:53:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026294447647170826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1678880726614196225",
+              "start": 0,
+              "username": "RokuLixo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026294447647170826",
+        "in_reply_to_user_id": "1678880726614196225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026294158067937647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RokuLixo i followed you~😘"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2026294149679403008"
+          ]
+        },
+        "author_id": "1678880726614196225",
+        "conversation_id": "2026132804262908134",
+        "created_at": "2026-02-24T13:52:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T14:52:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026294158067937647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kQm9Bvl8GT",
+              "end": 40,
+              "expanded_url": "https://x.com/RokuLixo/status/2026294158067937647/photo/1",
+              "media_key": "16_2026294149679403008",
+              "start": 17,
+              "url": "https://t.co/kQm9Bvl8GT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026294158067937647",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2026291678596960271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 https://t.co/kQm9Bvl8GT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 211,
+          "like_count": 4758,
+          "listed_count": 0,
+          "media_count": 225,
+          "tweet_count": 1498
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T21:36:13.000Z",
+        "description": "⛧ madoka magica, green day & nirvana fan 🎀 🌿 🎸 | pan & demigirl 🏳️‍🌈🏳️‍⚧️ | anarco-comunista Ⓐ☭ | she/her | #ACAB ⛤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 113,
+                "start": 108,
+                "tag": "ACAB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pronouns.cc/@RokuLixo",
+                "end": 23,
+                "expanded_url": "https://pronouns.cc/@RokuLixo",
+                "start": 0,
+                "url": "https://t.co/1f6YG8iNbx"
+              }
+            ]
+          }
+        },
+        "id": "1678880726614196225",
+        "location": "🇧🇷",
+        "name": "六・Sophie 🏳️‍⚧️ 🍉",
+        "pinned_tweet_id": "2017840219458879875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026159407478767616/rVabONJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8883,
+          "following_count": 8971,
+          "like_count": 181887,
+          "listed_count": 26,
+          "media_count": 3224,
+          "tweet_count": 34004
+        },
+        "url": "https://t.co/1f6YG8iNbx",
+        "username": "RokuLixo",
+        "verified": false
+      }
+    ]
+  }
+}

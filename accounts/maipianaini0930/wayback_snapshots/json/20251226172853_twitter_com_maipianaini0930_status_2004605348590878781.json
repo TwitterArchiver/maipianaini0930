@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2004580451219107940",
+    "created_at": "2025-12-26T17:28:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-26T18:28:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2004605348590878781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "8220972",
+          "start": 0,
+          "username": "223n_n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2004605348590878781",
+    "in_reply_to_user_id": "8220972",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004580451219107940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@223n_n 私は地面に座った"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2004580451219107940",
+        "created_at": "2025-12-26T17:28:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T18:28:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2004605348590878781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "8220972",
+              "start": 0,
+              "username": "223n_n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004605348590878781",
+        "in_reply_to_user_id": "8220972",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004580451219107940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@223n_n 私は地面に座った"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "8220972",
+        "conversation_id": "2004580451219107940",
+        "created_at": "2025-12-26T15:49:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-26T16:49:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004580451219107940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "毒電波人間’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1ynJO…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1ynJOMwVMDEKR",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2004580493640208384/_pvj1Z-X?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2004580493640208384/_pvj1Z-X?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: エヴァ18作成中",
+              "unwound_url": "https://twitter.com/i/spaces/1ynJOMwVMDEKR/peek",
+              "url": "https://t.co/WchdZqFSio"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2004580451219107940",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 128,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/WchdZqFSio"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996485721159565312/kkt88R6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 187,
+          "like_count": 2186,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 768
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2007-08-16T11:04:49.000Z",
+        "description": "す@i_le き@roki4170_sub @komiyan2459 @xrb_kanat0 イエロー五段です",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 6,
+                "start": 1,
+                "username": "i_le"
+              },
+              {
+                "end": 21,
+                "start": 8,
+                "username": "roki4170_sub"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "username": "komiyan2459"
+              },
+              {
+                "end": 46,
+                "start": 35,
+                "username": "xrb_kanat0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/@i_le",
+                "end": 23,
+                "expanded_url": "https://x.com/@i_le",
+                "start": 0,
+                "url": "https://t.co/eOKhpj0ECa"
+              }
+            ]
+          }
+        },
+        "id": "8220972",
+        "location": "神奈川〜東京",
+        "name": "毒電波人間",
+        "pinned_tweet_id": "1993021480062665057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002788379268919296/IF3h7yTO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 605,
+          "like_count": 8418,
+          "listed_count": 1,
+          "media_count": 1955,
+          "tweet_count": 11772
+        },
+        "url": "https://t.co/eOKhpj0ECa",
+        "username": "223n_n",
+        "verified": false
+      }
+    ]
+  }
+}

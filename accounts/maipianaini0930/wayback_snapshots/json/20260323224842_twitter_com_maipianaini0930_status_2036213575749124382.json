@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2036213575749124382",
+    "created_at": "2026-03-23T22:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T23:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036213575749124382"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 27,
+          "normalized_text": "Makarov",
+          "probability": 0.7853,
+          "start": 21,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1799153006673534978",
+          "start": 3,
+          "username": "atakaindustries"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036213575749124382",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 208
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036204089877369201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @atakaindustries: Makarov Monday Giveaway! \n\nAs a small token of appreciation to you, our beloved customers, we are giving away 3 makaro…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2036204080520110080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEIM0q2aIAA_WUK.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2036213575749124382",
+        "created_at": "2026-03-23T22:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T23:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036213575749124382"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 27,
+              "normalized_text": "Makarov",
+              "probability": 0.7853,
+              "start": 21,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1799153006673534978",
+              "start": 3,
+              "username": "atakaindustries"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036213575749124382",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 208
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036204089877369201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @atakaindustries: Makarov Monday Giveaway! \n\nAs a small token of appreciation to you, our beloved customers, we are giving away 3 makaro…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036204080520110080"
+          ]
+        },
+        "author_id": "1799153006673534978",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2036204089877369201",
+        "created_at": "2026-03-23T22:11:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T23:11:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036204089877369201"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "Makarov",
+              "probability": 0.8071,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 265,
+              "normalized_text": "US",
+              "probability": 0.9573,
+              "start": 264,
+              "type": "Place"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yAqCMDEReY",
+              "end": 299,
+              "expanded_url": "https://x.com/atakaindustries/status/2036204089877369201/photo/1",
+              "media_key": "3_2036204080520110080",
+              "start": 276,
+              "url": "https://t.co/yAqCMDEReY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036204089877369201",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 8136,
+          "like_count": 354,
+          "quote_count": 38,
+          "reply_count": 200,
+          "retweet_count": 208
+        },
+        "reply_settings": "everyone",
+        "text": "Makarov Monday Giveaway! \n\nAs a small token of appreciation to you, our beloved customers, we are giving away 3 makarovs for free.\n\nAll you have to do to enter is like, retweet (or QT), and reply to this post.\n\nMust be 21 and legally able to own a firearm to win. US only etc https://t.co/yAqCMDEReY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "大陆酒鬼收容所官方账号\n高价回收过期啤酒、酒瓶子、易拉罐、烟头\n袖手旁观者，你我是也",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034231962664304640/SRUcfvVv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 285,
+          "following_count": 242,
+          "like_count": 6533,
+          "listed_count": 0,
+          "media_count": 386,
+          "tweet_count": 2385
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T18:55:10.000Z",
+        "description": "FFL 07/02",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "atakaindustries.com",
+                "end": 23,
+                "expanded_url": "http://atakaindustries.com",
+                "start": 0,
+                "url": "https://t.co/gVSIIOInaA"
+              }
+            ]
+          }
+        },
+        "id": "1799153006673534978",
+        "name": "Ataka Industries🔫",
+        "pinned_tweet_id": "2036204089877369201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1803101474261495813/nL4xhEhH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5259,
+          "following_count": 29,
+          "like_count": 1223,
+          "listed_count": 6,
+          "media_count": 125,
+          "tweet_count": 469
+        },
+        "url": "https://t.co/gVSIIOInaA",
+        "username": "atakaindustries",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2020885060174709104",
+    "created_at": "2026-02-09T15:38:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2020885060174709104"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2020885060174709104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的酒量越来越好了，怎么喝也不会因为我的挽求回到之前，就算她愿意原谅我，相处的裂痕也会存在，我们再也不会像之前那样相处了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2020885060174709104",
+        "created_at": "2026-02-09T15:38:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020885060174709104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020885060174709104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的酒量越来越好了，怎么喝也不会因为我的挽求回到之前，就算她愿意原谅我，相处的裂痕也会存在，我们再也不会像之前那样相处了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在 会ban在校做题蛆",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016890690400374791/p6cjIFw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 216,
+          "like_count": 3876,
+          "listed_count": 0,
+          "media_count": 184,
+          "tweet_count": 1213
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      }
+    ]
+  }
+}

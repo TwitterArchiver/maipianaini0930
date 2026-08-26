@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Language Learning",
+          "id": "852226935044194304",
+          "name": "Language learning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1357835469099134977",
+          "name": "English language learning"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364632995655610377",
+          "name": "Chinese language learning "
+        }
+      }
+    ],
+    "conversation_id": "2013542480969601181",
+    "created_at": "2026-01-20T09:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-20T10:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2013542480969601181"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "中国",
+          "probability": 0.8767,
+          "start": 18,
+          "type": "Place"
+        },
+        {
+          "end": 100,
+          "normalized_text": "中国",
+          "probability": 0.7595,
+          "start": 99,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1121625672206544902",
+          "start": 3,
+          "username": "xing55169356"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2013542480969601181",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 263
+    },
+    "referenced_tweets": [
+      {
+        "id": "2013140064205684880",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xing55169356: 中国のネットは外国人にとってはハードルが高すぎる\n\n少し英語と日本語を勉強すれば英語圏と日本語圏がなんとなく理解できるけど、中国語で行ったら全然上手く行かない\n\n中国のネットは隠語と伏せ字とミームが多用で長く入り浸ってないとまるで全部別言語み…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Language Learning",
+              "id": "852226935044194304",
+              "name": "Language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364632995655610377",
+              "name": "Chinese language learning "
+            }
+          }
+        ],
+        "conversation_id": "2013542480969601181",
+        "created_at": "2026-01-20T09:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-20T10:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2013542480969601181"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "中国",
+              "probability": 0.8767,
+              "start": 18,
+              "type": "Place"
+            },
+            {
+              "end": 100,
+              "normalized_text": "中国",
+              "probability": 0.7595,
+              "start": 99,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1121625672206544902",
+              "start": 3,
+              "username": "xing55169356"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013542480969601181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 263
+        },
+        "referenced_tweets": [
+          {
+            "id": "2013140064205684880",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xing55169356: 中国のネットは外国人にとってはハードルが高すぎる\n\n少し英語と日本語を勉強すれば英語圏と日本語圏がなんとなく理解できるけど、中国語で行ったら全然上手く行かない\n\n中国のネットは隠語と伏せ字とミームが多用で長く入り浸ってないとまるで全部別言語み…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1121625672206544902",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Language Learning",
+              "id": "852226935044194304",
+              "name": "Language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364632995655610377",
+              "name": "Chinese language learning "
+            }
+          }
+        ],
+        "conversation_id": "2013140064205684880",
+        "created_at": "2026-01-19T06:42:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-19T07:42:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2013140064205684880"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 1,
+              "normalized_text": "中国",
+              "probability": 0.8923,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 82,
+              "normalized_text": "中国",
+              "probability": 0.769,
+              "start": 81,
+              "type": "Place"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2013140064205684880",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 429,
+          "impression_count": 225121,
+          "like_count": 3730,
+          "quote_count": 50,
+          "reply_count": 121,
+          "retweet_count": 263
+        },
+        "reply_settings": "everyone",
+        "text": "中国のネットは外国人にとってはハードルが高すぎる\n\n少し英語と日本語を勉強すれば英語圏と日本語圏がなんとなく理解できるけど、中国語で行ったら全然上手く行かない\n\n中国のネットは隠語と伏せ字とミームが多用で長く入り浸ってないとまるで全部別言語みたい\n\nそれに当局の検閲によりさらに募る"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "前@woaiwoohyeah 是你熟悉的那个麦片，我一直没变 Fran/Eng/Chi 画廊日记本 爱猫者幽暗的最高频道还在",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 1,
+                "username": "woaiwoohyeah"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "Yelti和麦片找猫玩",
+        "pinned_tweet_id": "2000452498935672981",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013475639219585024/EhafFf4J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 195,
+          "like_count": 3150,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 1015
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2019-04-26T04:02:53.000Z",
+        "description": "なんの変哲もない生活を送ってる大陸人。母語🇨🇳普通話。🇯🇵🇺🇸🇰🇷独学中。大陸在住。語学と百合漫画好き。日本語学習歴三年。日本旅行経験あり。雑学。無言フォロー失礼します。いいね=既読≠賛成。 質問はこちらへ↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/1qv6un7p8g0xri…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/1qv6un7p8g0xrip?t=kAKkmV&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/r6NENmHH6g"
+              }
+            ]
+          }
+        },
+        "id": "1121625672206544902",
+        "location": "China",
+        "name": "フォールト",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934669101206556672/PTjfVZtV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2433,
+          "following_count": 2945,
+          "like_count": 52487,
+          "listed_count": 23,
+          "media_count": 1036,
+          "tweet_count": 12183
+        },
+        "url": "https://t.co/r6NENmHH6g",
+        "username": "xing55169356",
+        "verified": false
+      }
+    ]
+  }
+}

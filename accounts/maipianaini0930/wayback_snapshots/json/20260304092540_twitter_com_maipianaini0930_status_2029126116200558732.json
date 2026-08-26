@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2028747946439881141",
+    "created_at": "2026-03-04T09:25:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T10:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029126116200558732"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028518919137525760",
+          "start": 0,
+          "username": "yihu1176880"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029126116200558732",
+    "in_reply_to_user_id": "2028518919137525760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029096537784238529",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yihu1176880 银钗劲太小了我不抽🫢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2028747946439881141",
+        "created_at": "2026-03-04T09:25:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T10:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029126116200558732"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028518919137525760",
+              "start": 0,
+              "username": "yihu1176880"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029126116200558732",
+        "in_reply_to_user_id": "2028518919137525760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029096537784238529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yihu1176880 银钗劲太小了我不抽🫢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028518919137525760",
+        "conversation_id": "2028747946439881141",
+        "created_at": "2026-03-04T07:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T08:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029096537784238529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1987138845058736133",
+              "start": 0,
+              "username": "maipianaini0930"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029096537784238529",
+        "in_reply_to_user_id": "1987138845058736133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028747946439881141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@maipianaini0930 我们一起来抽凉凉的银钗(º﹃º )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "",
+        "id": "1987138845058736133",
+        "location": "1701 LIVE HOUSE",
+        "name": "麦片",
+        "pinned_tweet_id": "2021922722394386648",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028585075026366464/kFkKuHWw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 226,
+          "following_count": 226,
+          "like_count": 5330,
+          "listed_count": 0,
+          "media_count": 272,
+          "tweet_count": 1720
+        },
+        "username": "maipianaini0930",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-02T17:13:09.000Z",
+        "description": "我是小树｜不定期掉落雪兔｜黑泥｜欧滴妹｜直fo是喜欢｜请各位直fo我吧 ᗜ 𖥦 ᗜ",
+        "id": "2028518919137525760",
+        "name": "那天死掉的你和我",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028525189131386880/hir3x1Qb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 51,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 39
+        },
+        "username": "yihu1176880",
+        "verified": false
+      }
+    ]
+  }
+}
