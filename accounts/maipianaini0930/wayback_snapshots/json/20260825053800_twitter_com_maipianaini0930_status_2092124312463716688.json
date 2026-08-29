@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2092110927445598463",
+    "created_at": "2026-08-25T05:38:00.000Z",
+    "display_text_range": [
+      12,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T06:38:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092124312463716688"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1939338058199191553",
+          "start": 0,
+          "username": "konakonalo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092124312463716688",
+    "in_reply_to_user_id": "1939338058199191553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092110927445598463",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konakonalo 醉驾，然后一车撞树上了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2092110927445598463",
+        "created_at": "2026-08-25T05:38:00.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092124312463716688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092124312463716688",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092110927445598463",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 醉驾，然后一车撞树上了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "conversation_id": "2092110927445598463",
+        "created_at": "2026-08-25T04:44:49.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T05:44:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092110927445598463"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2092048722117140588",
+              "start": 6,
+              "url": "https://t.co/tUaDwye1Dw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092110927445598463",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092048722117140588",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "飙车飙起来 https://t.co/tUaDwye1Dw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2092124312463716688",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1783418005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 447,
+          "following_count": 296,
+          "like_count": 11533,
+          "listed_count": 0,
+          "media_count": 792,
+          "tweet_count": 5252
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n我是眼球绮谭。叫我眼球。\n我喜欢听户川纯、三上宽和tv girl。我喜欢悲伤的贝拉多娜和抛掉书本上街去。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2092114563198283896",
+        "name": "98岁游生梦死",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1760372018",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993151593932619776/AiThjyNW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 367,
+          "like_count": 10846,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 1703
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

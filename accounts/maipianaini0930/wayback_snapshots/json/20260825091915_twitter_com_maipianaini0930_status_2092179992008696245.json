@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2091948222562648459",
+    "created_at": "2026-08-25T09:19:15.000Z",
+    "display_text_range": [
+      13,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:19:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092179992008696245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1978032792383709184",
+          "start": 0,
+          "username": "Sabrina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092179992008696245",
+    "in_reply_to_user_id": "1978032792383709184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091948222562648459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sabrina8964 没看到红姐好失望啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2091948222562648459",
+        "created_at": "2026-08-25T09:19:15.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:19:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092179992008696245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1978032792383709184",
+              "start": 0,
+              "username": "Sabrina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092179992008696245",
+        "in_reply_to_user_id": "1978032792383709184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091948222562648459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sabrina8964 没看到红姐好失望啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978032792383709184",
+        "conversation_id": "2091948222562648459",
+        "created_at": "2026-08-24T17:58:17.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091948222562648459"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hiirogekkaflan…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/hiirogekkaflan/status/2091830556229247478",
+              "start": 25,
+              "url": "https://t.co/gsBnMTW5pS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091948222562648459",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 789,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091830556229247478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2026.8还在炒作这个嘉豪网站无不无聊啊你们。 https://t.co/gsBnMTW5pS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2092179992008696245",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1787637826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081563607742189568/9O3Nm2XC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 297,
+          "like_count": 11540,
+          "listed_count": 0,
+          "media_count": 792,
+          "tweet_count": 5255
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-14T09:39:22.000Z",
+        "description": "The World Has Turned And Left Me Here",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "clubjt.jp/brand-site/sev…",
+                "end": 23,
+                "expanded_url": "https://www.clubjt.jp/brand-site/sevenstars/?utm_source=chatgpt.com",
+                "start": 0,
+                "url": "https://t.co/3dNh7bzID5"
+              }
+            ]
+          }
+        },
+        "id": "1978032792383709184",
+        "is_identity_verified": false,
+        "location": "OliviaRodrigo反黑站",
+        "most_recent_tweet_id": "2092164709327970472",
+        "name": "溺れる飛べない鳥は水羽が必要",
+        "pinned_tweet_id": "2085267917588074625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978032792383709184/1787643815",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092174498091212801/Ac-cdvJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 770,
+          "following_count": 475,
+          "like_count": 34374,
+          "listed_count": 1,
+          "media_count": 230,
+          "tweet_count": 5985
+        },
+        "url": "https://t.co/3dNh7bzID5",
+        "username": "Sabrina8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
