@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2093691064725242033",
+    "created_at": "2026-08-30T08:19:52.000Z",
+    "display_text_range": [
+      17,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T09:19:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093976987136327770"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1125325219671842817",
+          "start": 0,
+          "username": "Beagleear_slapu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093976987136327770",
+    "in_reply_to_user_id": "1125325219671842817",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093691064725242033",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Beagleear_slapu 礼貌询价"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2093691057020243968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5I7GsakAAvFHc.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2093691057032818689",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ5I7GvacAEKU_Q.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2093691064725242033",
+        "created_at": "2026-08-30T08:19:52.000Z",
+        "display_text_range": [
+          17,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T09:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093976987136327770"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1125325219671842817",
+              "start": 0,
+              "username": "Beagleear_slapu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093976987136327770",
+        "in_reply_to_user_id": "1125325219671842817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093691064725242033",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Beagleear_slapu 礼貌询价"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093691057020243968",
+            "3_2093691057032818689"
+          ]
+        },
+        "author_id": "1125325219671842817",
+        "conversation_id": "2093691064725242033",
+        "created_at": "2026-08-29T13:23:43.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T14:23:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093691064725242033"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 23,
+              "tag": "雪茄"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bXyss9p6vo",
+              "end": 50,
+              "expanded_url": "https://x.com/Beagleear_slapu/status/2093691064725242033/photo/1",
+              "media_key": "3_2093691057020243968",
+              "start": 27,
+              "url": "https://t.co/bXyss9p6vo"
+            },
+            {
+              "display_url": "pic.x.com/bXyss9p6vo",
+              "end": 50,
+              "expanded_url": "https://x.com/Beagleear_slapu/status/2093691064725242033/photo/1",
+              "media_key": "3_2093691057032818689",
+              "start": 27,
+              "url": "https://t.co/bXyss9p6vo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093691064725242033",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093691057020243968"
+          },
+          {
+            "media_key": "3_2093691057032818689"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 412,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有人对我主人的雪茄感兴趣吗 市场价打骨折出！\n#雪茄 https://t.co/bXyss9p6vo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2093976987136327770",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1787637826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 300,
+          "like_count": 11779,
+          "listed_count": 0,
+          "media_count": 817,
+          "tweet_count": 5418
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-06T09:03:34.000Z",
+        "description": "01年/贫乳/双性恋/Bisexual Bipolar Bitch\nBrat/DDLG/纯主奴/有主不约\n猫奴 猫党大法好/游戏宅女/苍蝇馆美食品鉴家",
+        "id": "1125325219671842817",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2093972124964978721",
+        "name": "鱼是不能喝中药的",
+        "pinned_tweet_id": "2081521500050665743",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1125325219671842817/1747102128",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1660355160244359168/R387vl88_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2096,
+          "following_count": 1560,
+          "like_count": 11827,
+          "listed_count": 2,
+          "media_count": 1830,
+          "tweet_count": 12585
+        },
+        "url": "",
+        "username": "Beagleear_slapu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

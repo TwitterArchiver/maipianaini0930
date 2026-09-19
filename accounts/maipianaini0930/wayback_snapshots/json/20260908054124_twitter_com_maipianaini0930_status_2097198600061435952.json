@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2097170136428155165",
+    "created_at": "2026-09-08T05:41:24.000Z",
+    "display_text_range": [
+      23,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:41:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097198600061435952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1818252136029061120",
+          "start": 0,
+          "username": "shrioww33"
+        },
+        {
+          "end": 22,
+          "id": "1456243266186211332",
+          "start": 11,
+          "username": "CuplRusttt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097198600061435952",
+    "in_reply_to_user_id": "1818252136029061120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097194126936785278",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shrioww33 @CuplRusttt 比秦叔宝和尉迟恭还和谐还对称"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2097170136428155165",
+        "created_at": "2026-09-08T05:41:24.000Z",
+        "display_text_range": [
+          23,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:41:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097198600061435952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1818252136029061120",
+              "start": 0,
+              "username": "shrioww33"
+            },
+            {
+              "end": 22,
+              "id": "1456243266186211332",
+              "start": 11,
+              "username": "CuplRusttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097198600061435952",
+        "in_reply_to_user_id": "1818252136029061120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097194126936785278",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shrioww33 @CuplRusttt 比秦叔宝和尉迟恭还和谐还对称"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818252136029061120",
+        "conversation_id": "2097170136428155165",
+        "created_at": "2026-09-08T05:23:38.000Z",
+        "display_text_range": [
+          12,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097194126936785278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1456243266186211332",
+              "start": 0,
+              "username": "CuplRusttt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097194126936785278",
+        "in_reply_to_user_id": "1456243266186211332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 82,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097170136428155165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CuplRusttt 懂你的幽默 去过珠峰底下一藏民家里 左边大毛像 右边小习像 非常对称"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2097198600061435952",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1787637826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 487,
+          "following_count": 300,
+          "like_count": 12002,
+          "listed_count": 0,
+          "media_count": 829,
+          "tweet_count": 5518
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T11:47:55.000Z",
+        "description": "第三树洞",
+        "id": "1818252136029061120",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2097194126936785278",
+        "name": "shrio33",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818252136029061120/1784798522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867049555306676224/kqolF7WJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 11,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 38
+        },
+        "url": "",
+        "username": "shrioww33",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-04T12:53:54.000Z",
+        "description": "中国/街溜子/前律师/AI/赛博Bistro @ZCupl41916",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 23,
+                "username": "ZCupl41916"
+              }
+            ]
+          }
+        },
+        "id": "1456243266186211332",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097170136428155165",
+        "name": "Rusttt",
+        "pinned_tweet_id": "1983163875135832497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1456243266186211332/1738268963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658123289196101632/IInnJ6r5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9047,
+          "following_count": 651,
+          "like_count": 51198,
+          "listed_count": 27,
+          "media_count": 521,
+          "tweet_count": 4762
+        },
+        "url": "",
+        "username": "CuplRusttt",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

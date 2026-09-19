@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2093339826166853691",
+    "created_at": "2026-08-28T23:10:13.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T00:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093476274404720880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1677732423667445760",
+          "start": 0,
+          "username": "wuerbangbang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093476274404720880",
+    "in_reply_to_user_id": "1677732423667445760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093339826166853691",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuerbangbang 你家跟国史馆似的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2093339091056345088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0Iz_TaQAASRc3.jpg",
+        "width": 3072
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2093339298846445569",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0JAFYbkAESCVV.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2093339576928788480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0JQRUbYAAD6bl.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2093339697879883776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0JXT5aoAA8wAy.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2093339826166853691",
+        "created_at": "2026-08-28T23:10:13.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T00:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093476274404720880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1677732423667445760",
+              "start": 0,
+              "username": "wuerbangbang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093476274404720880",
+        "in_reply_to_user_id": "1677732423667445760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093339826166853691",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuerbangbang 你家跟国史馆似的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093339091056345088",
+            "3_2093339298846445569",
+            "3_2093339576928788480",
+            "3_2093339697879883776"
+          ]
+        },
+        "author_id": "1677732423667445760",
+        "conversation_id": "2093339826166853691",
+        "created_at": "2026-08-28T14:08:01.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T15:08:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093339826166853691"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OH0pI9TCKH",
+              "end": 87,
+              "expanded_url": "https://x.com/wuerbangbang/status/2093339826166853691/photo/1",
+              "media_key": "3_2093339091056345088",
+              "start": 64,
+              "url": "https://t.co/OH0pI9TCKH"
+            },
+            {
+              "display_url": "pic.x.com/OH0pI9TCKH",
+              "end": 87,
+              "expanded_url": "https://x.com/wuerbangbang/status/2093339826166853691/photo/1",
+              "media_key": "3_2093339298846445569",
+              "start": 64,
+              "url": "https://t.co/OH0pI9TCKH"
+            },
+            {
+              "display_url": "pic.x.com/OH0pI9TCKH",
+              "end": 87,
+              "expanded_url": "https://x.com/wuerbangbang/status/2093339826166853691/photo/1",
+              "media_key": "3_2093339576928788480",
+              "start": 64,
+              "url": "https://t.co/OH0pI9TCKH"
+            },
+            {
+              "display_url": "pic.x.com/OH0pI9TCKH",
+              "end": 87,
+              "expanded_url": "https://x.com/wuerbangbang/status/2093339826166853691/photo/1",
+              "media_key": "3_2093339697879883776",
+              "start": 64,
+              "url": "https://t.co/OH0pI9TCKH"
+            },
+            {
+              "display_url": "x.com/wuerbangbang/s…",
+              "end": 111,
+              "expanded_url": "https://twitter.com/wuerbangbang/status/2093337346586661106",
+              "start": 88,
+              "url": "https://t.co/kS4R9clPtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093339826166853691",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093339091056345088"
+          },
+          {
+            "media_key": "3_2093339298846445569"
+          },
+          {
+            "media_key": "3_2093339576928788480"
+          },
+          {
+            "media_key": "3_2093339697879883776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5334,
+          "like_count": 34,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093337346586661106",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国博干了几年得了几十本图录，粗略整理了一下。都是高克数铜版纸，规格统一，又重又硬，跟砖似的，感觉很适合被赫连勃勃拿去修万统城。 https://t.co/OH0pI9TCKH https://t.co/kS4R9clPtN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2093476274404720880",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1787637826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 300,
+          "like_count": 11725,
+          "listed_count": 0,
+          "media_count": 810,
+          "tweet_count": 5383
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-08T17:32:43.000Z",
+        "description": "北大中文本硕，苗族，民俗学博士，国博前馆员。文史艺术、书画篆刻、三俗烂梗、旅游爱好者。对世界有旺盛的探索欲，想多认识有趣的人🤒PhDing of folklore, graduated from @PKU1898, Miao,  lover of history, heritage, art & tour🪭🐾🏺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 106,
+                "start": 98,
+                "username": "PKU1898"
+              }
+            ]
+          }
+        },
+        "id": "1677732423667445760",
+        "is_identity_verified": false,
+        "location": "跳回三界内，待在五行中。",
+        "most_recent_tweet_id": "2093403297193603333",
+        "name": "吴二棒",
+        "pinned_tweet_id": "2081742878100140191",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1677732423667445760/1761447059",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010919161988595713/rE9mkr0o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12383,
+          "following_count": 982,
+          "like_count": 25925,
+          "listed_count": 58,
+          "media_count": 3428,
+          "tweet_count": 11458
+        },
+        "url": "",
+        "username": "wuerbangbang",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

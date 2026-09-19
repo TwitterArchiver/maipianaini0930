@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cooking/Baking",
+          "id": "831530561680191490",
+          "name": "Cooking"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Desserts and baked goods",
+          "id": "847863957599567872",
+          "name": "Desserts and baked goods"
+        }
+      }
+    ],
+    "conversation_id": "2092791037240766968",
+    "created_at": "2026-08-27T01:47:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T02:47:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092791037240766968"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1362700805258678277",
+          "start": 3,
+          "username": "1st156"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/pSKklt",
+          "end": 139,
+          "start": 120,
+          "url": "https://t.co/pSKklt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092791037240766968",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092319235188089190",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1st156: 6月に亡くなったセンパイの薬物を使用する為の道具と大麻と覚醒剤とヘロインが入っていたお菓子の箱を形見分けの時にあらかじめ入院する直前に聞いていた隠し場所から回収して処分して、センパイの両親にバレることを阻止しました https://t.co/pSKklt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2092319227382583296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQlpQHDb0AAOi83.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2092791037240766968",
+        "created_at": "2026-08-27T01:47:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:47:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092791037240766968"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1362700805258678277",
+              "start": 3,
+              "username": "1st156"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/pSKklt",
+              "end": 139,
+              "start": 120,
+              "url": "https://t.co/pSKklt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092791037240766968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092319235188089190",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1st156: 6月に亡くなったセンパイの薬物を使用する為の道具と大麻と覚醒剤とヘロインが入っていたお菓子の箱を形見分けの時にあらかじめ入院する直前に聞いていた隠し場所から回収して処分して、センパイの両親にバレることを阻止しました https://t.co/pSKklt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092319227382583296"
+          ]
+        },
+        "author_id": "1362700805258678277",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cooking/Baking",
+              "id": "831530561680191490",
+              "name": "Cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Desserts and baked goods",
+              "id": "847863957599567872",
+              "name": "Desserts and baked goods"
+            }
+          }
+        ],
+        "conversation_id": "2092319235188089190",
+        "created_at": "2026-08-25T18:32:33.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T19:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092319235188089190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pSKkltqHG5",
+              "end": 131,
+              "expanded_url": "https://x.com/1st156/status/2092319235188089190/photo/1",
+              "media_key": "3_2092319227382583296",
+              "start": 108,
+              "url": "https://t.co/pSKkltqHG5"
+            },
+            {
+              "display_url": "x.com/SKaz_Moto/stat…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/SKaz_Moto/status/2087875698614767886",
+              "start": 132,
+              "url": "https://t.co/NzazBSgjQp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092319235188089190",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092319227382583296"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 73,
+          "impression_count": 224785,
+          "like_count": 698,
+          "quote_count": 7,
+          "reply_count": 5,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087875698614767886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "6月に亡くなったセンパイの薬物を使用する為の道具と大麻と覚醒剤とヘロインが入っていたお菓子の箱を形見分けの時にあらかじめ入院する直前に聞いていた隠し場所から回収して処分して、センパイの両親にバレることを阻止しました https://t.co/pSKkltqHG5 https://t.co/NzazBSgjQp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2092791037240766968",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1787637826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 296,
+          "like_count": 11595,
+          "listed_count": 0,
+          "media_count": 795,
+          "tweet_count": 5300
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-19T09:49:58.000Z",
+        "description": "大麻取締法違反により服役。炊場に配役。\n薬物全般、一通りは嗜みました。それぞれに好き嫌いはあります。\nとりあえずは、薬物は断っております。薬物を否定も肯定も推奨もしてません。\nレゲエ、テクノが好きです。\n地方都市在住の田舎者です。\nリアルでのしがらみがないアカウントなので、自由にやっていくつもりです。\n誤脱字多いです。",
+        "id": "1362700805258678277",
+        "is_identity_verified": false,
+        "location": "島の北側の地方都市",
+        "most_recent_tweet_id": "2092779448752119927",
+        "name": "1st156🥝",
+        "pinned_tweet_id": "2087189432994824577",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362700805258678277/1787704588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1362703835727163395/Elnsb00J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 324,
+          "following_count": 51,
+          "like_count": 7620,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2270
+        },
+        "url": "",
+        "username": "1st156",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

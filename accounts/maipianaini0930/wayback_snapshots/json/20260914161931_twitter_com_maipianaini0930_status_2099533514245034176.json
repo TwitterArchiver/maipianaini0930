@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2099487874651730385",
+    "created_at": "2026-09-14T16:19:31.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T17:19:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099533514245034176"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1763034943599607808",
+          "start": 0,
+          "username": "moonlight_ruri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099533514245034176",
+    "in_reply_to_user_id": "1763034943599607808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099487874651730385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonlight_ruri 滞纳顺公豚请你冷静"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2099487866149847040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLhFzgawAAw5xj.jpg",
+        "width": 922
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099487866615435264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLhF1PbEAAQbI7.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099487866619580416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLhF1QaUAAdnL4.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2099487866124636160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSLhFzaaEAAAA5g.jpg",
+        "width": 991
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2099487874651730385",
+        "created_at": "2026-09-14T16:19:31.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T17:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099533514245034176"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1763034943599607808",
+              "start": 0,
+              "username": "moonlight_ruri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099533514245034176",
+        "in_reply_to_user_id": "1763034943599607808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099487874651730385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonlight_ruri 滞纳顺公豚请你冷静"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099487866149847040",
+            "3_2099487866615435264",
+            "3_2099487866619580416",
+            "3_2099487866124636160"
+          ]
+        },
+        "author_id": "1763034943599607808",
+        "conversation_id": "2099487874651730385",
+        "created_at": "2026-09-14T13:18:10.000Z",
+        "display_text_range": [
+          0,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T14:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099487874651730385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OeAQ0VRCJM",
+              "end": 105,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2099487874651730385/photo/1",
+              "media_key": "3_2099487866149847040",
+              "start": 82,
+              "url": "https://t.co/OeAQ0VRCJM"
+            },
+            {
+              "display_url": "pic.x.com/OeAQ0VRCJM",
+              "end": 105,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2099487874651730385/photo/1",
+              "media_key": "3_2099487866615435264",
+              "start": 82,
+              "url": "https://t.co/OeAQ0VRCJM"
+            },
+            {
+              "display_url": "pic.x.com/OeAQ0VRCJM",
+              "end": 105,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2099487874651730385/photo/1",
+              "media_key": "3_2099487866619580416",
+              "start": 82,
+              "url": "https://t.co/OeAQ0VRCJM"
+            },
+            {
+              "display_url": "pic.x.com/OeAQ0VRCJM",
+              "end": 105,
+              "expanded_url": "https://x.com/moonlight_ruri/status/2099487874651730385/photo/1",
+              "media_key": "3_2099487866124636160",
+              "start": 82,
+              "url": "https://t.co/OeAQ0VRCJM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099487874651730385",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099487866149847040"
+          },
+          {
+            "media_key": "3_2099487866615435264"
+          },
+          {
+            "media_key": "3_2099487866619580416"
+          },
+          {
+            "media_key": "3_2099487866124636160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 8719,
+          "like_count": 85,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "【新闻】网友投稿，9月10日，北京工业大学平乐园校区北浴室，有两男同学身着泳装激情热吻，吓坏了其他同学。该学校被网友戏称为“北京男娘大学”\n更多细节和视频见评论区 https://t.co/OeAQ0VRCJM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n我是麦片 我喜欢爬来爬去的人类\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2099533514245034176",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1789185821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099405114377416704/mHDUVVde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 303,
+          "like_count": 12229,
+          "listed_count": 0,
+          "media_count": 846,
+          "tweet_count": 5623
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-02-29T02:55:00.000Z",
+        "description": "小天使｜蓝v必回｜femboy｜ENname：LunaRuri｜EN CN JP｜little angel｜Random thoughts｜Humor｜Entertainment｜beauty share｜Verified users follow back｜Submissions welcome｜Thanks",
+        "id": "1763034943599607808",
+        "is_identity_verified": true,
+        "location": "鄂｜🉑✈️｜🚪59｜私信｜蓝v必回请耐心等待",
+        "most_recent_tweet_id": "2099504002190958944",
+        "name": "月璃_LunaRuri🏳️‍⚧️🍥🌸",
+        "pinned_tweet_id": "2064979619095392478",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1763034943599607808/1786895939",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064945472159272961/vaDy2Hdw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16172,
+          "following_count": 1215,
+          "like_count": 1108,
+          "listed_count": 35,
+          "media_count": 524,
+          "tweet_count": 2710
+        },
+        "url": "",
+        "username": "moonlight_ruri",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

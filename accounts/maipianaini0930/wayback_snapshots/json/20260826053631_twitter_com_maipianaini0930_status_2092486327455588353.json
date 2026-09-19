@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2092467233150927182",
+    "created_at": "2026-08-26T05:36:31.000Z",
+    "display_text_range": [
+      16,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:36:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092486327455588353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1426513039419867139",
+          "start": 0,
+          "username": "loveliescrushi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092486327455588353",
+    "in_reply_to_user_id": "1426513039419867139",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092473292108222614",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveliescrushi 不按定价卖这个店就倒闭了 因为现在几乎没人看书"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092473292108222614].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092473292108222614",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092473292108222614"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2092467233150927182",
+        "created_at": "2026-08-26T05:36:31.000Z",
+        "display_text_range": [
+          16,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092486327455588353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1426513039419867139",
+              "start": 0,
+              "username": "loveliescrushi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092486327455588353",
+        "in_reply_to_user_id": "1426513039419867139",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092473292108222614",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveliescrushi 不按定价卖这个店就倒闭了 因为现在几乎没人看书"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2092486327455588353",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1787637826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 296,
+          "like_count": 11560,
+          "listed_count": 0,
+          "media_count": 795,
+          "tweet_count": 5282
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-14T11:56:38.000Z",
+        "description": "歌词本",
+        "id": "1426513039419867139",
+        "is_identity_verified": false,
+        "location": "LakeCityQuietPills",
+        "most_recent_tweet_id": "2054130066129600901",
+        "name": "萨拉热窝的Haerin和Hanni",
+        "pinned_tweet_id": "1924808064638844970",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1426513039419867139/1758052584",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977809874609487872/9rPezylN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 238,
+          "following_count": 549,
+          "like_count": 13984,
+          "listed_count": 5,
+          "media_count": 288,
+          "tweet_count": 4283
+        },
+        "url": "",
+        "username": "loveliescrushi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

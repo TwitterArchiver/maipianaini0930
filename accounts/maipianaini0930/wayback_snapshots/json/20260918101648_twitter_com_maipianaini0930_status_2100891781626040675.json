@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2100891781626040675",
+    "created_at": "2026-09-18T10:16:48.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T11:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100891781626040675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "388983706",
+          "start": 3,
+          "username": "JulianAssange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100891781626040675",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59149
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100571158777045331",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JulianAssange: I'm back."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2100891781626040675",
+        "created_at": "2026-09-18T10:16:48.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T11:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100891781626040675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "388983706",
+              "start": 3,
+              "username": "JulianAssange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100891781626040675",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59149
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100571158777045331",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JulianAssange: I'm back."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "388983706",
+        "conversation_id": "2100571158777045331",
+        "created_at": "2026-09-17T13:02:45.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100571158777045331"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wikileaks/stat…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/wikileaks/status/2100570508550980046",
+              "start": 10,
+              "url": "https://t.co/2e58azeJkt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100571158777045331",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12808,
+          "impression_count": 33658495,
+          "like_count": 381730,
+          "quote_count": 5798,
+          "reply_count": 18530,
+          "retweet_count": 59150
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100570508550980046",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I'm back. https://t.co/2e58azeJkt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n我是麦片 我喜欢爬来爬去的人类\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2100891781626040675",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1789185821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099405114377416704/mHDUVVde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 303,
+          "like_count": 12243,
+          "listed_count": 0,
+          "media_count": 851,
+          "tweet_count": 5639
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-10-11T17:17:44.000Z",
+        "description": "born free",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "julianassange.org",
+                "end": 23,
+                "expanded_url": "https://julianassange.org",
+                "start": 0,
+                "url": "https://t.co/qLt5b0nEag"
+              }
+            ]
+          }
+        },
+        "id": "388983706",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100849346518405213",
+        "name": "Julian Assange",
+        "pinned_tweet_id": "2100571158777045331",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/388983706/1513066094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074825792530345985/Yf56nJd7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267118,
+          "following_count": 221,
+          "like_count": 2468,
+          "listed_count": 3374,
+          "media_count": 4044,
+          "tweet_count": 20144
+        },
+        "url": "https://t.co/qLt5b0nEag",
+        "username": "JulianAssange",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

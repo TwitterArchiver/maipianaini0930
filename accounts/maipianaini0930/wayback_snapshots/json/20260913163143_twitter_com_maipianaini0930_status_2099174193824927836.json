@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2099174179245608960",
+        "3_2099174179228798976"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2099174193824927836",
+    "created_at": "2026-09-13T16:31:43.000Z",
+    "display_text_range": [
+      0,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T17:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2099174193824927836"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RCyEvCg5vo",
+          "end": 41,
+          "expanded_url": "https://x.com/maipianaini0930/status/2099174193824927836/photo/1",
+          "media_key": "3_2099174179245608960",
+          "start": 18,
+          "url": "https://t.co/RCyEvCg5vo"
+        },
+        {
+          "display_url": "pic.x.com/RCyEvCg5vo",
+          "end": 41,
+          "expanded_url": "https://x.com/maipianaini0930/status/2099174193824927836/photo/1",
+          "media_key": "3_2099174179228798976",
+          "start": 18,
+          "url": "https://t.co/RCyEvCg5vo"
+        },
+        {
+          "display_url": "x.com/maipianaini093…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/maipianaini0930/status/2099171932675658132",
+          "start": 42,
+          "url": "https://t.co/U9XBzilY3a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099174193824927836",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2099174179245608960"
+      },
+      {
+        "media_key": "3_2099174179228798976"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099171932675658132",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "纯串子 玩着来的 并非极右翼 自辨 https://t.co/RCyEvCg5vo https://t.co/U9XBzilY3a"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1682,
+        "media_key": "3_2099174179245608960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSHDy0ubUAAR8l8.jpg",
+        "width": 1170
+      },
+      {
+        "height": 857,
+        "media_key": "3_2099174179228798976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSHDy0qa0AAcZ8S.jpg",
+        "width": 876
+      },
+      {
+        "height": 2749,
+        "media_key": "3_2099171883866583040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSHBtNxa8AAgCKm.jpg",
+        "width": 3521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099174179245608960",
+            "3_2099174179228798976"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2099174193824927836",
+        "created_at": "2026-09-13T16:31:43.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099174193824927836"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RCyEvCg5vo",
+              "end": 41,
+              "expanded_url": "https://x.com/maipianaini0930/status/2099174193824927836/photo/1",
+              "media_key": "3_2099174179245608960",
+              "start": 18,
+              "url": "https://t.co/RCyEvCg5vo"
+            },
+            {
+              "display_url": "pic.x.com/RCyEvCg5vo",
+              "end": 41,
+              "expanded_url": "https://x.com/maipianaini0930/status/2099174193824927836/photo/1",
+              "media_key": "3_2099174179228798976",
+              "start": 18,
+              "url": "https://t.co/RCyEvCg5vo"
+            },
+            {
+              "display_url": "x.com/maipianaini093…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/maipianaini0930/status/2099171932675658132",
+              "start": 42,
+              "url": "https://t.co/U9XBzilY3a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099174193824927836",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099174179245608960"
+          },
+          {
+            "media_key": "3_2099174179228798976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099171932675658132",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯串子 玩着来的 并非极右翼 自辨 https://t.co/RCyEvCg5vo https://t.co/U9XBzilY3a"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099171883866583040"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2099171932675658132",
+        "created_at": "2026-09-13T16:22:44.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T17:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2099171932675658132"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            },
+            {
+              "end": 29,
+              "id": "1987138845058736133",
+              "start": 13,
+              "username": "maipianaini0930"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TtHUU9FYdb",
+              "end": 69,
+              "expanded_url": "https://x.com/maipianaini0930/status/2099171932675658132/photo/1",
+              "media_key": "3_2099171883866583040",
+              "start": 46,
+              "url": "https://t.co/TtHUU9FYdb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099171932675658132",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2099171883866583040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@konakonalo \n@maipianaini0930 \n我们是黑水公司派遣部中东炮灰 https://t.co/TtHUU9FYdb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n我是麦片 我喜欢爬来爬去的人类\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2099174193824927836",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1789185821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098697406263238656/tjOnG9pd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 299,
+          "like_count": 12145,
+          "listed_count": 0,
+          "media_count": 845,
+          "tweet_count": 5589
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你找到我了！我是眼球绮谭。叫我眼球。\n我喜欢抛掉书本上街去。我喜欢尖叫核。我喜欢破破烂烂的线头。我喜欢龇牙咧嘴的人类。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "98岁游生梦死",
+        "most_recent_tweet_id": "2099140542781436127",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2089821439805558920",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 675,
+          "following_count": 409,
+          "like_count": 12141,
+          "listed_count": 0,
+          "media_count": 149,
+          "tweet_count": 2009
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

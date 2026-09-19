@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098828630814347264"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2098828650653368400",
+    "created_at": "2026-09-12T17:38:39.000Z",
+    "display_text_range": [
+      0,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:38:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098828650653368400"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Qfvb8k7MaR",
+          "end": 71,
+          "expanded_url": "https://x.com/maipianaini0930/status/2098828650653368400/photo/1",
+          "media_key": "3_2098828630814347264",
+          "start": 48,
+          "url": "https://t.co/Qfvb8k7MaR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098828650653368400",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098828630814347264"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "长期酗酒抽烟导致胃酸返流扩散到咽喉 想把五脏六腑全吐出来的烟酒蒙子真的可以试试这个药 强烈安利 https://t.co/Qfvb8k7MaR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3775,
+        "media_key": "3_2098828630814347264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSCJhQgb0AAZ03F.jpg",
+        "width": 3061
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098828630814347264"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2098828650653368400",
+        "created_at": "2026-09-12T17:38:39.000Z",
+        "display_text_range": [
+          0,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:38:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098828650653368400"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Qfvb8k7MaR",
+              "end": 71,
+              "expanded_url": "https://x.com/maipianaini0930/status/2098828650653368400/photo/1",
+              "media_key": "3_2098828630814347264",
+              "start": 48,
+              "url": "https://t.co/Qfvb8k7MaR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098828650653368400",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098828630814347264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "长期酗酒抽烟导致胃酸返流扩散到咽喉 想把五脏六腑全吐出来的烟酒蒙子真的可以试试这个药 强烈安利 https://t.co/Qfvb8k7MaR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n我是麦片 我喜欢爬来爬去的人类\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2098828650653368400",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1789185821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098697406263238656/tjOnG9pd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 499,
+          "following_count": 300,
+          "like_count": 12139,
+          "listed_count": 0,
+          "media_count": 841,
+          "tweet_count": 5570
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

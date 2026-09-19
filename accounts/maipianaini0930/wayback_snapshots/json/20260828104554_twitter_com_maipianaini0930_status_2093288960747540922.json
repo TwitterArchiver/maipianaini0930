@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2093170820885418235",
+    "created_at": "2026-08-28T10:45:54.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T11:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093288960747540922"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1770978896457998336",
+          "start": 0,
+          "username": "gloodybore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093288960747540922",
+    "in_reply_to_user_id": "1770978896457998336",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093170820885418235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gloodybore cute"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2093170010738905088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQxvCOCX0AAheUH.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2093170820885418235",
+        "created_at": "2026-08-28T10:45:54.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093288960747540922"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1770978896457998336",
+              "start": 0,
+              "username": "gloodybore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093288960747540922",
+        "in_reply_to_user_id": "1770978896457998336",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093170820885418235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gloodybore cute"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093170010738905088"
+          ]
+        },
+        "author_id": "1770978896457998336",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2093170820885418235",
+        "created_at": "2026-08-28T02:56:27.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:56:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093170820885418235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O4wQBCO7JD",
+              "end": 34,
+              "expanded_url": "https://x.com/gloodybore/status/2093170820885418235/photo/1",
+              "media_key": "3_2093170010738905088",
+              "start": 11,
+              "url": "https://t.co/O4wQBCO7JD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093170820885418235",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2093170010738905088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 261,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "hi twitter https://t.co/O4wQBCO7JD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2093288960747540922",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1787637826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 298,
+          "like_count": 11681,
+          "listed_count": 0,
+          "media_count": 803,
+          "tweet_count": 5350
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-22T01:01:05.000Z",
+        "description": "emo loser | my name is Janaan | im a girl | DMs open | Block/unfollow me = i am better than you | priv: @thedisorderisme , I'll let anyone in | Chaos Is Me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 104,
+                "username": "thedisorderisme"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "breakcorebloodparty.straw.page",
+                "end": 23,
+                "expanded_url": "https://breakcorebloodparty.straw.page/",
+                "start": 0,
+                "url": "https://t.co/IntEG2Gj1L"
+              }
+            ]
+          }
+        },
+        "id": "1770978896457998336",
+        "is_identity_verified": false,
+        "location": "ATX",
+        "most_recent_tweet_id": "2093222124680835317",
+        "name": "Будущая суперзвезда ⌖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1770978896457998336/1785973955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092090692612878337/ziRGg2wN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 578,
+          "like_count": 36087,
+          "listed_count": 9,
+          "media_count": 1489,
+          "tweet_count": 23669
+        },
+        "url": "https://t.co/IntEG2Gj1L",
+        "username": "gloodybore",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

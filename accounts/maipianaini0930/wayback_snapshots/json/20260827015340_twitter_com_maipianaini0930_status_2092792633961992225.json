@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2092550287705911803",
+    "created_at": "2026-08-27T01:53:40.000Z",
+    "display_text_range": [
+      10,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T02:53:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092792633961992225"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1725060613393809408",
+          "start": 0,
+          "username": "WAdamcat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092792633961992225",
+    "in_reply_to_user_id": "1725060613393809408",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092550287705911803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WAdamcat 久久久久"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1707,
+        "media_key": "3_2092550265052565504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQo7YRcbkAArUMw.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2092550287705911803",
+        "created_at": "2026-08-27T01:53:40.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:53:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092792633961992225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1725060613393809408",
+              "start": 0,
+              "username": "WAdamcat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092792633961992225",
+        "in_reply_to_user_id": "1725060613393809408",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092550287705911803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WAdamcat 久久久久"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092550265052565504"
+          ]
+        },
+        "author_id": "1725060613393809408",
+        "conversation_id": "2092550287705911803",
+        "created_at": "2026-08-26T09:50:40.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:50:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092550287705911803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/t1ceuP49co",
+              "end": 36,
+              "expanded_url": "https://x.com/WAdamcat/status/2092550287705911803/photo/1",
+              "media_key": "3_2092550265052565504",
+              "start": 13,
+              "url": "https://t.co/t1ceuP49co"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092550287705911803",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092550265052565504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 114,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "总觉得……没有领证的实感 https://t.co/t1ceuP49co"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2092792633961992225",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1787637826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 296,
+          "like_count": 11597,
+          "listed_count": 0,
+          "media_count": 795,
+          "tweet_count": 5301
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-11-16T07:58:09.000Z",
+        "description": "卢恩占卜🔮开张中",
+        "id": "1725060613393809408",
+        "is_identity_verified": false,
+        "location": "7.77km",
+        "most_recent_tweet_id": "2092637995346387288",
+        "name": "冷处偏佳",
+        "pinned_tweet_id": "2034838846505091437",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1725060613393809408/1701181550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034942791621779458/dISyLnnG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 417,
+          "like_count": 4407,
+          "listed_count": 0,
+          "media_count": 354,
+          "tweet_count": 1529
+        },
+        "url": "",
+        "username": "WAdamcat",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

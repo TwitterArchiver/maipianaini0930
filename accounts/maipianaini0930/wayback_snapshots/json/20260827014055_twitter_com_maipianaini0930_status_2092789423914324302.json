@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2092581004578103494",
+    "created_at": "2026-08-27T01:40:55.000Z",
+    "display_text_range": [
+      10,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T02:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092789423914324302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2057497111718166531",
+          "start": 0,
+          "username": "ovum0000"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092789423914324302",
+    "in_reply_to_user_id": "2057497111718166531",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092581004578103494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ovum0000 “niiian”🤬🤬🤬🤬"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11888,
+        "height": 720,
+        "media_key": "13_2092580963616460800",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092580963616460800/img/jvMpBLdOYYM8a7Dc.jpg",
+        "public_metrics": {
+          "view_count": 198
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092580963616460800/vid/avc1/276x270/NKo2ObrloD6yKb_K.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092580963616460800/vid/avc1/368x360/iLjrmaOagu4b4OWC.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092580963616460800/vid/avc1/736x720/HHxy2QHY5Vx9kS3N.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092580963616460800/pl/4lCv1-S0k1KvC5lV.m3u8"
+          }
+        ],
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2092581004578103494",
+        "created_at": "2026-08-27T01:40:55.000Z",
+        "display_text_range": [
+          10,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T02:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092789423914324302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2057497111718166531",
+              "start": 0,
+              "username": "ovum0000"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092789423914324302",
+        "in_reply_to_user_id": "2057497111718166531",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092581004578103494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ovum0000 “niiian”🤬🤬🤬🤬"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092580963616460800"
+          ]
+        },
+        "author_id": "2057497111718166531",
+        "conversation_id": "2092581004578103494",
+        "created_at": "2026-08-26T11:52:44.000Z",
+        "display_text_range": [
+          0,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:52:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092581004578103494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gSWQyLvIky",
+              "end": 40,
+              "expanded_url": "https://x.com/ovum0000/status/2092581004578103494/video/1",
+              "media_key": "13_2092580963616460800",
+              "start": 17,
+              "url": "https://t.co/gSWQyLvIky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092581004578103494",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092580963616460800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 363,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有人评价一下我游戏水平技术？ https://t.co/gSWQyLvIky"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n自厌也要带着傲慢\n条子视奸死全家\n成年市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2092789423914324302",
+        "name": "麦片🇵🇸",
+        "pinned_tweet_id": "2081564761158992370",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1787637826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092458759562084352/rDu7Kit5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 296,
+          "like_count": 11592,
+          "listed_count": 0,
+          "media_count": 795,
+          "tweet_count": 5299
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-21T16:23:33.000Z",
+        "description": "天地114",
+        "id": "2057497111718166531",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092730261595439472",
+        "name": "支国人种美学讲师",
+        "pinned_tweet_id": "2084666841298067575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2057497111718166531/1779839623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090823618427305984/EdpxVEHA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 58,
+          "like_count": 1492,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 891
+        },
+        "url": "",
+        "username": "ovum0000",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
