@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2102398706297565519",
+    "created_at": "2026-09-22T16:12:10.000Z",
+    "display_text_range": [
+      12,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T17:12:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102430764650606873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1939338058199191553",
+          "start": 0,
+          "username": "konakonalo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102430764650606873",
+    "in_reply_to_user_id": "1939338058199191553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102398706297565519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konakonalo 我们是全中文推特最屌最坏的恶棍情侣"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2102398706297565519",
+        "created_at": "2026-09-22T16:12:10.000Z",
+        "display_text_range": [
+          12,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:12:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102430764650606873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102430764650606873",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102398706297565519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 我们是全中文推特最屌最坏的恶棍情侣"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1939338058199191553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Adventure travel",
+              "id": "849076092111536128",
+              "name": "Adventure travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hiking",
+              "id": "1047106825076670464",
+              "name": "Hiking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hiking",
+              "id": "1047106825076670464",
+              "name": "Hiking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "2102398706297565519",
+        "created_at": "2026-09-22T14:04:46.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:04:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102398706297565519"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102398706297565519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 470,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我和麦片准备10.10出发去藏区徒步，成都-阿坝-甘孜-凉山-成都。大概一个月左右，我们就一直背着登山包疯狂乱糟糟走走走。有没有四川的推友接济一下我们是两个很乖的孩子！？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n我是麦片 我喜欢爬来爬去的人类\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2102430764650606873",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1789185821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 296,
+          "like_count": 12308,
+          "listed_count": 0,
+          "media_count": 859,
+          "tweet_count": 5661
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2102423761924563133",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2099197184285827575",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 416,
+          "like_count": 12694,
+          "listed_count": 0,
+          "media_count": 164,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

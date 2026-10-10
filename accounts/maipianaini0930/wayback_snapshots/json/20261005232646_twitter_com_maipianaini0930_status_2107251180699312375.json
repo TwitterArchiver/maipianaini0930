@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107251175468969984"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2107243102960586884",
+    "created_at": "2026-10-05T23:26:46.000Z",
+    "display_text_range": [
+      11,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T00:26:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107251180699312375"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1939338058199191553",
+          "start": 0,
+          "username": "konakonalo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/r9z0oGwq9z",
+          "end": 35,
+          "expanded_url": "https://x.com/maipianaini0930/status/2107251180699312375/photo/1",
+          "media_key": "3_2107251175468969984",
+          "start": 12,
+          "url": "https://t.co/r9z0oGwq9z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107251180699312375",
+    "in_reply_to_user_id": "1939338058199191553",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2107251175468969984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107250516258701333",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@konakonalo https://t.co/r9z0oGwq9z"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2107250516258701333].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2107250516258701333",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2107250516258701333"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 320,
+        "media_key": "3_2107251175468969984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT51x4ZaMAAWSjP.jpg",
+        "width": 320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107251175468969984"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2107243102960586884",
+        "created_at": "2026-10-05T23:26:46.000Z",
+        "display_text_range": [
+          11,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T00:26:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107251180699312375"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/r9z0oGwq9z",
+              "end": 35,
+              "expanded_url": "https://x.com/maipianaini0930/status/2107251180699312375/photo/1",
+              "media_key": "3_2107251175468969984",
+              "start": 12,
+              "url": "https://t.co/r9z0oGwq9z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107251180699312375",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2107251175468969984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107250516258701333",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo https://t.co/r9z0oGwq9z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n同时带着自尊和傲慢自厌吧\n条子和市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2107251180699312375",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1790150281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 297,
+          "like_count": 12488,
+          "listed_count": 0,
+          "media_count": 893,
+          "tweet_count": 5804
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2107167902155813105",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107085317274730496/WkihyEZk_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 451,
+          "like_count": 13766,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2432
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

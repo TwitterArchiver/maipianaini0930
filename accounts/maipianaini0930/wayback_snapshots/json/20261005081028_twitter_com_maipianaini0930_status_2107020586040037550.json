@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2106907740685918645",
+    "created_at": "2026-10-05T08:10:28.000Z",
+    "display_text_range": [
+      27,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T09:10:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107020586040037550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2020527212152381440",
+          "start": 0,
+          "username": "AxGiroud51817"
+        },
+        {
+          "end": 26,
+          "id": "1939338058199191553",
+          "start": 15,
+          "username": "konakonalo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107020586040037550",
+    "in_reply_to_user_id": "2020527212152381440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106981225705685400",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AxGiroud51817 @konakonalo 价值是什么？你对价值的定义就是别人的定义吗？搞笑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2106907740685918645",
+        "created_at": "2026-10-05T08:10:28.000Z",
+        "display_text_range": [
+          27,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107020586040037550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2020527212152381440",
+              "start": 0,
+              "username": "AxGiroud51817"
+            },
+            {
+              "end": 26,
+              "id": "1939338058199191553",
+              "start": 15,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107020586040037550",
+        "in_reply_to_user_id": "2020527212152381440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106981225705685400",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AxGiroud51817 @konakonalo 价值是什么？你对价值的定义就是别人的定义吗？搞笑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020527212152381440",
+        "conversation_id": "2106907740685918645",
+        "created_at": "2026-10-05T05:34:04.000Z",
+        "display_text_range": [
+          12,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T06:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106981225705685400"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1939338058199191553",
+              "start": 0,
+              "username": "konakonalo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106981225705685400",
+        "in_reply_to_user_id": "1939338058199191553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 208,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106907740685918645",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@konakonalo 。。。你太装了，金阁寺我感觉唯一有价值的内容就是南泉斩猫这个典故，人对美的东西只有得到和毁灭俩种解决方式。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n同时带着自尊和傲慢自厌吧\n条子和市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2107020586040037550",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1790150281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 297,
+          "like_count": 12503,
+          "listed_count": 0,
+          "media_count": 889,
+          "tweet_count": 5798
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-08T15:56:51.000Z",
+        "description": "",
+        "id": "2020527212152381440",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107018500296560976",
+        "name": "Ax Giroud",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055360914325688320/4S83pH6y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 172,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 456
+        },
+        "url": "",
+        "username": "AxGiroud51817",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-29T15:00:07.000Z",
+        "description": "🦔@maipianaini0930\n你花了30年3天零3秒才找到我。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 1,
+                "username": "maipianaini0930"
+              }
+            ]
+          }
+        },
+        "id": "1939338058199191553",
+        "is_identity_verified": false,
+        "location": "30年3天零3秒",
+        "most_recent_tweet_id": "2107020592562188528",
+        "name": "ᡕᠵデᡁ᠊╾━ 嘭！",
+        "pinned_tweet_id": "2102498623489786047",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1939338058199191553/1789184322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098616085893533696/9bQ80fjO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 754,
+          "following_count": 447,
+          "like_count": 13656,
+          "listed_count": 0,
+          "media_count": 132,
+          "tweet_count": 2410
+        },
+        "url": "",
+        "username": "konakonalo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

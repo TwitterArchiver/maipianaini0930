@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2104265431502725154",
+    "created_at": "2026-09-27T17:42:28.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T18:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104265431502725154"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "765534310464122880",
+          "start": 3,
+          "username": "NombreFalso1231"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104265431502725154",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 111
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104132142007451960",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NombreFalso1231: «La penuria de la vivienda es un producto necesario del orden social burgués. No es en modo alguno producto del azar,…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 606,
+        "media_key": "3_2104132133685960704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNhBwTWIAAOk0C.jpg",
+        "width": 404
+      },
+      {
+        "height": 606,
+        "media_key": "3_2104132133719588864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNhBwbXQAAN3BZ.jpg",
+        "width": 404
+      },
+      {
+        "height": 606,
+        "media_key": "3_2104132133723725824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNhBwcWYAAlkeC.jpg",
+        "width": 404
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2104132133958651904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNhBxUXEAAw4ea.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2104265431502725154",
+        "created_at": "2026-09-27T17:42:28.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T18:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104265431502725154"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "765534310464122880",
+              "start": 3,
+              "username": "NombreFalso1231"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104265431502725154",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 111
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104132142007451960",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NombreFalso1231: «La penuria de la vivienda es un producto necesario del orden social burgués. No es en modo alguno producto del azar,…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104132133685960704",
+            "3_2104132133719588864",
+            "3_2104132133723725824",
+            "3_2104132133958651904"
+          ]
+        },
+        "author_id": "765534310464122880",
+        "conversation_id": "2104132142007451960",
+        "created_at": "2026-09-27T08:52:50.000Z",
+        "display_text_range": [
+          0,
+          267
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:52:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104132142007451960"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eEv3RUkGjw",
+              "end": 291,
+              "expanded_url": "https://x.com/NombreFalso1231/status/2104132142007451960/photo/1",
+              "media_key": "3_2104132133685960704",
+              "start": 268,
+              "url": "https://t.co/eEv3RUkGjw"
+            },
+            {
+              "display_url": "pic.x.com/eEv3RUkGjw",
+              "end": 291,
+              "expanded_url": "https://x.com/NombreFalso1231/status/2104132142007451960/photo/1",
+              "media_key": "3_2104132133719588864",
+              "start": 268,
+              "url": "https://t.co/eEv3RUkGjw"
+            },
+            {
+              "display_url": "pic.x.com/eEv3RUkGjw",
+              "end": 291,
+              "expanded_url": "https://x.com/NombreFalso1231/status/2104132142007451960/photo/1",
+              "media_key": "3_2104132133723725824",
+              "start": 268,
+              "url": "https://t.co/eEv3RUkGjw"
+            },
+            {
+              "display_url": "pic.x.com/eEv3RUkGjw",
+              "end": 291,
+              "expanded_url": "https://x.com/NombreFalso1231/status/2104132142007451960/photo/1",
+              "media_key": "3_2104132133958651904",
+              "start": 268,
+              "url": "https://t.co/eEv3RUkGjw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104132142007451960",
+        "lang": "es",
+        "media_metadata": [
+          {
+            "media_key": "3_2104132133685960704"
+          },
+          {
+            "media_key": "3_2104132133719588864"
+          },
+          {
+            "media_key": "3_2104132133723725824"
+          },
+          {
+            "media_key": "3_2104132133958651904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 4439,
+          "like_count": 327,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 111
+        },
+        "reply_settings": "everyone",
+        "text": "«La penuria de la vivienda es un producto necesario del orden social burgués. No es en modo alguno producto del azar, es una institución necesaria que no podrá desaparecer más que cuando todo el orden social que la ha hecho nacer sea transformado de raíz»\n\nF. Engels. https://t.co/eEv3RUkGjw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n文化保守主义 去中心化自治主义 无政府主义\n同时带着自尊和傲慢自厌吧\n条子和市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2104265431502725154",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1790150281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 297,
+          "like_count": 12429,
+          "listed_count": 0,
+          "media_count": 877,
+          "tweet_count": 5757
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-08-16T13:02:57.000Z",
+        "description": "«Un joven que se inscribe en el movimiento socialista juvenil realiza un acto de independencia y liberación»\n\nCuenta de respaldo: @__radix_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 130,
+                "username": "__radix_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_radix__",
+                "end": 23,
+                "expanded_url": "http://www.instagram.com/_radix__",
+                "start": 0,
+                "url": "https://t.co/VGM37LnQny"
+              }
+            ]
+          }
+        },
+        "id": "765534310464122880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104232734595952968",
+        "name": "Radix",
+        "pinned_tweet_id": "1805213162418876532",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/765534310464122880/1471353747",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1026135940899762177/Tg0xXFj3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30557,
+          "following_count": 283,
+          "like_count": 41216,
+          "listed_count": 123,
+          "media_count": 1801,
+          "tweet_count": 13288
+        },
+        "url": "https://t.co/VGM37LnQny",
+        "username": "NombreFalso1231",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

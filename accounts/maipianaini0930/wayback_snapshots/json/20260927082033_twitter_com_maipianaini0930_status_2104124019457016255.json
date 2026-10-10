@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1895037503922458624"
+      ],
+      "media_source_tweet_id": [
+        "1895037511618969758"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2104124019457016255",
+    "created_at": "2026-09-27T08:20:33.000Z",
+    "display_text_range": [
+      0,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T09:20:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104124019457016255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "421152159",
+          "start": 3,
+          "username": "LostInFilm"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tMHst64OP2",
+          "end": 66,
+          "expanded_url": "https://x.com/LostInFilm/status/1895037511618969758/photo/1",
+          "media_key": "3_1895037503922458624",
+          "start": 43,
+          "url": "https://t.co/tMHst64OP2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104124019457016255",
+    "lang": "ht",
+    "media_metadata": [
+      {
+        "media_key": "3_1895037503922458624"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 431
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895037511618969758",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LostInFilm: Gene Hackman (1930 — 2025) https://t.co/tMHst64OP2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 955,
+        "media_key": "3_1895037503922458624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GkyGkclXUAAXi44.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895037503922458624"
+          ],
+          "media_source_tweet_id": [
+            "1895037511618969758"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2104124019457016255",
+        "created_at": "2026-09-27T08:20:33.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T09:20:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104124019457016255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "421152159",
+              "start": 3,
+              "username": "LostInFilm"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMHst64OP2",
+              "end": 66,
+              "expanded_url": "https://x.com/LostInFilm/status/1895037511618969758/photo/1",
+              "media_key": "3_1895037503922458624",
+              "start": 43,
+              "url": "https://t.co/tMHst64OP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104124019457016255",
+        "lang": "ht",
+        "media_metadata": [
+          {
+            "media_key": "3_1895037503922458624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 431
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895037511618969758",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LostInFilm: Gene Hackman (1930 — 2025) https://t.co/tMHst64OP2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1895037503922458624"
+          ]
+        },
+        "author_id": "421152159",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1114213516271964160",
+              "name": "Movie news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1114213516271964160",
+              "name": "Movie news"
+            }
+          }
+        ],
+        "conversation_id": "1895037511618969758",
+        "created_at": "2025-02-27T09:05:25.000Z",
+        "display_text_range": [
+          0,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2025-02-27T10:05:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895037511618969758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tMHst64OP2",
+              "end": 50,
+              "expanded_url": "https://x.com/LostInFilm/status/1895037511618969758/photo/1",
+              "media_key": "3_1895037503922458624",
+              "start": 27,
+              "url": "https://t.co/tMHst64OP2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895037511618969758",
+        "lang": "ht",
+        "media_metadata": [
+          {
+            "media_key": "3_1895037503922458624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 77,
+          "impression_count": 107971,
+          "like_count": 4039,
+          "quote_count": 51,
+          "reply_count": 22,
+          "retweet_count": 431
+        },
+        "reply_settings": "everyone",
+        "text": "Gene Hackman (1930 — 2025) https://t.co/tMHst64OP2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n文化保守主义 去中心化自治主义 无政府主义\n同时带着自尊和傲慢自厌吧\n条子和市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2104124019457016255",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1790150281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 295,
+          "like_count": 12383,
+          "listed_count": 0,
+          "media_count": 873,
+          "tweet_count": 5727
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-25T15:32:19.000Z",
+        "description": "Lost In Film is a visual platform that curates the best classic and contemporary cinema from around the world.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/_lostinfilm",
+                "end": 23,
+                "expanded_url": "http://instagram.com/_lostinfilm",
+                "start": 0,
+                "url": "https://t.co/kOWOxkwa0N"
+              }
+            ]
+          }
+        },
+        "id": "421152159",
+        "is_identity_verified": false,
+        "location": "hellolostinfilm@gmail.com",
+        "most_recent_tweet_id": "2097616983109878101",
+        "name": "Lost In Film",
+        "pinned_tweet_id": "2088327005125152919",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/421152159/1682034163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1280540048023306240/JkBEqLil_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 520939,
+          "following_count": 139,
+          "like_count": 21539,
+          "listed_count": 3034,
+          "media_count": 15585,
+          "tweet_count": 25658
+        },
+        "url": "https://t.co/kOWOxkwa0N",
+        "username": "LostInFilm",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

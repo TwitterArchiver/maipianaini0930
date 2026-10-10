@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2101761807606280646",
+    "created_at": "2026-09-20T19:53:58.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T20:53:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101761807606280646"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zjl66667777/st…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/zjl66667777/status/2101249095386243533",
+          "start": 13,
+          "url": "https://t.co/9NLz7v8wXu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101761807606280646",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101249095386243533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请问你那条贱命值几个逼钱 https://t.co/9NLz7v8wXu"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2101761807606280646",
+        "created_at": "2026-09-20T19:53:58.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T20:53:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101761807606280646"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zjl66667777/st…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/zjl66667777/status/2101249095386243533",
+              "start": 13,
+              "url": "https://t.co/9NLz7v8wXu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101761807606280646",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101249095386243533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请问你那条贱命值几个逼钱 https://t.co/9NLz7v8wXu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1947793687158603778",
+        "conversation_id": "2101249095386243533",
+        "created_at": "2026-09-19T09:56:38.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T10:56:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101249095386243533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101249095386243533",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 50396,
+          "like_count": 1445,
+          "quote_count": 12,
+          "reply_count": 103,
+          "retweet_count": 159
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n我是麦片 我喜欢爬来爬去的人类\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2101761807606280646",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1789185821",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 300,
+          "like_count": 12285,
+          "listed_count": 0,
+          "media_count": 858,
+          "tweet_count": 5657
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-22T22:59:49.000Z",
+        "description": "重生号 | 174 | 大学在读 | 关注我的私信都会回复 | 接投稿\n防走丢@nanao077065",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 39,
+                "username": "nanao077065"
+              }
+            ]
+          }
+        },
+        "id": "1947793687158603778",
+        "is_identity_verified": false,
+        "location": "祝你们天天开心",
+        "most_recent_tweet_id": "2101684713350168899",
+        "name": "念念",
+        "pinned_tweet_id": "2099495921302343827",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959636379878805504/GFLrcehn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6439,
+          "following_count": 91,
+          "like_count": 4560,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "zjl66667777",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

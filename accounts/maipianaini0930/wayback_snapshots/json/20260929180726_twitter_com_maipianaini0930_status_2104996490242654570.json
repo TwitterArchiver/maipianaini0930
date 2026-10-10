@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2104996490242654570",
+    "created_at": "2026-09-29T18:07:26.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T19:07:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104996490242654570"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3226727230",
+          "start": 3,
+          "username": "BillPourquoimec"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104996490242654570",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 198
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104774185880859045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @BillPourquoimec: Richard Lloyd, founding member &amp; guitarist of Television, checks into a New York hospital for a procedure that would p…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 653,
+        "media_key": "3_2104774181367709696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWo92TWAAAvFca.jpg",
+        "width": 965
+      },
+      {
+        "height": 653,
+        "media_key": "3_2104774181367754753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWo92TWsAEa-Z4.jpg",
+        "width": 971
+      },
+      {
+        "height": 653,
+        "media_key": "3_2104774181376196608",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTWo92VXgAAdSlF.jpg",
+        "width": 984
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2104996490242654570",
+        "created_at": "2026-09-29T18:07:26.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T19:07:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104996490242654570"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3226727230",
+              "start": 3,
+              "username": "BillPourquoimec"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104996490242654570",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104774185880859045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @BillPourquoimec: Richard Lloyd, founding member &amp; guitarist of Television, checks into a New York hospital for a procedure that would p…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104774181367709696",
+            "3_2104774181367754753",
+            "3_2104774181376196608"
+          ]
+        },
+        "author_id": "3226727230",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2104774185880859045",
+        "created_at": "2026-09-29T03:24:05.000Z",
+        "display_text_range": [
+          0,
+          240
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T04:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104774185880859045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/laP1Mvjqka",
+              "end": 264,
+              "expanded_url": "https://x.com/BillPourquoimec/status/2104774185880859045/photo/1",
+              "media_key": "3_2104774181367709696",
+              "start": 241,
+              "url": "https://t.co/laP1Mvjqka"
+            },
+            {
+              "display_url": "pic.x.com/laP1Mvjqka",
+              "end": 264,
+              "expanded_url": "https://x.com/BillPourquoimec/status/2104774185880859045/photo/1",
+              "media_key": "3_2104774181367754753",
+              "start": 241,
+              "url": "https://t.co/laP1Mvjqka"
+            },
+            {
+              "display_url": "pic.x.com/laP1Mvjqka",
+              "end": 264,
+              "expanded_url": "https://x.com/BillPourquoimec/status/2104774185880859045/photo/1",
+              "media_key": "3_2104774181376196608",
+              "start": 241,
+              "url": "https://t.co/laP1Mvjqka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104774185880859045",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104774181367709696"
+          },
+          {
+            "media_key": "3_2104774181367754753"
+          },
+          {
+            "media_key": "3_2104774181376196608"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 461,
+          "impression_count": 45490,
+          "like_count": 2402,
+          "quote_count": 23,
+          "reply_count": 4,
+          "retweet_count": 198
+        },
+        "reply_settings": "everyone",
+        "text": "Richard Lloyd, founding member &amp; guitarist of Television, checks into a New York hospital for a procedure that would purify his blood after heavy drug use  in 1977 and Godlis sets up a photo essay to document it for Rock Scene magazine. https://t.co/laP1Mvjqka"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n文化保守主义 去中心化自治主义 无政府主义\n同时带着自尊和傲慢自厌吧\n条子和市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2104996490242654570",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1790150281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 517,
+          "following_count": 298,
+          "like_count": 12449,
+          "listed_count": 0,
+          "media_count": 881,
+          "tweet_count": 5781
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-01T18:58:19.000Z",
+        "description": "animal de nuit au sang chaud, né sous le signe du désespoir un matin d'hiver.\n 💙🤍",
+        "id": "3226727230",
+        "is_identity_verified": false,
+        "location": "Villefargeau Auxerre, France",
+        "most_recent_tweet_id": "2104985027775992023",
+        "name": "Bill Pourquoimec",
+        "pinned_tweet_id": "1793153879997141328",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3226727230/1663823719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1549649980285227008/Io1oYt5Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18768,
+          "following_count": 1616,
+          "like_count": 62083,
+          "listed_count": 106,
+          "media_count": 10191,
+          "tweet_count": 16852
+        },
+        "url": "",
+        "username": "BillPourquoimec",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

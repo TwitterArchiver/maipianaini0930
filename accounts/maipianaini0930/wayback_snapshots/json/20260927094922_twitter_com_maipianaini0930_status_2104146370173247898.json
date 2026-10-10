@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104146317912297472"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2104146370173247898",
+    "created_at": "2026-09-27T09:49:22.000Z",
+    "display_text_range": [
+      0,
+      0
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T10:49:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104146370173247898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/MJVqkM4kJV",
+          "end": 23,
+          "expanded_url": "https://x.com/maipianaini0930/status/2104146370173247898/video/1",
+          "media_key": "13_2104146317912297472",
+          "start": 0,
+          "url": "https://t.co/MJVqkM4kJV"
+        },
+        {
+          "display_url": "x.com/musk_xxl/statu…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/musk_xxl/status/2103536747208638955",
+          "start": 24,
+          "url": "https://t.co/BmHSKhY7Za"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104146370173247898",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2104146317912297472"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103536747208638955",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/MJVqkM4kJV https://t.co/BmHSKhY7Za"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 57200,
+        "height": 568,
+        "media_key": "13_2104146317912297472",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104146317912297472/img/BnDjKv7Glov9gcOx.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104146317912297472/vid/avc1/320x568/b2xe23gb9GgM6pfH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104146317912297472/pl/l6x1dTif3IKV6mVY.m3u8"
+          }
+        ],
+        "width": 320
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103536728384614401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTFDgmtaMAE-sF7.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104146317912297472"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2104146370173247898",
+        "created_at": "2026-09-27T09:49:22.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:49:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104146370173247898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MJVqkM4kJV",
+              "end": 23,
+              "expanded_url": "https://x.com/maipianaini0930/status/2104146370173247898/video/1",
+              "media_key": "13_2104146317912297472",
+              "start": 0,
+              "url": "https://t.co/MJVqkM4kJV"
+            },
+            {
+              "display_url": "x.com/musk_xxl/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/musk_xxl/status/2103536747208638955",
+              "start": 24,
+              "url": "https://t.co/BmHSKhY7Za"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104146370173247898",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2104146317912297472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103536747208638955",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/MJVqkM4kJV https://t.co/BmHSKhY7Za"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103536728384614401"
+          ]
+        },
+        "author_id": "1587790416057077760",
+        "conversation_id": "2103536747208638955",
+        "created_at": "2026-09-25T17:26:57.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:26:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103536747208638955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rS2OfUj7zg",
+              "end": 31,
+              "expanded_url": "https://x.com/musk_xxl/status/2103536747208638955/photo/1",
+              "media_key": "3_2103536728384614401",
+              "start": 8,
+              "url": "https://t.co/rS2OfUj7zg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103536747208638955",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103536728384614401"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 167,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🤟🤟🤟🤟🐳🐳🐳 https://t.co/rS2OfUj7zg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n文化保守主义 去中心化自治主义 无政府主义\n同时带着自尊和傲慢自厌吧\n条子和市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2104146370173247898",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1790150281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 296,
+          "like_count": 12401,
+          "listed_count": 0,
+          "media_count": 875,
+          "tweet_count": 5732
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-02T12:55:22.000Z",
+        "description": "业余的。\n不要对我抱有很大的期待。\n🚪288 - +∞",
+        "id": "1587790416057077760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103901860491096124",
+        "name": "Purify",
+        "pinned_tweet_id": "2067132317928464513",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1587790416057077760/1779062316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059674174965354506/2jHOkEpm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 381,
+          "like_count": 9026,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1340
+        },
+        "url": "",
+        "username": "musk_xxl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

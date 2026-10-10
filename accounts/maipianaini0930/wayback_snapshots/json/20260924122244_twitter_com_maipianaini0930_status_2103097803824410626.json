@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "conversation_id": "2103097803824410626",
+    "created_at": "2026-09-24T12:22:44.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T13:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103097803824410626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "247874198",
+          "start": 3,
+          "username": "FXMC1957"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103097803824410626",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 13
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103032704446923128",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FXMC1957: 24 September 1848. Branwell Brontë died (aged 31). He was the only son of the Brontë family and brother of the acclaimed nove…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 485,
+        "media_key": "3_2103032702022696960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS95GaMXwAAk6qG.jpg",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "conversation_id": "2103097803824410626",
+        "created_at": "2026-09-24T12:22:44.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T13:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103097803824410626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "247874198",
+              "start": 3,
+              "username": "FXMC1957"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103097803824410626",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103032704446923128",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FXMC1957: 24 September 1848. Branwell Brontë died (aged 31). He was the only son of the Brontë family and brother of the acclaimed nove…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103032702022696960"
+          ]
+        },
+        "author_id": "247874198",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drink Experience",
+              "id": "1006278636842782720",
+              "name": "Drink Experience"
+            }
+          }
+        ],
+        "conversation_id": "2103032704446923128",
+        "created_at": "2026-09-24T08:04:03.000Z",
+        "display_text_range": [
+          0,
+          241
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:04:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103032704446923128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hbQcCFXmMi",
+              "end": 265,
+              "expanded_url": "https://x.com/FXMC1957/status/2103032704446923128/photo/1",
+              "media_key": "3_2103032702022696960",
+              "start": 242,
+              "url": "https://t.co/hbQcCFXmMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103032704446923128",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2103032702022696960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1248,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "24 September 1848. Branwell Brontë died (aged 31). He was the only son of the Brontë family and brother of the acclaimed novelists Charlotte, Emily and Anne. His health deteriorated due to tuberculosis and heavy drinking and opium addiction. https://t.co/hbQcCFXmMi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n文化保守主义 去中心化自治主义 无政府主义\n同时带着自尊和傲慢自厌吧\n条子和市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2103097803824410626",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1790150281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 294,
+          "like_count": 12383,
+          "listed_count": 0,
+          "media_count": 868,
+          "tweet_count": 5710
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-05T19:15:18.000Z",
+        "description": "Historian. I post a selection of facts that happened on This Day in History at 9:00 AM (BST). It’s a daily journey to inform, educate and entertain.",
+        "id": "247874198",
+        "is_identity_verified": false,
+        "location": "Liverpool, Lancashire ",
+        "most_recent_tweet_id": "2103041461822648356",
+        "name": "Prof. Frank McDonough",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/247874198/1760371630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639661162793975809/ykePnHt9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 88107,
+          "following_count": 3673,
+          "like_count": 24049,
+          "listed_count": 851,
+          "media_count": 26201,
+          "tweet_count": 28279
+        },
+        "url": "",
+        "username": "FXMC1957",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

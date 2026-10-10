@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107243086980247552"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "conversation_id": "2107243102960586884",
+    "created_at": "2026-10-05T22:54:41.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T23:54:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107243102960586884"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/53JvX1lFiB",
+          "end": 52,
+          "expanded_url": "https://x.com/maipianaini0930/status/2107243102960586884/photo/1",
+          "media_key": "3_2107243086980247552",
+          "start": 29,
+          "url": "https://t.co/53JvX1lFiB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107243102960586884",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107243086980247552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "赶紧快进到同居做饭去超市一起买东西生病照顾对方我等不及了 https://t.co/53JvX1lFiB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2107243086980247552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT5ubEba8AA6rnf.jpg",
+        "width": 3473
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107243086980247552"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "conversation_id": "2107243102960586884",
+        "created_at": "2026-10-05T22:54:41.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T23:54:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107243102960586884"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/53JvX1lFiB",
+              "end": 52,
+              "expanded_url": "https://x.com/maipianaini0930/status/2107243102960586884/photo/1",
+              "media_key": "3_2107243086980247552",
+              "start": 29,
+              "url": "https://t.co/53JvX1lFiB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107243102960586884",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107243086980247552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赶紧快进到同居做饭去超市一起买东西生病照顾对方我等不及了 https://t.co/53JvX1lFiB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n同时带着自尊和傲慢自厌吧\n条子和市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2107243102960586884",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1790150281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 297,
+          "like_count": 12484,
+          "listed_count": 0,
+          "media_count": 892,
+          "tweet_count": 5803
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103924191703572480"
+      ],
+      "media_source_tweet_id": [
+        "2103924197151891469"
+      ]
+    },
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2104153249708494992",
+    "created_at": "2026-09-27T10:16:42.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T11:16:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104153249708494992"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1309708058239684608",
+          "start": 3,
+          "username": "APsychedelics"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/41C3gYRhuI",
+          "end": 44,
+          "expanded_url": "https://x.com/APsychedelics/status/2103924197151891469/photo/1",
+          "media_key": "3_2103924191703572480",
+          "start": 21,
+          "url": "https://t.co/41C3gYRhuI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104153249708494992",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2103924191703572480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 353
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103924197151891469",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @APsychedelics: 🤤 https://t.co/41C3gYRhuI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1764,
+        "media_key": "3_2103924191703572480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTKj58DXoAAjyNg.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103924191703572480"
+          ],
+          "media_source_tweet_id": [
+            "2103924197151891469"
+          ]
+        },
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2104153249708494992",
+        "created_at": "2026-09-27T10:16:42.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:16:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104153249708494992"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1309708058239684608",
+              "start": 3,
+              "username": "APsychedelics"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/41C3gYRhuI",
+              "end": 44,
+              "expanded_url": "https://x.com/APsychedelics/status/2103924197151891469/photo/1",
+              "media_key": "3_2103924191703572480",
+              "start": 21,
+              "url": "https://t.co/41C3gYRhuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104153249708494992",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103924191703572480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 353
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103924197151891469",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @APsychedelics: 🤤 https://t.co/41C3gYRhuI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103924191703572480"
+          ]
+        },
+        "author_id": "1309708058239684608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2103924197151891469",
+        "created_at": "2026-09-26T19:06:32.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T20:06:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103924197151891469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/41C3gYRhuI",
+              "end": 25,
+              "expanded_url": "https://x.com/APsychedelics/status/2103924197151891469/photo/1",
+              "media_key": "3_2103924191703572480",
+              "start": 2,
+              "url": "https://t.co/41C3gYRhuI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103924197151891469",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2103924191703572480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 66878,
+          "like_count": 3409,
+          "quote_count": 13,
+          "reply_count": 20,
+          "retweet_count": 353
+        },
+        "reply_settings": "everyone",
+        "text": "🤤 https://t.co/41C3gYRhuI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n文化保守主义 去中心化自治主义 无政府主义\n同时带着自尊和傲慢自厌吧\n条子和市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2104153249708494992",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1790150281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 296,
+          "like_count": 12406,
+          "listed_count": 0,
+          "media_count": 875,
+          "tweet_count": 5733
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-26T04:15:38.000Z",
+        "description": "**NOTHING FOR SALE**\n\nThis is my only account. Don't trust any of the suggested 'vendors' mentioned in my comments. 🖖👽",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/psychhaeven",
+                "end": 23,
+                "expanded_url": "https://t.me/psychhaeven",
+                "start": 0,
+                "url": "https://t.co/UnANRzz82J"
+              }
+            ]
+          }
+        },
+        "id": "1309708058239684608",
+        "is_identity_verified": false,
+        "location": "Spaceship Earth",
+        "most_recent_tweet_id": "2104074195298644405",
+        "name": "👾 𝐀𝐥𝐢𝐞𝐧𝐬 & 𝐏𝐬𝐲𝐜𝐡𝐞𝐝𝐞𝐥𝐢𝐜𝐬 🌵",
+        "pinned_tweet_id": "1907841187915968859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1309708058239684608/1603127013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1684640764330987520/9RWz9rO__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15739,
+          "following_count": 718,
+          "like_count": 49129,
+          "listed_count": 68,
+          "media_count": 32963,
+          "tweet_count": 43752
+        },
+        "url": "https://t.co/UnANRzz82J",
+        "username": "APsychedelics",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,614 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1987138845058736133",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1286664537060433920",
+          "name": "75th Session of the UN General Assembly"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2102886584173654040",
+    "created_at": "2026-09-23T22:23:26.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T23:23:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102886584173654040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2009547872463925248",
+          "start": 3,
+          "username": "landpalestine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102886584173654040",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4752
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102708649952968737",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @landpalestine: I’m sorry but what is the purpose of the UN if Netanyahu is allowed to speak at the general assembly while there is an a…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 638,
+        "media_key": "3_2102708643170754560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5SXs5WIAAPc-1.jpg",
+        "width": 476
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1987138845058736133",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1286664537060433920",
+              "name": "75th Session of the UN General Assembly"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2102886584173654040",
+        "created_at": "2026-09-23T22:23:26.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T23:23:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102886584173654040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2009547872463925248",
+              "start": 3,
+              "username": "landpalestine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102886584173654040",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4752
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102708649952968737",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @landpalestine: I’m sorry but what is the purpose of the UN if Netanyahu is allowed to speak at the general assembly while there is an a…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102708643170754560"
+          ]
+        },
+        "author_id": "2009547872463925248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1286664537060433920",
+              "name": "75th Session of the UN General Assembly"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "description": "Political News",
+              "id": "840159122012102656",
+              "name": "Political News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Prime Minister of Israel Benjamin Netanyahu",
+              "id": "866686332172500993",
+              "name": "Benjamin Netanyahu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2102708649952968737",
+        "created_at": "2026-09-23T10:36:23.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:36:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102708649952968737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VFfxbDZXuO",
+              "end": 299,
+              "expanded_url": "https://x.com/landpalestine/status/2102708649952968737/photo/1",
+              "media_key": "3_2102708643170754560",
+              "start": 276,
+              "url": "https://t.co/VFfxbDZXuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102708649952968737",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2102708643170754560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 69673,
+          "like_count": 9561,
+          "quote_count": 129,
+          "reply_count": 303,
+          "retweet_count": 4752
+        },
+        "reply_settings": "everyone",
+        "text": "I’m sorry but what is the purpose of the UN if Netanyahu is allowed to speak at the general assembly while there is an arrest warrant out for him? Everything is a farce\n\nI know you may fear sharing this post in fear of losing your job, but Palestine can't afford your silence https://t.co/VFfxbDZXuO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-08T12:44:23.000Z",
+        "description": "🦔@konakonalo\n我是麦片 我喜欢爬来爬去的人类\n同时带着自尊和傲慢自厌吧\n条子视奸死全家\n市侩滚你坟里去，记得盖好骨灰盒😂👌",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 1,
+                "username": "konakonalo"
+              }
+            ]
+          }
+        },
+        "id": "1987138845058736133",
+        "is_identity_verified": false,
+        "location": "1701 LIVE HOUSE",
+        "most_recent_tweet_id": "2102886584173654040",
+        "name": "fuckeveryone🇵🇸",
+        "pinned_tweet_id": "2097853711204974679",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1987138845058736133/1790150281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101710844707196928/MUahgnme_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 299,
+          "like_count": 12360,
+          "listed_count": 0,
+          "media_count": 868,
+          "tweet_count": 5695
+        },
+        "url": "",
+        "username": "maipianaini0930",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-09T08:49:04.000Z",
+        "description": "1.8 million on IG\n\napoiwuatt@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/landpaletine_",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/landpaletine_",
+                "start": 0,
+                "url": "https://t.co/5BRdYvLXph"
+              }
+            ]
+          }
+        },
+        "id": "2009547872463925248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102850165480849856",
+        "name": "LPC",
+        "pinned_tweet_id": "2070449085358756315",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009552240114081792/OldSOaw3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43868,
+          "following_count": 190,
+          "like_count": 1,
+          "listed_count": 169,
+          "media_count": 3922,
+          "tweet_count": 5156
+        },
+        "url": "https://t.co/5BRdYvLXph",
+        "username": "landpalestine",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
